@@ -1,0 +1,4811 @@
+{
+ "version": "1.1",
+ "generated": "2026-09-23",
+ "fields": [
+  [
+   "elec",
+   "전자기기·가전"
+  ],
+  [
+   "pc",
+   "스마트폰·PC·서버"
+  ],
+  [
+   "semi",
+   "반도체·칩"
+  ],
+  [
+   "semieq",
+   "반도체 장비·공정"
+  ],
+  [
+   "power",
+   "충전·배터리·에너지"
+  ],
+  [
+   "auto",
+   "자동차·EV"
+  ],
+  [
+   "robot",
+   "로봇"
+  ],
+  [
+   "aero",
+   "항공·우주"
+  ],
+  [
+   "cmach",
+   "건설기계·중장비"
+  ],
+  [
+   "mech",
+   "기계·공구"
+  ],
+  [
+   "build",
+   "건설·건축"
+  ],
+  [
+   "metal",
+   "금속·소재"
+  ],
+  [
+   "bio",
+   "바이오·의료기기"
+  ],
+  [
+   "food",
+   "음식료"
+  ],
+  [
+   "cosme",
+   "화장품·뷰티"
+  ],
+  [
+   "fashion",
+   "의류·패션·신발"
+  ],
+  [
+   "lab",
+   "계측·전문 장비"
+  ],
+  [
+   "retro",
+   "복원·역사 기계"
+  ],
+  [
+   "sec",
+   "하드웨어 보안"
+  ],
+  [
+   "micro",
+   "현미경·X선·CT"
+  ],
+  [
+   "fail",
+   "고장·사고 분석"
+  ],
+  [
+   "explain",
+   "원리 해설"
+  ],
+  [
+   "cost",
+   "원가 엔지니어링"
+  ],
+  [
+   "context",
+   "산업 맥락"
+  ]
+ ],
+ "depth": {
+  "1": {
+   "t": "겉을 열어 본다",
+   "s": "무엇이 들어 있나",
+   "d": "분해해서 부품 배치와 구성을 보여 준다."
+  },
+  "2": {
+   "t": "작동 원리를 푼다",
+   "s": "어떻게 움직이나",
+   "d": "메커니즘과 동작 원리를 설명한다."
+  },
+  "3": {
+   "t": "설계를 되짚는다",
+   "s": "왜 이렇게 만들었나",
+   "d": "회로도, 칩, 구조를 역추적해 설계 의도와 한계를 읽는다."
+  },
+  "4": {
+   "t": "원가와 공급망까지",
+   "s": "누가 만들고 얼마인가",
+   "d": "부품 제조사를 식별하고 원가, 제조성, 공급망을 분석한다."
+  }
+ },
+ "lang": {
+  "en": "영어",
+  "zh": "중국어",
+  "zhsub": "중국어(영어 자막)",
+  "ko": "한국어",
+  "ja": "일본어",
+  "ende": "영어·독일어"
+ },
+ "channels": [
+  {
+   "id": "bigclive",
+   "n": "bigclivedotcom",
+   "k": "빅클라이브",
+   "d": [
+    "elec"
+   ],
+   "l": 3,
+   "lang": "en",
+   "star": 1,
+   "desc": "값싼 전자제품을 뜯어 회로도를 직접 그려 가며, 어떻게 그리고 왜 그렇게 만들었는지 짚습니다.",
+   "see": "LED 전구, 전원 어댑터, 온라인 쇼핑몰 저가 가젯의 설계와 안전 문제",
+   "t": "schematic 회로도 LED"
+  },
+  {
+   "id": "eevblog",
+   "n": "EEVblog",
+   "k": "이이브이블로그 데이브 존스",
+   "d": [
+    "elec",
+    "lab"
+   ],
+   "l": 3,
+   "lang": "en",
+   "desc": "전자공학 엔지니어 Dave Jones의 채널. 제품을 분해해 설계 품질과 부품 선택을 평가합니다.",
+   "see": "계측기와 가전 분해, 크라우드펀딩 제품의 과장 검증",
+   "t": "teardown multimeter"
+  },
+  {
+   "id": "mikes",
+   "n": "mikeselectricstuff",
+   "k": "마이크 해리슨",
+   "d": [
+    "elec",
+    "lab",
+    "bio"
+   ],
+   "l": 3,
+   "lang": "en",
+   "desc": "희귀한 산업용·전문 장비를 분해하며 부품과 서브시스템을 하나씩 식별하고 설계 이유를 설명합니다.",
+   "see": "대형 LED 전광판, 디지털 시네마 영사기, 제세동기, 인슐린 펌프 같은 전문 장비",
+   "t": "Mike Harrison industrial"
+  },
+  {
+   "id": "dgw",
+   "n": "Diode Gone Wild",
+   "k": "다이오드 곤 와일드",
+   "d": [
+    "elec"
+   ],
+   "l": 3,
+   "lang": "en",
+   "desc": "저가 조명과 전원 장치를 분해해 회로를 추적하고, 고치거나 개조합니다.",
+   "see": "LED 전구와 램프 드라이버 회로, 오래된 조명 기기",
+   "t": "LED driver lamp"
+  },
+  {
+   "id": "techconn",
+   "n": "Technology Connections",
+   "k": "테크놀로지 커넥션스",
+   "d": [
+    "elec",
+    "explain"
+   ],
+   "l": 2,
+   "lang": "en",
+   "star": 1,
+   "desc": "식기세척기, 토스터, 히트펌프처럼 흔한 가전이 실제로 어떻게 작동하는지 끈질기게 파고듭니다.",
+   "see": "가전 내부 메커니즘, 오래된 기술 표준의 뒷이야기",
+   "t": "appliance heat pump dishwasher"
+  },
+  {
+   "id": "engguy",
+   "n": "engineerguy",
+   "k": "엔지니어가이 빌 해맥",
+   "d": [
+    "elec",
+    "explain",
+    "food"
+   ],
+   "l": 2,
+   "lang": "en",
+   "q": "engineerguyvideo",
+   "desc": "공학 교수 Bill Hammack이 음료 캔, 스마트폰 가속도 센서 같은 일상 제품 속 설계와 제조 원리를 풀어냅니다.",
+   "see": "대량생산 제품의 형상과 공정이 그렇게 정해진 이유",
+   "t": "Bill Hammack manufacturing"
+  },
+  {
+   "id": "strange",
+   "n": "Strange Parts",
+   "k": "스트레인지 파츠",
+   "d": [
+    "elec",
+    "pc"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "중국 선전의 부품 시장과 공장을 누비며 제품을 분해하고, 시장에서 산 부품으로 다시 조립합니다.",
+   "see": "부품만 사서 아이폰 조립하기, 공장 생산 라인 취재",
+   "t": "Shenzhen Scotty Allen factory 선전"
+  },
+  {
+   "id": "greatscott",
+   "n": "GreatScott!",
+   "k": "그레이트스캇",
+   "d": [
+    "elec",
+    "explain"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "전자 회로 원리를 실험으로 보여 주는 채널. 시판 제품을 열어 직접 만든 회로와 비교하는 시리즈도 있습니다.",
+   "see": "‘DIY or Buy’ 시리즈, 전원·배터리 회로 실험",
+   "t": "DIY or Buy electronics"
+  },
+  {
+   "id": "julian",
+   "n": "Julian Ilett",
+   "k": "줄리안 일렛",
+   "d": [
+    "elec"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "값싼 전자 모듈과 부품을 사서 시험하고 뜯어 봅니다.",
+   "see": "저가 전원·충전 모듈과 각종 부품",
+   "t": "modules"
+  },
+  {
+   "id": "kasyan",
+   "n": "Kasyan TV",
+   "k": "카샨 TV",
+   "d": [
+    "elec",
+    "power"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "전원장치와 인버터 같은 전력 전자 회로를 분해하고 직접 만들어 봅니다.",
+   "see": "전원 회로 분해, 자작 인버터",
+   "t": "power supply inverter"
+  },
+  {
+   "id": "voltlog",
+   "n": "VoltLog",
+   "k": "볼트로그",
+   "d": [
+    "elec"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "전자공학 영상 일지. 전자 기기와 부품을 소개하고 열어 봅니다.",
+   "see": "전자 기기 분해와 리뷰, 기판 설계 이야기",
+   "t": "electronics vlog"
+  },
+  {
+   "id": "spiess",
+   "n": "Andreas Spiess",
+   "k": "안드레아스 슈피스",
+   "d": [
+    "elec"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "스위스 엔지니어가 전자 모듈과 IoT 기기를 시험하고 원리를 해설합니다.",
+   "see": "무선 모듈, 센서, 소형 전자 프로젝트",
+   "t": "IoT ESP32 LoRa"
+  },
+  {
+   "id": "benheck",
+   "n": "Ben Heck Hacks",
+   "k": "벤 헥",
+   "d": [
+    "elec",
+    "retro"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "게임기를 개조하고 전자 기기를 뜯어 새로 만드는 하드웨어 해커의 채널입니다.",
+   "see": "휴대용 게임기 개조, 기기 해킹",
+   "t": "console mod"
+  },
+  {
+   "id": "techmoan",
+   "n": "Techmoan",
+   "k": "테크모안",
+   "d": [
+    "elec",
+    "retro"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "오래되거나 특이한 AV 기기와 기록 매체를 써 보고 열어 보며 작동 방식을 소개합니다.",
+   "see": "테이프·디스크 포맷, 구형 오디오·비디오 장비",
+   "t": "vintage AV tape"
+  },
+  {
+   "id": "ifixit_web",
+   "kind": "web",
+   "sub": "데이터베이스",
+   "n": "iFixit 분해 가이드",
+   "k": "아이픽스잇",
+   "d": [
+    "elec",
+    "pc"
+   ],
+   "l": 2,
+   "lang": "en",
+   "u": "https://www.ifixit.com/Teardown",
+   "desc": "제품별 분해 과정을 사진으로 기록한 데이터베이스. 수리 용이성 점수도 함께 매깁니다.",
+   "see": "스마트폰·노트북·가전 분해 기록",
+   "t": "teardown database"
+  },
+  {
+   "id": "hackaday_web",
+   "kind": "web",
+   "sub": "매체",
+   "n": "Hackaday 분해 기사",
+   "k": "해커데이",
+   "d": [
+    "elec"
+   ],
+   "l": 2,
+   "lang": "en",
+   "u": "https://hackaday.com/tag/teardown/",
+   "desc": "하드웨어 해킹 매체의 분해 관련 기사 모음입니다.",
+   "see": "분해·역설계 프로젝트 소식",
+   "t": "teardown news"
+  },
+  {
+   "id": "eevforum",
+   "kind": "web",
+   "sub": "커뮤니티",
+   "n": "EEVblog 포럼",
+   "k": "이이브이블로그 포럼",
+   "d": [
+    "elec",
+    "lab"
+   ],
+   "l": 3,
+   "lang": "en",
+   "u": "https://www.eevblog.com/forum/",
+   "desc": "전자공학 커뮤니티. 분해·수리 스레드가 방대하고, 전자공학 유튜버 목록도 커뮤니티가 함께 관리합니다.",
+   "see": "분해·수리 토론",
+   "t": "forum"
+  },
+  {
+   "id": "teardown_event",
+   "kind": "web",
+   "sub": "행사",
+   "n": "Teardown (Crowd Supply)",
+   "k": "티어다운",
+   "d": [
+    "elec"
+   ],
+   "l": 3,
+   "lang": "en",
+   "v26": 1,
+   "u": "https://www.crowdsupply.com/teardown-2026",
+   "desc": "하드웨어를 분해하고 해킹하는 사람들이 모이는 행사. 2026년 7월에도 미국 포틀랜드에서 열렸습니다.",
+   "see": "발표와 워크숍 일정, 자료",
+   "t": "hardware conference"
+  },
+  {
+   "id": "lensrentals",
+   "kind": "web",
+   "sub": "블로그",
+   "n": "Lensrentals 블로그",
+   "k": "렌즈렌탈스",
+   "d": [
+    "elec"
+   ],
+   "l": 3,
+   "lang": "en",
+   "u": "https://www.lensrentals.com/blog/",
+   "desc": "카메라 렌즈 대여 업체의 블로그. 렌즈를 완전히 분해해 구조와 품질을 분석하는 글로 유명합니다.",
+   "see": "렌즈 분해 분석",
+   "t": "lens teardown camera"
+  },
+  {
+   "id": "52audio",
+   "kind": "web",
+   "sub": "매체",
+   "n": "我爱音频网 (52audio)",
+   "k": "52오디오",
+   "d": [
+    "elec"
+   ],
+   "l": 4,
+   "lang": "zh",
+   "u": "https://www.52audio.com/",
+   "desc": "무선 이어폰 등 오디오 기기 분해 전문 중국 매체. 들어간 칩과 부품 공급사를 정리합니다.",
+   "see": "TWS 이어폰 분해와 칩 정보",
+   "t": "TWS earbuds teardown chip"
+  },
+  {
+   "id": "itmedia",
+   "kind": "web",
+   "sub": "매체",
+   "n": "ITmedia·EE Times Japan 분해 기사",
+   "k": "테카나리에 techanalye",
+   "d": [
+    "elec",
+    "semi"
+   ],
+   "l": 4,
+   "lang": "ja",
+   "u": "https://www.itmedia.co.jp/keywords/dismantle.html",
+   "desc": "일본 기술 매체의 분해 기사 모음. 분해 전문 기업 테카나리에(テカナリエ)가 칩 패키지까지 열어 보는 연재가 실립니다.",
+   "see": "칩 개봉 분석, 광고 문구와 실제 부품 비교",
+   "t": "分解 teardown"
+  },
+  {
+   "id": "bunkai",
+   "kind": "web",
+   "sub": "행사",
+   "n": "#分解のススメ 아카이브",
+   "k": "분카이노스스메",
+   "d": [
+    "elec"
+   ],
+   "l": 2,
+   "lang": "ja",
+   "u": "https://medium.com/bunkai",
+   "desc": "일본 역설계 커뮤니티가 2020년부터 연 온라인 행사의 녹화와 자료 모음입니다.",
+   "see": "100엔숍 제품 분해, 가짜 칩 분석",
+   "t": "分解 community"
+  },
+  {
+   "id": "ifixit",
+   "n": "iFixit",
+   "k": "아이픽스잇",
+   "d": [
+    "pc",
+    "robot"
+   ],
+   "l": 2,
+   "lang": "en",
+   "star": 1,
+   "desc": "신제품이 나오면 곧바로 분해해 내부 구조를 공개하고 수리 용이성 점수를 매깁니다.",
+   "see": "스마트폰·노트북 분해, 로봇 개(Unitree Go2) 분해. 분해 전 산업용 CT로 속을 먼저 스캔하기도 합니다",
+   "t": "teardown repairability CT"
+  },
+  {
+   "id": "jre",
+   "n": "JerryRigEverything",
+   "k": "제리릭에브리싱",
+   "d": [
+    "pc"
+   ],
+   "l": 1,
+   "lang": "en",
+   "desc": "스마트폰 내구성 시험(긁기, 불, 굽힘)과 분해를 함께 보여 줍니다.",
+   "see": "외장 소재와 내부 배치",
+   "t": "durability"
+  },
+  {
+   "id": "pbk",
+   "n": "PBKreviews",
+   "k": "피비케이 리뷰",
+   "d": [
+    "pc"
+   ],
+   "l": 1,
+   "lang": "en",
+   "desc": "스마트폰과 노트북을 나사 하나까지 분해하고 다시 조립하는 과정을 보여 줍니다.",
+   "see": "부품 배치와 분해 순서",
+   "t": "disassembly"
+  },
+  {
+   "id": "prg",
+   "n": "Phone Repair Guru",
+   "k": "폰 리페어 구루",
+   "d": [
+    "pc"
+   ],
+   "l": 1,
+   "lang": "en",
+   "desc": "스마트폰을 분해하고 수리하는 과정을 차분하게 보여 줍니다.",
+   "see": "화면·배터리 교체, 기종별 분해 난이도",
+   "t": "phone repair"
+  },
+  {
+   "id": "hugh",
+   "n": "Hugh Jeffreys",
+   "k": "휴 제프리스",
+   "d": [
+    "pc"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "스마트폰을 수리하며 부품 페어링(정품 부품 잠금) 같은 제조사의 설계 정책을 파고듭니다.",
+   "see": "부품 교체 뒤 기능 제한 실험, 수리 경제성",
+   "t": "repair parts pairing"
+  },
+  {
+   "id": "rewa",
+   "n": "REWA Technology",
+   "k": "레와",
+   "d": [
+    "pc"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "중국의 휴대폰 수리 교육 업체 채널. 기판 단위까지 내려가는 상세 분해를 보여 줍니다.",
+   "see": "신형 스마트폰의 기판과 적층 구조",
+   "t": "logic board"
+  },
+  {
+   "id": "rossmann",
+   "n": "Louis Rossmann",
+   "k": "루이스 로스만",
+   "d": [
+    "pc"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "노트북 기판 수리로 유명한 수리점 운영자. 부품 단위 고장 진단과 수리할 권리 문제를 다룹니다.",
+   "see": "맥북 기판 진단, 제조사 수리 정책 비판",
+   "t": "board repair right to repair macbook"
+  },
+  {
+   "id": "ipadrehab",
+   "n": "iPad Rehab",
+   "k": "아이패드 리햅 제사 존스",
+   "d": [
+    "pc"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "현미경 아래 미세 납땜으로 스마트폰·태블릿 기판을 살려 내는 수리 전문가 Jessa Jones의 채널입니다.",
+   "see": "기판 단위 수리와 데이터 복구",
+   "t": "microsoldering data recovery"
+  },
+  {
+   "id": "tronicsfix",
+   "n": "TronicsFix",
+   "k": "트로닉스픽스",
+   "d": [
+    "pc",
+    "retro"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "고장 난 게임기를 진단하고 기판을 수리합니다.",
+   "see": "게임기 기판 수리와 고장 원인",
+   "t": "console repair"
+  },
+  {
+   "id": "gn",
+   "n": "Gamers Nexus",
+   "k": "게이머스 넥서스",
+   "d": [
+    "pc"
+   ],
+   "l": 3,
+   "lang": "en",
+   "desc": "그래픽카드 등 PC 부품을 분해하고, 고장과 결함의 원인을 끝까지 추적하는 조사형 채널입니다.",
+   "see": "쿨러와 기판 분해, 커넥터 소손 같은 고장 분석, 공장 취재",
+   "t": "GPU failure analysis"
+  },
+  {
+   "id": "der8auer",
+   "n": "der8auer",
+   "k": "더바우어",
+   "d": [
+    "pc",
+    "semi"
+   ],
+   "l": 3,
+   "lang": "ende",
+   "q": "der8auer EN",
+   "desc": "CPU 뚜껑을 여는 딜리딩과 다이·기판 분석으로 유명한 독일 하드웨어 엔지니어입니다.",
+   "see": "CPU·GPU 패키지 내부, 전력부와 냉각 구조",
+   "note": "영어 채널과 독일어 채널이 따로 있습니다",
+   "t": "delid die"
+  },
+  {
+   "id": "buildzoid",
+   "n": "Actually Hardcore Overclocking",
+   "k": "빌드조이드 Buildzoid",
+   "d": [
+    "pc"
+   ],
+   "l": 3,
+   "lang": "en",
+   "desc": "메인보드와 그래픽카드 기판의 전원부 부품을 하나하나 읽어 설계 수준을 평가합니다.",
+   "see": "VRM 구성, 부품 등급, 설계 결함",
+   "note": "편집 없는 긴 영상이 많습니다",
+   "t": "VRM PCB 메인보드"
+  },
+  {
+   "id": "sth",
+   "n": "ServeTheHome",
+   "k": "서브더홈",
+   "d": [
+    "pc"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "서버, 네트워크 스위치, AI 서버 같은 데이터센터 장비의 내부 구성을 해설합니다.",
+   "see": "GPU 서버 보드, 수랭 냉각 구조, 부품 구성",
+   "t": "server datacenter AI 데이터센터"
+  },
+  {
+   "id": "geerling",
+   "n": "Jeff Geerling",
+   "k": "제프 길링",
+   "d": [
+    "pc"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "라즈베리파이 같은 소형 컴퓨터와 네트워크 장비를 분석하고 한계까지 시험합니다.",
+   "see": "ARM 보드, 서버·네트워크 장비 내부",
+   "t": "raspberry pi ARM"
+  },
+  {
+   "id": "igorslab",
+   "kind": "web",
+   "sub": "매체",
+   "n": "Igor’s Lab",
+   "k": "이고르스 랩",
+   "d": [
+    "pc"
+   ],
+   "l": 3,
+   "lang": "ende",
+   "u": "https://www.igorslab.de/en/",
+   "desc": "그래픽카드와 PC 부품의 기판·전원 설계를 깊이 분석하는 독일 매체입니다.",
+   "see": "GPU 기판 분석, 전력 측정",
+   "t": "GPU PCB analysis"
+  },
+  {
+   "id": "techinsights",
+   "n": "TechInsights",
+   "k": "테크인사이츠",
+   "d": [
+    "semi",
+    "pc",
+    "cost"
+   ],
+   "l": 4,
+   "lang": "en",
+   "v26": 1,
+   "u": "https://www.youtube.com/channel/UC-yeNQ5zMqEhNp3Vc3D-ICg",
+   "desc": "반도체·전자기기 역설계 전문 기업. 기기를 분해해 칩 공정, 원가, 공급망을 분석합니다.",
+   "see": "신형 스마트폰 분해 개요와 칩 식별",
+   "note": "유튜브에는 무료 개요 영상 위주이고 상세 분석은 유료입니다. 화웨이 칩 분석 보고서를 낸 뒤 2025년 10월 중국의 신뢰할 수 없는 기업 명단에 올랐습니다",
+   "t": "teardown cost BOM semiconductor 원가 Huawei"
+  },
+  {
+   "id": "highyield",
+   "n": "High Yield",
+   "k": "하이일드",
+   "d": [
+    "semi"
+   ],
+   "l": 3,
+   "lang": "en",
+   "star": 1,
+   "u": "https://www.youtube.com/HighYield",
+   "desc": "칩 다이 사진 위에 CPU·GPU·캐시 블록을 표시해 가며 설계를 해부합니다.",
+   "see": "애플 M·A 시리즈, AMD 칩의 다이샷 분석",
+   "t": "die shot Apple AMD 다이샷"
+  },
+  {
+   "id": "geekerwan",
+   "n": "Geekerwan 极客湾",
+   "k": "지커완 극객만",
+   "d": [
+    "semi",
+    "pc"
+   ],
+   "l": 3,
+   "lang": "zhsub",
+   "q": "Geekerwan",
+   "desc": "스마트폰·PC용 칩의 성능과 전력 효율을 정밀 측정하고 마이크로아키텍처를 분석합니다.",
+   "see": "신형 SoC 심층 리뷰",
+   "t": "SoC microarchitecture chip 칩"
+  },
+  {
+   "id": "electronupdate",
+   "n": "electronupdate",
+   "k": "일렉트론업데이트",
+   "d": [
+    "semi"
+   ],
+   "l": 3,
+   "lang": "en",
+   "u": "https://www.youtube.com/user/electronupdate",
+   "desc": "칩 패키지를 벗겨 낸(디캡) 뒤 현미경으로 다이를 보여 주며 각 영역의 기능을 설명합니다.",
+   "see": "SDR 튜너 칩 등 다양한 칩의 디캡과 다이 사진 해설",
+   "t": "decap die microscope 다이샷"
+  },
+  {
+   "id": "zeloof",
+   "n": "Sam Zeloof",
+   "k": "샘 젤루프",
+   "d": [
+    "semi",
+    "semieq"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "차고에서 반도체 칩을 직접 만든 엔지니어. 칩이 만들어지는 공정을 몸으로 보여 줍니다.",
+   "see": "포토리소그래피, 집에서 만든 트랜지스터와 칩",
+   "t": "chip fab lithography"
+  },
+  {
+   "id": "shirriff",
+   "kind": "web",
+   "sub": "블로그",
+   "n": "Ken Shirriff 블로그 (righto.com)",
+   "k": "켄 셔리프",
+   "d": [
+    "semi",
+    "retro"
+   ],
+   "l": 3,
+   "lang": "en",
+   "star": 1,
+   "u": "https://www.righto.com/",
+   "desc": "빈티지 칩과 컴퓨터를 다이 사진으로 트랜지스터 수준까지 역설계하는 블로그. 반도체 역설계의 교과서 같은 곳입니다.",
+   "see": "인텔 8086 등 고전 칩의 회로 해독, 아폴로 장비",
+   "t": "die transistor 8086 reverse engineering 다이샷"
+  },
+  {
+   "id": "zeptobars",
+   "kind": "web",
+   "sub": "다이 사진",
+   "n": "Zeptobars",
+   "k": "제프토바",
+   "d": [
+    "semi"
+   ],
+   "l": 3,
+   "lang": "en",
+   "u": "https://zeptobars.com/en/",
+   "desc": "칩을 디캡해 고해상도 다이 사진을 공개하는 사이트입니다.",
+   "see": "각종 IC 다이 사진과 짧은 해설",
+   "t": "decap die photo 다이샷 디캡"
+  },
+  {
+   "id": "siliconpr0n",
+   "kind": "web",
+   "sub": "다이 사진",
+   "n": "siliconpr0n",
+   "k": "실리콘포른",
+   "d": [
+    "semi"
+   ],
+   "l": 3,
+   "lang": "en",
+   "u": "https://siliconpr0n.org/",
+   "desc": "여러 사람이 찍은 칩 다이 사진을 모아 두는 공개 아카이브입니다.",
+   "see": "고해상도 다이 지도, 디캡 기법 자료",
+   "t": "die map archive 다이샷"
+  },
+  {
+   "id": "fritz",
+   "kind": "web",
+   "sub": "다이 사진",
+   "n": "Fritzchens Fritz (Flickr)",
+   "k": "프리첸스 프리츠",
+   "d": [
+    "semi"
+   ],
+   "l": 3,
+   "lang": "en",
+   "u": "https://www.flickr.com/photos/130561288@N04/",
+   "desc": "CPU·GPU 다이 사진을 저작권 없이(CC0) 공개해 온 사진가의 앨범. 많은 다이샷 분석의 출발점입니다.",
+   "see": "AMD·인텔·엔비디아 칩 다이 사진",
+   "t": "die shot flickr"
+  },
+  {
+   "id": "cpugraveyard",
+   "kind": "web",
+   "sub": "다이 사진",
+   "n": "CPU Graveyard 다이샷 위키",
+   "k": "씨피유 그레이브야드",
+   "d": [
+    "semi",
+    "retro"
+   ],
+   "l": 3,
+   "lang": "en",
+   "u": "https://happytrees.org/dieshots/",
+   "desc": "옛 칩부터 최신 칩까지 다이 사진을 정리한 위키입니다.",
+   "see": "칩별 다이 사진 목록",
+   "t": "die shots wiki"
+  },
+  {
+   "id": "hysite",
+   "kind": "web",
+   "sub": "데이터베이스",
+   "n": "High Yield 칩 데이터베이스",
+   "k": "하이일드",
+   "d": [
+    "semi"
+   ],
+   "l": 3,
+   "lang": "en",
+   "u": "https://high-yield.net/",
+   "desc": "High Yield가 운영하는 사이트. 애플 A·M 시리즈 칩의 다이 크기, 코어 구성, 공정을 세대별로 비교합니다.",
+   "see": "애플 칩 세대별 비교표",
+   "t": "apple silicon database 다이샷"
+  },
+  {
+   "id": "chipscheese",
+   "kind": "web",
+   "sub": "블로그",
+   "n": "Chips and Cheese",
+   "k": "칩스 앤 치즈",
+   "d": [
+    "semi"
+   ],
+   "l": 3,
+   "lang": "en",
+   "u": "https://chipsandcheese.com/",
+   "desc": "직접 짠 미세 벤치마크로 CPU·GPU 내부 구조를 역추적하는 기술 블로그입니다.",
+   "see": "캐시·메모리 지연, 코어 구조 분석",
+   "t": "microbenchmark microarchitecture"
+  },
+  {
+   "id": "wikichip",
+   "kind": "web",
+   "sub": "데이터베이스",
+   "n": "WikiChip",
+   "k": "위키칩",
+   "d": [
+    "semi"
+   ],
+   "l": 2,
+   "lang": "en",
+   "u": "https://en.wikichip.org/",
+   "desc": "칩의 사양, 아키텍처, 공정 정보를 정리한 위키입니다.",
+   "see": "프로세서 계보와 공정 정보",
+   "t": "chip wiki"
+  },
+  {
+   "id": "techinsights_web",
+   "kind": "web",
+   "sub": "기업",
+   "n": "TechInsights 웹사이트",
+   "k": "테크인사이츠",
+   "d": [
+    "semi",
+    "cost"
+   ],
+   "l": 4,
+   "lang": "en",
+   "v26": 1,
+   "u": "https://www.techinsights.com/",
+   "desc": "반도체 역설계 보고서를 파는 기업의 사이트. 본보고서는 유료지만 블로그와 웨비나 일부가 공개됩니다.",
+   "see": "칩 공정·원가 분석 요약, 업계 해설",
+   "t": "semiconductor reverse engineering cost"
+  },
+  {
+   "id": "yole",
+   "kind": "web",
+   "sub": "기업",
+   "n": "Yole Group (System Plus)",
+   "k": "욜 그룹 시스템플러스",
+   "d": [
+    "semi",
+    "cost"
+   ],
+   "l": 4,
+   "lang": "en",
+   "u": "https://www.yolegroup.com/",
+   "desc": "반도체·전자부품 분해와 원가 분석 보고서를 내는 시장조사 기업입니다.",
+   "see": "부품 분해 원가 보고서(유료)",
+   "t": "teardown cost report"
+  },
+  {
+   "id": "chargerlab",
+   "n": "ChargerLAB",
+   "k": "차저랩",
+   "d": [
+    "power"
+   ],
+   "l": 4,
+   "lang": "en",
+   "star": 1,
+   "v26": 1,
+   "desc": "충전기와 보조배터리를 분해해 들어간 칩의 제조사와 모델까지 식별합니다. 필요하면 칩을 디캡해 확인합니다.",
+   "see": "GaN 충전기의 전력 반도체, 컨트롤러 칩 공급사",
+   "note": "중국 충전 전문 매체 充电头网의 영어 자매 매체입니다",
+   "t": "GaN charger power bank chip 충전기"
+  },
+  {
+   "id": "limiting",
+   "n": "The Limiting Factor",
+   "k": "리미팅 팩터",
+   "d": [
+    "power",
+    "auto"
+   ],
+   "l": 3,
+   "lang": "en",
+   "desc": "배터리 셀과 소재 기술을 데이터와 분해 자료를 바탕으로 깊게 분석합니다.",
+   "see": "테슬라 4680 셀 등 차세대 배터리",
+   "t": "battery cell 4680 테슬라"
+  },
+  {
+   "id": "prowse",
+   "n": "Will Prowse",
+   "k": "윌 프라우스",
+   "d": [
+    "power"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "태양광·ESS용 배터리와 인버터를 시험하고, 열어서 셀과 BMS 구성을 확인합니다.",
+   "see": "리튬인산철 배터리 내부, 인버터 비교",
+   "t": "LiFePO4 solar inverter BMS ESS"
+  },
+  {
+   "id": "offgrid",
+   "n": "Off-Grid Garage",
+   "k": "오프그리드 개러지",
+   "d": [
+    "power"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "호주의 차고 실험실에서 배터리, BMS, 인버터를 오래 시험하고 분해합니다.",
+   "see": "셀 품질과 BMS 성능 비교",
+   "t": "battery BMS Australia"
+  },
+  {
+   "id": "rosie",
+   "n": "Engineering with Rosie",
+   "k": "엔지니어링 위드 로지",
+   "d": [
+    "power"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "태양광, 배터리, 가정용 전기 설비를 시험하고 원리를 설명합니다.",
+   "see": "가정용 에너지 설비 실험",
+   "t": "solar battery"
+  },
+  {
+   "id": "jehu",
+   "n": "Jehu Garcia",
+   "k": "제후 가르시아",
+   "d": [
+    "power"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "DIY 배터리 팩과 전동 모빌리티를 다룹니다.",
+   "see": "재사용 셀로 만든 배터리 팩",
+   "t": "DIY battery pack"
+  },
+  {
+   "id": "knurl",
+   "n": "knurlgnar24",
+   "k": "널그나",
+   "d": [
+    "power"
+   ],
+   "l": 2,
+   "lang": "en",
+   "u": "https://www.youtube.com/user/knurlgnar24",
+   "desc": "인버터를 수리하고 분해해 시험합니다.",
+   "see": "인버터 내부와 고장 수리",
+   "t": "inverter repair"
+  },
+  {
+   "id": "mjlorton",
+   "n": "mjlorton",
+   "k": "마틴 로튼",
+   "d": [
+    "power",
+    "lab"
+   ],
+   "l": 2,
+   "lang": "en",
+   "u": "https://www.youtube.com/user/mjlorton",
+   "desc": "계측기 리뷰와 태양광 발전 실험을 다룹니다.",
+   "see": "계측기, 태양광 시스템",
+   "t": "solar meter"
+  },
+  {
+   "id": "chargerlab_web",
+   "kind": "web",
+   "sub": "매체",
+   "n": "ChargerLAB 웹사이트",
+   "k": "차저랩",
+   "d": [
+    "power"
+   ],
+   "l": 4,
+   "lang": "en",
+   "v26": 1,
+   "u": "https://www.chargerlab.com/",
+   "desc": "충전기·보조배터리 분해 기사 아카이브. 제품마다 들어간 칩을 하나씩 짚습니다.",
+   "see": "분해 기사, 칩 디캡 분석",
+   "t": "charger teardown chip"
+  },
+  {
+   "id": "chongdiantou",
+   "kind": "web",
+   "sub": "매체",
+   "n": "充电头网 (충전두망)",
+   "k": "충전두망 chongdiantou",
+   "d": [
+    "power"
+   ],
+   "l": 4,
+   "lang": "zh",
+   "u": "https://www.chongdiantou.com/",
+   "desc": "중국 충전 기기 전문 매체. 충전기와 배터리를 분해해 칩 공급사를 상세히 기록합니다. ChargerLAB과 자매 매체입니다.",
+   "see": "중국 충전 기기와 칩 공급망",
+   "t": "charger teardown China"
+  },
+  {
+   "id": "munro",
+   "n": "Munro Live",
+   "k": "먼로 라이브 샌디 먼로",
+   "d": [
+    "auto",
+    "robot",
+    "cost"
+   ],
+   "l": 4,
+   "lang": "en",
+   "star": 1,
+   "v26": 1,
+   "desc": "자동차 벤치마킹 컨설팅사 Munro & Associates의 채널. 차량을 통째로 분해해 원가와 제조성을 따집니다.",
+   "see": "EV 전체 분해, 배터리 팩, 대형 주조 부품, 2026년 휴머노이드 로봇(Unitree G1) 전체·관절 액추에이터 분해",
+   "t": "Sandy Munro teardown Tesla EV cost 테슬라 원가 humanoid"
+  },
+  {
+   "id": "weber",
+   "n": "Weber Auto",
+   "k": "웨버 오토",
+   "d": [
+    "auto"
+   ],
+   "l": 3,
+   "lang": "en",
+   "star": 1,
+   "desc": "자동차 공학 교수가 엔진과 EV 구동계(모터·인버터·배터리)를 분해하며 강의하듯 해설합니다.",
+   "see": "하이브리드·EV 구동계 분해 강의",
+   "t": "John Kelly motor inverter"
+  },
+  {
+   "id": "idocars",
+   "n": "I Do Cars",
+   "k": "아이 두 카스",
+   "d": [
+    "auto"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "고장 난 엔진을 분해해 무엇이, 왜 망가졌는지 추적합니다.",
+   "see": "엔진 내부 마모와 파손 원인",
+   "t": "engine teardown failure 엔진"
+  },
+  {
+   "id": "damien",
+   "n": "Damien Maguire",
+   "k": "데미안 맥과이어 EVBMW",
+   "d": [
+    "auto",
+    "power"
+   ],
+   "l": 3,
+   "lang": "en",
+   "desc": "테슬라 구동 유닛과 충전기를 역설계해 오픈소스 제어 보드를 만든 아일랜드의 전자공학 엔지니어입니다.",
+   "see": "EV 인버터·충전기 제어 신호 분석과 개조",
+   "t": "EVBMW Tesla drive unit openinverter 테슬라"
+  },
+  {
+   "id": "engexp",
+   "n": "Engineering Explained",
+   "k": "엔지니어링 익스플레인드",
+   "d": [
+    "auto",
+    "explain"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "엔진, 변속기, 타이어, EV 기술의 작동 원리를 화이트보드로 해설합니다.",
+   "see": "자동차 기술 개념 정리",
+   "t": "car engine"
+  },
+  {
+   "id": "rich",
+   "n": "Rich Rebuilds",
+   "k": "리치 리빌즈",
+   "d": [
+    "auto"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "폐차된 테슬라를 되살리며 EV 부품 구조와 수리할 권리 문제를 파고듭니다.",
+   "see": "테슬라 배터리·구동계 수리",
+   "t": "Tesla salvage"
+  },
+  {
+   "id": "egarage",
+   "n": "Electrified Garage",
+   "k": "일렉트리파이드 개러지",
+   "d": [
+    "auto"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "EV 전문 정비소. 제조사 견적보다 훨씬 싸게 부품 단위로 고치는 사례를 보여 줍니다.",
+   "see": "EV 부품 단위 수리",
+   "t": "EV repair Tesla"
+  },
+  {
+   "id": "dala",
+   "n": "Dala’s EV Repair",
+   "k": "달라 EV 리페어",
+   "d": [
+    "auto",
+    "power"
+   ],
+   "l": 3,
+   "lang": "en",
+   "q": "Dalas EV Repair",
+   "desc": "EV 배터리 업그레이드와 수리의 기술 세부를 모두 공개하는 정비사의 채널입니다.",
+   "see": "닛산 리프 배터리 교체와 업그레이드",
+   "t": "Nissan Leaf battery upgrade"
+  },
+  {
+   "id": "ingineerix",
+   "n": "Ingineerix",
+   "k": "인지니어릭스 제이슨 휴즈",
+   "d": [
+    "auto",
+    "sec"
+   ],
+   "l": 3,
+   "lang": "en",
+   "desc": "테슬라 하드웨어를 해킹·역설계해 온 Jason Hughes의 채널입니다.",
+   "see": "테슬라 배터리와 전장 분석",
+   "t": "Tesla hacker Jason Hughes"
+  },
+  {
+   "id": "carcarenut",
+   "n": "The Car Care Nut",
+   "k": "카 케어 넛",
+   "d": [
+    "auto"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "토요타 마스터 테크니션이 엔진·구동계 설계의 장단점을 정비 관점에서 설명합니다.",
+   "see": "차종별 엔진 설계 비교, 내구성",
+   "t": "Toyota engine"
+  },
+  {
+   "id": "d4a",
+   "n": "Driving 4 Answers",
+   "k": "드라이빙 포 앤서스",
+   "d": [
+    "auto",
+    "explain"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "엔진과 변속기 기술이 왜 그렇게 설계됐는지 풀어 줍니다.",
+   "see": "엔진 기술 해설",
+   "t": "engine technology"
+  },
+  {
+   "id": "utg",
+   "n": "Uncle Tony’s Garage",
+   "k": "엉클 토니스 개러지",
+   "d": [
+    "auto"
+   ],
+   "l": 2,
+   "lang": "en",
+   "q": "Uncle Tonys Garage",
+   "desc": "엔진을 분해하며 부품 설계와 성능의 관계를 설명합니다.",
+   "see": "엔진 부품 분석",
+   "t": "engine parts"
+  },
+  {
+   "id": "southmain",
+   "n": "South Main Auto Repair",
+   "k": "사우스 메인 오토",
+   "d": [
+    "auto",
+    "fail"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "정비소 운영자가 전기·전자 고장을 계측기로 추적해 원인을 찾아냅니다.",
+   "see": "전장 고장 진단 과정",
+   "t": "diagnostics electrical"
+  },
+  {
+   "id": "pinehollow",
+   "n": "Pine Hollow Auto Diagnostics",
+   "k": "파인 할로우",
+   "d": [
+    "auto",
+    "fail"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "까다로운 차량 전장 고장을 진단 장비로 파고드는 진단 전문 정비사의 채널입니다.",
+   "see": "오실로스코프를 쓰는 차량 진단",
+   "t": "diagnostics scope"
+  },
+  {
+   "id": "vgg",
+   "n": "Vice Grip Garage",
+   "k": "바이스 그립 개러지",
+   "d": [
+    "auto",
+    "retro"
+   ],
+   "l": 1,
+   "lang": "en",
+   "desc": "오래 방치된 차를 되살리며 구형 기계 구조를 보여 줍니다.",
+   "see": "방치 차량 부활, 옛 엔진 구조",
+   "t": "revival old cars"
+  },
+  {
+   "id": "motline",
+   "n": "모트라인 MOTline",
+   "k": "모트라인",
+   "d": [
+    "auto"
+   ],
+   "l": 1,
+   "lang": "ko",
+   "desc": "국내 자동차 채널. 전문가와 함께 엔진룸과 하체 구조를 살펴보는 콘텐츠로 알려졌습니다.",
+   "see": "엔진룸·하체 구조 리뷰, 차량 비교",
+   "note": "하체를 눈으로 보는 것만으로 주행 성능까지 판단하긴 어렵다는 지적도 있습니다",
+   "t": "하체 리뷰 엔진룸"
+  },
+  {
+   "id": "wooppa",
+   "n": "우파푸른하늘",
+   "k": "우파푸른하늘TV",
+   "d": [
+    "auto"
+   ],
+   "l": 1,
+   "lang": "ko",
+   "desc": "구독자가 많은 국내 자동차 채널. 차를 리프트에 올려 하체를 살펴보는 하체 리뷰 시리즈가 있습니다.",
+   "see": "하체 리뷰 재생목록",
+   "t": "하체 리뷰"
+  },
+  {
+   "id": "a2mac1",
+   "kind": "web",
+   "sub": "기업",
+   "n": "A2Mac1",
+   "k": "에이투맥원",
+   "d": [
+    "auto",
+    "cost"
+   ],
+   "l": 4,
+   "lang": "en",
+   "u": "https://www.a2mac1.com/",
+   "desc": "차량을 분해해 부품 정보를 데이터베이스로 제공하는 자동차 벤치마킹 기업입니다.",
+   "see": "차량 부품 벤치마킹 DB(유료, 기업용)",
+   "t": "automotive benchmarking database"
+  },
+  {
+   "id": "caresoft",
+   "kind": "web",
+   "sub": "기업",
+   "n": "Caresoft Global",
+   "k": "케어소프트",
+   "d": [
+    "auto",
+    "cost"
+   ],
+   "l": 4,
+   "lang": "en",
+   "u": "https://www.caresoftglobal.com/",
+   "desc": "차량과 제품의 분해 벤치마킹, 원가 분석을 하는 엔지니어링 기업입니다.",
+   "see": "EV 벤치마킹 사례",
+   "t": "benchmarking teardown"
+  },
+  {
+   "id": "openinverter",
+   "kind": "web",
+   "sub": "커뮤니티",
+   "n": "OpenInverter 포럼",
+   "k": "오픈인버터",
+   "d": [
+    "auto",
+    "power"
+   ],
+   "l": 3,
+   "lang": "en",
+   "u": "https://openinverter.org/forum/",
+   "desc": "EV 인버터와 구동계를 역설계해 오픈소스로 제어하려는 사람들의 커뮤니티입니다.",
+   "see": "테슬라·닛산 등 구동계 제어 자료",
+   "t": "EV inverter open source"
+  },
+  {
+   "id": "carnewschina",
+   "kind": "web",
+   "sub": "매체",
+   "n": "CarNewsChina",
+   "k": "카뉴스차이나",
+   "d": [
+    "auto"
+   ],
+   "l": 2,
+   "lang": "en",
+   "v26": 1,
+   "u": "https://carnewschina.com/",
+   "desc": "중국 자동차 소식을 영어로 전하는 매체. 중국 팀들의 배터리·차량 분해 결과도 소개합니다.",
+   "see": "중국 EV·배터리 분해 소식",
+   "t": "BYD blade battery teardown China"
+  },
+  {
+   "id": "nikkeixtech",
+   "kind": "web",
+   "sub": "매체",
+   "n": "日経クロステック (닛케이 크로스테크)",
+   "k": "닛케이",
+   "d": [
+    "auto",
+    "elec",
+    "robot"
+   ],
+   "l": 4,
+   "lang": "ja",
+   "u": "https://xtech.nikkei.com/",
+   "desc": "일본 기술 전문 매체. 차량·전자기기 분해 분석 기사를 싣습니다.",
+   "see": "차량·전자기기·로봇 분해 분석 기사(대부분 유료)",
+   "t": "分解 teardown Japan Unitree"
+  },
+  {
+   "id": "skyentific",
+   "n": "Skyentific",
+   "k": "스카이엔티픽",
+   "d": [
+    "robot"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "로봇 관절용 감속기와 액추에이터를 직접 설계·제작하며 구조를 비교합니다.",
+   "see": "사이클로이드·파동 기어 감속기 실험",
+   "t": "actuator gearbox robot arm"
+  },
+  {
+   "id": "bruton",
+   "n": "James Bruton",
+   "k": "제임스 브루턴",
+   "d": [
+    "robot"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "로봇을 직접 설계·제작하며 메커니즘과 제어 원리를 설명합니다.",
+   "see": "보행 로봇, 로봇 팔 제작",
+   "t": "robot build"
+  },
+  {
+   "id": "simplexity",
+   "kind": "web",
+   "sub": "기업 블로그",
+   "n": "Simplexity Product Development",
+   "k": "심플렉시티",
+   "d": [
+    "robot"
+   ],
+   "l": 3,
+   "lang": "en",
+   "u": "https://www.simplexitypd.com/",
+   "desc": "제품 개발 컨설팅사. 로봇 개의 관절 모터를 분해해 부품 사양과 대체 부품을 분석한 글과 영상을 공개했습니다.",
+   "see": "Unitree Go2 관절 모터 역설계",
+   "t": "Unitree Go2 motor teardown"
+  },
+  {
+   "id": "agentjayz",
+   "n": "AgentJayZ",
+   "k": "에이전트제이지",
+   "d": [
+    "aero"
+   ],
+   "l": 2,
+   "lang": "en",
+   "star": 1,
+   "u": "https://www.youtube.com/user/AgentJayZ",
+   "desc": "제트엔진 정비 공장 기술자가 엔진을 분해·검사하고 테스트 셀에서 시운전하며 구조를 설명합니다.",
+   "see": "J79 등 터빈 엔진, 시청자 질문 답변 시리즈",
+   "t": "jet engine turbine 제트엔진"
+  },
+  {
+   "id": "csi",
+   "n": "CSI Starbase",
+   "k": "씨에스아이 스타베이스",
+   "d": [
+    "aero"
+   ],
+   "l": 3,
+   "lang": "en",
+   "desc": "공개된 영상과 사진을 증거 삼아 스페이스X 스타십 하드웨어를 수사하듯 분석합니다.",
+   "see": "발사대와 기체 구조 변화 추적, 3D 애니메이션 해설",
+   "note": "에피소드 간격이 긴 대신 한 편이 길고 깊습니다",
+   "t": "SpaceX Starship 스페이스X"
+  },
+  {
+   "id": "everyday",
+   "n": "Everyday Astronaut",
+   "k": "에브리데이 애스트로넛",
+   "d": [
+    "aero",
+    "explain"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "로켓 엔진과 발사체의 구조를 비교·해설하고 제작 현장을 취재합니다.",
+   "see": "엔진 사이클 비교, 공장 투어 인터뷰",
+   "t": "rocket engine 로켓"
+  },
+  {
+   "id": "manley",
+   "n": "Scott Manley",
+   "k": "스콧 맨리",
+   "d": [
+    "aero"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "발사체와 우주선의 설계, 비행 이상의 원인을 분석하는 우주 해설 채널입니다.",
+   "see": "로켓 엔진과 발사 실패 분석",
+   "t": "rocket analysis"
+  },
+  {
+   "id": "nsf",
+   "n": "NASASpaceflight",
+   "k": "나사스페이스플라이트",
+   "d": [
+    "aero"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "스페이스X 스타베이스 등 발사 현장을 상시 촬영·중계하며 하드웨어 변화를 추적합니다.",
+   "see": "스타십 제작·시험 현장 기록",
+   "t": "Starbase Starship"
+  },
+  {
+   "id": "curiousdroid",
+   "n": "Curious Droid",
+   "k": "큐리어스 드로이드",
+   "d": [
+    "aero",
+    "explain"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "항공우주와 공학 기술의 역사와 원리를 다큐멘터리처럼 해설합니다.",
+   "see": "항공기·로켓 기술사",
+   "t": "aerospace history"
+  },
+  {
+   "id": "cee",
+   "n": "Cutting Edge Engineering",
+   "k": "커팅 엣지 엔지니어링",
+   "d": [
+    "cmach",
+    "mech"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "호주 광산·토목 중장비 부품을 수리하는 가공 공장. 유압 실린더, 구동 부품 같은 대형 부품의 속이 드러납니다.",
+   "see": "중장비 유압·구동 부품 수리 공정",
+   "t": "heavy equipment hydraulic mining Australia 중장비"
+  },
+  {
+   "id": "torque",
+   "n": "Torque Test Channel",
+   "k": "토크 테스트 채널",
+   "d": [
+    "mech"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "전동공구 성능을 계측 장비로 비교하고, 필요하면 공구를 열어 모터와 기어의 차이도 확인합니다.",
+   "see": "임팩트 드라이버·렌치 제조사별 비교",
+   "t": "power tools impact 전동공구"
+  },
+  {
+   "id": "engmind",
+   "n": "The Engineering Mindset",
+   "k": "엔지니어링 마인드셋",
+   "d": [
+    "build",
+    "mech",
+    "explain"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "냉동기, 냉각탑, 공조기, 모터, 전기 설비를 3D 그래픽으로 해설합니다. 건물 설비를 이해하는 데 좋습니다.",
+   "see": "HVAC·전기 설비 작동 원리",
+   "note": "여러 언어 채널을 함께 운영합니다",
+   "t": "HVAC chiller electrical 설비 공조"
+  },
+  {
+   "id": "makoi",
+   "n": "Chief MAKOi",
+   "k": "치프 마코이",
+   "d": [
+    "mech"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "선박 기관장이 거대한 선박 엔진과 기관실 설비를 직접 보여 주며 설명합니다.",
+   "see": "선박용 대형 디젤 엔진, 기관실 설비",
+   "t": "ship engine room marine 선박"
+  },
+  {
+   "id": "abom",
+   "n": "Abom79",
+   "k": "아봄",
+   "d": [
+    "mech"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "대형 산업 부품을 선반과 밀링으로 수리·가공하는 기계 가공 채널입니다.",
+   "see": "산업 장비 부품 수리 가공",
+   "t": "machining"
+  },
+  {
+   "id": "tony",
+   "n": "This Old Tony",
+   "k": "디스 올드 토니",
+   "d": [
+    "mech"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "기계 가공과 공구를 유머러스하게 다루며 공구의 구조와 원리를 설명합니다.",
+   "see": "공작기계와 공구 구조",
+   "t": "machining tools"
+  },
+  {
+   "id": "fenner",
+   "n": "Keith Fenner",
+   "k": "키스 페너",
+   "d": [
+    "mech"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "산업 현장의 대형 장비를 수리하는 기계 가공 공장의 작업을 보여 줍니다.",
+   "see": "대형 산업 장비 수리",
+   "t": "Turn Wright machine works"
+  },
+  {
+   "id": "fielding",
+   "n": "Jeremy Fielding",
+   "k": "제레미 필딩",
+   "d": [
+    "mech"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "모터와 기계 요소를 뜯어보고 활용법과 설계 원리를 설명합니다.",
+   "see": "산업용 모터, 동력 전달 요소",
+   "t": "motors mechanical"
+  },
+  {
+   "id": "jayfix",
+   "n": "Jay Fixes Stuff",
+   "k": "제이 픽시스 스터프",
+   "d": [
+    "mech"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "소형 엔진과 발전기 같은 동력 장비를 진단하고 수리합니다.",
+   "see": "소형 엔진·발전기 수리",
+   "t": "small engine generator"
+  },
+  {
+   "id": "ave",
+   "n": "AvE",
+   "k": "에이브이이",
+   "d": [
+    "mech"
+   ],
+   "l": 3,
+   "lang": "en",
+   "desc": "전동공구 등을 분해해 소재, 가공, 조립 품질을 거침없이 평가합니다.",
+   "see": "공구 분해 평가, 원가 절감 흔적 찾기",
+   "note": "은어와 비속어가 많습니다",
+   "t": "BOLTR tools teardown"
+  },
+  {
+   "id": "htr",
+   "n": "Hand Tool Rescue",
+   "k": "핸드 툴 레스큐",
+   "d": [
+    "mech",
+    "retro"
+   ],
+   "l": 1,
+   "lang": "en",
+   "desc": "녹슨 옛 공구와 기계를 완전히 분해해 복원합니다.",
+   "see": "옛 공구의 구조와 복원 공정",
+   "t": "restoration"
+  },
+  {
+   "id": "mymech",
+   "n": "My Mechanics",
+   "k": "마이 메카닉스",
+   "d": [
+    "mech",
+    "retro"
+   ],
+   "l": 1,
+   "lang": "en",
+   "desc": "오래된 기계 장치를 분해·복원하는 과정을 정교하게 기록합니다.",
+   "see": "정밀 기계 복원",
+   "t": "restoration"
+  },
+  {
+   "id": "signalpath",
+   "n": "The Signal Path",
+   "k": "시그널 패스",
+   "d": [
+    "lab"
+   ],
+   "l": 3,
+   "lang": "en",
+   "u": "https://www.youtube.com/user/TheSignalPathBlog",
+   "desc": "RF 엔지니어가 고가 계측기와 통신 장비를 분해·수리하며 회로를 깊게 분석합니다.",
+   "see": "오실로스코프·스펙트럼 분석기 내부 설계",
+   "note": "과거 영상 아카이브가 특히 알찹니다",
+   "t": "RF test equipment Shahriar 계측기"
+  },
+  {
+   "id": "carlson",
+   "n": "Mr Carlson’s Lab",
+   "k": "미스터 칼슨스 랩",
+   "d": [
+    "lab",
+    "retro"
+   ],
+   "l": 3,
+   "lang": "en",
+   "u": "https://www.youtube.com/user/MrCarlsonsLab",
+   "desc": "빈티지 라디오와 계측기를 회로 수준에서 진단·수리하며 원리를 깊게 설명합니다.",
+   "see": "진공관 장비 수리, 회로 해설",
+   "t": "vintage radio repair"
+  },
+  {
+   "id": "marcoreps",
+   "n": "Marco Reps",
+   "k": "마르코 렙스",
+   "d": [
+    "lab"
+   ],
+   "l": 3,
+   "lang": "en",
+   "desc": "계측기와 전원장치를 분해·개조하며 정밀 측정 기술을 다룹니다.",
+   "see": "정밀 계측기 내부",
+   "t": "metrology"
+  },
+  {
+   "id": "defpom",
+   "n": "Defpom’s Electronics & Repair",
+   "k": "데프폼",
+   "d": [
+    "lab"
+   ],
+   "l": 2,
+   "lang": "en",
+   "q": "TheDefpom",
+   "desc": "계측기를 중심으로 고장 난 장비를 수리하고 리뷰합니다.",
+   "see": "계측기 수리",
+   "t": "test gear repair"
+  },
+  {
+   "id": "baruch",
+   "n": "Robert Baruch",
+   "k": "로버트 바루크",
+   "d": [
+    "lab"
+   ],
+   "l": 3,
+   "lang": "en",
+   "u": "https://www.youtube.com/c/RobertBaruch",
+   "desc": "고급 전자 프로젝트와 장비 수리를 다루는 채널입니다.",
+   "see": "장비 수리, 디지털 설계 프로젝트",
+   "t": "equipment repair"
+  },
+  {
+   "id": "xdevs",
+   "kind": "web",
+   "sub": "블로그",
+   "n": "xDevs.com",
+   "k": "엑스데브스",
+   "d": [
+    "lab"
+   ],
+   "l": 3,
+   "lang": "en",
+   "u": "https://xdevs.com/",
+   "desc": "정밀 계측기의 분해, 수리, 교정 기록을 사진과 함께 정리한 사이트입니다.",
+   "see": "고정밀 계측기 내부 사진",
+   "t": "metrology teardown"
+  },
+  {
+   "id": "curiousmarc",
+   "n": "CuriousMarc",
+   "k": "큐리어스마크",
+   "d": [
+    "retro",
+    "semi"
+   ],
+   "l": 3,
+   "lang": "en",
+   "star": 1,
+   "desc": "아폴로 유도 컴퓨터 같은 역사적 장비를 복원하며, Ken Shirriff 등과 함께 칩과 회로를 역설계합니다.",
+   "see": "아폴로 장비 복원, 빈티지 컴퓨터와 계측기",
+   "t": "Apollo Ken Shirriff 아폴로"
+  },
+  {
+   "id": "usagi",
+   "n": "Usagi Electric",
+   "k": "우사기 일렉트릭",
+   "d": [
+    "retro"
+   ],
+   "l": 3,
+   "lang": "en",
+   "desc": "진공관 컴퓨터와 초기 컴퓨터를 되살리며 회로를 역추적합니다.",
+   "see": "진공관·초기 컴퓨터 복원",
+   "t": "vacuum tube computer"
+  },
+  {
+   "id": "tangents",
+   "n": "Tech Tangents",
+   "k": "테크 탄젠츠",
+   "d": [
+    "retro",
+    "lab"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "오래된 컴퓨터와 과학·산업용 장비를 수리하며 당시 기술을 되살립니다.",
+   "see": "희귀 구형 장비 수리와 데이터 복구",
+   "t": "vintage repair"
+  },
+  {
+   "id": "clickspring",
+   "n": "Clickspring",
+   "k": "클릭스프링",
+   "d": [
+    "retro",
+    "mech"
+   ],
+   "l": 3,
+   "lang": "en",
+   "desc": "안티키테라 기계를 고대에 가능했던 방식으로 재현하며 연구하는 정밀 가공 채널입니다.",
+   "see": "고대 기계장치 재현, 시계 제작",
+   "note": "업로드는 드물지만 완성도가 높습니다",
+   "t": "Antikythera clock 시계"
+  },
+  {
+   "id": "wristwatch",
+   "n": "Wristwatch Revival",
+   "k": "리스트워치 리바이벌",
+   "d": [
+    "retro",
+    "mech",
+    "fashion"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "고장 난 기계식 시계를 분해해 부품 하나하나를 복원합니다.",
+   "see": "무브먼트 구조와 정밀 부품 수리",
+   "t": "watch movement 시계"
+  },
+  {
+   "id": "rgme",
+   "n": "Retro Game Mechanics Explained",
+   "k": "레트로 게임 메커닉스",
+   "d": [
+    "retro",
+    "sec"
+   ],
+   "l": 3,
+   "lang": "en",
+   "desc": "옛 게임기의 하드웨어와 소프트웨어가 실제로 어떻게 동작하는지 역분석해 도해로 설명합니다.",
+   "see": "게임기 하드웨어의 제약과 동작 원리",
+   "t": "console NES SNES 게임기"
+  },
+  {
+   "id": "crd",
+   "n": "Cathode Ray Dude",
+   "k": "캐소드 레이 듀드",
+   "d": [
+    "retro",
+    "elec"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "잊힌 가정용·기업용 기기를 분해해 그 기술이 어떻게 작동했는지 긴 호흡으로 풀어냅니다.",
+   "see": "희귀 구형 컴퓨터와 영상 장비",
+   "t": "obscure hardware"
+  },
+  {
+   "id": "lgr",
+   "n": "LGR",
+   "k": "엘지알",
+   "d": [
+    "retro"
+   ],
+   "l": 1,
+   "lang": "en",
+   "desc": "옛 PC와 게임, 기기를 직접 써 보고 열어 보며 소개합니다.",
+   "see": "빈티지 PC와 주변기기",
+   "t": "retro PC"
+  },
+  {
+   "id": "8bitguy",
+   "n": "The 8-Bit Guy",
+   "k": "에잇비트 가이",
+   "d": [
+    "retro",
+    "explain"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "옛 컴퓨터를 복원하고 작동 원리를 쉽게 설명합니다.",
+   "see": "8비트 컴퓨터 구조",
+   "t": "retro computer"
+  },
+  {
+   "id": "adrian",
+   "n": "Adrian’s Digital Basement",
+   "k": "에이드리언스 디지털 베이스먼트",
+   "d": [
+    "retro"
+   ],
+   "l": 2,
+   "lang": "en",
+   "q": "Adrians Digital Basement",
+   "desc": "빈티지 컴퓨터를 진단·수리하며 회로를 추적합니다.",
+   "see": "옛 컴퓨터 기판 수리",
+   "t": "vintage computer repair"
+  },
+  {
+   "id": "mvg",
+   "n": "Modern Vintage Gamer",
+   "k": "모던 빈티지 게이머",
+   "d": [
+    "retro",
+    "sec"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "게임기 보안과 해킹의 역사, 하드웨어 구조를 해설합니다.",
+   "see": "게임기 보안 체계와 해킹사",
+   "t": "console security"
+  },
+  {
+   "id": "noel",
+   "n": "Noel’s Retro Lab",
+   "k": "노엘스 레트로 랩",
+   "d": [
+    "retro"
+   ],
+   "l": 2,
+   "lang": "en",
+   "q": "Noels Retro Lab",
+   "desc": "빈티지 PC와 게임기를 복원·수리합니다.",
+   "see": "옛 PC 부품 수리",
+   "t": "retro repair"
+  },
+  {
+   "id": "madlemon",
+   "n": "Ms Mad Lemon",
+   "k": "미즈 매드 레몬",
+   "d": [
+    "retro"
+   ],
+   "l": 2,
+   "lang": "en",
+   "u": "https://www.youtube.com/c/MsMadLemon",
+   "desc": "빈티지 컴퓨터와 오디오 장비를 복원합니다.",
+   "see": "옛 컴퓨터·오디오 수리",
+   "t": "vintage audio computer"
+  },
+  {
+   "id": "xraytonyb",
+   "n": "xraytonyb",
+   "k": "엑스레이토니비",
+   "d": [
+    "retro"
+   ],
+   "l": 2,
+   "lang": "en",
+   "u": "https://www.youtube.com/c/xraytonyb",
+   "desc": "빈티지 오디오 장비를 수리합니다.",
+   "see": "옛 앰프와 리시버 수리",
+   "t": "vintage audio repair"
+  },
+  {
+   "id": "gadgetuk",
+   "n": "GadgetUK164",
+   "k": "가젯유케이",
+   "d": [
+    "retro"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "게임기를 수리하고 개조합니다.",
+   "see": "게임기 수리와 개조",
+   "t": "console repair"
+  },
+  {
+   "id": "fran",
+   "n": "Fran Blanche",
+   "k": "프랜 블랑쉬",
+   "d": [
+    "retro"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "빈티지 디스플레이와 전자 기술, 우주 관련 장비를 연구하고 제작합니다.",
+   "see": "옛 전자 부품과 기술사",
+   "t": "vintage displays space"
+  },
+  {
+   "id": "mattbrown",
+   "n": "Matt Brown",
+   "k": "맷 브라운",
+   "d": [
+    "sec"
+   ],
+   "l": 3,
+   "lang": "en",
+   "v26": 1,
+   "q": "Matt Brown hardware hacking",
+   "desc": "IoT 기기에서 펌웨어를 추출하고 분석해 보안 취약점을 찾는 하드웨어 보안 연구자입니다.",
+   "see": "IP 카메라, 스트리밍 동글 같은 저가 IoT 기기 분해와 펌웨어 추출",
+   "note": "편집을 최소화한 실시간 진행 방식입니다",
+   "t": "IoT firmware UART 펌웨어"
+  },
+  {
+   "id": "stacksmashing",
+   "n": "stacksmashing",
+   "k": "스택스매싱",
+   "d": [
+    "sec"
+   ],
+   "l": 3,
+   "lang": "en",
+   "desc": "애플 기기와 게임기 등 하드웨어의 보안 구조를 역설계로 파고듭니다.",
+   "see": "칩 디버그 인터페이스 분석, 보안 구조 연구",
+   "t": "Thomas Roth hardware hacking"
+  },
+  {
+   "id": "joegrand",
+   "n": "Joe Grand",
+   "k": "조 그랜드",
+   "d": [
+    "sec"
+   ],
+   "l": 3,
+   "lang": "en",
+   "desc": "베테랑 하드웨어 해커. 잠긴 암호화폐 지갑을 하드웨어 공격으로 되찾는 등 실전 사례를 보여 줍니다.",
+   "see": "하드웨어 지갑과 기기 보안 분석",
+   "t": "crypto wallet 암호화폐"
+  },
+  {
+   "id": "liveoverflow",
+   "n": "LiveOverflow",
+   "k": "라이브오버플로",
+   "d": [
+    "sec"
+   ],
+   "l": 3,
+   "lang": "en",
+   "desc": "보안 교육 채널. 부채널·글리치 같은 하드웨어 보안 과제를 풀어 가는 시리즈도 있습니다.",
+   "see": "하드웨어 보안 CTF 풀이",
+   "t": "hardware security CTF"
+  },
+  {
+   "id": "oflynn",
+   "n": "Colin O’Flynn",
+   "k": "콜린 오플린",
+   "d": [
+    "sec"
+   ],
+   "l": 3,
+   "lang": "en",
+   "q": "Colin OFlynn",
+   "desc": "부채널 분석과 전압 글리치 공격 등 임베디드 하드웨어 보안을 연구합니다.",
+   "see": "부채널·결함 주입 공격 실험",
+   "t": "side channel glitch ChipWhisperer"
+  },
+  {
+   "id": "flashback",
+   "n": "Flashback Team",
+   "k": "플래시백 팀",
+   "d": [
+    "sec"
+   ],
+   "l": 3,
+   "lang": "en",
+   "desc": "공유기 같은 IoT 기기의 펌웨어 취약점을 분석하는 보안 연구 팀입니다.",
+   "see": "IoT 펌웨어 취약점 분석",
+   "t": "router firmware"
+  },
+  {
+   "id": "lowlevel",
+   "n": "Low Level",
+   "k": "로우 레벨",
+   "d": [
+    "sec"
+   ],
+   "l": 3,
+   "lang": "en",
+   "desc": "보안 취약점과 저수준 프로그래밍을 해설합니다. 저가 공유기 같은 기기의 하드웨어 분석도 다룹니다.",
+   "see": "저가 IoT 기기 분석",
+   "t": "router security"
+  },
+  {
+   "id": "scanlime",
+   "n": "scanlime",
+   "k": "스캔라임 미카 스콧",
+   "d": [
+    "sec"
+   ],
+   "l": 3,
+   "lang": "en",
+   "u": "https://www.youtube.com/c/scanlime",
+   "desc": "Micah Scott의 채널. 하드웨어와 펌웨어를 역설계하는 과정을 보여 준 것으로 유명합니다.",
+   "see": "USB 기기·펌웨어 역설계",
+   "t": "reverse engineering firmware"
+  },
+  {
+   "id": "kamkar",
+   "n": "Samy Kamkar",
+   "k": "새미 캄카르",
+   "d": [
+    "sec"
+   ],
+   "l": 3,
+   "lang": "en",
+   "desc": "보안 연구자. 자물쇠와 무선 기기 등 하드웨어 보안의 허점을 파헤칩니다.",
+   "see": "무선 차고 문과 자물쇠 보안",
+   "t": "hardware hacking locks"
+  },
+  {
+   "id": "hackaday_yt",
+   "n": "Hackaday",
+   "k": "해커데이",
+   "d": [
+    "sec",
+    "elec"
+   ],
+   "l": 3,
+   "lang": "en",
+   "sub": "행사 영상",
+   "desc": "하드웨어 해킹 매체의 채널. Supercon 등 행사 발표 영상에 역설계 사례가 많습니다.",
+   "see": "하드웨어 컨퍼런스 발표",
+   "t": "Supercon talks"
+  },
+  {
+   "id": "defcon",
+   "n": "DEF CON",
+   "k": "데프콘",
+   "d": [
+    "sec"
+   ],
+   "l": 3,
+   "lang": "en",
+   "sub": "행사 영상",
+   "q": "DEFCONConference",
+   "desc": "대표적인 해킹 컨퍼런스의 발표 영상 아카이브. 하드웨어 해킹 발표가 많습니다.",
+   "see": "하드웨어·IoT 해킹 발표",
+   "t": "conference talks"
+  },
+  {
+   "id": "ccc",
+   "kind": "web",
+   "sub": "행사 영상",
+   "n": "media.ccc.de",
+   "k": "카오스 컴퓨터 클럽",
+   "d": [
+    "sec"
+   ],
+   "l": 3,
+   "lang": "en",
+   "u": "https://media.ccc.de/",
+   "desc": "카오스 컴퓨터 클럽 행사의 발표 영상 아카이브. 기차, 가전 같은 실물 기기를 역설계한 발표가 자주 나옵니다.",
+   "see": "하드웨어 역설계 발표",
+   "t": "CCC congress talks"
+  },
+  {
+   "id": "hardwear",
+   "kind": "web",
+   "sub": "행사",
+   "n": "Hardwear.io",
+   "k": "하드웨어아이오",
+   "d": [
+    "sec"
+   ],
+   "l": 3,
+   "lang": "en",
+   "u": "https://hardwear.io/",
+   "desc": "하드웨어 보안 전문 컨퍼런스. 발표 자료와 영상이 공개됩니다.",
+   "see": "칩과 기기 보안 연구 발표",
+   "t": "hardware security conference"
+  },
+  {
+   "id": "recon",
+   "kind": "web",
+   "sub": "행사",
+   "n": "REcon",
+   "k": "리콘",
+   "d": [
+    "sec"
+   ],
+   "l": 3,
+   "lang": "en",
+   "u": "https://recon.cx/",
+   "desc": "리버스 엔지니어링 전문 컨퍼런스. 주로 소프트웨어·펌웨어지만 하드웨어 발표도 있습니다.",
+   "see": "역설계 기법 발표",
+   "t": "reverse engineering conference"
+  },
+  {
+   "id": "appliedsci",
+   "n": "Applied Science",
+   "k": "어플라이드 사이언스 벤 크라스노",
+   "d": [
+    "micro",
+    "semieq"
+   ],
+   "l": 3,
+   "lang": "en",
+   "u": "https://www.youtube.com/c/AppliedScience",
+   "desc": "전자현미경, X선 같은 실험 장비로 제품과 소재를 분석하는 과학·공학 실험 채널입니다.",
+   "see": "칩 디캡, 전자현미경 관찰",
+   "t": "SEM x-ray Ben Krasnow 현미경"
+  },
+  {
+   "id": "breakingtaps",
+   "n": "Breaking Taps",
+   "k": "브레이킹 탭스",
+   "d": [
+    "micro",
+    "semieq"
+   ],
+   "l": 3,
+   "lang": "en",
+   "desc": "주사전자현미경(SEM)으로 제품의 미세 구조를 들여다보고, 미세 가공을 직접 실험합니다.",
+   "see": "미세 구조 관찰과 미세 가공 실험",
+   "t": "SEM microscope 현미경"
+  },
+  {
+   "id": "lumafield",
+   "kind": "web",
+   "sub": "기업",
+   "n": "Lumafield",
+   "k": "루마필드",
+   "d": [
+    "micro",
+    "food",
+    "cosme",
+    "fashion"
+   ],
+   "l": 3,
+   "lang": "en",
+   "v26": 1,
+   "u": "https://www.lumafield.com/",
+   "desc": "산업용 CT 스캐너 기업. 제품 속을 뜯지 않고 스캔한 사례를 공개하며, iFixit도 분해 전에 이 장비를 씁니다.",
+   "see": "아이스크림 용기 같은 소비재 포장, 러닝화 등 제품 속 CT 스캔 사례",
+   "t": "CT scan x-ray packaging 포장"
+  },
+  {
+   "id": "practical",
+   "n": "Practical Engineering",
+   "k": "프랙티컬 엔지니어링",
+   "d": [
+    "fail",
+    "build",
+    "explain"
+   ],
+   "l": 2,
+   "lang": "en",
+   "star": 1,
+   "desc": "댐, 도로, 상하수도 같은 기반시설의 작동 원리와 붕괴·사고 원인을 해설합니다.",
+   "see": "인프라 사고 분석, 토목 원리",
+   "t": "infrastructure failure civil"
+  },
+  {
+   "id": "mentour",
+   "n": "Mentour Pilot",
+   "k": "멘토 파일럿",
+   "d": [
+    "fail",
+    "aero"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "여객기 기장이 항공 사고를 기술과 절차 측면에서 재구성합니다.",
+   "see": "항공 사고 재구성",
+   "t": "air crash analysis"
+  },
+  {
+   "id": "blancolirio",
+   "n": "blancolirio",
+   "k": "블랑코리오",
+   "d": [
+    "fail",
+    "aero"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "항공 사고와 최신 항공 이슈를 조종사 관점에서 분석합니다.",
+   "see": "항공 사고 초기 분석",
+   "t": "aviation accident"
+  },
+  {
+   "id": "branch",
+   "n": "Branch Education",
+   "k": "브랜치 에듀케이션",
+   "d": [
+    "explain",
+    "pc",
+    "semi",
+    "semieq"
+   ],
+   "l": 2,
+   "lang": "en",
+   "star": 1,
+   "desc": "스마트폰, SSD, CPU 등 기기 내부를 정교한 3D 애니메이션으로 해부합니다.",
+   "see": "칩, 저장장치, 디스플레이의 작동 원리",
+   "t": "animation CPU SSD 애니메이션"
+  },
+  {
+   "id": "animagraffs",
+   "n": "Animagraffs",
+   "k": "애니마그래프스",
+   "d": [
+    "explain",
+    "auto",
+    "mech"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "엔진, 차량, 기계를 3D 분해도 애니메이션으로 한 부품씩 보여 줍니다.",
+   "see": "자동차·기계 3D 분해 해설",
+   "t": "3D animation engine 애니메이션"
+  },
+  {
+   "id": "jaredowen",
+   "n": "Jared Owen",
+   "k": "재러드 오웬",
+   "d": [
+    "explain"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "기계와 구조물이 어떻게 움직이는지 3D 애니메이션으로 단순하게 보여 줍니다.",
+   "see": "기계 장치 작동 원리",
+   "t": "3D animation 애니메이션"
+  },
+  {
+   "id": "lesics",
+   "n": "Lesics",
+   "k": "레식스",
+   "d": [
+    "explain"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "기계·전기 장치의 작동 원리를 3D 애니메이션으로 해설합니다.",
+   "see": "엔진, 변속기, 전기 기계",
+   "t": "animation"
+  },
+  {
+   "id": "learneng",
+   "n": "Learn Engineering",
+   "k": "런 엔지니어링",
+   "d": [
+    "explain"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "엔진, 변속기, 전기 기계 같은 장치를 3D 애니메이션으로 설명합니다.",
+   "see": "기계 요소 작동 원리",
+   "t": "animation"
+  },
+  {
+   "id": "realeng",
+   "n": "Real Engineering",
+   "k": "리얼 엔지니어링",
+   "d": [
+    "explain"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "항공기, 로켓, 에너지 기술의 공학적 배경을 깊게 분석합니다.",
+   "see": "첨단 기술의 설계 논리",
+   "t": "engineering analysis"
+  },
+  {
+   "id": "mould",
+   "n": "Steve Mould",
+   "k": "스티브 몰드",
+   "d": [
+    "explain"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "기계 장치와 물리 현상의 원리를 직접 만든 실험 장치로 보여 줍니다.",
+   "see": "메커니즘 원리 실험",
+   "t": "mechanisms physics"
+  },
+  {
+   "id": "efficient",
+   "n": "The Efficient Engineer",
+   "k": "이피션트 엔지니어",
+   "d": [
+    "explain",
+    "metal"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "재료역학과 유체 같은 공학 기초를 애니메이션으로 설명합니다. 부품이 왜 그런 형상인지 이해하는 바탕이 됩니다.",
+   "see": "응력, 피로, 유체 기초",
+   "t": "mechanics of materials"
+  },
+  {
+   "id": "primal",
+   "n": "Primal Space",
+   "k": "프라이멀 스페이스",
+   "d": [
+    "explain"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "엔진과 기계 내부를 3D 애니메이션으로 해부합니다.",
+   "see": "기계 내부 3D 해설",
+   "t": "3D animation engine"
+  },
+  {
+   "id": "beneater",
+   "n": "Ben Eater",
+   "k": "벤 이터",
+   "d": [
+    "explain",
+    "pc"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "브레드보드로 컴퓨터를 처음부터 조립하며 컴퓨터 내부 동작을 설명합니다.",
+   "see": "8비트 컴퓨터 자작, 네트워크 원리",
+   "t": "breadboard computer"
+  },
+  {
+   "id": "andoel",
+   "n": "안될공학",
+   "k": "안될공학 IT 테크 신기술",
+   "d": [
+    "explain",
+    "semi"
+   ],
+   "l": 2,
+   "lang": "ko",
+   "desc": "반도체와 IT 신기술을 공학적으로 풀어 설명하는 한국어 채널입니다.",
+   "see": "칩 기술과 업계 이슈 해설",
+   "t": "반도체 IT"
+  },
+  {
+   "id": "asianometry",
+   "n": "Asianometry",
+   "k": "아시아노메트리",
+   "d": [
+    "context",
+    "semi",
+    "semieq"
+   ],
+   "l": 2,
+   "lang": "en",
+   "star": 1,
+   "desc": "반도체와 첨단 산업의 역사, 기술, 기업 전략을 깊이 있게 해설합니다.",
+   "see": "반도체 공정·장비 산업사, 노광 장비 이야기",
+   "t": "semiconductor history"
+  },
+  {
+   "id": "potato",
+   "n": "TechTechPotato",
+   "k": "테크테크포테이토 이안 커트리스",
+   "d": [
+    "context",
+    "semi"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "반도체 애널리스트 Ian Cutress가 칩 설계와 산업 동향을 분석합니다.",
+   "see": "칩 아키텍처, 업계 인터뷰",
+   "t": "Ian Cutress"
+  },
+  {
+   "id": "anastasi",
+   "n": "Anastasi In Tech",
+   "k": "아나스타시 인 테크",
+   "d": [
+    "context",
+    "semi"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "칩 설계 엔지니어 출신이 최신 반도체 기술을 해설합니다.",
+   "see": "칩 설계와 신기술 흐름",
+   "t": "chip design"
+  },
+  {
+   "id": "insiderbiz",
+   "n": "Insider Business",
+   "k": "인사이더 비즈니스",
+   "d": [
+    "context",
+    "cost"
+   ],
+   "l": 2,
+   "lang": "en",
+   "sub": "제조 공정",
+   "desc": "공장과 산업 현장의 제조 공정을 짧은 다큐로 보여 주는 채널. ‘So Expensive’ 시리즈는 어떤 제품이 왜 비싼지 원가 구조로 풀어 줍니다.",
+   "see": "제조 현장, 비싼 제품의 원가 구조",
+   "t": "how its made factory manufacturing 공정 so expensive 원가"
+  },
+  {
+   "id": "thoughtemporium",
+   "n": "The Thought Emporium",
+   "k": "쏘트 엠포리움 저스틴 앳킨",
+   "d": [
+    "bio"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "DIY 생물학 실험실을 꾸리고 인큐베이터, 가열 블록 같은 실험 장비를 직접 만들어 쓰며 원리를 보여 줍니다. 유전공학부터 기계까지 폭넓게 다룹니다.",
+   "see": "실험 장비 자작, 바이오 실험 과정",
+   "t": "DIY biology lab equipment 바이오"
+  },
+  {
+   "id": "hackteria",
+   "kind": "web",
+   "sub": "커뮤니티 위키",
+   "n": "Hackteria 위키 (유전체 분석기 분해)",
+   "k": "해크테리아 HiSeq",
+   "d": [
+    "bio"
+   ],
+   "l": 3,
+   "lang": "en",
+   "u": "https://www.hackteria.org/wiki/HiSeq2000_-_Next_Level_Hacking",
+   "desc": "스위스 해커스페이스가 중고 Illumina 유전체 분석기(HiSeq 2000)를 분해해 모듈별 구조와 제어 명령까지 문서로 정리했습니다.",
+   "see": "미세유체·광학 스캔 모듈 구조",
+   "t": "Illumina sequencer teardown 시퀀서"
+  },
+  {
+   "id": "skorobogatov",
+   "kind": "web",
+   "sub": "논문",
+   "n": "인슐린 펌프 심층 분해 논문 (Skorobogatov)",
+   "k": "스코로보가토프 옴니팟",
+   "d": [
+    "bio",
+    "sec"
+   ],
+   "l": 3,
+   "lang": "en",
+   "u": "https://arxiv.org/pdf/1709.06026",
+   "desc": "무선 인슐린 펌프(OmniPod)를 기계 구조, 회로, 부품 식별, 펌웨어 추출까지 단계별로 역설계한 연구 논문입니다.",
+   "see": "의료기기 역설계의 전 과정",
+   "t": "OmniPod insulin pump teardown 의료기기"
+  },
+  {
+   "id": "ifixit_med",
+   "kind": "web",
+   "sub": "데이터베이스",
+   "n": "iFixit 의료기기 수리 DB",
+   "k": "아이픽스잇 의료기기",
+   "d": [
+    "bio"
+   ],
+   "l": 2,
+   "lang": "en",
+   "u": "https://www.ifixit.com/Device/Medical_Device",
+   "desc": "인공호흡기, 마취기 등 병원·실험실 장비의 수리 매뉴얼 1만 3천여 건을 모은 데이터베이스입니다.",
+   "see": "의료·실험 장비 서비스 매뉴얼",
+   "t": "medical device repair ventilator 의료"
+  },
+  {
+   "id": "asml",
+   "n": "ASML",
+   "k": "에이에스엠엘 노광",
+   "d": [
+    "semieq"
+   ],
+   "l": 2,
+   "lang": "en",
+   "sub": "기업 공식",
+   "desc": "EUV 노광장비 제조사의 공식 채널. 장비가 빛을 만들고 회로 패턴을 새기는 원리를 애니메이션으로 설명합니다.",
+   "see": "EUV 노광 원리와 장비 구조",
+   "t": "EUV lithography 노광"
+  },
+  {
+   "id": "hackerfab",
+   "kind": "web",
+   "sub": "오픈소스",
+   "n": "Hacker Fab",
+   "k": "해커팹",
+   "d": [
+    "semieq"
+   ],
+   "l": 3,
+   "lang": "en",
+   "v26": 1,
+   "u": "https://docs.hackerfab.org/",
+   "desc": "노광 스테퍼 같은 반도체 제조 장비를 직접 만들어 보는 오픈소스 프로젝트. 장비를 부품 단위로 조립하는 문서가 공개돼 있습니다.",
+   "see": "노광 스테퍼 제작 문서",
+   "t": "lithography stepper open source 노광"
+  },
+  {
+   "id": "nomagicpill",
+   "kind": "web",
+   "sub": "블로그",
+   "n": "No Magic Pill: Semiconductor Fabs",
+   "k": "노매직필",
+   "d": [
+    "semieq"
+   ],
+   "l": 3,
+   "lang": "en",
+   "u": "https://nomagicpill.site/research/fabs.html",
+   "desc": "팹 장비가 어떻게 구성되는지(공정 챔버, 진공 펌프, 스로틀 밸브 등) 현장 경험을 바탕으로 풀어 쓴 해설 글입니다.",
+   "see": "증착·식각 장비의 구성과 제어",
+   "t": "fab equipment vacuum chamber 장비"
+  },
+  {
+   "id": "semieng",
+   "kind": "web",
+   "sub": "매체",
+   "n": "Semiconductor Engineering",
+   "k": "세미컨덕터 엔지니어링",
+   "d": [
+    "semieq",
+    "semi"
+   ],
+   "l": 3,
+   "lang": "en",
+   "u": "https://semiengineering.com/",
+   "desc": "반도체 공정, 장비, 패키징의 기술 쟁점을 깊게 다루는 전문 매체입니다.",
+   "see": "공정·장비 기술 기사",
+   "t": "process equipment packaging"
+  },
+  {
+   "id": "semiwiki",
+   "kind": "web",
+   "sub": "커뮤니티",
+   "n": "SemiWiki",
+   "k": "세미위키",
+   "d": [
+    "semieq",
+    "semi"
+   ],
+   "l": 2,
+   "lang": "en",
+   "u": "https://semiwiki.com/",
+   "desc": "반도체 업계 사람들이 공정, 장비, 분해 보고서를 토론하는 커뮤니티입니다.",
+   "see": "분해 보고서 토론, 업계 소식",
+   "t": "forum semiconductor"
+  },
+  {
+   "id": "samsungsemi",
+   "kind": "web",
+   "sub": "기업 뉴스룸",
+   "n": "삼성반도체 뉴스룸",
+   "k": "삼성전자 반도체 8대 공정",
+   "d": [
+    "semieq",
+    "semi"
+   ],
+   "l": 2,
+   "lang": "ko",
+   "u": "https://news.samsungsemiconductor.com/kr/",
+   "desc": "삼성전자 반도체 부문의 공식 뉴스룸. 반도체 공정과 장비를 한국어로 쉽게 풀어 줍니다.",
+   "see": "8대 공정 해설, 기술 용어 정리",
+   "t": "반도체 공정"
+  },
+  {
+   "id": "skhynix",
+   "kind": "web",
+   "sub": "기업 뉴스룸",
+   "n": "SK하이닉스 뉴스룸",
+   "k": "에스케이하이닉스",
+   "d": [
+    "semieq",
+    "semi"
+   ],
+   "l": 2,
+   "lang": "ko",
+   "u": "https://news.skhynix.co.kr/",
+   "desc": "SK하이닉스 공식 뉴스룸. 메모리 기술과 제조 공정을 한국어로 해설합니다.",
+   "see": "HBM 등 메모리 기술, 공정 해설",
+   "t": "메모리 HBM 공정"
+  },
+  {
+   "id": "dieselcreek",
+   "n": "Diesel Creek",
+   "k": "디젤 크릭",
+   "d": [
+    "cmach"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "수년간 방치된 오래된 중장비를 다시 살려 내는 채널. 굴착기, 로더 등의 엔진과 유압 계통이 그대로 드러납니다.",
+   "see": "방치 중장비 부활, 고장 부위 추적",
+   "t": "heavy equipment revival Caterpillar 굴착기"
+  },
+  {
+   "id": "pytel",
+   "n": "Jim Pytel",
+   "k": "짐 파이텔",
+   "d": [
+    "cmach",
+    "explain"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "유압, 전기 기계, 제어를 강의식으로 설명합니다. 건설기계의 유압 계통을 이해하는 기초가 됩니다.",
+   "see": "유압 회로와 밸브, 전기 기계 강의",
+   "t": "hydraulics lectures 유압"
+  },
+  {
+   "id": "mustie1",
+   "n": "Mustie1",
+   "k": "머스티원",
+   "d": [
+    "cmach",
+    "mech"
+   ],
+   "l": 1,
+   "lang": "en",
+   "desc": "오래 방치된 소형 엔진과 장비를 되살리는 과정을 보여 줍니다.",
+   "see": "소형 엔진·장비 부활",
+   "t": "small engine revival"
+  },
+  {
+   "id": "toolteardown",
+   "n": "Tool Teardown",
+   "k": "툴 티어다운",
+   "d": [
+    "mech"
+   ],
+   "l": 1,
+   "lang": "en",
+   "u": "https://www.youtube.com/@toolteardown",
+   "desc": "전동공구와 수공구를 분해해 속을 보여 주며 구매 판단을 돕습니다.",
+   "see": "공구 내부 구조 비교",
+   "t": "power tools teardown 공구"
+  },
+  {
+   "id": "b1m",
+   "n": "The B1M",
+   "k": "비원엠",
+   "d": [
+    "build"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "건설 전문 채널. 초고층, 교량, 인프라 같은 대형 프로젝트가 어떻게 설계되고 지어지는지 풀어 줍니다.",
+   "see": "메가프로젝트 공법과 산업 이야기",
+   "t": "construction megaproject 건설"
+  },
+  {
+   "id": "buildshow",
+   "n": "Matt Risinger (Build Show)",
+   "k": "맷 리싱어 빌드쇼",
+   "d": [
+    "build"
+   ],
+   "l": 2,
+   "lang": "en",
+   "q": "Build Show Matt Risinger",
+   "desc": "미국 건축업자가 건축과학 관점에서 벽체, 단열, 창호 같은 건물 구성 요소를 뜯어보듯 설명합니다.",
+   "see": "벽체·지붕 단면 구성, 단열과 방습",
+   "t": "building science 단열"
+  },
+  {
+   "id": "essentialcraftsman",
+   "n": "Essential Craftsman",
+   "k": "에센셜 크래프츠맨",
+   "d": [
+    "build"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "숙련 건축가가 콘크리트, 골조 같은 시공 기술과 그렇게 하는 이유를 차분하게 가르칩니다.",
+   "see": "시공 기술과 현장 노하우",
+   "t": "concrete framing 시공"
+  },
+  {
+   "id": "nist",
+   "kind": "web",
+   "sub": "공공 기관",
+   "n": "NIST 재난·붕괴 조사",
+   "k": "미국 국립표준기술연구소",
+   "d": [
+    "build",
+    "fail"
+   ],
+   "l": 3,
+   "lang": "en",
+   "u": "https://www.nist.gov/disaster-failure-studies",
+   "desc": "미국 국립표준기술연구소가 건물 붕괴 같은 재난을 공학적으로 조사한 보고서를 공개합니다.",
+   "see": "건물 붕괴 원인 조사 보고서",
+   "t": "building collapse investigation 붕괴"
+  },
+  {
+   "id": "ksn_yt",
+   "n": "Knife Steel Nerds",
+   "k": "나이프 스틸 너즈 래린 토머스",
+   "d": [
+    "metal"
+   ],
+   "l": 3,
+   "lang": "en",
+   "u": "https://www.youtube.com/@KnifeSteelNerds",
+   "desc": "철강 야금학 박사 Larrin Thomas의 채널. 강재의 조성, 열처리, 미세조직이 성능을 어떻게 바꾸는지 설명합니다.",
+   "see": "열처리와 미세조직, 강종 비교",
+   "t": "metallurgy steel heat treatment 열처리 야금"
+  },
+  {
+   "id": "alecsteele",
+   "n": "Alec Steele",
+   "k": "알렉 스틸",
+   "d": [
+    "metal"
+   ],
+   "l": 1,
+   "lang": "en",
+   "desc": "대장장이가 단조와 다마스커스 강 제작 과정을 보여 줍니다.",
+   "see": "단조 공정, 패턴 용접 강",
+   "t": "forging blacksmith damascus 단조"
+  },
+  {
+   "id": "myfordboy",
+   "n": "myfordboy",
+   "k": "마이포드보이",
+   "d": [
+    "metal"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "집에서 금속 주조를 하며 모래 주형, 용해, 주입 과정을 자세히 보여 줍니다.",
+   "see": "사형 주조 공정",
+   "t": "metal casting foundry 주조"
+  },
+  {
+   "id": "ksn_web",
+   "kind": "web",
+   "sub": "블로그",
+   "n": "Knife Steel Nerds 블로그",
+   "k": "나이프 스틸 너즈",
+   "d": [
+    "metal"
+   ],
+   "l": 3,
+   "lang": "en",
+   "u": "https://knifesteelnerds.com/",
+   "desc": "자동차용 강재를 개발하는 야금학 박사가 강재 열처리와 미세조직을 직접 실험해 정리한 블로그입니다.",
+   "see": "열처리 연구, 미세조직 사진",
+   "t": "metallurgy steel 야금"
+  },
+  {
+   "id": "matweb",
+   "kind": "web",
+   "sub": "데이터베이스",
+   "n": "MatWeb",
+   "k": "맷웹 소재 물성",
+   "d": [
+    "metal"
+   ],
+   "l": 2,
+   "lang": "en",
+   "u": "https://www.matweb.com/",
+   "desc": "금속, 플라스틱, 세라믹 등 소재의 물성 데이터를 찾아볼 수 있는 데이터베이스입니다.",
+   "see": "소재별 물성표",
+   "t": "material properties database 물성"
+  },
+  {
+   "id": "doitpoms",
+   "kind": "web",
+   "sub": "교육 자료",
+   "n": "DoITPoMS (케임브리지대)",
+   "k": "두잇폼스",
+   "d": [
+    "metal",
+    "explain"
+   ],
+   "l": 2,
+   "lang": "en",
+   "u": "https://www.doitpoms.ac.uk/",
+   "desc": "케임브리지대가 만든 재료과학 교육 자료. 미세조직, 상변태, 파괴 같은 개념을 그림과 시뮬레이션으로 설명합니다.",
+   "see": "재료과학 기초와 미세조직 사진",
+   "t": "materials science teaching"
+  },
+  {
+   "id": "posco",
+   "kind": "web",
+   "sub": "기업 뉴스룸",
+   "n": "포스코 뉴스룸",
+   "k": "POSCO 제철",
+   "d": [
+    "metal"
+   ],
+   "l": 2,
+   "lang": "ko",
+   "u": "https://newsroom.posco.com/kr/",
+   "desc": "포스코 공식 뉴스룸. 제철 공정과 철강 소재를 한국어로 설명하는 콘텐츠가 있습니다.",
+   "see": "제철·압연 공정, 철강 제품 해설",
+   "t": "철강 제철 압연"
+  },
+  {
+   "id": "minja",
+   "n": "이승현MinJaTV",
+   "k": "이승현TV 민자",
+   "d": [
+    "auto"
+   ],
+   "l": 2,
+   "lang": "ko",
+   "q": "이승현 MinJaTV",
+   "desc": "디젤차 전문 정비소의 현직 정비사가 부품을 뜯어 청소·수리하며, 설계가 정비성에 미치는 영향을 짚습니다.",
+   "see": "DPF·인젝터·흡기 계통 정비, 브랜드별 부품값",
+   "note": "2019년 기사에서 소개된 채널이라 최근 활동은 확인이 필요합니다",
+   "t": "디젤 정비 DPF"
+  },
+  {
+   "id": "weissman",
+   "n": "Joshua Weissman",
+   "k": "조슈아 와이스먼",
+   "d": [
+    "food",
+    "cost"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "유명 패스트푸드와 인기 메뉴를 집에서 다시 만들어 보며 맛을 이루는 요소를 하나씩 뜯어봅니다.",
+   "see": "‘But Better’ 등 인기 메뉴 재현 시리즈, 1인분 원가를 비교하는 ‘But Cheaper’",
+   "t": "fast food copycat 패스트푸드"
+  },
+  {
+   "id": "chlebowski",
+   "n": "Ethan Chlebowski",
+   "k": "이선 클레보스키",
+   "d": [
+    "food"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "식당 음식이 왜 그런 맛을 내는지 조리 과학과 재료 비율로 따져 보는 채널입니다.",
+   "see": "외식 메뉴의 맛 구조 분석",
+   "t": "food science restaurant"
+  },
+  {
+   "id": "ragusea",
+   "n": "Adam Ragusea",
+   "k": "애덤 라구시아",
+   "d": [
+    "food",
+    "explain"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "음식과 식품 산업의 과학, 역사를 찬찬히 풀어 설명합니다.",
+   "see": "조리 과학, 식품 산업 이야기",
+   "t": "food science history"
+  },
+  {
+   "id": "atk",
+   "n": "America’s Test Kitchen",
+   "k": "아메리카스 테스트 키친",
+   "d": [
+    "food"
+   ],
+   "l": 2,
+   "lang": "en",
+   "q": "Americas Test Kitchen",
+   "desc": "요리 기구와 시판 식품을 같은 조건에서 시험·비교하고, 레시피가 왜 그렇게 되는지 실험으로 검증합니다.",
+   "see": "주방 기구 비교 시험, 시판 제품 맛 비교",
+   "t": "equipment review taste test"
+  },
+  {
+   "id": "hoffmann",
+   "n": "James Hoffmann",
+   "k": "제임스 호프만",
+   "d": [
+    "food",
+    "elec"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "커피 전문가가 커피 머신과 기구를 시험·비교하고, 인기 커피 제품을 과학적으로 따져 봅니다.",
+   "see": "커피 머신·그라인더 비교, 시판 커피 분석",
+   "t": "coffee machine grinder 커피"
+  },
+  {
+   "id": "insiderfood",
+   "n": "Insider Food",
+   "k": "인사이더 푸드",
+   "d": [
+    "food",
+    "context"
+   ],
+   "l": 1,
+   "lang": "en",
+   "sub": "제조 공정",
+   "desc": "식품이 공장과 산지에서 어떻게 만들어지는지 짧은 다큐로 보여 줍니다.",
+   "see": "식품 제조 현장",
+   "t": "how food is made factory"
+  },
+  {
+   "id": "tsr",
+   "kind": "web",
+   "sub": "레시피 역설계",
+   "n": "Top Secret Recipes (Todd Wilbur)",
+   "k": "탑 시크릿 레시피 토드 윌버",
+   "d": [
+    "food"
+   ],
+   "l": 3,
+   "lang": "en",
+   "star": 1,
+   "u": "https://topsecretrecipes.com/",
+   "desc": "25년 넘게 유명 브랜드 음식을 역설계해 온 ‘푸드 해커’의 사이트. 패스트푸드와 과자 등의 복제 레시피를 공개합니다.",
+   "see": "브랜드 음식 복제 레시피와 분석 과정",
+   "t": "copycat recipe clone 복제 레시피"
+  },
+  {
+   "id": "seriouseats",
+   "kind": "web",
+   "sub": "매체",
+   "n": "Serious Eats",
+   "k": "시리어스 잇츠",
+   "d": [
+    "food"
+   ],
+   "l": 2,
+   "lang": "en",
+   "u": "https://www.seriouseats.com/",
+   "desc": "조리 과학을 실험으로 파고드는 음식 매체입니다.",
+   "see": "조리법의 과학적 검증",
+   "t": "food lab science"
+  },
+  {
+   "id": "cr",
+   "kind": "web",
+   "sub": "시험 기관",
+   "n": "Consumer Reports",
+   "k": "컨슈머 리포트",
+   "d": [
+    "food",
+    "cosme"
+   ],
+   "l": 3,
+   "lang": "en",
+   "u": "https://www.consumerreports.org/",
+   "desc": "제품을 직접 사서 실험실에서 시험하는 미국 비영리 소비자 단체. 식품 속 유해물질, 자외선 차단제 효과 등을 검사해 공개합니다.",
+   "see": "식품 중금속 검사, 선크림 시험",
+   "note": "상세 결과 일부는 유료 회원 전용입니다",
+   "t": "lab testing products"
+  },
+  {
+   "id": "kca",
+   "kind": "web",
+   "sub": "공공 기관",
+   "n": "한국소비자원",
+   "k": "소비자원 시험 결과",
+   "d": [
+    "food",
+    "cosme"
+   ],
+   "l": 3,
+   "lang": "ko",
+   "u": "https://www.kca.go.kr/",
+   "desc": "생활용품, 식품, 화장품 등을 시험·비교한 결과를 공개하는 공공 기관입니다.",
+   "see": "제품 비교 시험 결과, 안전 정보",
+   "t": "비교 시험 소비자"
+  },
+  {
+   "id": "foodsafety",
+   "kind": "web",
+   "sub": "공공 데이터",
+   "n": "식품안전나라 (식약처)",
+   "k": "식품안전나라",
+   "d": [
+    "food"
+   ],
+   "l": 3,
+   "lang": "ko",
+   "u": "https://www.foodsafetykorea.go.kr/",
+   "desc": "식약처 식품 안전 포털. 제품과 제조업체, 회수 정보를 조회할 수 있습니다.",
+   "see": "제조업체 확인, 회수·판매중지 정보",
+   "t": "식품 제조업체 조회"
+  },
+  {
+   "id": "impfood",
+   "kind": "web",
+   "sub": "공공 데이터",
+   "n": "수입식품정보마루 (식약처)",
+   "k": "수입식품 조회",
+   "d": [
+    "food"
+   ],
+   "l": 4,
+   "lang": "ko",
+   "u": "https://impfood.mfds.go.kr/",
+   "desc": "수입식품을 제품명, 수입업체, 해외 제조업소로 조회할 수 있는 식약처 사이트. 수입 식품이 실제로 어느 공장에서 만들어졌는지 추적할 수 있습니다.",
+   "see": "수입식품과 해외 제조업소 조회",
+   "t": "수입식품 해외제조업소 공급망"
+  },
+  {
+   "id": "labmuffin",
+   "n": "Lab Muffin Beauty Science",
+   "k": "랩 머핀 미셸 웡",
+   "d": [
+    "cosme"
+   ],
+   "l": 3,
+   "lang": "en",
+   "star": 1,
+   "v26": 1,
+   "u": "https://www.youtube.com/@LabMuffinBeautyScience",
+   "desc": "화학 박사이자 화장품 화학자인 Michelle Wong이 스킨케어 제품의 성분과 제형을 과학적으로 뜯어보고 유행하는 주장을 검증합니다.",
+   "see": "선크림 과학, 유행 성분 검증",
+   "note": "블로그 labmuffin.com에 글로도 정리돼 있습니다",
+   "t": "cosmetic chemist skincare science 선크림"
+  },
+  {
+   "id": "chemconf",
+   "n": "Chemist Confessions",
+   "k": "케미스트 컨페션스",
+   "d": [
+    "cosme"
+   ],
+   "l": 3,
+   "lang": "en",
+   "desc": "화장품 화학자 두 사람이 제품 성분과 제형을 분석하고 마케팅 문구를 검증합니다.",
+   "see": "제형 분석, 성분 오해 바로잡기",
+   "t": "cosmetic chemist formulation"
+  },
+  {
+   "id": "directorpi",
+   "n": "디렉터파이",
+   "k": "디렉터 파이 Director Pi",
+   "d": [
+    "cosme"
+   ],
+   "l": 2,
+   "lang": "ko",
+   "u": "https://www.youtube.com/channel/UCqrNqg3UgVoD3Sa-F_TxuSA",
+   "desc": "2016년부터 화장품 전성분을 해석하고 제품을 비교해 온 국내 채널입니다.",
+   "see": "제품별 전성분 분석, 추천 제품 비교",
+   "note": "일부 성분 해석과 광고 방식에 약사 등 전문가들의 반론이 있었으니 다른 자료와 함께 보는 게 좋습니다",
+   "t": "화장품 성분 전성분"
+  },
+  {
+   "id": "incidecoder",
+   "kind": "web",
+   "sub": "데이터베이스",
+   "n": "INCIDecoder",
+   "k": "인시디코더",
+   "d": [
+    "cosme"
+   ],
+   "l": 3,
+   "lang": "en",
+   "u": "https://incidecoder.com/",
+   "desc": "화장품 전성분을 성분별로 풀어 각 성분이 어떤 역할을 하는지 설명해 주는 데이터베이스입니다.",
+   "see": "전성분 해독, 성분별 기능",
+   "t": "ingredient list decoder INCI 전성분"
+  },
+  {
+   "id": "skinsort",
+   "kind": "web",
+   "sub": "데이터베이스",
+   "n": "SkinSort 듀프 파인더",
+   "k": "스킨소트 듀프",
+   "d": [
+    "cosme"
+   ],
+   "l": 3,
+   "lang": "en",
+   "u": "https://skinsort.com/dupes",
+   "desc": "성분과 특성을 비교해 제품끼리의 유사도를 점수로 매기고, 비슷한 저가 대체품(듀프)을 찾아 줍니다.",
+   "see": "고가 제품의 성분 유사 대체품",
+   "note": "전성분이 비슷해도 함량, 원료 등급, 제조 방식이 다르면 사용감과 효과가 달라질 수 있습니다",
+   "t": "dupe finder 듀프"
+  },
+  {
+   "id": "cosdna",
+   "kind": "web",
+   "sub": "데이터베이스",
+   "n": "CosDNA",
+   "k": "코스디엔에이",
+   "d": [
+    "cosme"
+   ],
+   "l": 2,
+   "lang": "en",
+   "u": "https://www.cosdna.com/",
+   "desc": "아시아 화장품을 중심으로 전성분을 검색하고 성분 정보를 확인할 수 있는 데이터베이스입니다.",
+   "see": "제품별 전성분 검색",
+   "t": "ingredient analysis"
+  },
+  {
+   "id": "hwahae",
+   "kind": "web",
+   "sub": "서비스",
+   "n": "화해",
+   "k": "화해 hwahae",
+   "d": [
+    "cosme"
+   ],
+   "l": 2,
+   "lang": "ko",
+   "u": "https://www.hwahae.co.kr/",
+   "desc": "국내 화장품의 전성분을 성분별로 풀어 보여 주고 사용자 리뷰를 모은 서비스입니다.",
+   "see": "국내 제품 전성분과 리뷰",
+   "t": "화장품 성분 앱"
+  },
+  {
+   "id": "roseanvil",
+   "n": "Rose Anvil",
+   "k": "로즈 앤빌 웨스턴 케이",
+   "d": [
+    "fashion"
+   ],
+   "l": 3,
+   "lang": "en",
+   "star": 1,
+   "desc": "가죽 공방 운영자 Weston Kay가 부츠와 신발을 반으로 잘라 가죽 등급, 안창, 밑창 구조를 검증합니다. 지금까지 수백 켤레를 잘랐습니다.",
+   "see": "닥터마틴·팀버랜드·나이키 등 신발 단면 분석, 가죽 연소·밑창 관통 시험",
+   "note": "일부 영상은 브랜드 후원을 받아 제작됩니다",
+   "t": "boots shoes cut in half 신발 가죽 부츠"
+  },
+  {
+   "id": "tanner",
+   "n": "Tanner Leatherstein",
+   "k": "태너 레더스타인",
+   "d": [
+    "fashion",
+    "cost"
+   ],
+   "l": 4,
+   "lang": "en",
+   "desc": "가죽 업계 출신이 명품 가방을 잘라 가죽, 마감, 부자재를 평가하고 재료비와 공임으로 원가를 추정합니다.",
+   "see": "명품 가방 해체와 원가 추정",
+   "note": "자체 가죽 브랜드를 운영하고 있고, 원가 추정이 지나치게 낮다는 비판도 있어 참고용으로 보는 게 좋습니다",
+   "t": "luxury bag cost leather 명품 가방 원가"
+  },
+  {
+   "id": "leconte",
+   "n": "Justine Leconte",
+   "k": "쥐스틴 르콩트",
+   "d": [
+    "fashion"
+   ],
+   "l": 2,
+   "lang": "en",
+   "q": "Justine Leconte officiel",
+   "desc": "패션 디자이너가 원단, 봉제, 핏을 기준으로 옷의 품질을 알아보는 법을 설명합니다.",
+   "see": "원단 구분, 봉제 품질 판별",
+   "t": "garment quality fabric 원단 봉제 옷 품질"
+  },
+  {
+   "id": "banner",
+   "n": "Bernadette Banner",
+   "k": "버나뎃 배너",
+   "d": [
+    "fashion",
+    "retro"
+   ],
+   "l": 3,
+   "lang": "en",
+   "desc": "남아 있는 옛 옷과 자료를 분석해 역사 속 의복을 당시 방식 그대로 재현합니다.",
+   "see": "역사 의복의 재단·봉제 구조",
+   "t": "historical garment sewing 복식"
+  },
+  {
+   "id": "weartesters",
+   "n": "WearTesters",
+   "k": "웨어테스터스",
+   "d": [
+    "fashion"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "농구화와 운동화를 직접 신고 뛰며 쿠셔닝, 소재, 접지 같은 성능을 검증합니다.",
+   "see": "운동화 성능 리뷰, 소재 기술 해설",
+   "t": "sneaker performance review 운동화 농구화"
+  },
+  {
+   "id": "boraclaire",
+   "n": "보라끌레르 Bora Claire",
+   "k": "보라끌레르",
+   "d": [
+    "fashion"
+   ],
+   "l": 2,
+   "lang": "ko",
+   "u": "https://www.youtube.com/c/boraclaire",
+   "desc": "패션 디자이너가 운영하는 국내 채널. 디자이너 시각에서 옷의 핏, 소재, 실루엣을 따져 봅니다.",
+   "see": "제대로 된 기본 티셔츠 고르기 등 품질 판별",
+   "t": "패션 디자이너 소재 핏 옷 품질"
+  },
+  {
+   "id": "soshin",
+   "n": "소신사장",
+   "k": "소신사장 SoshinTV 비이심플",
+   "d": [
+    "fashion",
+    "context"
+   ],
+   "l": 2,
+   "lang": "ko",
+   "u": "https://www.youtube.com/@%EC%86%8C%EC%8B%A0%EC%82%AC%EC%9E%A5",
+   "desc": "18년 가까이 의류 쇼핑몰을 운영해 온 MD 출신 대표가 어떤 옷이 왜 잘 팔리는지 시장 관점에서 풀어냅니다.",
+   "see": "의류 트렌드와 판매 관점 해설",
+   "note": "자체 쇼핑몰 운영자라는 점을 감안해서 보세요",
+   "t": "의류 쇼핑몰 MD 트렌드 유행"
+  },
+  {
+   "id": "runrepeat",
+   "kind": "web",
+   "sub": "실험실 리뷰",
+   "n": "RunRepeat",
+   "k": "런리피트",
+   "d": [
+    "fashion"
+   ],
+   "l": 3,
+   "lang": "en",
+   "u": "https://runrepeat.com/testing-methodology",
+   "desc": "신발을 직접 사서 반으로 자른 뒤 미드솔 경도, 스택 높이, 반발력 등 30여 가지 수치를 측정하는 신발 리뷰 사이트입니다.",
+   "see": "러닝화·운동화 단면 측정 데이터",
+   "note": "구매 링크 제휴 수수료로 운영됩니다",
+   "t": "shoe lab test cut in half 러닝화 운동화"
+  },
+  {
+   "id": "opensupplyhub",
+   "kind": "web",
+   "sub": "공급망 DB",
+   "n": "Open Supply Hub",
+   "k": "오픈 서플라이 허브",
+   "d": [
+    "fashion",
+    "cosme"
+   ],
+   "l": 4,
+   "lang": "en",
+   "u": "https://opensupplyhub.org/",
+   "desc": "의류 공장 지도(Open Apparel Registry)에서 출발한 무료 공급망 데이터베이스. 브랜드가 공개한 협력 공장의 이름과 주소를 찾아볼 수 있고, 지금은 뷰티, 전자 등으로 넓어졌습니다.",
+   "see": "브랜드별 협력 공장 찾기",
+   "t": "supply chain factory database 공급망 공장 의류"
+  },
+  {
+   "id": "heddels",
+   "kind": "web",
+   "sub": "매체",
+   "n": "Heddels",
+   "k": "헤들스 데님",
+   "d": [
+    "fashion"
+   ],
+   "l": 2,
+   "lang": "en",
+   "u": "https://www.heddels.com/",
+   "desc": "데님과 워크웨어를 중심으로 원단, 제직, 봉제 방식을 깊이 다루는 남성복 매체입니다.",
+   "see": "셀비지 데님, 원단과 봉제 용어",
+   "t": "denim selvedge 데님 원단"
+  },
+  {
+   "id": "outdoorgearlab",
+   "kind": "web",
+   "sub": "실험실 리뷰",
+   "n": "OutdoorGearLab",
+   "k": "아웃도어기어랩",
+   "d": [
+    "fashion"
+   ],
+   "l": 2,
+   "lang": "en",
+   "u": "https://www.outdoorgearlab.com/",
+   "desc": "재킷, 신발 같은 아웃도어 의류와 장비를 같은 조건에서 나란히 시험해 비교합니다.",
+   "see": "방수·보온 재킷 비교 시험",
+   "t": "outdoor jacket test 아웃도어"
+  },
+  {
+   "id": "fashionrev",
+   "kind": "web",
+   "sub": "평가 보고서",
+   "n": "Fashion Transparency Index",
+   "k": "패션 투명성 지수 패션 레볼루션",
+   "d": [
+    "fashion",
+    "context"
+   ],
+   "l": 4,
+   "lang": "en",
+   "u": "https://www.fashionrevolution.org/",
+   "desc": "대형 패션 브랜드가 공급망과 생산 정보를 얼마나 공개하는지 평가하는 보고서입니다.",
+   "see": "브랜드별 공급망 공개 수준",
+   "t": "fashion transparency supply chain 공급망"
+  },
+  {
+   "id": "opexity",
+   "n": "Opexity",
+   "k": "오펙시티 코스트 브레이크다운",
+   "d": [
+    "cost"
+   ],
+   "l": 4,
+   "lang": "en",
+   "desc": "부품 가격을 원가 요소로 쪼개 보는 코스트 브레이크다운 기법 등 구매 원가 분석을 다루는 채널입니다.",
+   "see": "부품 원가 분해 방법",
+   "t": "cost breakdown procurement 원가 분해"
+  },
+  {
+   "id": "wiki_cba",
+   "kind": "web",
+   "sub": "개념 정리",
+   "n": "Cost breakdown analysis (위키백과)",
+   "k": "원가 분해 분석 개념",
+   "d": [
+    "cost"
+   ],
+   "l": 2,
+   "lang": "en",
+   "u": "https://en.wikipedia.org/wiki/Cost_breakdown_analysis",
+   "desc": "원가 분해 분석의 여러 방법(분해 분석, 파라메트릭 추정 등)을 정리한 개념 문서. 분해로 얻은 원가에는 연구개발비, 간접비, 물류, 유통이 빠진다는 한계도 짚습니다.",
+   "see": "원가 분석 방법 비교",
+   "t": "cost breakdown teardown parametric 원가 개념"
+  },
+  {
+   "id": "dfma",
+   "kind": "web",
+   "sub": "기업·방법론",
+   "n": "Boothroyd Dewhurst (DFMA)",
+   "k": "부스로이드 듀허스트 DFMA 슈드코스트",
+   "d": [
+    "cost",
+    "mech"
+   ],
+   "l": 4,
+   "lang": "en",
+   "v26": 1,
+   "u": "https://www.dfma.com/should-cost-analysis.asp",
+   "desc": "조립·제조 용이성 설계(DFMA) 방법론을 만든 회사. 부품이 얼마여야 맞는지 공정부터 계산하는 슈드코스트 방법을 템플릿과 풀이 예제로 공개합니다.",
+   "see": "슈드코스트 템플릿, 원가 동인 예제",
+   "t": "should cost DFMA 원가 슈드코스트"
+  },
+  {
+   "id": "apriori",
+   "kind": "web",
+   "sub": "기업·방법론",
+   "n": "aPriori",
+   "k": "에이프라이어리",
+   "d": [
+    "cost",
+    "mech"
+   ],
+   "l": 4,
+   "lang": "en",
+   "u": "https://www.apriori.com/should-cost-analysis/",
+   "desc": "제조 원가 시뮬레이션 소프트웨어 기업. 슈드코스트 분석과 설계 단계 원가 관리(design to cost)를 해설하는 자료를 공개합니다.",
+   "see": "슈드코스트 분석 가이드, 원가 용어집",
+   "t": "should cost design to cost 원가"
+  },
+  {
+   "id": "tset",
+   "kind": "web",
+   "sub": "기업 블로그",
+   "n": "Tset 블로그",
+   "k": "티셋 원가 계산",
+   "d": [
+    "cost",
+    "power"
+   ],
+   "l": 4,
+   "lang": "en",
+   "v26": 1,
+   "u": "https://tset.com/blog",
+   "desc": "제품 원가 계산 소프트웨어 기업의 블로그. 리튬이온 배터리 셀 제조 원가를 공정별로 쪼개 보는 등 실제 계산 예시를 보여 줍니다.",
+   "see": "배터리 셀 공정별 원가, 바텀업 원가 계산",
+   "note": "예시 원가에는 판매관리비, 이윤, 연구개발비가 빠져 있다고 스스로 밝히고 있습니다",
+   "t": "product costing battery cell cost 배터리 원가"
+  },
+  {
+   "id": "galorath",
+   "kind": "web",
+   "sub": "기업·방법론",
+   "n": "Galorath (SEER)",
+   "k": "갈로라스 SEER",
+   "d": [
+    "cost",
+    "aero"
+   ],
+   "l": 4,
+   "lang": "en",
+   "u": "https://galorath.com/",
+   "desc": "항공우주·국방 장비와 소프트웨어 개발 원가를 파라메트릭 모델로 추정하는 SEER 소프트웨어를 만드는 회사입니다.",
+   "see": "파라메트릭 원가 추정 자료",
+   "t": "parametric cost estimation SEER"
+  },
+  {
+   "id": "counterpoint",
+   "kind": "web",
+   "sub": "리서치",
+   "n": "Counterpoint Research (BoM 분석)",
+   "k": "카운터포인트 BOM 부품 원가 휴머노이드",
+   "d": [
+    "cost",
+    "pc",
+    "robot"
+   ],
+   "l": 4,
+   "lang": "en",
+   "v26": 1,
+   "u": "https://www.counterpointresearch.com/",
+   "desc": "스마트폰 등을 분해해 부품 원가(BoM)를 추정하는 리서치 기업. 상세 보고서는 유료지만 요약 인포그래픽은 무료 가입으로 볼 수 있습니다.",
+   "see": "아이폰 세대별 BoM 비교, 메모리 가격이 원가에 미치는 영향, 휴머노이드 로봇 BoM 구조 보고서",
+   "t": "BOM cost iPhone 원가"
+  },
+  {
+   "id": "icknowledge",
+   "kind": "web",
+   "sub": "원가 모델",
+   "n": "IC Knowledge",
+   "k": "아이씨 날리지 스코튼 존스",
+   "d": [
+    "cost",
+    "semi"
+   ],
+   "l": 4,
+   "lang": "en",
+   "u": "https://www.icknowledge.com/",
+   "desc": "반도체 원가·가격 모델 분야의 대표 기업. 공정별 웨이퍼 원가를 모델링하며, 2022년 TechInsights에 인수됐습니다.",
+   "see": "공정·웨이퍼 원가 모델(유료)",
+   "note": "대표 스코튼 존스가 SemiWiki에 자주 기고해 일부 분석은 무료로 볼 수 있습니다",
+   "t": "wafer cost model semiconductor 원가"
+  },
+  {
+   "id": "semianalysis",
+   "kind": "web",
+   "sub": "리서치",
+   "n": "SemiAnalysis",
+   "k": "세미애널리시스",
+   "d": [
+    "cost",
+    "semi",
+    "context"
+   ],
+   "l": 4,
+   "lang": "en",
+   "u": "https://semianalysis.com/",
+   "desc": "반도체와 AI 인프라의 원가 구조(웨이퍼, 패키징, 데이터센터 총소유비용)를 파고드는 리서치 매체입니다.",
+   "see": "칩·데이터센터 원가 분석(대부분 유료)",
+   "t": "semiconductor cost AI datacenter TCO"
+  },
+  {
+   "id": "batpac",
+   "kind": "web",
+   "sub": "원가 모델",
+   "n": "BatPaC (아르곤 국립연구소)",
+   "k": "배트팩 배터리 원가 모델",
+   "d": [
+    "cost",
+    "power"
+   ],
+   "l": 4,
+   "lang": "en",
+   "u": "https://www.anl.gov/cse/batpac-model-software",
+   "desc": "전기차 배터리 팩을 설계하고 제조 원가를 공정부터 계산하는 무료 엑셀 모델. 미국 연비 규제 평가에도 쓰입니다.",
+   "see": "셀·팩 설계와 공정별 제조 원가 계산",
+   "t": "battery pack cost model Excel 배터리 원가"
+  },
+  {
+   "id": "bnef",
+   "kind": "web",
+   "sub": "리서치",
+   "n": "BloombergNEF",
+   "k": "블룸버그NEF 배터리 가격",
+   "d": [
+    "cost",
+    "power",
+    "context"
+   ],
+   "l": 4,
+   "lang": "en",
+   "u": "https://about.bnef.com/",
+   "desc": "에너지 전환 리서치 기관. 매년 발표하는 배터리 팩 가격 조사 등으로 에너지 기술의 원가 추이를 보여 줍니다.",
+   "see": "연례 배터리 가격 조사 요약",
+   "note": "상세 데이터는 유료입니다",
+   "t": "battery price survey energy cost"
+  },
+  {
+   "id": "nrelatb",
+   "kind": "web",
+   "sub": "공공 데이터",
+   "n": "NREL Annual Technology Baseline",
+   "k": "미국 재생에너지연구소 ATB",
+   "d": [
+    "cost",
+    "power"
+   ],
+   "l": 4,
+   "lang": "en",
+   "u": "https://atb.nrel.gov/",
+   "desc": "미국 국립재생에너지연구소가 발전 기술별 비용과 성능 전망을 정리해 무료로 공개하는 기준 데이터입니다.",
+   "see": "태양광·풍력·저장장치 비용 전망",
+   "t": "LCOE capex energy cost 발전 원가"
+  },
+  {
+   "id": "lazard",
+   "kind": "web",
+   "sub": "보고서",
+   "n": "Lazard LCOE+",
+   "k": "라자드 균등화발전비용",
+   "d": [
+    "cost",
+    "power",
+    "context"
+   ],
+   "l": 4,
+   "lang": "en",
+   "u": "https://www.lazard.com/",
+   "desc": "투자은행 라자드가 매년 발전원별 균등화발전비용(LCOE)을 비교해 공개하는 보고서입니다.",
+   "see": "발전원별 원가 비교",
+   "t": "LCOE levelized cost of energy"
+  },
+  {
+   "id": "rsmeans",
+   "kind": "web",
+   "sub": "데이터베이스",
+   "n": "RSMeans",
+   "k": "알에스민스 공사비",
+   "d": [
+    "cost",
+    "build"
+   ],
+   "l": 4,
+   "lang": "en",
+   "u": "https://www.rsmeans.com/",
+   "desc": "미국 건설 공사비 산정에 널리 쓰이는 단가 데이터베이스입니다.",
+   "see": "공종별 자재·노무·장비 단가(유료)",
+   "t": "construction cost data 공사비"
+  },
+  {
+   "id": "turner",
+   "kind": "web",
+   "sub": "보고서",
+   "n": "Turner & Townsend 국제 건설시장 조사",
+   "k": "터너앤타운젠드 ICMS",
+   "d": [
+    "cost",
+    "build",
+    "context"
+   ],
+   "l": 4,
+   "lang": "en",
+   "u": "https://www.turnerandtownsend.com/",
+   "desc": "세계 주요 도시의 건설 공사비를 비교하는 연례 조사(International Construction Market Survey)를 내는 컨설팅사입니다.",
+   "see": "도시별 건설 공사비 비교",
+   "t": "construction cost comparison cities"
+  },
+  {
+   "id": "codil",
+   "kind": "web",
+   "sub": "공공 기준",
+   "n": "건설공사 표준품셈 (CODIL)",
+   "k": "표준품셈 건설기술정보시스템",
+   "d": [
+    "cost",
+    "build"
+   ],
+   "l": 4,
+   "lang": "ko",
+   "u": "https://www.codil.or.kr/",
+   "desc": "공공 건설공사의 예정가격을 산정하는 기준. 공종별로 필요한 재료량, 노무량, 장비 사용 시간을 수치로 정해 두어 공사 원가를 바닥부터 계산할 수 있습니다.",
+   "see": "공종별 품셈 원문 검색",
+   "t": "표준품셈 공사비 원가"
+  },
+  {
+   "id": "kict",
+   "kind": "web",
+   "sub": "국책 연구원",
+   "n": "한국건설기술연구원",
+   "k": "KICT 건설공사비지수",
+   "d": [
+    "cost",
+    "build"
+   ],
+   "l": 4,
+   "lang": "ko",
+   "u": "https://www.kict.re.kr/",
+   "desc": "표준품셈을 관리하는 국책 연구원. 건설공사비지수를 분석한 보고서(KICT Insight)도 냅니다.",
+   "see": "표준품셈 관리, 건설공사비지수 분석",
+   "t": "건설공사비지수 표준품셈"
+  },
+  {
+   "id": "aace",
+   "kind": "web",
+   "sub": "전문 협회",
+   "n": "AACE International",
+   "k": "원가 엔지니어링 협회",
+   "d": [
+    "cost",
+    "build"
+   ],
+   "l": 4,
+   "lang": "en",
+   "u": "https://web.aacei.org/",
+   "desc": "원가 엔지니어링 전문가 협회. 공사비 추정 등급 같은 권장 실무 지침을 내고 자격 인증을 운영합니다.",
+   "see": "원가 추정 권장 실무 지침",
+   "t": "cost engineering association estimate class"
+  },
+  {
+   "id": "iceaa",
+   "kind": "web",
+   "sub": "전문 협회",
+   "n": "ICEAA",
+   "k": "국제 원가추정분석 협회",
+   "d": [
+    "cost",
+    "aero"
+   ],
+   "l": 4,
+   "lang": "en",
+   "u": "https://www.iceaaonline.com/",
+   "desc": "국방·항공우주 분야 중심의 원가 추정·분석 전문가 협회. 논문과 교육 자료를 공개합니다.",
+   "see": "파라메트릭 원가 추정 방법론",
+   "t": "cost estimating parametric defense"
+  },
+  {
+   "id": "save",
+   "kind": "web",
+   "sub": "전문 협회",
+   "n": "SAVE International",
+   "k": "가치공학 VE 협회",
+   "d": [
+    "cost"
+   ],
+   "l": 4,
+   "lang": "en",
+   "u": "https://www.value-eng.org/",
+   "desc": "기능은 지키면서 원가를 낮추는 가치공학(VE) 방법론을 다루는 국제 협회입니다.",
+   "see": "VA/VE 방법론과 사례",
+   "t": "value engineering VAVE 가치공학 원가절감"
+  },
+  {
+   "id": "artofproc",
+   "kind": "web",
+   "sub": "매체",
+   "n": "Art of Procurement",
+   "k": "아트 오브 프로큐어먼트",
+   "d": [
+    "cost"
+   ],
+   "l": 4,
+   "lang": "en",
+   "u": "https://artofprocurement.com/",
+   "desc": "구매 실무 매체. 슈드코스트 분석을 공급업체 협상에 쓰는 법 같은 구매 원가 실무를 다룹니다.",
+   "see": "슈드코스트로 협상하기",
+   "t": "procurement should cost negotiation 구매"
+  },
+  {
+   "id": "bardwell",
+   "n": "Joshua Bardwell",
+   "k": "조슈아 바드웰 FPV 드론",
+   "d": [
+    "robot"
+   ],
+   "l": 2,
+   "lang": "en",
+   "desc": "FPV 드론의 모터, 변속기(ESC), 비행 제어기 같은 부품을 해설하고 시험합니다.",
+   "see": "드론 부품 구조와 선택 기준",
+   "t": "FPV drone motor ESC 드론"
+  },
+  {
+   "id": "nikkei_yt",
+   "n": "日経クロステック (YouTube)",
+   "k": "닛케이 크로스테크 분해 영상",
+   "d": [
+    "robot",
+    "auto",
+    "elec"
+   ],
+   "l": 3,
+   "lang": "ja",
+   "q": "日経クロステック",
+   "desc": "일본 기술 전문지의 영상 채널. 2026년 7월 휴머노이드 로봇 Unitree G1을 기술자들이 처음부터 끝까지 분해한 영상을 공개했습니다.",
+   "see": "로봇·전자기기 분해 영상",
+   "note": "약 300쪽 분량의 분석 보고서 발간도 함께 예고했습니다",
+   "t": "分解 teardown Unitree G1 humanoid 휴머노이드"
+  },
+  {
+   "id": "humanoidguide",
+   "kind": "web",
+   "sub": "데이터베이스",
+   "n": "humanoid.guide",
+   "k": "휴머노이드 가이드",
+   "d": [
+    "robot"
+   ],
+   "l": 3,
+   "lang": "en",
+   "u": "https://humanoid.guide/",
+   "desc": "휴머노이드 로봇 제품 정보와 분해·기술 분석 기사를 모아 두는 사이트. Munro Live의 Unitree G1 분해 결과 같은 내용을 정리해 줍니다.",
+   "see": "휴머노이드 사양 비교, 분해 요약, 공급망 보고서(유료)",
+   "t": "humanoid robot database teardown 휴머노이드"
+  },
+  {
+   "id": "firgelli",
+   "kind": "web",
+   "sub": "기업 블로그",
+   "n": "Firgelli Automations 블로그",
+   "k": "퍼젤리 액추에이터",
+   "d": [
+    "robot"
+   ],
+   "l": 3,
+   "lang": "en",
+   "u": "https://www.firgelli.com/pages/humanoid-robot-actuators",
+   "desc": "리니어 액추에이터 제조사가 휴머노이드 관절 구동 방식(파동 기어, 유성 롤러 스크루 등)을 공학적으로 비교한 글과 계산기를 공개합니다.",
+   "see": "휴머노이드 액추에이터 방식별 장단점",
+   "note": "액추에이터 판매 기업의 자료라는 점을 감안하세요",
+   "t": "humanoid actuator roller screw harmonic drive 액추에이터 감속기"
+  },
+  {
+   "id": "roboticstomorrow",
+   "kind": "web",
+   "sub": "매체",
+   "n": "RoboticsTomorrow",
+   "k": "로보틱스투모로우",
+   "d": [
+    "robot",
+    "cost"
+   ],
+   "l": 3,
+   "lang": "en",
+   "u": "https://www.roboticstomorrow.com/",
+   "desc": "로봇·자동화 업계 기술 매체. 휴머노이드 관절 부품의 원가 비중 같은 분석 기사가 실립니다.",
+   "see": "관절 액추에이터 구조와 원가 구성",
+   "t": "robotics automation actuator cost 원가"
+  },
+  {
+   "id": "eeworld",
+   "kind": "web",
+   "sub": "매체",
+   "n": "EEWORLD (영문)",
+   "k": "이이월드 전자공학세계",
+   "d": [
+    "robot",
+    "elec"
+   ],
+   "l": 3,
+   "lang": "en",
+   "u": "https://en.eeworld.com.cn/",
+   "desc": "중국 전자공학 매체의 영문판. 로봇과 전자기기 분해 분석을 모아 소개합니다.",
+   "see": "Unitree G1 관절 모듈과 감속기 분석 정리",
+   "t": "teardown robot China electronics"
+  },
+  {
+   "id": "recessim",
+   "kind": "web",
+   "sub": "커뮤니티 위키",
+   "n": "RECESSIM 위키",
+   "k": "리세심 역설계 위키",
+   "d": [
+    "robot",
+    "elec",
+    "sec"
+   ],
+   "l": 3,
+   "lang": "en",
+   "u": "https://wiki.recessim.com/",
+   "desc": "하드웨어 역설계 커뮤니티 위키. 로봇청소기 라이다 모듈처럼 기기 내부 기판 사진과 핀 배치를 정리해 둡니다.",
+   "see": "로봇청소기 라이다 분해, 기판 사진과 핀아웃",
+   "t": "reverse engineering wiki lidar roborock 로봇청소기"
+  },
+  {
+   "id": "therobotreport",
+   "kind": "web",
+   "sub": "매체",
+   "n": "The Robot Report",
+   "k": "더 로봇 리포트",
+   "d": [
+    "robot",
+    "context"
+   ],
+   "l": 2,
+   "lang": "en",
+   "u": "https://www.therobotreport.com/",
+   "desc": "로봇 산업 전문 뉴스 매체. 기업, 투자, 기술 동향을 다룹니다.",
+   "see": "로봇 산업 동향",
+   "t": "robotics industry news"
+  },
+  {
+   "id": "ieeespectrum",
+   "kind": "web",
+   "sub": "매체",
+   "n": "IEEE Spectrum",
+   "k": "아이트리플이 스펙트럼 로보틱스",
+   "d": [
+    "robot",
+    "explain"
+   ],
+   "l": 2,
+   "lang": "en",
+   "u": "https://spectrum.ieee.org/",
+   "desc": "전기전자공학회(IEEE)의 기술 매체. 로봇 섹션에서 휴머노이드와 산업용 로봇 기술을 공학적으로 깊이 해설합니다.",
+   "see": "로봇 기술 해설",
+   "t": "robotics engineering news"
+  },
+  {
+   "id": "hellot",
+   "kind": "web",
+   "sub": "매체",
+   "n": "헬로티 (봇규의 헬로BOT)",
+   "k": "헬로티 hellot 로봇",
+   "d": [
+    "robot",
+    "context"
+   ],
+   "l": 2,
+   "lang": "ko",
+   "u": "https://www.hellot.net/",
+   "desc": "국내 산업 기술 매체. 로봇 구동부 부품 기업 취재처럼 로봇 부품과 산업 동향을 한국어로 다룹니다.",
+   "see": "로봇 액추에이터·부품 기업 취재",
+   "t": "로봇 액추에이터 부품 산업"
+  }
+ ],
+ "paths": [
+  {
+   "t": "전자제품 역설계 입문",
+   "ids": [
+    "techconn",
+    "bigclive",
+    "eevblog",
+    "mikes"
+   ]
+  },
+  {
+   "t": "반도체 속으로",
+   "ids": [
+    "branch",
+    "electronupdate",
+    "highyield",
+    "shirriff",
+    "techinsights"
+   ]
+  },
+  {
+   "t": "자동차와 배터리",
+   "ids": [
+    "engexp",
+    "weber",
+    "limiting",
+    "damien",
+    "munro"
+   ]
+  },
+  {
+   "t": "거대한 기계와 설비",
+   "ids": [
+    "engmind",
+    "animagraffs",
+    "agentjayz",
+    "cee",
+    "makoi"
+   ]
+  },
+  {
+   "t": "부품과 공급망 읽기",
+   "ids": [
+    "chargerlab",
+    "chongdiantou",
+    "52audio",
+    "techinsights_web",
+    "a2mac1"
+   ]
+  },
+  {
+   "t": "하드웨어 보안 입문",
+   "ids": [
+    "liveoverflow",
+    "mattbrown",
+    "stacksmashing",
+    "joegrand",
+    "oflynn"
+   ]
+  },
+  {
+   "t": "반도체 공정과 장비",
+   "ids": [
+    "branch",
+    "samsungsemi",
+    "asianometry",
+    "nomagicpill",
+    "hackerfab"
+   ]
+  },
+  {
+   "t": "금속과 소재",
+   "ids": [
+    "efficient",
+    "doitpoms",
+    "myfordboy",
+    "ksn_yt",
+    "breakingtaps"
+   ]
+  },
+  {
+   "t": "건설과 건설기계",
+   "ids": [
+    "practical",
+    "b1m",
+    "buildshow",
+    "pytel",
+    "dieselcreek",
+    "nist"
+   ]
+  },
+  {
+   "t": "음식료 역설계",
+   "ids": [
+    "ragusea",
+    "chlebowski",
+    "tsr",
+    "foodsafety",
+    "impfood"
+   ]
+  },
+  {
+   "t": "화장품 성분 읽기",
+   "ids": [
+    "hwahae",
+    "incidecoder",
+    "labmuffin",
+    "skinsort",
+    "kca"
+   ]
+  },
+  {
+   "t": "패션 뜯어보기",
+   "ids": [
+    "leconte",
+    "boraclaire",
+    "roseanvil",
+    "runrepeat",
+    "tanner",
+    "opensupplyhub"
+   ]
+  },
+  {
+   "t": "원가 엔지니어링 입문",
+   "ids": [
+    "wiki_cba",
+    "dfma",
+    "tset",
+    "counterpoint",
+    "munro"
+   ]
+  },
+  {
+   "t": "업종별 원가 모델",
+   "ids": [
+    "batpac",
+    "icknowledge",
+    "nrelatb",
+    "codil",
+    "rsmeans"
+   ]
+  },
+  {
+   "t": "로봇 뜯어보기",
+   "ids": [
+    "bruton",
+    "skyentific",
+    "firgelli",
+    "simplexity",
+    "munro",
+    "counterpoint"
+   ]
+  }
+ ],
+ "summaries": {
+  "ifixit_web": {
+   "m": [
+    "스마트폰, 노트북, 게임기, 가전의 분해 과정을 단계별 사진으로 기록",
+    "제품마다 10점 만점의 수리 용이성 점수",
+    "분해 기록 외에 부품 교체 수리 가이드와 질문 게시판"
+   ],
+   "u": "새 기기가 나오면 내부 부품 배치와 수리 난이도를 가장 먼저 확인하는 곳입니다.",
+   "a": "무료"
+  },
+  "hackaday_web": {
+   "m": [
+    "세계 각지의 분해·역설계 프로젝트를 짧은 기사로 소개",
+    "개인 블로그나 영상 같은 원문으로 이어 주는 링크 모음 역할",
+    "댓글에서 엔지니어들이 보태는 설명과 반론"
+   ],
+   "u": "분해 태그를 RSS로 구독해 두면 새 분해 사례를 놓치지 않습니다.",
+   "a": "무료"
+  },
+  "eevforum": {
+   "m": [
+    "제품 분해·수리 스레드와 회로 분석 토론",
+    "계측기, 전원 장치 등 분야별 게시판",
+    "커뮤니티가 함께 관리하는 전자공학 유튜버 목록"
+   ],
+   "u": "제품명으로 검색하면 다른 사람이 이미 뜯어 본 기록과 고장 사례가 나옵니다.",
+   "a": "읽기는 무료, 글쓰기는 가입 필요"
+  },
+  "teardown_event": {
+   "m": [
+    "Crowd Supply가 여는 하드웨어 분해·해킹 행사, 2026년에는 7월 미국 포틀랜드에서 개최",
+    "발표, 워크숍, 분해 실습 일정",
+    "행사 뒤 공개되는 발표 자료"
+   ],
+   "u": "실무자들이 요즘 무엇을 뜯고 있는지 흐름을 볼 때 좋습니다."
+  },
+  "lensrentals": {
+   "m": [
+    "카메라 렌즈를 완전히 분해해 광학 구조와 조립 품질을 비교하는 글",
+    "대여 반납품을 수리하며 쌓인 고장 패턴",
+    "렌즈 광학 성능 측정 비교"
+   ],
+   "u": "렌즈·카메라 모듈의 내부 품질 차이를 실물 사진으로 확인할 때 좋습니다.",
+   "a": "무료"
+  },
+  "52audio": {
+   "m": [
+    "무선 이어폰, 스피커 등 오디오 기기 분해 기사",
+    "제품별 블루투스 칩, 전원 칩 등 부품과 공급사 정리",
+    "오디오 부품 업계 소식"
+   ],
+   "u": "칩 이름으로 검색해 그 칩이 어떤 제품에 쓰였는지 찾아볼 수 있습니다.",
+   "a": "무료, 중국어(브라우저 번역 권장)"
+  },
+  "itmedia": {
+   "m": [
+    "분해 전문 기업 테카나리에의 칩 개봉 연재",
+    "스마트폰과 가전의 부품 구성, 칩 공급사 분석",
+    "광고 문구와 실제 부품의 차이 비교"
+   ],
+   "u": "일본 쪽 시각의 칩 분석과 공급사 정보를 볼 때 좋습니다.",
+   "a": "기본 무료(일부 회원 전용), 일본어"
+  },
+  "bunkai": {
+   "m": [
+    "일본 역설계 커뮤니티 온라인 행사 #分解のススメ의 녹화와 발표 자료",
+    "100엔숍 제품 분해, 가짜 칩 판별 같은 실습형 발표"
+   ],
+   "u": "값싼 제품을 뜯어 보며 분해 요령을 익히기 좋습니다.",
+   "a": "무료, 일본어"
+  },
+  "igorslab": {
+   "m": [
+    "그래픽카드와 메인보드의 기판·전원부 설계 분석",
+    "계측 장비로 잰 전력 소모와 발열",
+    "전원부 부품 구성과 품질 평가"
+   ],
+   "u": "GPU·PC 부품의 설계 품질 차이를 수치로 비교할 때 좋습니다.",
+   "a": "무료, 영어·독일어"
+  },
+  "shirriff": {
+   "m": [
+    "인텔 8086 등 고전 칩을 다이 사진으로 트랜지스터 수준까지 해독",
+    "아폴로 우주선 장비 같은 역사적 기계의 복원 기록",
+    "회로 동작을 단계별 그림으로 풀어 쓴 설명"
+   ],
+   "u": "칩 역설계가 실제로 어떻게 이뤄지는지 배우는 교과서로 읽으세요.",
+   "a": "무료"
+  },
+  "zeptobars": {
+   "m": [
+    "각종 IC를 디캡한 고해상도 다이 사진",
+    "칩별 짧은 해설",
+    "가짜·재포장 칩 사례"
+   ],
+   "u": "특정 칩의 실제 다이 크기와 구조를 확인할 때 좋습니다.",
+   "a": "무료"
+  },
+  "siliconpr0n": {
+   "m": [
+    "여러 기여자가 찍은 칩 다이 사진 공개 아카이브",
+    "확대해 볼 수 있는 고해상도 다이 지도",
+    "디캡(칩 개봉) 기법 자료"
+   ],
+   "u": "다이샷 원본이 필요할 때 제조사나 칩 이름으로 찾아보세요.",
+   "a": "무료"
+  },
+  "fritz": {
+   "m": [
+    "AMD, 인텔, 엔비디아 CPU·GPU 다이 사진 앨범",
+    "저작권 없이(CC0) 쓸 수 있도록 공개한 사진"
+   ],
+   "u": "영상이나 글에 다이샷을 쓸 때 출처 부담이 적은 자료입니다.",
+   "a": "무료(CC0)"
+  },
+  "cpugraveyard": {
+   "m": [
+    "옛 칩부터 최신 칩까지 다이 사진을 칩별로 정리한 위키",
+    "세대별 다이 구조 변화를 비교하기 좋은 목록"
+   ],
+   "u": "같은 제품군의 세대별 다이 변화를 나란히 볼 때 좋습니다.",
+   "a": "무료"
+  },
+  "hysite": {
+   "m": [
+    "애플 A·M 시리즈 칩의 다이 크기, 코어 구성, 공정을 세대별로 비교한 표",
+    "High Yield 유튜브 영상의 보조 자료"
+   ],
+   "u": "애플 칩 세대 비교 수치를 빠르게 확인할 때 좋습니다.",
+   "a": "무료"
+  },
+  "chipscheese": {
+   "m": [
+    "직접 짠 미세 벤치마크로 잰 캐시·메모리 지연과 대역폭",
+    "CPU·GPU 코어 내부 구조 역추적",
+    "제조사 발표 자료와 측정 결과 비교"
+   ],
+   "u": "칩 성능 특성을 발표 자료가 아닌 측정값으로 확인할 때 좋습니다.",
+   "a": "무료"
+  },
+  "wikichip": {
+   "m": [
+    "프로세서 사양, 마이크로아키텍처, 공정 정보",
+    "제조사별 제품 계보"
+   ],
+   "u": "칩 기본 사양과 공정 노드를 빠르게 찾을 때 좋습니다. 최신 칩 정보는 다른 출처와 교차 확인하세요.",
+   "a": "무료"
+  },
+  "techinsights_web": {
+   "m": [
+    "반도체·전자기기 역설계 보고서(공정, 회로, 원가)",
+    "스마트폰 부품 원가(BoM) 분석",
+    "공개 블로그와 웨비나로 보는 분석 요약"
+   ],
+   "u": "유료 보고서의 결론은 블로그와 언론 인용으로 일부 공개되니 그 부분을 챙겨 보세요.",
+   "a": "보고서 유료, 블로그·웨비나 일부 무료"
+  },
+  "yole": {
+   "m": [
+    "반도체·전자부품 시장 보고서",
+    "자회사 System Plus의 부품 분해·원가 분석 보고서",
+    "핵심 수치를 담은 보도자료"
+   ],
+   "u": "보도자료에 보고서의 핵심 수치가 요약되는 경우가 많습니다.",
+   "a": "보고서 유료"
+  },
+  "chargerlab_web": {
+   "m": [
+    "충전기, 보조배터리, 케이블 분해 기사",
+    "제품에 쓰인 칩을 하나씩 짚고 디캡까지 하는 분석",
+    "충전 성능 시험"
+   ],
+   "u": "충전 칩 공급사별 채택 사례를 추적할 때 좋습니다.",
+   "a": "무료"
+  },
+  "chongdiantou": {
+   "m": [
+    "중국 충전 기기 분해 기사",
+    "칩 공급사와 부품 목록 상세 기록",
+    "중국 충전 업계와 공급망 소식"
+   ],
+   "u": "ChargerLAB의 자매 매체로, 중국어 원문을 브라우저 번역과 함께 보면 됩니다.",
+   "a": "무료, 중국어"
+  },
+  "a2mac1": {
+   "m": [
+    "차량을 통째로 분해해 만든 부품 벤치마킹 데이터베이스",
+    "부품별 사진, 무게, 소재 정보"
+   ],
+   "u": "기업용 유료 서비스라 개인은 공개 사례와 언론 인용을 참고하는 정도입니다.",
+   "a": "유료(기업용)"
+  },
+  "caresoft": {
+   "m": [
+    "차량·제품 분해 벤치마킹과 원가 분석 서비스",
+    "EV 부품 벤치마킹 사례 공개"
+   ],
+   "u": "공개된 사례 연구로 분석 방식을 참고하세요.",
+   "a": "서비스 유료, 사례 일부 공개"
+  },
+  "openinverter": {
+   "m": [
+    "테슬라, 닛산 등 EV 인버터와 모터를 역설계해 직접 제어하는 프로젝트",
+    "오픈소스 인버터 보드와 펌웨어",
+    "구동계 개조 기록"
+   ],
+   "u": "EV 구동계 부품의 실제 구조와 제어 방식을 파고들 때 좋습니다.",
+   "a": "무료"
+  },
+  "carnewschina": {
+   "m": [
+    "중국 자동차 업계 소식을 영어로 정리",
+    "중국 팀의 배터리·차량 분해 결과 소개",
+    "신차 사양과 가격"
+   ],
+   "u": "중국 EV 동향과 분해 소식을 영어로 빠르게 볼 때 좋습니다.",
+   "a": "무료"
+  },
+  "nikkeixtech": {
+   "m": [
+    "차량, 전자기기, 로봇 분해 분석 기사",
+    "2026년 Unitree G1 휴머노이드 전체 분해 보도",
+    "일본 제조업 기술 동향"
+   ],
+   "u": "기사 앞부분과 무료 기사로 분해 결과의 요지를 먼저 확인하세요.",
+   "a": "대부분 유료, 일본어"
+  },
+  "simplexity": {
+   "m": [
+    "제품 개발 컨설팅사의 엔지니어링 블로그",
+    "Unitree Go2 관절 모터 역설계와 대체 부품 분석"
+   ],
+   "u": "로봇 관절 모터를 어떤 기준으로 뜯고 평가하는지 참고하기 좋습니다.",
+   "a": "무료"
+  },
+  "xdevs": {
+   "m": [
+    "멀티미터, 전압 기준기 같은 정밀 계측기 분해 사진",
+    "수리와 교정 기록",
+    "초정밀 측정 실험"
+   ],
+   "u": "계측 장비 내부 설계를 고해상도 사진으로 볼 때 좋습니다.",
+   "a": "무료"
+  },
+  "ccc": {
+   "m": [
+    "카오스 컴퓨터 클럽 행사 발표 영상 아카이브",
+    "기차, 가전, 자동차 같은 실물 기기를 역설계한 발표",
+    "영어·독일어 발표"
+   ],
+   "u": "해마다 12월 말 행사가 끝난 직후 올라오는 하드웨어 발표를 챙겨 보세요.",
+   "a": "무료"
+  },
+  "hardwear": {
+   "m": [
+    "하드웨어 보안 컨퍼런스 발표 자료와 영상",
+    "칩 공격, 결함 주입, 펌웨어 추출 연구"
+   ],
+   "u": "기기 보안 연구의 최신 기법을 볼 때 좋습니다."
+  },
+  "recon": {
+   "m": [
+    "리버스 엔지니어링 전문 컨퍼런스",
+    "소프트웨어·펌웨어 중심에 하드웨어 발표 포함",
+    "지난 발표 자료"
+   ],
+   "u": "역설계 기법 자체를 깊이 배우고 싶을 때 좋습니다."
+  },
+  "lumafield": {
+   "m": [
+    "산업용 CT로 제품 속을 뜯지 않고 스캔한 사례",
+    "소비재 포장, 러닝화 등 제품 내부 분석 글",
+    "iFixit 등 분해 팀과의 협업"
+   ],
+   "u": "분해하기 어렵거나 뜯으면 망가지는 제품의 내부 구조를 볼 때 좋습니다.",
+   "a": "사례 글 무료"
+  },
+  "hackteria": {
+   "m": [
+    "중고 Illumina 유전체 분석기(HiSeq 2000) 분해 문서",
+    "미세유체·광학 스캔 모듈 구조",
+    "장비 제어 명령 해독"
+   ],
+   "u": "고가 바이오 장비가 어떤 모듈로 이뤄지는지 이해할 때 좋습니다.",
+   "a": "무료"
+  },
+  "skorobogatov": {
+   "m": [
+    "무선 인슐린 펌프(OmniPod) 역설계 연구 논문",
+    "기계 구조, 회로, 부품 식별, 펌웨어 추출까지 전 과정"
+   ],
+   "u": "의료기기 역설계가 어떤 단계로 진행되는지 표본으로 읽기 좋습니다.",
+   "a": "무료(arXiv)"
+  },
+  "ifixit_med": {
+   "m": [
+    "인공호흡기, 마취기 등 의료·실험 장비 수리 매뉴얼 1만 3천여 건",
+    "장비별 서비스 매뉴얼과 부품 정보"
+   ],
+   "u": "의료 장비의 내부 구성과 소모 부품을 서비스 매뉴얼로 확인할 때 좋습니다.",
+   "a": "무료"
+  },
+  "hackerfab": {
+   "m": [
+    "노광 스테퍼 등 반도체 장비를 직접 만드는 오픈소스 프로젝트 문서",
+    "장비를 부품 단위로 조립하는 방법",
+    "공정 실험 기록"
+   ],
+   "u": "반도체 장비가 어떤 부품으로 이뤄지는지 거꾸로 이해하기 좋습니다.",
+   "a": "무료"
+  },
+  "nomagicpill": {
+   "m": [
+    "팹 장비 구성(공정 챔버, 진공 펌프, 스로틀 밸브 등) 해설",
+    "증착·식각 장비의 제어 방식"
+   ],
+   "u": "진공, 밸브, 전원 같은 장비 부품 공급망을 이해하는 출발점으로 좋습니다.",
+   "a": "무료"
+  },
+  "semieng": {
+   "m": [
+    "반도체 공정, 장비, 패키징 기술 쟁점 심층 기사",
+    "업계 전문가 인터뷰와 좌담",
+    "기술 용어 해설 자료"
+   ],
+   "u": "특정 공정 기술의 쟁점과 업계 시각을 파악할 때 좋습니다.",
+   "a": "무료"
+  },
+  "semiwiki": {
+   "m": [
+    "반도체 업계 종사자들의 기고와 토론",
+    "스코튼 존스 등의 공정·원가 분석 기고",
+    "업계 행사 소식"
+   ],
+   "u": "원가·공정 기고는 유료 보고서의 핵심을 무료로 엿볼 수 있는 창구입니다.",
+   "a": "무료(포럼은 가입)"
+  },
+  "samsungsemi": {
+   "m": [
+    "반도체 8대 공정 해설",
+    "반도체 기술 용어 정리",
+    "자사 제품과 기술 소개"
+   ],
+   "u": "한국어로 반도체 공정 기초를 잡을 때 가장 쉬운 자료입니다.",
+   "a": "무료, 한국어"
+  },
+  "skhynix": {
+   "m": [
+    "HBM 등 메모리 기술 해설",
+    "메모리 제조 공정 설명",
+    "자사 기술 소식"
+   ],
+   "u": "HBM과 메모리 공정을 한국어로 이해할 때 좋습니다.",
+   "a": "무료, 한국어"
+  },
+  "nist": {
+   "m": [
+    "건물 붕괴·화재 같은 재난의 공학적 조사 보고서",
+    "세계무역센터 붕괴 조사 같은 대형 사례",
+    "조사에서 나온 설계·기준 개선 권고"
+   ],
+   "u": "구조물이 왜 무너졌는지 원인 분석의 모범 사례를 볼 수 있습니다.",
+   "a": "무료"
+  },
+  "ksn_web": {
+   "m": [
+    "강재 열처리 실험과 미세조직 사진",
+    "강종별 인성, 경도, 내마모성 비교",
+    "칼 강재의 역사와 야금 원리"
+   ],
+   "u": "금속 소재 선택이 성능에 어떤 차이를 만드는지 데이터로 볼 때 좋습니다.",
+   "a": "무료"
+  },
+  "matweb": {
+   "m": [
+    "금속, 플라스틱, 세라믹 등 소재 물성 데이터베이스",
+    "제조사별 소재 규격표"
+   ],
+   "u": "분해한 부품의 소재를 추정한 뒤 물성을 확인할 때 좋습니다.",
+   "a": "기본 검색 무료, 고급 기능 유료"
+  },
+  "doitpoms": {
+   "m": [
+    "미세조직, 상변태, 파괴 같은 재료과학 개념 교육 자료",
+    "그림과 시뮬레이션",
+    "미세조직 사진 라이브러리"
+   ],
+   "u": "금속·소재 영상을 보다 모르는 개념이 나오면 찾아보는 참고서입니다.",
+   "a": "무료"
+  },
+  "posco": {
+   "m": [
+    "제철·압연 공정 해설",
+    "철강 제품과 소재 소개",
+    "회사 소식"
+   ],
+   "u": "철강 공정을 한국어로 이해할 때 좋습니다.",
+   "a": "무료, 한국어"
+  },
+  "tsr": {
+   "m": [
+    "패스트푸드, 과자 등 브랜드 음식 복제 레시피",
+    "재료와 조리법을 추리해 가는 분석 과정"
+   ],
+   "u": "음식 역설계가 어떤 추론 과정을 거치는지 보기 좋습니다."
+  },
+  "seriouseats": {
+   "m": [
+    "조리 과학 실험 기사",
+    "같은 요리의 조리법 비교 시험",
+    "재료와 도구 리뷰"
+   ],
+   "u": "어떤 조리법이 왜 맛을 내는지 원리를 확인할 때 좋습니다.",
+   "a": "무료"
+  },
+  "cr": {
+   "m": [
+    "제품을 직접 사서 실험실에서 시험한 결과",
+    "식품 속 중금속 등 유해물질 검사",
+    "자외선 차단제 효과 시험"
+   ],
+   "u": "광고가 아닌 시험 데이터로 제품을 비교할 때 좋습니다.",
+   "a": "상세 결과 일부는 유료 회원 전용"
+  },
+  "kca": {
+   "m": [
+    "생활용품, 식품, 화장품 비교 시험 결과",
+    "제품 안전 정보와 리콜"
+   ],
+   "u": "국내 제품 품질 비교를 한국어 공식 자료로 볼 때 좋습니다.",
+   "a": "무료, 한국어"
+  },
+  "foodsafety": {
+   "m": [
+    "식품 제품과 제조업체 조회",
+    "회수·판매중지 정보",
+    "식품 안전 공공 데이터"
+   ],
+   "u": "제품 뒷면에 적힌 제조사가 실제로 어디인지 확인할 때 좋습니다.",
+   "a": "무료, 한국어"
+  },
+  "impfood": {
+   "m": [
+    "수입식품을 제품명, 수입업체, 해외 제조업소로 조회",
+    "수입 식품이 실제로 만들어진 공장 추적"
+   ],
+   "u": "수입 과자나 자체 브랜드 상품을 실제로 만든 해외 공장을 찾을 때 좋습니다.",
+   "a": "무료, 한국어"
+  },
+  "incidecoder": {
+   "m": [
+    "화장품 전성분을 성분별로 풀어 설명",
+    "성분별 기능(보습, 방부 등)",
+    "제품 검색과 비교"
+   ],
+   "u": "광고하는 핵심 성분이 전성분 목록 어디쯤에 있는지 확인할 때 좋습니다.",
+   "a": "무료"
+  },
+  "skinsort": {
+   "m": [
+    "제품끼리의 성분 유사도 점수",
+    "성분이 비슷한 저가 대체품(듀프) 찾기",
+    "성분별 설명"
+   ],
+   "u": "고가 제품과 성분이 비슷한 대안을 찾을 때 쓰되, 함량과 원료 등급 차이는 감안하세요.",
+   "a": "무료"
+  },
+  "cosdna": {
+   "m": [
+    "아시아 화장품 중심의 전성분 검색",
+    "성분별 자극·여드름 유발 지표"
+   ],
+   "u": "해외 쇼핑몰 제품의 전성분을 확인할 때 좋습니다.",
+   "a": "무료"
+  },
+  "hwahae": {
+   "m": [
+    "국내 화장품 전성분 분석",
+    "사용자 리뷰와 랭킹",
+    "성분별 주의 표시"
+   ],
+   "u": "국내 제품 성분을 한국어로 빠르게 확인할 때 좋습니다.",
+   "a": "무료, 한국어(앱 중심)"
+  },
+  "runrepeat": {
+   "m": [
+    "신발을 반으로 잘라 미드솔 경도, 스택 높이, 반발력 등 30여 가지 수치 측정",
+    "같은 방법으로 잰 신발 간 비교",
+    "측정 방법론 공개"
+   ],
+   "u": "신발 소재와 구조 차이를 수치로 비교할 때 좋습니다.",
+   "a": "무료(구매 링크 제휴 수수료로 운영)"
+  },
+  "opensupplyhub": {
+   "m": [
+    "브랜드가 공개한 협력 공장 이름과 주소 검색",
+    "공장별로 연결된 브랜드 목록",
+    "의류에서 뷰티, 전자 등으로 확장"
+   ],
+   "u": "브랜드 제품이 실제로 어느 나라 어느 공장에서 만들어지는지 추적할 때 좋습니다.",
+   "a": "무료"
+  },
+  "heddels": {
+   "m": [
+    "데님과 워크웨어의 원단, 제직, 봉제 방식 해설",
+    "셀비지 데님 등 원단·봉제 용어 정리",
+    "브랜드와 제품 소개"
+   ],
+   "u": "옷의 품질 차이를 만드는 원단과 봉제 용어를 익힐 때 좋습니다.",
+   "a": "무료"
+  },
+  "outdoorgearlab": {
+   "m": [
+    "재킷, 신발, 장비를 같은 조건에서 나란히 시험",
+    "방수, 보온, 내구성 비교 점수"
+   ],
+   "u": "아웃도어 제품 성능을 실측 비교로 볼 때 좋습니다.",
+   "a": "무료"
+  },
+  "fashionrev": {
+   "m": [
+    "대형 패션 브랜드의 공급망·생산 정보 공개 수준 평가",
+    "브랜드별 점수와 연도별 변화"
+   ],
+   "u": "브랜드가 공급망을 얼마나 투명하게 공개하는지 비교할 때 좋습니다.",
+   "a": "무료"
+  },
+  "wiki_cba": {
+   "m": [
+    "원가 분해 분석 방법(분해 분석, 파라메트릭 추정 등) 정리",
+    "분해 원가의 한계(연구개발비, 간접비, 물류, 유통 누락)"
+   ],
+   "u": "원가 엔지니어링 용어를 처음 정리할 때 읽기 좋습니다.",
+   "a": "무료"
+  },
+  "dfma": {
+   "m": [
+    "조립·제조 용이성 설계(DFMA) 방법론",
+    "슈드코스트 분석 템플릿과 풀이 예제",
+    "소재, 공정, 가공 시간 같은 원가 동인 설명"
+   ],
+   "u": "부품 하나의 적정 원가를 직접 계산해 볼 때 템플릿부터 따라 해 보세요.",
+   "a": "자료 무료, 소프트웨어 유료"
+  },
+  "apriori": {
+   "m": [
+    "슈드코스트 분석 가이드",
+    "설계 단계 원가 관리(design to cost) 해설",
+    "원가 용어집"
+   ],
+   "u": "원가 엔지니어링 실무 용어와 흐름을 잡을 때 좋습니다.",
+   "a": "자료 무료, 소프트웨어 유료"
+  },
+  "tset": {
+   "m": [
+    "리튬이온 배터리 셀 제조 원가를 공정별로 쪼갠 계산 예시",
+    "바텀업 원가 계산 방법",
+    "제조 원가 관련 업계 글"
+   ],
+   "u": "배터리 원가 구조를 숫자로 뜯어볼 때 좋습니다. 예시에는 판매관리비, 이윤, 연구개발비가 빠져 있습니다.",
+   "a": "블로그 무료"
+  },
+  "galorath": {
+   "m": [
+    "파라메트릭 원가 추정 방법 자료",
+    "항공우주·국방과 소프트웨어 개발 원가 추정 사례"
+   ],
+   "u": "실물 분해가 어려운 대형 시스템의 원가를 추정하는 방식을 볼 때 좋습니다.",
+   "a": "소프트웨어 유료"
+  },
+  "counterpoint": {
+   "m": [
+    "스마트폰 부품 원가(BoM) 분해 추정",
+    "아이폰 세대별 BoM 비교 인포그래픽",
+    "휴머노이드 로봇 BoM 구조 보고서"
+   ],
+   "u": "신제품 원가가 왜 오르내리는지(예: 메모리 가격) 추적할 때 좋습니다.",
+   "a": "요약은 무료 가입, 상세 보고서 유료"
+  },
+  "icknowledge": {
+   "m": [
+    "공정별 웨이퍼 원가·가격 모델",
+    "반도체 원가 분석 방법론"
+   ],
+   "u": "모델이 유료라 대표 스코튼 존스의 SemiWiki 기고로 핵심 분석을 먼저 보세요.",
+   "a": "모델 유료"
+  },
+  "semianalysis": {
+   "m": [
+    "웨이퍼, 패키징 등 반도체 원가 구조 분석",
+    "AI 데이터센터 총소유비용(TCO) 분석",
+    "반도체 공급망 동향"
+   ],
+   "u": "무료로 공개되는 글 앞부분에서 결론의 방향을 확인할 수 있습니다.",
+   "a": "대부분 유료"
+  },
+  "batpac": {
+   "m": [
+    "전기차 배터리 팩 설계와 제조 원가를 계산하는 엑셀 모델",
+    "셀·팩 구조와 공정별 원가 산출",
+    "미국 연비 규제 평가에 쓰이는 기준 모델"
+   ],
+   "u": "소재 가격이나 생산량 가정을 바꿔 가며 배터리 원가를 직접 시뮬레이션할 수 있습니다.",
+   "a": "무료(내려받아 사용)"
+  },
+  "bnef": {
+   "m": [
+    "연례 배터리 팩 가격 조사",
+    "에너지 기술 원가 추이",
+    "에너지 전환 리서치"
+   ],
+   "u": "배터리 가격 추이는 해마다 공개되는 요약으로 충분히 따라갈 수 있습니다.",
+   "a": "요약 무료, 상세 데이터 유료"
+  },
+  "nrelatb": {
+   "m": [
+    "발전 기술별 비용·성능 기준 데이터",
+    "태양광, 풍력, 저장장치 비용 전망",
+    "내려받을 수 있는 데이터 파일"
+   ],
+   "u": "에너지 설비 원가를 추정할 때 기준값으로 쓰기 좋습니다.",
+   "a": "무료"
+  },
+  "lazard": {
+   "m": [
+    "발전원별 균등화발전비용(LCOE) 비교",
+    "에너지 저장장치 비용 비교"
+   ],
+   "u": "발전원 간 원가 경쟁력을 한눈에 비교할 때 좋습니다.",
+   "a": "무료"
+  },
+  "rsmeans": {
+   "m": [
+    "미국 건설 공종별 자재·노무·장비 단가",
+    "지역별 공사비 보정 지수"
+   ],
+   "u": "미국 공사비 추정의 표준 단가를 볼 때 씁니다.",
+   "a": "유료"
+  },
+  "turner": {
+   "m": [
+    "세계 주요 도시 건설 공사비 비교(연례 조사)",
+    "건설 시장 동향"
+   ],
+   "u": "도시별 건설 원가 수준을 비교할 때 좋습니다.",
+   "a": "보고서 무료 공개"
+  },
+  "codil": {
+   "m": [
+    "공종별 재료량, 노무량, 장비 사용 시간 기준(표준품셈) 원문",
+    "건설 기술 자료 검색"
+   ],
+   "u": "국내 공사 원가를 바닥부터 계산할 때 기준으로 씁니다.",
+   "a": "무료, 한국어"
+  },
+  "kict": {
+   "m": [
+    "표준품셈 관리",
+    "건설공사비지수 분석 보고서(KICT Insight)",
+    "건설 기술 연구"
+   ],
+   "u": "공사비 상승 추이를 공식 지수로 확인할 때 좋습니다.",
+   "a": "무료, 한국어"
+  },
+  "aace": {
+   "m": [
+    "원가 추정 권장 실무 지침",
+    "추정치 정확도를 나누는 원가 추정 등급 기준",
+    "원가 엔지니어 자격 인증"
+   ],
+   "u": "원가 추정치가 어느 정도 정확한지 설명할 때 쓰는 등급 기준을 참고하세요.",
+   "a": "일부 자료는 회원 전용"
+  },
+  "iceaa": {
+   "m": [
+    "원가 추정·분석 논문",
+    "파라메트릭 추정 방법론 교육 자료",
+    "자격 인증"
+   ],
+   "u": "국방·항공우주 원가 추정 방법론을 배울 때 좋습니다."
+  },
+  "save": {
+   "m": [
+    "가치공학(VE) 방법론",
+    "VA/VE 사례",
+    "자격 인증과 교육"
+   ],
+   "u": "기능은 유지하면서 원가를 낮추는 사고법을 체계적으로 배울 때 좋습니다."
+  },
+  "artofproc": {
+   "m": [
+    "구매 원가 실무 글",
+    "슈드코스트로 공급업체와 협상하는 법"
+   ],
+   "u": "원가 분석을 실제 구매 협상에 연결하는 관점을 볼 수 있습니다.",
+   "a": "무료"
+  },
+  "humanoidguide": {
+   "m": [
+    "휴머노이드 로봇 제품 사양 데이터베이스",
+    "Munro Live의 Unitree G1 분해 등 분석 기사 요약",
+    "공급망 보고서"
+   ],
+   "u": "휴머노이드 제품을 사양별로 비교할 때 좋습니다.",
+   "a": "데이터베이스 무료, 보고서 유료"
+  },
+  "firgelli": {
+   "m": [
+    "휴머노이드 관절 구동 방식(파동 기어, 유성 롤러 스크루 등) 공학 비교",
+    "관절에 걸리는 힘을 계산하는 계산기"
+   ],
+   "u": "로봇 관절 부품의 방식별 장단점을 이해할 때 좋습니다. 액추에이터를 파는 회사의 자료라는 점은 감안하세요.",
+   "a": "무료"
+  },
+  "roboticstomorrow": {
+   "m": [
+    "로봇·자동화 기술 기사",
+    "관절 액추에이터 구조와 원가 구성 분석"
+   ],
+   "u": "로봇 부품의 원가 비중 같은 수치를 찾을 때 좋습니다.",
+   "a": "무료"
+  },
+  "eeworld": {
+   "m": [
+    "중국 전자·로봇 분해 분석 기사의 영문판",
+    "Unitree G1 관절 모듈과 감속기 분석 정리"
+   ],
+   "u": "중국 쪽 분해 분석을 중국어 원문 대신 영어로 볼 때 좋습니다.",
+   "a": "무료"
+  },
+  "recessim": {
+   "m": [
+    "기기 내부 기판 사진과 핀 배치를 정리한 위키",
+    "로봇청소기 라이다 모듈 분해"
+   ],
+   "u": "특정 기기의 기판과 부품을 사진으로 확인할 때 좋습니다.",
+   "a": "무료"
+  },
+  "therobotreport": {
+   "m": [
+    "로봇 산업 뉴스(기업, 투자, 기술)",
+    "로봇 기업 자금 조달 소식"
+   ],
+   "u": "로봇 업계 투자 흐름을 따라갈 때 좋습니다.",
+   "a": "무료"
+  },
+  "ieeespectrum": {
+   "m": [
+    "로봇 기술 공학 해설",
+    "휴머노이드·산업용 로봇 연구 소식",
+    "전기전자 기술 전반"
+   ],
+   "u": "로봇 기술의 공학적 배경을 믿을 만한 매체로 확인할 때 좋습니다.",
+   "a": "무료"
+  },
+  "hellot": {
+   "m": [
+    "국내 로봇 부품 기업 취재",
+    "로봇 구동부(액추에이터) 기업 인터뷰",
+    "산업 자동화 기술 동향"
+   ],
+   "u": "국내 로봇 부품 공급망을 한국어로 파악할 때 좋습니다.",
+   "a": "무료, 한국어"
+  }
+ }
+}

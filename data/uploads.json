@@ -1,0 +1,388 @@
+{
+ "updatedAt": "2026-09-27",
+ "note": "요약은 각 채널·사이트가 쓴 설명 앞부분입니다. 먼저 채워 둔 18곳은 한국어로 줄였습니다.",
+ "channels": {
+  "agentjayz": {
+   "checkedAt": "2026-09-23",
+   "items": [
+    {
+     "d": "2026-09-20",
+     "k": "zRKBj8dNAx4",
+     "s": "출력이 커진 엔진의 큰 체결부를 조일 때 생기는 토크 반력을 이어서 다룹니다.",
+     "t": "Torque Reaction 2",
+     "u": "https://www.youtube.com/watch?v=zRKBj8dNAx4"
+    },
+    {
+     "d": "2026-09-20",
+     "k": "-3VCOcYR464",
+     "s": "회전 부품에 큰 너트를 조일 때 부품을 어떻게 잡아 두는지 설명합니다.",
+     "t": "Torque Reaction",
+     "u": "https://www.youtube.com/watch?v=-3VCOcYR464"
+    },
+    {
+     "d": "2026-09-13",
+     "k": "TE63GqEwvQc",
+     "s": "정비고에 들어온 RR RB211 여객기 엔진을 뜯어 가는 과정을 보여 줍니다.",
+     "t": "A Large Airliner Engine in the shop",
+     "u": "https://www.youtube.com/watch?v=TE63GqEwvQc"
+    }
+   ]
+  },
+  "asianometry": {
+   "checkedAt": "2026-09-23",
+   "items": [
+    {
+     "d": "2026-09-20",
+     "k": "A2BsmrnegrY",
+     "s": "인텔 옵테인 메모리가 왜 자리를 잡지 못했는지 기술과 사업 양쪽에서 짚습니다.",
+     "t": "Intel's Optane Memory: A Promise Unfulfilled",
+     "u": "https://www.youtube.com/watch?v=A2BsmrnegrY"
+    },
+    {
+     "d": "2026-09-17",
+     "k": "Qeunu8YkuOk",
+     "s": "엑슨이 사무기기 사업에 뛰어들었던 시기를 다룹니다.",
+     "t": "Exxon's Office Fling",
+     "u": "https://www.youtube.com/watch?v=Qeunu8YkuOk"
+    },
+    {
+     "d": "2026-09-13",
+     "k": "x8QP9oXgahA",
+     "s": "AI 연산 수요가 공급을 앞지른 상황과 그 배경을 설명합니다.",
+     "t": "Silicon Valley's Starving for Compute",
+     "u": "https://www.youtube.com/watch?v=x8QP9oXgahA"
+    }
+   ]
+  },
+  "bigclive": {
+   "checkedAt": "2026-09-23",
+   "items": [
+    {
+     "d": "2026-09-21",
+     "k": "92MUPNq9OLI",
+     "s": "같은 매대에서 유독 비싼 LED 전구를 뜯어, 값에 걸맞은 회로가 들어 있는지 확인합니다.",
+     "t": "Inside an expensive TCP high efficiency light bulb from ASDA",
+     "u": "https://www.youtube.com/watch?v=92MUPNq9OLI"
+    },
+    {
+     "d": "2026-09-19",
+     "k": "1GNlNVFZ4QY",
+     "s": "알리익스프레스에서 산 LED 장난감, 귀 내시경 카메라 같은 물건들을 열어 봅니다.",
+     "t": "AliExpress unbag joy - LED fidget thing, Ear inspection camera, weighing spoon and more",
+     "u": "https://www.youtube.com/watch?v=1GNlNVFZ4QY"
+    },
+    {
+     "d": "2026-09-17",
+     "k": "2H8i2pUjv48",
+     "s": "공연장에서 쓰는 헤이즈 머신의 회로 구성을 따라갑니다.",
+     "t": "Professional haze machine circuit exploration",
+     "u": "https://www.youtube.com/watch?v=2H8i2pUjv48"
+    }
+   ]
+  },
+  "branch": {
+   "checkedAt": "2026-09-23",
+   "items": [
+    {
+     "d": "2026-09-21",
+     "k": "N_6k_jd5pnA",
+     "s": "비접촉 결제가 카드와 단말기 안에서 실제로 어떻게 이뤄지는지 3D로 풀어 줍니다.",
+     "t": "Tap to Pay - 72x More Complicated Than a Simple Tap!",
+     "u": "https://www.youtube.com/watch?v=N_6k_jd5pnA"
+    },
+    {
+     "d": "2026-08-21",
+     "k": "9kM3mnxrMMM",
+     "s": "마이크로SD 카드가 작은 크기에 2TB를 담는 구조를 보여 줍니다.",
+     "t": "How do microSD Cards Store 2 TB in such a TINY space?",
+     "u": "https://www.youtube.com/watch?v=9kM3mnxrMMM"
+    }
+   ]
+  },
+  "chargerlab": {
+   "checkedAt": "2026-09-23",
+   "items": [
+    {
+     "d": "2026-09-22",
+     "k": "Q06EM_az3Qg",
+     "s": "아이폰 18 Pro Max와 70W 질화갈륨 충전기의 AVS 충전 호환성을 시험합니다.",
+     "t": "iPhone 18 Pro Max AVS Compatibility Test: Mukiya 70W GaN Charger",
+     "u": "https://www.youtube.com/watch?v=Q06EM_az3Qg"
+    },
+    {
+     "d": "2026-09-22",
+     "k": "rkACrIM824c",
+     "s": "아이폰 18 Pro 개봉과 구성품, 충전 규격을 확인합니다.",
+     "t": "Unboxing of the iPhone 18 Pro",
+     "u": "https://www.youtube.com/watch?v=rkACrIM824c"
+    },
+    {
+     "d": "2026-09-21",
+     "k": "d7hm8IZ6FJM",
+     "s": "아시아 충전 전시회에서 탄화규소 전력 반도체 업체를 취재합니다.",
+     "t": "SiC Power Solutions and More: BASiC Semiconductor at 2026 Asia Charging Expo",
+     "u": "https://www.youtube.com/watch?v=d7hm8IZ6FJM"
+    }
+   ]
+  },
+  "curiousmarc": {
+   "checkedAt": "2026-09-23",
+   "items": [
+    {
+     "d": "2026-09-20",
+     "k": "NfaZBYNEgxY",
+     "s": "아폴로 사령선의 조종 스틱 두 점을 열어 내부 구조를 살펴봅니다.",
+     "t": "Apollo Hand Controllers - Part 1",
+     "u": "https://www.youtube.com/watch?v=NfaZBYNEgxY"
+    },
+    {
+     "d": "2026-09-17",
+     "k": "yjfAhL-GrMg",
+     "s": "새로 받은 벡터 네트워크 분석기로 아폴로 장비를 측정해 봅니다.",
+     "t": "I got a new 8.5GHz Rigol VNA by accident",
+     "u": "https://www.youtube.com/watch?v=yjfAhL-GrMg"
+    },
+    {
+     "d": "2026-09-11",
+     "k": "fpvO2aynygU",
+     "s": "다른 연구자의 역설계 자료를 바탕으로 HP 로직 분석기 취득 보드를 고칩니다.",
+     "t": "HP 16702A/B Logic Analyzer Repair: Part 9",
+     "u": "https://www.youtube.com/watch?v=fpvO2aynygU"
+    }
+   ]
+  },
+  "highyield": {
+   "checkedAt": "2026-09-23",
+   "items": []
+  },
+  "ifixit": {
+   "checkedAt": "2026-09-23",
+   "items": [
+    {
+     "d": "2026-09-20",
+     "k": "oS_HMre7vk0",
+     "s": "아이폰 18 Pro와 Pro Max를 분해해, 새로 들어간 기계식 조리개 등 내부 변화를 봅니다.",
+     "t": "iPhone 18 Pro Teardown: What Changed Inside?",
+     "u": "https://www.youtube.com/watch?v=oS_HMre7vk0"
+    },
+    {
+     "d": "2026-09-18",
+     "k": "EMB06qKruxs",
+     "s": "OLED 패널의 구조와 왜 쉽게 망가지는지를 설명합니다.",
+     "t": "OLED Panels: A Fragile Miracle",
+     "u": "https://www.youtube.com/watch?v=EMB06qKruxs"
+    },
+    {
+     "d": "2026-09-17",
+     "k": "ri3b4v5H3lY",
+     "s": "7년 쓴 스마트폰의 내부가 어떻게 변해 있는지 열어 봅니다.",
+     "t": "What Happens to a Phone After 7 Years?",
+     "u": "https://www.youtube.com/watch?v=ri3b4v5H3lY"
+    }
+   ]
+  },
+  "labmuffin": {
+   "checkedAt": "2026-09-23",
+   "items": [
+    {
+     "d": "2026-09-22",
+     "k": "B3yK5eJBJ8U",
+     "s": "컨슈머리포트의 붙임머리 유해물질 검사 결과를 화학자 시각으로 짚습니다.",
+     "t": "Consumer Reports new braiding hair findings",
+     "u": "https://www.youtube.com/watch?v=B3yK5eJBJ8U"
+    },
+    {
+     "d": "2026-09-21",
+     "k": "CxrHii3_XJc",
+     "s": "아젤라익산 제품에서 pH가 실제로 효과를 좌우하는지 따집니다.",
+     "t": "Azelaic acid: Does pH really matter?",
+     "u": "https://www.youtube.com/watch?v=CxrHii3_XJc"
+    },
+    {
+     "d": "2026-09-19",
+     "k": "kwmw8nAFGYU",
+     "s": "더 나은 자외선 차단제가 쉽게 나오지 못하는 이유를 설명합니다.",
+     "t": "Why we can't make better sunscreen",
+     "u": "https://www.youtube.com/watch?v=kwmw8nAFGYU"
+    }
+   ]
+  },
+  "munro": {
+   "checkedAt": "2026-09-23",
+   "items": [
+    {
+     "d": "2026-09-11",
+     "k": "hU1SELZPI64",
+     "s": "유니트리 G1의 관절 액추에이터를 분해해 감속비와 기어 구성을 확인합니다.",
+     "t": "The Gear Ratio Inside the Unitree G1 Actuators",
+     "u": "https://www.youtube.com/watch?v=hU1SELZPI64"
+    },
+    {
+     "d": "2026-09-11",
+     "k": "1N-O65DdhL8",
+     "s": "G1 액추에이터를 제어하는 작은 기판을 뜯어 살펴봅니다.",
+     "t": "This Tiny Board Controls the Unitree G1 Actuator",
+     "u": "https://www.youtube.com/watch?v=1N-O65DdhL8"
+    }
+   ]
+  },
+  "practical": {
+   "checkedAt": "2026-09-23",
+   "items": [
+    {
+     "d": "2026-09-15",
+     "k": "n_1wzYQwnts",
+     "s": "미국 전기 콘센트 규격이 왜 그렇게 많은지 종류별로 설명합니다.",
+     "t": "Every US Electrical Outlet Explained",
+     "u": "https://www.youtube.com/watch?v=n_1wzYQwnts"
+    },
+    {
+     "d": "2026-09-01",
+     "k": "-17mPnFxi30",
+     "s": "철도 차막이처럼 달리는 열차를 멈춰 세우는 장치를 다룹니다.",
+     "t": "Stopping the Unstoppable",
+     "u": "https://www.youtube.com/watch?v=-17mPnFxi30"
+    }
+   ]
+  },
+  "roseanvil": {
+   "checkedAt": "2026-09-23",
+   "items": [
+    {
+     "d": "2026-09-21",
+     "k": "MJqo6A2gKlU",
+     "s": "싼 스케이트화를 잘라 값싼 신발이 실제로 부실한지 확인합니다.",
+     "t": "Are You Being Punished for Being Broke? Best Cheap Skate shoes 2026",
+     "u": "https://www.youtube.com/watch?v=MJqo6A2gKlU"
+    },
+    {
+     "d": "2026-09-17",
+     "k": "S4dbjFmwzIM",
+     "s": "러셀 모카신 부츠를 잘라 갑피와 창 구조, 값어치를 따집니다.",
+     "t": "Y'all Bullied Them Into Bringing It Back - Russell Moccasin Knock-A-Bout Boots",
+     "u": "https://www.youtube.com/watch?v=S4dbjFmwzIM"
+    }
+   ]
+  },
+  "techconn": {
+   "checkedAt": "2026-09-23",
+   "items": [
+    {
+     "d": "2026-08-21",
+     "k": "F_7B2shTPPU",
+     "s": "자기 집 온수기를 놓고 물을 데우는 방식과 효율을 따져 봅니다.",
+     "t": "My water heater is cooler than yours",
+     "u": "https://www.youtube.com/watch?v=F_7B2shTPPU"
+    }
+   ]
+  },
+  "weber": {
+   "checkedAt": "2026-09-23",
+   "items": []
+  },
+  "hackaday_web": {
+   "checkedAt": "2026-09-27",
+   "items": [
+    {
+     "d": "2026-09-11",
+     "k": "hd-switch",
+     "t": "Trying To Fix A Suspiciously Cheap Enterprise-Grade Network Switch",
+     "u": "https://hackaday.com/2026/09/11/trying-to-fix-a-suspiciously-cheap-enterprise-grade-network-switch/",
+     "s": "3천 달러짜리 주니퍼 스위치를 싸게 사서 열어 보니 물이 들어가 부품이 터져 있었다는 수리 실패기."
+    },
+    {
+     "d": "2026-09-08",
+     "k": "hd-blower",
+     "t": "Disassembling A Mini Air Blower To Make RC Airplanes",
+     "u": "https://hackaday.com/2026/09/08/disassembling-a-mini-air-blower-to-make-rc-airplanes/",
+     "s": "미니 에어 블로어를 분해해 안의 덕트 팬으로 RC 비행기를 띄울 수 있을지 추력을 재 봅니다."
+    },
+    {
+     "d": "2026-09-05",
+     "k": "hd-pixelwatch",
+     "t": "Pixel Watch 5 Demonstrates Good Repairability",
+     "u": "https://hackaday.com/2026/09/05/pixel-watch-5-demonstrates-good-repairability/",
+     "s": "픽셀 워치 5 분해. 접착제 없이 걸쇠와 오링으로 방수를 잡아 수리 점수 9점을 받았습니다."
+    },
+    {
+     "d": "2026-09-02",
+     "k": "hd-thermal",
+     "t": "Doubling Thermal Printer Resolution By Wiggling",
+     "u": "https://hackaday.com/2026/09/02/doubling-thermal-printer-resolution-by-wiggling/",
+     "s": "1970년대 계산기가 감열 프린터 헤드를 좌우로 흔들어 해상도를 두 배로 늘린 방식을 뜯어봅니다."
+    }
+   ]
+  },
+  "chargerlab_web": {
+   "checkedAt": "2026-09-27",
+   "items": [
+    {
+     "d": "2026-09-18",
+     "k": "cl-fan",
+     "t": "Teardown of the Yoobao Handheld Ice-Cool High-speed Mini Fan (F5i)",
+     "u": "https://www.chargerlab.com/teardown-of-the-yoobao-handheld-ice-cool-high-speed-min-fan-f5i/",
+     "s": "유바오 손선풍기(F5i)를 분해해 모터와 배터리, 제어 기판 구성을 확인합니다."
+    },
+    {
+     "d": "2026-09-04",
+     "k": "cl-gpu",
+     "t": "Teardown of the LISUAN TECH LX 7G100 12G Graphics Card",
+     "u": "https://www.chargerlab.com/teardown-of-the-lisuan-tech-lx-7g100-12g-graphics-card/",
+     "s": "리수안 테크 LX 7G100 12G 그래픽카드를 열어 기판과 전원부 부품을 짚습니다."
+    },
+    {
+     "d": "2026-09-03",
+     "k": "cl-msi",
+     "t": "Teardown of the MSI 400W Adapter (A23-400P1A)",
+     "u": "https://www.chargerlab.com/teardown-of-the-msi-400w-adapter-a23-400p1a/",
+     "s": "MSI 400W 어댑터를 분해해 전원 회로와 칩 구성을 확인합니다."
+    },
+    {
+     "d": "2026-09-02",
+     "k": "cl-minipc",
+     "t": "Teardown of the JWAWAKEN LS5 Mini PC",
+     "u": "https://www.chargerlab.com/teardown-of-the-jwawaken-ls5-mini-pc/",
+     "s": "JWAWAKEN LS5 미니 PC를 분해해 내부 구성과 전원 설계를 봅니다."
+    }
+   ]
+  },
+  "shirriff": {
+   "checkedAt": "2026-09-27",
+   "items": [
+    {
+     "d": "2026-09-26",
+     "k": "ks-tangent",
+     "t": "Reverse-engineering the vintage Intel 8087's tangent algorithm: more than CORDIC",
+     "u": "https://www.righto.com/2026/09/8087-tangent-cordic.html",
+     "s": "인텔 8087의 탄젠트 계산이 CORDIC만이 아니라 다항식 근사를 함께 쓴다는 점을 다이 분석으로 밝힙니다."
+    },
+    {
+     "d": "2026-09-12",
+     "k": "ks-fscale",
+     "t": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
+     "u": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
+     "s": "8087의 FSCALE 명령이 마이크로코드 수준에서 어떻게 구현됐는지 회로까지 따라갑니다."
+    }
+   ]
+  },
+  "semieng": {
+   "checkedAt": "2026-09-27",
+   "items": [
+    {
+     "d": "2026-09-25",
+     "k": "se-cfet",
+     "t": "Comparing A7 CFET and A10 Nanosheet FETs From Parasitics to Chip Reliability",
+     "u": "https://semiengineering.com/comparing-a7-cfet-and-a10-nanosheet-fets-from-parasitics-to-chip-reliability-tum-unimore-applied-materials/",
+     "s": "차세대 A7 CFET과 A10 나노시트 트랜지스터를 기생 성분부터 신뢰성까지 비교한 연구 정리."
+    },
+    {
+     "d": "2026-09-25",
+     "k": "se-week",
+     "t": "Chip Industry Week In Review",
+     "u": "https://semiengineering.com/chip-industry-week-in-review-157/",
+     "s": "반도체 업계 주간 정리. AI 에이전트의 칩 설계 진입, 중국의 AI 연산 투자 등을 다룹니다."
+    }
+   ]
+  }
+ }
+}
