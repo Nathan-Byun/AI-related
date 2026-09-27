@@ -26,8 +26,8 @@ import xml.etree.ElementTree as ET
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
 UA = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0 Safari/537.36"
-DAYS = 30           # 새 콘텐츠로 볼 기간
-MAX_ITEMS = 8       # 채널당 최대 보관 개수
+DAYS = 183          # 새 콘텐츠로 볼 기간 (약 6개월)
+MAX_ITEMS = 25      # 채널당 최대 보관 개수
 SUM_LEN = 140       # 영상 설명에서 가져올 길이
 
 NS = {"a": "http://www.w3.org/2005/Atom", "m": "http://search.yahoo.com/mrss/"}
@@ -240,7 +240,7 @@ def discover_feed(url):
     return None
 
 
-def feed_articles(feed_url, cutoff, limit=4):
+def feed_articles(feed_url, cutoff, limit=15):
     _, _, body = get(feed_url)
     root = ET.fromstring(body)
     out = []
