@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-10",
+ "updatedAt": "2026-10-11",
  "note": "요약은 각 채널·사이트가 쓴 설명 앞부분이라 원문 언어 그대로 나옵니다.",
  "channels": {
   "agentjayz": {
@@ -220,7 +220,7 @@
      "s": "Links: - Patreon (Support the channel directly!): - X: - Newsletter & Podcast (available through Stratechery Plus): - LinkedIn (feel free…"
     }
    ],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-11"
   },
   "bigclive": {
    "items": [
@@ -1229,59 +1229,73 @@
   "hackaday_web": {
    "items": [
     {
-     "k": "https://hackaday.com/?p=1171393",
-     "t": "Embedded 3D Printing with Liquids on a Bricked Prusa FDM Printer",
-     "u": "https://hackaday.com/2026/10/09/embedded-3d-printing-with-liquids-on-a-bricked-prusa-fdm-printer/",
-     "d": "2026-10-09",
-     "s": "Recently [Riley] got his paws on an old Prusa i3 FDM printer that had clearly seen better days, with a hot-end that had suffered an…"
+     "k": "https://hackaday.com/?p=1171608",
+     "t": "Poking at the Radxa Dragon Q8B Raspberry Pi 5 Killer",
+     "u": "https://hackaday.com/2026/10/10/poking-at-the-radxa-dragon-q8b-raspberry-pi-5-killer/",
+     "d": "2026-10-10",
+     "s": "Although the asking price of $209 plus shipping seems high for the Radxa Dragon Q8B, featuring the Qualcomm SC8280XP and 8 GB of LPDDR4X,…"
     },
     {
-     "k": "https://hackaday.com/?p=1171445",
-     "t": "Two-Component H-shifter for Racing Sims",
-     "u": "https://hackaday.com/2026/10/09/two-component-h-shifter-for-racing-sims/",
-     "d": "2026-10-09",
-     "s": "Flying and driving simulators can go as far as money will take you, and at some point it might end up being cheaper to buy a plane or race…"
+     "k": "https://hackaday.com/?p=1171549",
+     "t": "Valve Releases Hardware and CAD Reference For New VR Headset",
+     "u": "https://hackaday.com/2026/10/10/valve-releases-hardware-and-cad-reference-for-new-vr-headset/",
+     "d": "2026-10-10",
+     "s": "Valve recently began shipping its long-awaited VR headset, the Steam Frame. Now, there is a hardware reference repository that includes…"
     },
     {
-     "k": "https://hackaday.com/?p=1171305&preview=true&preview_id=1171305",
-     "t": "Hackaday Podcast Episode 390: DOOM, Cranium Stuff, and Odd OpenSCAD Opportunities",
-     "u": "https://hackaday.com/2026/10/09/hackaday-podcast-episode-390-doom-cranium-stuff-and-odd-openscad-opportunities/",
-     "d": "2026-10-09",
-     "s": "This week, Elliot Williams and Kristina Panos met a few minutes later than usual, and somehow defeated a buzz together with the power of…"
+     "k": "https://hackaday.com/?p=1170071",
+     "t": "Restoring an Altimeter Watch to Former Heights",
+     "u": "https://hackaday.com/2026/10/10/restoring-an-altimeter-watch-to-former-heights/",
+     "d": "2026-10-10",
+     "s": "Finding inexpensive broken hardware for sale, buying it, and restoring it to working condition is a long-standing tradition for hackers on…"
     },
     {
-     "k": "https://hackaday.com/?p=1171272",
-     "t": "Getting to Know the TP223 Capacitive Touch Sensor",
-     "u": "https://hackaday.com/2026/10/09/getting-to-know-the-tp223-capacitive-touch-sensor/",
-     "d": "2026-10-09",
-     "s": "Mechanical and prone to failure, switches can seem quaint these days. Plus, everyone is used to having touch screens on their phones and…"
+     "k": "https://hackaday.com/?p=1171520",
+     "t": "The Weirdest Video Games were Hacks",
+     "u": "https://hackaday.com/2026/10/10/the-weirdest-video-games-were-hacks/",
+     "d": "2026-10-10",
+     "s": "We were looking into the marvelous recent project by [Throaty Mumbo] to recreate and reimagine the forgotten world of VHS-tape-based video…"
     },
     {
-     "k": "https://hackaday.com/?p=1171369",
-     "t": "This Week in Security: New Spectre Attacks, Crushing Quantity of Linux Vulns, Google Gets Too Much AI, and Hac",
-     "u": "https://hackaday.com/2026/10/09/this-week-in-security-new-spectre-attacks-crushing-quantity-of-linux-vulns-google-gets-too-much-ai-and-hacking-lawnmowers/",
-     "d": "2026-10-09",
-     "s": "Just-in-time, or JIT, compilation could be considered a fundamental backbone of modern computing. JIT compilation turns scripting languages…"
+     "k": "https://hackaday.com/?p=1171382",
+     "t": "Why Every Microwave Has a “Popcorn” Button, But Every Bag Warns You Not to Use It",
+     "u": "https://hackaday.com/2026/10/10/why-every-microwave-has-a-popcorn-button-but-every-bag-warns-you-not-to-use-it/",
+     "d": "2026-10-10",
+     "s": "[Hyperfixed] has a podcast episode that does a deep dive into exactly why bags of microwave popcorn advise against using your microwave’s…"
     },
     {
-     "k": "https://hackaday.com/?p=1171333",
-     "t": "Margaret Hamilton, Pioneering Software Engineer, Dies Aged 90",
-     "u": "https://hackaday.com/2026/10/09/margaret-hamilton-pioneering-software-engineer-dies-aged-90/",
-     "d": "2026-10-09",
-     "s": "As Director of the Software Engineering Division at the MIT Instrumentation Laboratory, Margaret Hamilton was responsible for the software…"
+     "k": "https://hackaday.com/?p=1171494",
+     "t": "Another IKEA Product Yields an LED Matrix",
+     "u": "https://hackaday.com/2026/10/10/another-ikea-product-yields-an-led-matrix/",
+     "d": "2026-10-10",
+     "s": "The IKEA Kortlinje is a digital clock that costs around 20 dollars, featuring a hygrometer and thermometer. It’s another cheap appliance,…"
     },
     {
-     "k": "https://hackaday.com/?p=1171337",
-     "t": "Belt File from Old Mixer and Junk Bin Parts",
-     "u": "https://hackaday.com/2026/10/09/belt-file-from-old-mixer-and-junk-bin-parts/",
-     "d": "2026-10-09",
-     "s": "Making one’s own power tools can be a rewarding way to upcycle parts, and [bluesyann] does exactly that with a belt file made from an old…"
+     "k": "https://hackaday.com/?p=1171466",
+     "t": "Super Mario 64 Comes to the Microsoft Zune",
+     "u": "https://hackaday.com/2026/10/09/super-mario-64-comes-to-the-microsoft-zune/",
+     "d": "2026-10-10",
+     "s": "As a portable media player, Microsoft’s Zune simply couldn’t compete with Apple’s juggernaut iPod — the latter essentially becoming the de…"
     }
    ],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-11"
   },
   "chargerlab_web": {
    "items": [
+    {
+     "k": "https://www.chargerlab.com/teardown-of-the-ikea-sj%C3%B6ss-65w-1-port-usb-charger/",
+     "t": "Teardown of the IKEA SJÖSS 65W 1-port USB charger",
+     "u": "https://www.chargerlab.com/teardown-of-the-ikea-sj%C3%B6ss-65w-1-port-usb-charger/",
+     "d": "2026-10-10",
+     "s": "The IKEA SJÖSS 65W USB-C GaN Charger features a pure white and light green flame-retardant plastic enclosure finished in a sleek gloss coat."
+    },
+    {
+     "k": "https://www.chargerlab.com/iphone-18-pro-max-avs-compatibility-test-sharge-hypertower-170w-power-bank/",
+     "t": "iPhone 18 Pro Max AVS Compatibility Test: SHARGE HyperTower 170W Power Bank",
+     "u": "https://www.chargerlab.com/iphone-18-pro-max-avs-compatibility-test-sharge-hypertower-170w-power-bank/",
+     "d": "2026-10-10",
+     "s": "SHARGE’s new 25,000mAh, 170W power bank uses its built-in cable to charge the iPhone 18 Pro Max at around 52W."
+    },
     {
      "k": "https://www.chargerlab.com/talix-zeta-240w-power-bank-debuts-with-pd32-avs-support/",
      "t": "TALIX Zeta 240W Power Bank Debuts with PD3.2 AVS Support",
@@ -1337,26 +1351,19 @@
      "u": "https://www.chargerlab.com/teardown-of-the-jiedian-caibao-30-pro-shared-power-bank-ny-cdb03/",
      "d": "2026-09-29",
      "s": "Shattering the sluggish-charging stereotype of legacy shared power banks, the JIEDIAN Caibao 3.0 Pro marches straight into the…"
-    },
-    {
-     "k": "https://www.chargerlab.com/teardown-of-the-hp-poly-focus-6-wireless-headset/",
-     "t": "Teardown of the HP Poly Focus 6 Wireless Headset",
-     "u": "https://www.chargerlab.com/teardown-of-the-hp-poly-focus-6-wireless-headset/",
-     "d": "2026-09-29",
-     "s": "The HP Poly Focus 6 Wireless Headset bundle is styled in a sleek deep space black finish, featuring a rotatable folding boom mic and a…"
-    },
-    {
-     "k": "https://www.chargerlab.com/teardown-of-the-megmeet-1600w-sic-crps-server-power-supply-meg-crps1600aip/",
-     "t": "Teardown of the MEGMEET 1600W SiC CRPS Server Power Supply (MEG-CRPS1600AIP)",
-     "u": "https://www.chargerlab.com/teardown-of-the-megmeet-1600w-sic-crps-server-power-supply-meg-crps1600aip/",
-     "d": "2026-09-28",
-     "s": "The Megmeet 1600W SiC CRPS Server Power Supply (Model: MEG-CRPS1600AIP) accommodates 100–120V and 200–240V AC inputs alongside 240V DC…"
     }
    ],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-11"
   },
   "shirriff": {
    "items": [
+    {
+     "k": "tag:blogger.com,1999:blog-6264947694886887540.post-5504631233106574875",
+     "t": "Inside a 1980s filter chip that uses switched capacitors",
+     "u": "http://www.righto.com/2026/10/ML10-switched-capacitor-filter.html",
+     "d": "2026-10-10",
+     "s": ""
+    },
     {
      "k": "tag:blogger.com,1999:blog-6264947694886887540.post-7735201633324934284",
      "t": "Reverse-engineering the vintage Intel 8087's tangent algorithm: more than CORDIC",
@@ -1428,7 +1435,7 @@
      "s": ""
     }
    ],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-11"
   },
   "semieng": {
    "items": [
@@ -1503,7 +1510,7 @@
      "s": "Testing every device under real-world conditions has never been more important. The post Perspectives On Test: System Level Test For AI &…"
     }
    ],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-11"
   },
   "eevblog": {
    "items": [
@@ -1646,7 +1653,7 @@
      "s": "Telonic instruments ( UK) : Product page : User manual :"
     }
    ],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-11"
   },
   "dgw": {
    "items": [
@@ -2136,7 +2143,7 @@
      "s": "Can a €140 thermal camera actually be useful? Today we’re testing the Thermal Master P1. In this video, I’m taking a look at the Thermal…"
     }
    ],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-11"
   },
   "spiess": {
    "items": [],
@@ -2470,7 +2477,7 @@
      "s": "This factory is incredible - like something out of an Iron Man Movie"
     }
    ],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-11"
   },
   "pbk": {
    "items": [
@@ -2901,6 +2908,13 @@
   "rossmann": {
    "items": [
     {
+     "k": "Oq7UkDskDE8",
+     "t": "Mini liebschti narrates what it's like to use an HP printer using accurate language",
+     "u": "https://www.youtube.com/watch?v=Oq7UkDskDE8",
+     "d": "2026-10-10",
+     "s": ""
+    },
+    {
      "k": "iEdoWL1aO7M",
      "t": "Sony screws Indian customer out of warranty on new PS5 because they bought it wrong",
      "u": "https://www.youtube.com/watch?v=iEdoWL1aO7M",
@@ -2997,16 +3011,9 @@
      "u": "https://www.youtube.com/watch?v=1P1y5YhMHXs",
      "d": "2026-09-24",
      "s": ""
-    },
-    {
-     "k": "6MlIInowLBk",
-     "t": "Tish Flores runs for office in response to taylor datacenter corruption",
-     "u": "https://www.youtube.com/watch?v=6MlIInowLBk",
-     "d": "2026-09-24",
-     "s": "tishflores.com"
     }
    ],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-11"
   },
   "ipadrehab": {
    "items": [
@@ -3678,7 +3685,7 @@
      "s": "The Special Value Pi 4 was only for sale for a week. Right after I bought one, it was gone! What made it a 'special value', anyway? Here's…"
     }
    ],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-11"
   },
   "techinsights": {
    "items": [],
@@ -4598,7 +4605,7 @@
      "s": "One of the most technically advanced four-cylinder engines ever just launched. A small, two-liter inline-four is cranking out 324…"
     }
    ],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-11"
   },
   "rich": {
    "items": [
@@ -4720,7 +4727,7 @@
   },
   "ingineerix": {
    "items": [],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-11"
   },
   "carcarenut": {
    "items": [
@@ -5022,7 +5029,7 @@
      "s": "It would be normal to assume when working with a completely factory stock engine that all of the parts inside are going to be the standard…"
     }
    ],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-11"
   },
   "southmain": {
    "items": [
@@ -5671,16 +5678,9 @@
      "u": "https://www.youtube.com/watch?v=aGaYgAD-EhY",
      "d": "2026-04-28",
      "s": "Ad: check out to submit an idea for me to build! This is the second in a series of designs that you can build. All of my projects are open…"
-    },
-    {
-     "k": "Ay5l4u2rS5M",
-     "t": "LEGO Star Wars SMART Play Karaoke Machine",
-     "u": "https://www.youtube.com/shorts/Ay5l4u2rS5M",
-     "d": "2026-04-10",
-     "s": "#ad The @LEGO Group asked me to build a mega musical karaoke organ. I used seven LEGO Star Wars SMART Play Mos Eisley Cantina Sets,…"
     }
    ],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-11"
   },
   "csi": {
    "items": [
@@ -6723,6 +6723,13 @@
   "jayfix": {
    "items": [
     {
+     "k": "fcvPNC_Owlg",
+     "t": "Shop Said This RedMax Blower Wasn't Worth Fixing!  Will It Run Again? - EBZ8500 Repair",
+     "u": "https://www.youtube.com/watch?v=fcvPNC_Owlg",
+     "d": "2026-10-10",
+     "s": "Owner brought this RedMax EBZ8500 backpack blower to another shop who told him the engine was blown and it wasn't worth fixing. Can we get…"
+    },
+    {
      "k": "DBa1gYBHNWM",
      "t": "Generac Generator Wont Start!  Can We Fix It?  GP3250",
      "u": "https://www.youtube.com/watch?v=DBa1gYBHNWM",
@@ -6819,16 +6826,9 @@
      "u": "https://www.youtube.com/watch?v=mJPywGLge2w",
      "d": "2026-06-27",
      "s": "In this episode of Jay Fixes Stuff, I bought a Toro Recycler from a flipper, who, as it turns out, lied to my face and scammed me. Is this…"
-    },
-    {
-     "k": "-bzGi9E0ccU",
-     "t": "Free Generator Wont Start!  Trash or Treasure?",
-     "u": "https://www.youtube.com/watch?v=-bzGi9E0ccU",
-     "d": "2026-06-20",
-     "s": "In this episode of Jay Fixes Stuff we pick up a free generator at the curb that won't start. Is this thing trash or treasure? Join me and…"
     }
    ],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-11"
   },
   "ave": {
    "items": [
@@ -7071,7 +7071,7 @@
      "s": "In this episodes Shahriar repairs a Keithley 2500 Dual Photodiode Meter which does not power up. Teardown of the unit reveals two…"
     }
    ],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-11"
   },
   "carlson": {
    "items": [],
@@ -7894,7 +7894,7 @@
      "s": "Weather you prefer physical or digital, PlayStation ending physical discs in 2028 hurts all of us. Social Media Links: ► X : ► Threads : ►…"
     }
    ],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-11"
   },
   "noel": {
    "items": [],
@@ -8463,7 +8463,7 @@
      "s": "We have been quiet, but we have not forgotten you. We're back, and with us we bring our flagship Hunting Zero-Days in Embedded Devices…"
     }
    ],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-11"
   },
   "lowlevel": {
    "items": [
@@ -8706,7 +8706,7 @@
      "s": "Turn a PlayStation 4 optical pickup into a high-speed dermal atomic force microscope. Edwin shows how hardware hacking and deep learning…"
     }
    ],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-11"
   },
   "defcon": {
    "items": [
@@ -9100,7 +9100,7 @@
      "s": "A detailed breakdown of Nuclear Power, using the AP1000 plant design as our subject model. CREDITS Jacob O'Neal - Research, script,…"
     }
    ],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-11"
   },
   "jaredowen": {
    "items": [
@@ -9397,7 +9397,7 @@
      "s": "Sandstone is made of sand grains, so how does it flex?"
     }
    ],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-11"
   },
   "efficient": {
    "items": [
@@ -10423,7 +10423,7 @@
      "s": "Hi Guys, here is the back story on this go kart, Before designing his iconic gull-wing sports car, automotive legend John DeLorean and his…"
     }
    ],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-11"
   },
   "toolteardown": {
    "items": [],
@@ -10839,7 +10839,7 @@
      "s": "Bark River Knives has gone under, but there is still a lot to learn from their demise, including design and engineering mistakes. Written…"
     }
    ],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-11"
   },
   "alecsteele": {
    "items": [
@@ -11173,7 +11173,7 @@
      "s": ""
     }
    ],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-11"
   },
   "chlebowski": {
    "items": [
@@ -12804,7 +12804,7 @@
      "s": "This guide details chip ID information for..."
     }
    ],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-11"
   },
   "lensrentals": {
    "items": [
@@ -12858,7 +12858,7 @@
      "s": "A few weeks ago, we looked at some of the Oscar nominations and the cameras that were used to bring these films to life. While that was an…"
     }
    ],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-11"
   },
   "zeptobars": {
    "items": [
@@ -12891,117 +12891,117 @@
      "s": "Die size 1493x1493 µm."
     }
    ],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-11"
   },
   "fritz": {
    "items": [
     {
-     "k": "tag:flickr.com,2005:/photo/55578592812",
+     "k": "tag:flickr.com,2005:/photo/55580411117",
      "t": "",
-     "u": "https://live.staticflickr.com/65535/55578592812_5aca83fa5e_b.jpg",
-     "d": "2026-10-10",
+     "u": "https://live.staticflickr.com/65535/55580411117_97209e0527_b.jpg",
+     "d": "2026-10-11",
      "s": ""
     },
     {
-     "k": "tag:flickr.com,2005:/photo/55578593807",
-     "t": "Goodnight you crazy bat!!!",
-     "u": "https://live.staticflickr.com/65535/55578593807_012abe3b8a_b.jpg",
-     "d": "2026-10-10",
+     "k": "tag:flickr.com,2005:/photo/55580411192",
+     "t": "William Staley Overlook",
+     "u": "https://live.staticflickr.com/65535/55580411192_886fd3b4e6_b.jpg",
+     "d": "2026-10-11",
      "s": ""
     },
     {
-     "k": "tag:flickr.com,2005:/photo/55579621291",
+     "k": "tag:flickr.com,2005:/photo/55580412702",
+     "t": "Red’s Old 395 Grill, Carson City NV",
+     "u": "https://live.staticflickr.com/65535/55580412702_72e7460ec3_b.jpg",
+     "d": "2026-10-11",
+     "s": ""
+    },
+    {
+     "k": "tag:flickr.com,2005:/photo/55581438976",
+     "t": "Woodcarver -Miyajima Antique Event-",
+     "u": "https://live.staticflickr.com/65535/55581438976_bd40e86ce9_b.jpg",
+     "d": "2026-10-11",
+     "s": ""
+    },
+    {
+     "k": "tag:flickr.com,2005:/photo/55581439601",
+     "t": "IMG_6207",
+     "u": "https://live.staticflickr.com/65535/55581439601_b462b65873_b.jpg",
+     "d": "2026-10-11",
+     "s": ""
+    },
+    {
+     "k": "tag:flickr.com,2005:/photo/55581441026",
+     "t": "Florida Highway Patrol Ford Mustang",
+     "u": "https://live.staticflickr.com/65535/55581441026_21f8265566_b.jpg",
+     "d": "2026-10-11",
+     "s": ""
+    },
+    {
+     "k": "tag:flickr.com,2005:/photo/55581441186",
+     "t": "Colorful Flower Fields, 2026",
+     "u": "https://live.staticflickr.com/65535/55581441186_4b91b6411e_b.jpg",
+     "d": "2026-10-11",
+     "s": ""
+    },
+    {
+     "k": "tag:flickr.com,2005:/photo/55581441196",
      "t": "",
-     "u": "https://live.staticflickr.com/65535/55579621291_2d3bfd7645_b.jpg",
-     "d": "2026-10-10",
+     "u": "https://live.staticflickr.com/65535/55581441196_cbc9985e8a_b.jpg",
+     "d": "2026-10-11",
      "s": ""
     },
     {
-     "k": "tag:flickr.com,2005:/photo/55579621766",
+     "k": "tag:flickr.com,2005:/photo/55581441261",
      "t": "",
-     "u": "https://live.staticflickr.com/65535/55579621766_eeed7d3ea8_b.jpg",
-     "d": "2026-10-10",
+     "u": "https://live.staticflickr.com/65535/55581441261_35b5eef8c6_z.jpg",
+     "d": "2026-10-11",
      "s": ""
     },
     {
-     "k": "tag:flickr.com,2005:/photo/55579622211",
-     "t": "D-2026-10-10-0930_f",
-     "u": "https://live.staticflickr.com/65535/55579622211_dc056ded6e_b.jpg",
-     "d": "2026-10-10",
+     "k": "tag:flickr.com,2005:/photo/55581556888",
+     "t": "Fuchsrote Borstenhirse",
+     "u": "https://live.staticflickr.com/65535/55581556888_4e0354bc3b_b.jpg",
+     "d": "2026-10-11",
      "s": ""
     },
     {
-     "k": "tag:flickr.com,2005:/photo/55579622816",
-     "t": "Balance depends on these 2 Muscles The 2 muscles are your glute medius and your glute minimus….",
-     "u": "https://live.staticflickr.com/video/55579622816/04b318d0df/360p.mp4?s=eyJpIjo1NTU3OTYyMjgxNiwiZSI6MTc5MTU5NDExNywicyI6IjY2ZjBlNWMyZjliNjY1ZGM5ZjFlYmFmNTVlYzgyYzI1ZDQ2NGUzNjciLCJ2IjoxfQ",
-     "d": "2026-10-10",
+     "k": "tag:flickr.com,2005:/photo/55581557598",
+     "t": "Goodnight Super-Buddy!!!",
+     "u": "https://live.staticflickr.com/65535/55581557598_fe7e6cd0d0_b.jpg",
+     "d": "2026-10-11",
      "s": ""
     },
     {
-     "k": "tag:flickr.com,2005:/photo/55579622836",
-     "t": "",
-     "u": "https://live.staticflickr.com/65535/55579622836_2fe34c61b4_b.jpg",
-     "d": "2026-10-10",
+     "k": "tag:flickr.com,2005:/photo/55581557693",
+     "t": "FiveM_b3258_GTAProcess_ycNFFyV4dD",
+     "u": "https://live.staticflickr.com/65535/55581557693_a49d1b4731_b.jpg",
+     "d": "2026-10-11",
      "s": ""
     },
     {
-     "k": "tag:flickr.com,2005:/photo/55579623926",
-     "t": "apex_lion_traversal_01",
-     "u": "https://live.staticflickr.com/video/55579623926/1248feab67/360p.mp4?s=eyJpIjo1NTU3OTYyMzkyNiwiZSI6MTc5MTU5NDExNywicyI6IjJiNDM0YjBhMGMyMDc5NTU4ZTg4ZTg2M2U4OTEyMmM5NDg3Mjc1MDYiLCJ2IjoxfQ",
-     "d": "2026-10-10",
+     "k": "tag:flickr.com,2005:/photo/55581558283",
+     "t": "Dad Jungle School.jpg",
+     "u": "https://live.staticflickr.com/65535/55581558283_e7d903a95a_b.jpg",
+     "d": "2026-10-11",
      "s": ""
     },
     {
-     "k": "tag:flickr.com,2005:/photo/55579738828",
-     "t": "Chris - 2013",
-     "u": "https://live.staticflickr.com/65535/55579738828_6aba55b9d0_b.jpg",
-     "d": "2026-10-10",
+     "k": "tag:flickr.com,2005:/photo/55581558453",
+     "t": "Ayoooo",
+     "u": "https://live.staticflickr.com/65535/55581558453_df71b7d2b4_b.jpg",
+     "d": "2026-10-11",
      "s": ""
     },
     {
-     "k": "tag:flickr.com,2005:/photo/55579739228",
-     "t": "IMG_20261010_102916",
-     "u": "https://live.staticflickr.com/65535/55579739228_e55cd3c049_b.jpg",
-     "d": "2026-10-10",
-     "s": ""
-    },
-    {
-     "k": "tag:flickr.com,2005:/photo/55579739908",
-     "t": "",
-     "u": "https://live.staticflickr.com/65535/55579739908_dac7f78bda_b.jpg",
-     "d": "2026-10-10",
-     "s": ""
-    },
-    {
-     "k": "tag:flickr.com,2005:/photo/55579740633",
-     "t": "",
-     "u": "https://live.staticflickr.com/video/55579740633/424dfb8455/360p.mp4?s=eyJpIjo1NTU3OTc0MDYzMywiZSI6MTc5MTU5NDExNywicyI6IjFlZDYwMWI0MDE4MGEzNGUxMDllYzQ5YTA1MWE5NGY5YWUzOTMzODkiLCJ2IjoxfQ",
-     "d": "2026-10-10",
-     "s": ""
-    },
-    {
-     "k": "tag:flickr.com,2005:/photo/55579796244",
-     "t": "GW bridge",
-     "u": "https://live.staticflickr.com/65535/55579796244_2e894f7a35_b.jpg",
-     "d": "2026-10-10",
-     "s": ""
-    },
-    {
-     "k": "tag:flickr.com,2005:/photo/55579796324",
-     "t": "Catching Air at the Washington State Fair",
-     "u": "https://live.staticflickr.com/65535/55579796324_a505522de2_b.jpg",
-     "d": "2026-10-10",
-     "s": ""
-    },
-    {
-     "k": "tag:flickr.com,2005:/photo/55579796329",
-     "t": "Discord_y4MMMSNIsA",
-     "u": "https://live.staticflickr.com/65535/55579796329_53eaa4d449_b.jpg",
-     "d": "2026-10-10",
+     "k": "tag:flickr.com,2005:/photo/55581616074",
+     "t": "8/27/26",
+     "u": "https://live.staticflickr.com/65535/55581616074_3ea327ca8f_b.jpg",
+     "d": "2026-10-11",
      "s": ""
     }
    ],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-11"
   },
   "chipscheese": {
    "items": [
@@ -13111,7 +13111,7 @@
      "s": "Machine learning workloads have an insatiable appetite for DRAM capacity. Flash memory is cheaper per gigabyte of capacity than DRAM. Could…"
     }
    ],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-11"
   },
   "techinsights_web": {
    "items": [
@@ -13158,7 +13158,7 @@
      "s": "Apple iPhone 18 Pro Max Teardown: A20 Pro, X80 and Apple N1 JWinters Fri, 09/18/2026 - 15:58"
     }
    ],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-11"
   },
   "caresoft": {
    "items": [
@@ -13191,11 +13191,11 @@
      "s": "We at Caresoft Global join the global automotive and technology community in mourning the passing of Mr. Ravi Pandit, Founder and Chairman…"
     }
    ],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-11"
   },
   "carnewschina": {
    "items": [],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-11"
   },
   "simplexity": {
    "items": [
@@ -13242,15 +13242,15 @@
      "s": "Pulse Width Modulation (PWM) sits at the heart of many motor control implementations, from simple DC speed control to the precise step…"
     }
    ],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-11"
   },
   "ccc": {
    "items": [],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-11"
   },
   "ifixit_med": {
    "items": [],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-11"
   },
   "nomagicpill": {
    "items": [
@@ -13353,10 +13353,17 @@
      "s": "Expected values, sunk costs, and correlations in the tropics"
     }
    ],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-11"
   },
   "semiwiki": {
    "items": [
+    {
+     "k": "https://semiwiki.com/?p=374764",
+     "t": "Hyper-NA EUV: The Next Frontier in Chipmaking Could Arrive in 2036",
+     "u": "https://semiwiki.com/lithography/374764-hyper-na-euv-the-next-frontier-in-chipmaking-could-arrive-in-2036/",
+     "d": "2026-10-10",
+     "s": "EUV has long been an interesting story. We have written 200+ articles on EUV and they just keep on coming. Thankfully the premier…"
+    },
     {
      "k": "https://semiwiki.com/?p=374104",
      "t": "TSMC 2026 OIP Ecosystem Forum Summary",
@@ -13384,16 +13391,9 @@
      "u": "https://semiwiki.com/ip/imagination-technologies/374484-webinar-the-convergence-of-edge-accelerators/",
      "d": "2026-10-08",
      "s": "The rapid growth of AI at the edge is forcing SoC architects to rethink traditional processor designs. Dedicated NPUs deliver impressive…"
-    },
-    {
-     "k": "https://semiwiki.com/?p=374257",
-     "t": "The silent killer of analog reliability: Why SPICE misses floating net",
-     "u": "https://semiwiki.com/eda/siemens-eda/374257-the-silent-killer-of-analog-reliability-why-spice-misses-floating-net/",
-     "d": "2026-10-08",
-     "s": "By Bhanu Pandey The semiconductor industry is currently facing a significant challenge in functional verification. According to the most…"
     }
    ],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-11"
   },
   "ksn_web": {
    "items": [
@@ -13447,7 +13447,7 @@
      "s": "If you would like to join the Knife Steel Nerds Patreon to support knife research visit Patreon.com/KnifeSteelNerds You can read articles…"
     }
    ],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-11"
   },
   "heddels": {
    "items": [
@@ -13519,10 +13519,10 @@
      "t": "Sethu – American Silhoeuttes Reimagined Through Time-Honored Indian Weaving",
      "u": "https://www.heddels.com/2026/10/sethu-american-silhoeuttes-reimagined-through-artisanal-indian-weaving/",
      "d": "2026-10-02",
-     "s": "Together with Like this? Read these:Bucket Hats – From Ireland to Gilligan’s IslandUnder the CPO – The Quintessential Shirt Jacket... The…"
+     "s": "Together with Like this? Read these:To Starch or Not To Starch, and HowThe Heddels Guide to Raw Denim Boot Cut... The post Sethu – American…"
     }
    ],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-11"
   },
   "fashionrev": {
    "items": [
@@ -13534,7 +13534,7 @@
      "s": "In Conversation with: Dr. Julia English. Beyond functionality: How repair forces us to slow down and cherish our clothing. By: Fashion…"
     }
    ],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-11"
   },
   "apriori": {
    "items": [
@@ -13623,7 +13623,7 @@
      "s": "Cost isn't a finishing touch on your design. It's a survival condition. Build your stack like it. The post Engineering Cost Analysis…"
     }
    ],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-11"
   },
   "tset": {
    "items": [
@@ -13656,7 +13656,7 @@
      "s": "Most cost engineers are not failing at their job. They are failing to keep up with the volume of requests it generates."
     }
    ],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-11"
   },
   "galorath": {
    "items": [
@@ -13710,7 +13710,7 @@
      "s": "41% of healthcare C-suite leaders expect capital investment reductions over the next two years. Simultaneously, 57% rank AI-based clinical…"
     }
    ],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-11"
   },
   "icknowledge": {
    "items": [
@@ -13757,11 +13757,11 @@
      "s": "Apple iPhone 18 Pro Max Teardown: A20 Pro, X80 and Apple N1 JWinters Fri, 09/18/2026 - 15:58"
     }
    ],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-11"
   },
   "semianalysis": {
    "items": [],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-11"
   },
   "bnef": {
    "items": [
@@ -13836,7 +13836,7 @@
      "s": "BloombergNEF tracks global financial institutions’ activities for both low-carbon energy and fossil fuels. The Energy Supply Ratios provide…"
     }
    ],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-11"
   },
   "iceaa": {
    "items": [
@@ -13911,10 +13911,17 @@
      "s": "Cost Estimating NewsBrief: August 7, 2026 AFRL, Texas Space Commission Ink Deal to Fast-Track Commercial Space Tech for"
     }
    ],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-11"
   },
   "humanoidguide": {
    "items": [
+    {
+     "k": "https://humanoid.guide/deployment-is-the-moat-dyna-robotics-chief-scientist-on-what-it-takes-to-get-robots-out-of-the-lab/",
+     "t": "“Deployment is the moat”: Dyna Robotics’ chief scientist on what it takes to get robots out of the lab",
+     "u": "https://humanoid.guide/deployment-is-the-moat-dyna-robotics-chief-scientist-on-what-it-takes-to-get-robots-out-of-the-lab/",
+     "d": "2026-10-10",
+     "s": "Dyna reports daily napkin and towel handling at paying customers, while Dyna 2.1 targets complete workflows that demand more than single…"
+    },
     {
      "k": "https://humanoid.guide/boston-dynamics-names-rohit-prasad-ceo-for-humanoid-push/",
      "t": "Boston Dynamics names Rohit Prasad CEO for humanoid push",
@@ -13977,19 +13984,19 @@
      "u": "https://humanoid.guide/kinetic-blocks-adds-interests-as-robot-data-demand-lags/",
      "d": "2026-10-01",
      "s": "Kinetic Blocks says nine in ten beta registrations are sellers, prompting a looser interests format for early robot training data searches…"
-    },
-    {
-     "k": "https://humanoid.guide/flourish-unveils-3555-wheeled-semi-humanoid-for-homes/",
-     "t": "Flourish unveils $3,555 wheeled semi humanoid for homes",
-     "u": "https://humanoid.guide/flourish-unveils-3555-wheeled-semi-humanoid-for-homes/",
-     "d": "2026-10-01",
-     "s": "Flourish 1 pairs a wheeled base and two arms with a $3,555 price, modest payload and claimed autonomous operation after owners demonstrate…"
     }
    ],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-11"
   },
   "therobotreport": {
    "items": [
+    {
+     "k": "https://www.therobotreport.com/?p=589840",
+     "t": "Why dexterity is physical AI’s real bottleneck",
+     "u": "https://www.therobotreport.com/why-dexterity-is-physical-ai-real-bottleneck/",
+     "d": "2026-10-10",
+     "s": "The next major challenge in robotic dexterity is making the entire system reliable enough to turn capabilities into useful work. The post…"
+    },
     {
      "k": "https://www.therobotreport.com/?p=589825",
      "t": "Why humanoid robot demos still fail the generalization test",
@@ -14087,16 +14094,9 @@
      "u": "https://www.therobotreport.com/firedome-builds-autonomous-artillery-for-wildfire-defense/",
      "d": "2026-10-06",
      "s": "FireDome builds autonomous wildfire defense systems to protect communities and infrastructure before firefighters arrive. The post FireDome…"
-    },
-    {
-     "k": "https://www.therobotreport.com/?p=589793",
-     "t": "Overview AI launches OV Spark line of AI inspection cameras",
-     "u": "https://www.therobotreport.com/overview-ai-launches-ov-spark-line-ai-inspection-cameras/",
-     "d": "2026-10-06",
-     "s": "The OV Spark and OV Spark Pro AI inspection cameras are available now through Overview AI and its distribution partners. The post Overview…"
     }
    ],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-11"
   },
   "ieeespectrum": {
    "items": [
@@ -14206,10 +14206,52 @@
      "s": "Building useful robots starts with understanding the people who use them. For Charlie Kemp, cofounder and chief technology officer of Hello…"
     }
    ],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-11"
   },
   "hellot": {
    "items": [
+    {
+     "k": "https://www.hellot.net/news/article.html?no=115365",
+     "t": "영상 유출·탈취 위험...플로리젠로보틱스, ‘양자 암호’로 로봇 보안 구멍 막아낸다",
+     "u": "https://www.hellot.net/news/article.html?no=115365",
+     "d": "2026-10-10",
+     "s": "관제 시스템 '플로우(FLOW)' 기반 양자난수생성기(QRNG) 연동...“국내 최초 통신 암호화 구현” 평균 0.09밀리초(ms) 암호화 속도 및 제어 응답률 강점 내세워 한국인정기구(KOLAS) 공인 인증 확보도 플로리젠로보틱스가 글로벌 양자…"
+    },
+    {
+     "k": "https://www.hellot.net/news/article.html?no=115364",
+     "t": "어플라이드인튜이션·닛산, 미래 모빌리티의 게임 체인저 될까?",
+     "u": "https://www.hellot.net/news/article.html?no=115364",
+     "d": "2026-10-10",
+     "s": "피지컬 AI(Physical AI)와 차세대 소프트웨어 결합 드림팀 탄생 어플라이드인튜이션, 소프트웨어 솔루션 기반 닛산 차세대 전동화 및 통합 차량용 플랫폼 구축 지원한다 기존 시뮬레이션 협업 범위 확장...실리콘밸리·일본 엔지니어링 조직 간 협력…"
+    },
+    {
+     "k": "https://www.hellot.net/news/article.html?no=115363",
+     "t": "휴머노이드 관절부터 고하중 무인 이동체까지...삼현, 로봇 구동 메커니즘 공개 예고",
+     "u": "https://www.hellot.net/news/article.html?no=115363",
+     "d": "2026-10-10",
+     "s": "‘제21회 국제로봇산업대전(ROBOT WORLD 2026)’에 로봇 구동부(Actuator) 기술 나온다 고하중 자율주행로봇(AMR) 관제 연동 물류 자동화 솔루션 현장 실증도 독자 브랜드 액슬론(AXLON) 중심 글로벌 초도 양산 수주 확보…"
+    },
+    {
+     "k": "https://www.hellot.net/news/article.html?no=115362",
+     "t": "국제 학술지 표지 장식한 KIMM “초소형 폼팩터로 로봇 손 정밀 조작 한계 극복”",
+     "u": "https://www.hellot.net/news/article.html?no=115362",
+     "d": "2026-10-10",
+     "s": "잉크젯(Ink-jet) 인쇄 활용한 3차원(3D) 자력 검출 원천 기술 실증(Pilot) “면외 공간 감지 한계 극복” 초상자성(Superparamagnetism) 특성 결합...자기 이력 현상 차단 및 초저전력 제어 모듈 구현해…"
+    },
+    {
+     "k": "https://www.hellot.net/news/article.html?no=115361",
+     "t": "코윈로보틱스, ‘화웨이·비야디 파트너’와 아·태 지능형 로봇 시장 공략",
+     "u": "https://www.hellot.net/news/article.html?no=115361",
+     "d": "2026-10-10",
+     "s": "글로벌 입체 인지 업체 ‘란신로보틱스’와 아·태 지역 사업 ‘맞손’ “입체 시각 센싱 데이터 축적 기반 정밀 조율 및 신체 지능화 모델 탑재” 코윈로보틱스가 입체 시각 인지 기술 업체 란신로보틱스와 손잡았다. 이들은 자율 로봇 기체 성능 고도화와…"
+    },
+    {
+     "k": "https://www.hellot.net/news/article.html?no=115360",
+     "t": "로봇은 일 배우고 집은 말 알아듣는다...롯데이노베이트, AX 전략 본격화한다",
+     "u": "https://www.hellot.net/news/article.html?no=115360",
+     "d": "2026-10-10",
+     "s": "로봇은 현장 안에서 활동하는 사람의 동작을 배우고, 집은 일상 언어를 명령으로 받아들인다. 국내 IT 서비스 업체 롯데이노베이트가 최근 공개한 인공지능(AI) 사업의 두 장면이다. 하나는 피지컬 AI(Physical AI) 기반 로봇 서비스, 다른…"
+    },
     {
      "k": "https://www.hellot.net/news/article.html?no=115359",
      "t": "다쏘시스템·시스트라 “과학적 AI 연동 '가상 환경' 방법론으로 안전한 철도 인프라 구현”",
@@ -14272,55 +14314,13 @@
      "u": "https://www.hellot.net/news/article.html?no=115351",
      "d": "2026-10-08",
      "s": "국내 기업이 자체 설계·개발한 신경망처리장치(NPU) 반도체가 처음으로 우주로 향했다. AI 반도체 기업 모빌린트(대표 신동주)는 지난 7일 발사된 누리호 5차의 부탑재위성 'BEE-1012'에 자사 AI 반도체 'REGULUS(레귤러스)' 기반…"
-    },
-    {
-     "k": "https://www.hellot.net/news/article.html?no=115350",
-     "t": "티디에스이노베이션-KAIST 등 8개 기관, AI칩 위한 2D 반도체 핵심 기술 개발",
-     "u": "https://www.hellot.net/news/article.html?no=115350",
-     "d": "2026-10-08",
-     "s": "차세대 AI 반도체 구현을 위한 2D 반도체 핵심 기술이 국제학술지 네이처(Nature)에 게재됐다. 티디에스이노베이션(공동대표 강기범·모상현)은 KAIST·UNIST·한양대·포스텍·성균관대·고려대·MIT 등 대학 컨소시엄과 공동 연구를 통해 고품질…"
-    },
-    {
-     "k": "https://www.hellot.net/news/article.html?no=115349",
-     "t": "뉴엔AI, 코오롱베니트 AI 얼라이언스 합류…온톨로지 AI로 AX 사업화 확대",
-     "u": "https://www.hellot.net/news/article.html?no=115349",
-     "d": "2026-10-08",
-     "s": "산업 맞춤형 AI 분석 기업 뉴엔AI(대표 배성환)가 코오롱베니트(대표이사 강이구)가 운영하는 'AI 얼라이언스'에 공식 합류했다. 8일 양사는 전략적 업무협약(MOU)을 체결하고 산업 현장 중심의 AX(인공지능 전환) 프로젝트 공동 추진에 나선다고…"
-    },
-    {
-     "k": "https://www.hellot.net/news/article.html?no=115348",
-     "t": "인텔리빅스, 62억 규모 국방 AI 개발 착수...GOP 경계체계 고도화",
-     "u": "https://www.hellot.net/news/article.html?no=115348",
-     "d": "2026-10-08",
-     "s": "안전 AI 딥테크 기업 인텔리빅스가 방위사업청의 62억 원 규모 연구개발(Ramp;D) 과제를 통해 악천후에서도 500m 거리의 객체를 탐지하는 차세대 국방 AI 영상감시 플랫폼 개발에 나선다. 인텔리빅스는 방위사업청의 '방산혁신기업 Ramp;D…"
-    },
-    {
-     "k": "https://www.hellot.net/news/article.html?no=115346",
-     "t": "CBAM 대응부터 탄소배출권 발급까지…기업 실무자가 알아야 할 탄소 실무는?",
-     "u": "https://www.hellot.net/news/article.html?no=115346",
-     "d": "2026-10-08",
-     "s": "디지털ESG얼라이언스(i-DEA)가 기업의 탄소중립 대응 역량 강화를 위해 탄소국경조정제도(CBAM)와 국내 탄소배출권 발급 실무를 다루는 3개 교육과정을 운영한다. 교육은 'EU CBAM 확정기간 대응 실무 전문가과정', '국내 탄소배출권…"
-    },
-    {
-     "k": "https://www.hellot.net/news/article.html?no=115347",
-     "t": "에버스핀 “금융권 노린 AI 자동화 공격 시도 탐지”…보조 업무서비스 보안 취약성 부각",
-     "u": "https://www.hellot.net/news/article.html?no=115347",
-     "d": "2026-10-08",
-     "s": "금융권 노린 AI 자동화 공격 현실화…에버스핀, 고객사서 ARTEX 공격 탐지 브라우저 없이 API 직접 호출…기존 인증·접근 통제와 병행한 대응 필요 금융권에서 개인정보 유출과 인공지능(AI) 기반 자동화 공격 우려가 커지는 가운데, 에버스핀이…"
-    },
-    {
-     "k": "https://www.hellot.net/news/article.html?no=115318",
-     "t": "전남광주 기업 C레벨 위한 제조 AX 전략 공유 포럼 열린다",
-     "u": "https://www.hellot.net/news/article.html?no=115318",
-     "d": "2026-10-08",
-     "s": "제조업의 인공지능 전환(AX)은 기술 도입과 함께 생산 현장의 운영 방식과 경영 전략, 조직문화의 변화를 요구한다. 이러한 전환 과제를 지역 기업 경영진과 함께 살펴보는 ‘전남광주 최고경영자 AX 마스터클래스’가 오는 10월 21~22일 광주…"
     }
    ],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-11"
   },
   "hackteria": {
    "items": [],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-11"
   }
  }
 }
