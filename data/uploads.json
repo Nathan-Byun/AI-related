@@ -1,9 +1,16 @@
 {
- "updatedAt": "2026-10-15",
+ "updatedAt": "2026-10-16",
  "note": "요약은 각 채널·사이트가 쓴 설명 앞부분이라 원문 언어 그대로 나옵니다.",
  "channels": {
   "agentjayz": {
    "items": [
+    {
+     "k": "A-O-hoj1GNo",
+     "t": "Reading a Long Time Fans Comments",
+     "u": "https://www.youtube.com/shorts/A-O-hoj1GNo",
+     "d": "2026-10-14",
+     "s": "Al Hasan used to have some VERY strong opinions about the channel. Thanks for watching, Al. I know the truth about you. #AgentJayZ…"
+    },
     {
      "k": "KJ8PJ-DwaQg",
      "t": "Why You DON'T Get Sucked Into a Jet Engine",
@@ -101,19 +108,19 @@
      "u": "https://www.youtube.com/watch?v=OicX6a7iBow",
      "d": "2026-08-23",
      "s": "Test running of an an Avon, derived from the turbojet that was/is used in the Hawker Hunter, the English Electric Lightning The Caravelle…"
-    },
-    {
-     "k": "B5LHIxmuiw4",
-     "t": "Externally Turbocharging with a  Jet Engine",
-     "u": "https://www.youtube.com/watch?v=B5LHIxmuiw4",
-     "d": "2026-06-21",
-     "s": "A talk about what ways a turbine engine can be used to boost the inlet air of a piston engine. Is it possible? Is it a good idea? Is it…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "asianometry": {
    "items": [
+    {
+     "k": "pGQWq_q1gnM",
+     "t": "IGBTs Took Silicon Power to the Next Level",
+     "u": "https://www.youtube.com/watch?v=pGQWq_q1gnM",
+     "d": "2026-10-15",
+     "s": "Links: - Patreon (Support the channel directly!): - X: - Newsletter & Podcast (available through Stratechery Plus): - LinkedIn (feel free…"
+    },
     {
      "k": "CqPsGYJHozM",
      "t": "ASML’s New Multibeam Inspection Tool is Familiar",
@@ -211,19 +218,33 @@
      "u": "https://www.youtube.com/watch?v=Oytqz3zuB7w",
      "d": "2026-08-24",
      "s": "Links: - Patreon (Support the channel directly!): - X: - Newsletter & Podcast (available through Stratechery Plus): - LinkedIn (feel free…"
-    },
-    {
-     "k": "AuIEBSb2xiE",
-     "t": "China's Fiery Incinerator Boom",
-     "u": "https://www.youtube.com/watch?v=AuIEBSb2xiE",
-     "d": "2026-08-20",
-     "s": "Links: - Patreon (Support the channel directly!): - X: - Newsletter & Podcast (available through Stratechery Plus): - LinkedIn (feel free…"
     }
    ],
-   "checkedAt": "2026-10-15"
+   "checkedAt": "2026-10-16"
   },
   "bigclive": {
    "items": [
+    {
+     "k": "doluCI_VehQ",
+     "t": "Lidl table light exploration (with schematic)",
+     "u": "https://www.youtube.com/watch?v=doluCI_VehQ",
+     "d": "2026-10-15",
+     "s": "A look inside a fairly attractive mood light from Lidl. It has the option of warm white or colours, and shapes punched through the diffuser…"
+    },
+    {
+     "k": "M7Za5fATVfc",
+     "t": "Why modern washing machines seem to use so little water",
+     "u": "https://www.youtube.com/shorts/M7Za5fATVfc",
+     "d": "2026-10-13",
+     "s": "People often ask me if it's possible to make their washing machine fill with more water during the wash cycle. It's not something you can…"
+    },
+    {
+     "k": "Wmup9mjyfT4",
+     "t": "Handy 1 minute to 8 hour timer module",
+     "u": "https://www.youtube.com/watch?v=Wmup9mjyfT4",
+     "d": "2026-10-13",
+     "s": "This is quite a handy little timing module for controlling 120/240V loads. It has a four way DIP switch that allows 16 different time…"
+    },
     {
      "k": "gR0WSPXfFJc",
      "t": "AliExpress unbag joy - the Onlycams edition for getting your phone or camera mounted",
@@ -307,30 +328,9 @@
      "u": "https://www.youtube.com/watch?v=92MUPNq9OLI",
      "d": "2026-09-21",
      "s": "The main reason I bought this bulb was because of its vastly inflated cost compared to the others on the same shelf at ASDA. I wanted to…"
-    },
-    {
-     "k": "1GNlNVFZ4QY",
-     "t": "AliExpress unbag joy - LED fidget thing, Ear inspection camera, weighing spoon and more",
-     "u": "https://www.youtube.com/watch?v=1GNlNVFZ4QY",
-     "d": "2026-09-19",
-     "s": "Another blitz of technical goodies from AliExpress for us to explore. These videos are not sponsored by AliExpress. I buy all these items…"
-    },
-    {
-     "k": "2H8i2pUjv48",
-     "t": "Professional haze machine circuit exploration",
-     "u": "https://www.youtube.com/watch?v=2H8i2pUjv48",
-     "d": "2026-09-17",
-     "s": "This video is an exploration of the circuitry used in many professional haze and fog machines used in the event industry. Notably the Haze…"
-    },
-    {
-     "k": "A5jjHDU4f2Y",
-     "t": "Inside a cheap but impressive laser cube",
-     "u": "https://www.youtube.com/watch?v=A5jjHDU4f2Y",
-     "d": "2026-09-15",
-     "s": "These things are very widely available, which is a slight issue, as in the wrong hands they can pose a risk of permanent eye damage. This…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "branch": {
    "items": [
@@ -398,10 +398,38 @@
      "s": "To learn more about how Micron memory and storage help enable AI at every level, visit: Interested in working with Micron to make…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "chargerlab": {
    "items": [
+    {
+     "k": "VSig1TY9JUE",
+     "t": "iPhone 18 Pro Max AVS Compatibility Test: Google Pixel Flex Dual Port 67W USB-C Fast Charger",
+     "u": "https://www.youtube.com/watch?v=VSig1TY9JUE",
+     "d": "2026-10-13",
+     "s": "If you wanna buy the tester for ChargerLAB POWER-Z, you can visit our Amazon store: United States: Deutschland: United Kingdom: France:…"
+    },
+    {
+     "k": "NJNQtH94fas",
+     "t": "iPhone 18 Pro Max AVS Compatibility Test: PowerPi X240C Fast Charging Module",
+     "u": "https://www.youtube.com/watch?v=NJNQtH94fas",
+     "d": "2026-10-13",
+     "s": "If you wanna buy the tester for ChargerLAB POWER-Z, you can visit our Amazon store: United States: Deutschland: United Kingdom: France:…"
+    },
+    {
+     "k": "Ad9MVqu6ObM",
+     "t": "iPhone 18 Pro Max AVS Compatibility Test: Aohai 60W GaN Dynamic Fast Charger",
+     "u": "https://www.youtube.com/watch?v=Ad9MVqu6ObM",
+     "d": "2026-10-13",
+     "s": "If you wanna buy the tester for ChargerLAB POWER-Z, you can visit our Amazon store: United States: Deutschland: United Kingdom: France:…"
+    },
+    {
+     "k": "-DehKZBBQH4",
+     "t": "iPhone 18 Pro Max AVS Compatibility Test: SHARGE HyperTower 170W Power Bank",
+     "u": "https://www.youtube.com/watch?v=-DehKZBBQH4",
+     "d": "2026-10-10",
+     "s": "If you wanna buy the tester for ChargerLAB POWER-Z, you can visit our Amazon store: United States: Deutschland: United Kingdom: France:…"
+    },
     {
      "k": "5oywTIklHDw",
      "t": "iPhone 18 Pro Max AVS Compatibility Test: UGREEN Nexode Pro 160W 5-Port USB-C Charger",
@@ -478,40 +506,19 @@
      "u": "https://www.youtube.com/watch?v=X6HSd63q5to",
      "d": "2026-09-21",
      "s": "You can buy it on Amazon: If you wanna buy the tester for ChargerLAB POWER-Z, you can visit our Amazon store: United States: Deutschland:…"
-    },
-    {
-     "k": "akZ_zBw45MY",
-     "t": "Key Zones, Exhibitors & Featured Product Displays at 2026 Asia Charging Expo (Fall)",
-     "u": "https://www.youtube.com/watch?v=akZ_zBw45MY",
-     "d": "2026-09-18",
-     "s": "If you wanna buy the tester of ChargerLAB POWER-Z, you can visit our Amazon store: United States: Deutschland: United Kingdom: France:…"
-    },
-    {
-     "k": "Xrcv8ulouAc",
-     "t": "50W Magnetic Charging and More: NuVolta at 2026 Asia Charging Expo (Fall)",
-     "u": "https://www.youtube.com/watch?v=Xrcv8ulouAc",
-     "d": "2026-09-16",
-     "s": "If you wanna buy the tester of ChargerLAB POWER-Z, you can visit our Amazon store: United States: Deutschland: United Kingdom: France:…"
-    },
-    {
-     "k": "E6cFKHOXGKE",
-     "t": "Robot Dog Wireless Charging and More: MegaHz at 2026 Asia Charging Expo (Fall)",
-     "u": "https://www.youtube.com/watch?v=E6cFKHOXGKE",
-     "d": "2026-09-16",
-     "s": "If you wanna buy the tester of ChargerLAB POWER-Z, you can visit our Amazon store: United States: Deutschland: United Kingdom: France:…"
-    },
-    {
-     "k": "dzo0BRhEco8",
-     "t": "Top 5 AI Power Supply Companies in the First Half of 2026",
-     "u": "https://www.youtube.com/watch?v=dzo0BRhEco8",
-     "d": "2026-09-09",
-     "s": "If you wanna buy the tester of ChargerLAB POWER-Z, you can visit our Amazon store: United States: Deutschland: United Kingdom: France:…"
     }
    ],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-16"
   },
   "curiousmarc": {
    "items": [
+    {
+     "k": "Pne1yKr3V_s",
+     "t": "HP K02-5060 Atomic Clock Supply Restoration - Part 1: We fry it a little",
+     "u": "https://www.youtube.com/watch?v=Pne1yKr3V_s",
+     "d": "2026-10-15",
+     "s": "We dig into a K02-5060 Standby Power Supply, which was used to power the Hewlett-Packard flying atomic clocks in the experiments to check…"
+    },
     {
      "k": "sKM5VTQ6zm8",
      "t": "HP 5221B Nixie Counter Restoration",
@@ -609,16 +616,9 @@
      "u": "https://www.youtube.com/watch?v=85mLokY_oe0",
      "d": "2026-08-19",
      "s": "We get the model A to boot, thanks to a SCSIknife board from my friend Antoine. Many thanks to Electrolab Nanterre: Stuff that supports the…"
-    },
-    {
-     "k": "-EvtSDHth7M",
-     "t": "HP 16702A/B Logic Analyzer Repair: Part 1 - Painful Disassembly",
-     "u": "https://www.youtube.com/watch?v=-EvtSDHth7M",
-     "d": "2026-08-17",
-     "s": "We start the repair and upgrade of two classic HP 16702 Logic Analyzers, an A and a B model. Many thanks to Electrolab Nanterre: Antoine's…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "highyield": {
    "items": [
@@ -651,10 +651,24 @@
      "s": "Apple M1 SoC chip deep-dive and silicon analysis based on high-res die shots from @FritzchensFritz. Become a supporter on Patreon: Follow…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "ifixit": {
    "items": [
+    {
+     "k": "1ICwPPBf4UQ",
+     "t": "Your Earbuds Don’t Have to Be Disposable - Fairbuds 2",
+     "u": "https://www.youtube.com/watch?v=1ICwPPBf4UQ",
+     "d": "2026-10-15",
+     "s": "When a tiny battery wears out, why should the whole pair of earbuds go? We open the Fairphone Fairbuds 2 to see how replaceable batteries…"
+    },
+    {
+     "k": "yauX3LNrqII",
+     "t": "Apple Watch Ultra 4 Teardown!",
+     "u": "https://www.youtube.com/shorts/yauX3LNrqII",
+     "d": "2026-10-13",
+     "s": "Subscribe to our channel for all our latest teardown and repair videos! Follow us on Twitter: Check us out on Facebook: Sign up for our…"
+    },
     {
      "k": "FTQgGxG6T_w",
      "t": "Apple Finally Made AirPods Repairable",
@@ -745,26 +759,26 @@
      "u": "https://www.youtube.com/shorts/g7xppug9HJs",
      "d": "2026-08-31",
      "s": "Subscribe to our channel for all our latest teardown and repair videos! Follow us on Twitter: Check us out on Facebook: Sign up for our…"
-    },
-    {
-     "k": "A9oBrTpq6sE",
-     "t": "We Filled the Pixel 11 Pro Fold’s Hinge With Dust!",
-     "u": "https://www.youtube.com/shorts/A9oBrTpq6sE",
-     "d": "2026-08-28",
-     "s": "Subscribe to our channel for all our latest teardown and repair videos! Follow us on Twitter: Check us out on Facebook: Sign up for our…"
-    },
-    {
-     "k": "8fteyy7KeQo",
-     "t": "Pixel 11 Pro Fold Is Dust Resistant… So Why This Sound?",
-     "u": "https://www.youtube.com/watch?v=8fteyy7KeQo",
-     "d": "2026-08-27",
-     "s": "Google gives the Pixel 11 Pro Fold an IP68 rating—but what happens when extremely fine dust reaches its folding hinge? We put the phone…"
     }
    ],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-16"
   },
   "labmuffin": {
    "items": [
+    {
+     "k": "Re7_HBmtmkU",
+     "t": "Best all-rounder sunscreen?? 😍 AD",
+     "u": "https://www.youtube.com/shorts/Re7_HBmtmkU",
+     "d": "2026-10-14",
+     "s": "AD Geek & Gorgeous Zero Feel is one of my favourite European sunscreens - affordable, lightweight, big tube, high UVA protection! Note: not…"
+    },
+    {
+     "k": "w_NGEiWyKc4",
+     "t": "K-Beauty AI slop",
+     "u": "https://www.youtube.com/shorts/w_NGEiWyKc4",
+     "d": "2026-10-14",
+     "s": "MY BOOK 📖 The Science of Beauty: Shop more of my favorite products here: Subscribe for videos every fortnight: In this video: Blog post…"
+    },
     {
      "k": "znkyTWIImoM",
      "t": "My go-to product for irritation (AD)",
@@ -855,26 +869,33 @@
      "u": "https://www.youtube.com/shorts/yfxlhVUiV7A",
      "d": "2026-09-11",
      "s": "MY BOOK 📖 The Science of Beauty: Shop more of my favorite products here: Subscribe for videos every fortnight: In this video: Blog post…"
-    },
-    {
-     "k": "0HOjlnD4DA0",
-     "t": "The \"paid testimonial ban\" isn't just about paid ads",
-     "u": "https://www.youtube.com/shorts/0HOjlnD4DA0",
-     "d": "2026-09-01",
-     "s": "MY BOOK 📖 The Science of Beauty: Shop more of my favorite products here: Subscribe for videos every fortnight: In this video: Blog post…"
-    },
-    {
-     "k": "31ENG-PKqlM",
-     "t": "This law might be making skin cancer worse",
-     "u": "https://www.youtube.com/watch?v=31ENG-PKqlM",
-     "d": "2026-08-30",
-     "s": "Australia is the skin cancer capital of the world, but you won’t see many Australian sunscreens on social media. This is due to a ban on…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "munro": {
    "items": [
+    {
+     "k": "qpkja8I-cZQ",
+     "t": "Is Rivian's Autonomy+ Actually Worth It?",
+     "u": "https://www.youtube.com/shorts/qpkja8I-cZQ",
+     "d": "2026-10-15",
+     "s": "Rivian offers hands-free driving through its Autonomy+ subscription service, which allows eyes-on, hands-free operation across roughly 3.5…"
+    },
+    {
+     "k": "GVt-6Qdl6_A",
+     "t": "Rivian's Haptic Halo Is Unlike Anything Else!",
+     "u": "https://www.youtube.com/shorts/GVt-6Qdl6_A",
+     "d": "2026-10-14",
+     "s": "The in-house designed Haptic Halo Wheels scroll, push, pull, and tilt to manage climate, media, drive modes, and more. Munro Live is the…"
+    },
+    {
+     "k": "oUh8W5fCRk8",
+     "t": "Rivian R2: Frunk, Trunk, and Everything in Between",
+     "u": "https://www.youtube.com/watch?v=oUh8W5fCRk8",
+     "d": "2026-10-14",
+     "s": "In this video, we're taking a different approach to reviewing the Rivian R2. Eric, the Creative Producer steps out from behind the camera…"
+    },
     {
      "k": "6CR5955x3wc",
      "t": "Inside Tesla’s Automated Semi Battery  Install Line",
@@ -958,30 +979,9 @@
      "u": "https://www.youtube.com/shorts/5lXZFiUmEUc",
      "d": "2026-08-26",
      "s": "In this episode of Munro Live, we tear down a genuine EGO battery and compare it with a cheaper replacement battery to see what you’re…"
-    },
-    {
-     "k": "IH39soKETes",
-     "t": "EGO vs Cheap Replacement Battery: What’s the Difference?",
-     "u": "https://www.youtube.com/watch?v=IH39soKETes",
-     "d": "2026-08-26",
-     "s": "In this episode of Munro Live, we tear down a genuine EGO battery and compare it with a cheaper replacement battery to see what you’re…"
-    },
-    {
-     "k": "bTM2GD7enOQ",
-     "t": "Tiny Spikes, Incredible Grip",
-     "u": "https://www.youtube.com/shorts/bTM2GD7enOQ",
-     "d": "2026-08-17",
-     "s": "In this episode Carl talks with Mark from GRIPMetal to explore the incredible range of possibilities for this unique material. From its…"
-    },
-    {
-     "k": "Z0M2JLYHxi0",
-     "t": "From Brake Pads to Buildings: How GRIPMetal Works",
-     "u": "https://www.youtube.com/watch?v=Z0M2JLYHxi0",
-     "d": "2026-08-17",
-     "s": "In this episode Carl talks with Mark from GRIPMetal to explore the incredible range of possibilities for this unique material. From its…"
     }
    ],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-16"
   },
   "practical": {
    "items": [
@@ -1070,10 +1070,87 @@
      "s": "This year is the 50th anniversary of the Teton Dam Failure 🌌Get Nebula using my link for 50% off an annual subscription: 🚣Watch Joe Scott -…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "roseanvil": {
    "items": [
+    {
+     "k": "R6aqiKkqAAA",
+     "t": "better than a project car",
+     "u": "https://www.youtube.com/shorts/R6aqiKkqAAA",
+     "d": "2026-10-15",
+     "s": "Are you looking for a new hobby? Have you considered leather working? If you want to give it a try, the Sneaker Kit is the perfect…"
+    },
+    {
+     "k": "ZN-QGFzO2OU",
+     "t": "What's inside the Danner Logger Moc 917",
+     "u": "https://www.youtube.com/shorts/ZN-QGFzO2OU",
+     "d": "2026-10-15",
+     "s": "We take a look at what's inside the Danner Logger Moc 917 by cutting it in half. Watch the full review on our channel. Link is in the bio.…"
+    },
+    {
+     "k": "yL0hkTiM-6c",
+     "t": "Are Danner Logger Moc 917 REALLY based on This?",
+     "u": "https://www.youtube.com/watch?v=yL0hkTiM-6c",
+     "d": "2026-10-15",
+     "s": "Make your own Moc Toe sneaker! Check out our Moc Toe DIY SneakerKit - Buy here to help support the channel Danner Logger Moc 917: Knafs…"
+    },
+    {
+     "k": "Lt_6QY64_YA",
+     "t": "what is a sneaker kit?",
+     "u": "https://www.youtube.com/shorts/Lt_6QY64_YA",
+     "d": "2026-10-14",
+     "s": "What is a sneaker kit? Its a package you can order this Thursday that gets you everything you need to make your own set of LEATHER…"
+    },
+    {
+     "k": "HrjsQ-_VMZA",
+     "t": "portland leather",
+     "u": "https://www.youtube.com/shorts/HrjsQ-_VMZA",
+     "d": "2026-10-14",
+     "s": "What kind of company is Portland Leather? A couple years ago, we did a deep dive into their history and cut apart one of their boots for…"
+    },
+    {
+     "k": "W7YJhsIT-lA",
+     "t": "Rose Anvil Moctober Shirts Available Now!",
+     "u": "https://www.youtube.com/shorts/W7YJhsIT-lA",
+     "d": "2026-10-14",
+     "s": "Moctober is back. One month, nothing but moc toes cut in half. It's the most popular series we've ever done, and this shirt is how you keep…"
+    },
+    {
+     "k": "p8slGkJaAas",
+     "t": "going back to school",
+     "u": "https://www.youtube.com/shorts/p8slGkJaAas",
+     "d": "2026-10-14",
+     "s": "Have you ever wanted to try leather working but didn't know where to start? Look no further than the Rose Anvil x @sneakerkit . You'll…"
+    },
+    {
+     "k": "nwDi2rjnlA8",
+     "t": "A DIY Moc Toe Sneaker in collaboration with Sneaker Kit",
+     "u": "https://www.youtube.com/shorts/nwDi2rjnlA8",
+     "d": "2026-10-14",
+     "s": "A DIY Moc Toe Sneaker in collaboration with @sneakerkit! We have limited kits on hand! Sign up using the link in the bio to get first…"
+    },
+    {
+     "k": "x7_MtJhRaPM",
+     "t": "making it myself",
+     "u": "https://www.youtube.com/shorts/x7_MtJhRaPM",
+     "d": "2026-10-13",
+     "s": "We've taught you a lot about boots and shoes over the years. Now you can apply that knowledge and make your own Moc Toe Shoes! This…"
+    },
+    {
+     "k": "KAv_9Z8dgfo",
+     "t": "UGG beat me by 20 yrs (but it sucks?) Birch Boot II",
+     "u": "https://www.youtube.com/watch?v=KAv_9Z8dgfo",
+     "d": "2026-10-12",
+     "s": "Get a Rose Anvil x Goral TUGGS Boot here if you want a REAL version of a shearling boot - Get yourself a Rose Anvil Micro-Adjust Belt - Buy…"
+    },
+    {
+     "k": "LQSKD1mwm_Q",
+     "t": "14.92%",
+     "u": "https://www.youtube.com/shorts/LQSKD1mwm_Q",
+     "d": "2026-10-11",
+     "s": "Columbus day is almost here, to celebrate we are having a Sale! Everything is 14.92% off RIGHT NOW to commemorate 1492, when Columbus's…"
+    },
     {
      "k": "6blKaZLfhKY",
      "t": "Whats the Difference Between Thursday Black Label and Regular Boots - Builder, Diplomat",
@@ -1101,86 +1178,9 @@
      "u": "https://www.youtube.com/watch?v=BJp9rCHJ9uI",
      "d": "2026-10-01",
      "s": "Get the Rose Anvil x White’s C350 Chelsea here while they are still in stock - Get a Rose Anvil Boot Breaker Insole to help with that…"
-    },
-    {
-     "k": "QnFwsHpY78o",
-     "t": "Hunting boots made for comfort & foot health - Lathrop and Sons Mountain Hunter",
-     "u": "https://www.youtube.com/watch?v=QnFwsHpY78o",
-     "d": "2026-09-30",
-     "s": "Get $15 off your first purchase on Whatnot using this link :point_right::skin-tone-3: #whatnotpartner Buy here: Lathrop & Sons Mountain…"
-    },
-    {
-     "k": "wrK4FjAps7c",
-     "t": "New Blundstone Heritage vs RM Williams - Who Rules Australia?",
-     "u": "https://www.youtube.com/watch?v=wrK4FjAps7c",
-     "d": "2026-09-29",
-     "s": "Get yourself some Rose Anvil Boot Breaker Insoles to make those feet more comfortable - Buy here to help support the channel RM Williams…"
-    },
-    {
-     "k": "IudBYaXzWFg",
-     "t": "Are The Weirdest Most Expensive Skate Shoes Worth It? - Village PM Review",
-     "u": "https://www.youtube.com/watch?v=IudBYaXzWFg",
-     "d": "2026-09-28",
-     "s": "Get a Rose Anvil Micro-Adjust Belt to keep those baggy pants up here - Get the Rose Anvil x Koio Capri while its back in stock here - Buy…"
-    },
-    {
-     "k": "qhay4T7Um9c",
-     "t": "Did it Work? 2 Yr Wear Test on Koio Capri - Rose Anvil",
-     "u": "https://www.youtube.com/watch?v=qhay4T7Um9c",
-     "d": "2026-09-24",
-     "s": "Get your pair of Rose Anvil Koio Capri sneakers here while they are restocked! - Buy here to help support the channel Rose Anvil x Koio…"
-    },
-    {
-     "k": "qc5AE6fPIjQ",
-     "t": "(300+ Yrs) WTF are Vacuum Sealed Hunting Boots? Meindl",
-     "u": "https://www.youtube.com/watch?v=qc5AE6fPIjQ",
-     "d": "2026-09-23",
-     "s": "Get $15 off your first purchase on Whatnot using this link 👉🏼 #whatnotpartner Buy here to support the channel: Meindl MFS-Vakuum Hunter -…"
-    },
-    {
-     "k": "MJqo6A2gKlU",
-     "t": "Are You Being Punished for Being Broke? Best Cheap Skate shoes 2026",
-     "u": "https://www.youtube.com/watch?v=MJqo6A2gKlU",
-     "d": "2026-09-21",
-     "s": "Keep your pants up while you are skating with the best leather belts money can buy, the Rose Anvil Micro-Adjust Belt - Buy here to help…"
-    },
-    {
-     "k": "S4dbjFmwzIM",
-     "t": "Y’all Bullied Them Into Bringing It Back - Russell Moccasin Knock-A-Bout Boots",
-     "u": "https://www.youtube.com/watch?v=S4dbjFmwzIM",
-     "d": "2026-09-17",
-     "s": "Get the Rose Anvil x Russell Moccasin Knock-A-Bout Blood Core here (Only 100 will be made) - Get a Rose Anvil Boot Breaker Insole here -…"
-    },
-    {
-     "k": "Ff4-veu7bqY",
-     "t": "Whats Inside the Most “Innovative” Hunting Boot - Crispi Briksdal EFX",
-     "u": "https://www.youtube.com/watch?v=Ff4-veu7bqY",
-     "d": "2026-09-16",
-     "s": "Upgrade your setup with FlexiSpot and pick up your favorite! It would be greatly appreciated if you could leave a note saying ‘Rose Anvil’…"
-    },
-    {
-     "k": "upbbodYEzmo",
-     "t": "Are Huckberry Shoes Good? Luca Terra Astorflex Boot",
-     "u": "https://www.youtube.com/watch?v=upbbodYEzmo",
-     "d": "2026-09-14",
-     "s": "Check out Huckberry here, it has everything I like tbh - Buy here to help support the channel Luca Terra Low Sneaker - Luca Terra Moc…"
-    },
-    {
-     "k": "g6QYGswcVrw",
-     "t": "The Sub $300 Boot Brand You Haven’t Heard Of - Milwaukee Boot Co Hartford Wells",
-     "u": "https://www.youtube.com/watch?v=g6QYGswcVrw",
-     "d": "2026-09-10",
-     "s": "Try Milwaukee Boots for yourself here and let me know what you think - Buy here to help support the channel Milwaukee Boot Co Hartford -…"
-    },
-    {
-     "k": "iyP6HyXWc84",
-     "t": "(100 yrs) 5 flaws in a perfect boot - Zamberlan Guide Max GTX",
-     "u": "https://www.youtube.com/watch?v=iyP6HyXWc84",
-     "d": "2026-09-09",
-     "s": "Get your Rose Anvil camera harnesses here! - Get some boot breakers here before the hunting season. - Buy here to help support the channel…"
     }
    ],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-16"
   },
   "techconn": {
    "items": [
@@ -1213,68 +1213,82 @@
      "s": "It's a really good idea and everyone hating on it probably doesn't understand it. Links 'n' stuff: Here's Prof. John Kelly's excellent demo…"
     }
    ],
-   "checkedAt": "2026-10-14"
+   "checkedAt": "2026-10-16"
   },
   "weber": {
    "items": [],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-16"
   },
   "hackaday_web": {
    "items": [
     {
-     "k": "https://hackaday.com/?p=1240602",
-     "t": "Single Button, Handheld Gaming Console",
-     "u": "https://hackaday.com/2026/10/14/single-button-handheld-gaming-console/",
-     "d": "2026-10-14",
-     "s": "Those of us who grew up in the 70s and 80s might be familiar with the Atari 2600 console and its now relatively unrecognizable (by modern…"
+     "k": "https://hackaday.com/?p=1242901",
+     "t": "45 Years Later, The Sinclair ULA Design Documents Surface",
+     "u": "https://hackaday.com/2026/10/15/45-years-later-the-sinclair-ula-design-documents-surface/",
+     "d": "2026-10-15",
+     "s": "In the 8-bit home computer boom of the early 1980s, Sir Clive Sinclair’s machines were always among the cheapest on the market, often…"
     },
     {
-     "k": "https://hackaday.com/?p=1240556",
-     "t": "Using an ESP32-C3’s RF Hardware for DVB-S2 Video Transmission",
-     "u": "https://hackaday.com/2026/10/14/using-an-esp32-c3s-rf-hardware-for-dvb-s2-video-transmission/",
-     "d": "2026-10-14",
-     "s": "Generally the DVB-S and -S2 standards require a satellite somewhere in Earth orbit to provide a signal to receive, but you can also…"
+     "k": "https://hackaday.com/?p=1242866",
+     "t": "Linux Kernel Drops AI Tag Requirement, Uses Meta AI For Code Reviews",
+     "u": "https://hackaday.com/2026/10/15/linux-kernel-drops-ai-tag-requirement-uses-meta-ai-for-code-reviews/",
+     "d": "2026-10-15",
+     "s": "Since we last covered the way that the Linux Kernel project has been dealing with the influx of code created using LLM-based coding…"
     },
     {
-     "k": "https://hackaday.com/?p=1240426",
-     "t": "Tiny e-Paper Display Delivers 30 FPS of Game Boy Fun",
-     "u": "https://hackaday.com/2026/10/14/tiny-e-paper-display-delivers-30-fps-of-game-boy-fun/",
-     "d": "2026-10-14",
-     "s": "Slow refresh, ghosting and low-contrast — wait, are we talking about passive matrix LCDs, or e-paper displays? That might be why e-paper…"
+     "k": "https://hackaday.com/?p=1242906",
+     "t": "C64 Hardware Simulator Isn’t (Just) For Playing Around",
+     "u": "https://hackaday.com/2026/10/15/c64-hardware-simulator-isnt-just-for-playing-around/",
+     "d": "2026-10-15",
+     "s": "If you want to play old Commodore games, there are C-64 emulators available for just about any platform– but most of them are so high…"
     },
     {
-     "k": "https://hackaday.com/?p=1240623",
-     "t": "2026 Hackaday Supercon: Workshops are Open!",
-     "u": "https://hackaday.com/2026/10/14/2026-hackaday-supercon-workshops-are-open/",
-     "d": "2026-10-14",
-     "s": "Supercon is Hackaday’s annual gathering, and you absolutely need to be there. Today, we’re pleased to announce our lineup of workshops, and…"
+     "k": "https://hackaday.com/?p=1240600",
+     "t": "Hand-Machined Stake Sharpener Just in Time for Dracula Season",
+     "u": "https://hackaday.com/2026/10/15/hand-machined-stake-sharpener-just-in-time-for-dracula-season/",
+     "d": "2026-10-15",
+     "s": "Vampires aren’t as common as they once were, but in most places they aren’t fully protected and it’s still possible to get a tag for legal…"
     },
     {
-     "k": "https://hackaday.com/?p=1240487",
-     "t": "DIY Force Sensing Joysticks are a Cheap Way To Go",
-     "u": "https://hackaday.com/2026/10/14/diy-force-sensing-joysticks-are-a-cheap-way-to-go/",
-     "d": "2026-10-14",
-     "s": "Traditional joysticks typically use potentiometers or hall effect sensors to determine the displacement of the stick itself when moved by…"
+     "k": "https://hackaday.com/?p=1240666",
+     "t": "So You Want To Make Your SDR Work On Other Frequencies",
+     "u": "https://hackaday.com/2026/10/15/so-you-want-to-make-your-sdr-work-on-other-frequencies/",
+     "d": "2026-10-15",
+     "s": "Perhaps the most exciting news of the past few weeks in the world of hardware hacking has been the unlocking of hidden SDR functionality in…"
     },
     {
-     "k": "https://hackaday.com/?p=1240364",
-     "t": "What’s a Nonius?",
-     "u": "https://hackaday.com/2026/10/14/whats-a-nonius/",
-     "d": "2026-10-14",
-     "s": "If you already know what a nonius is, you can probably skip this post. But, if like us, you would have to look it up, we’ll tell you what…"
+     "k": "https://hackaday.com/?p=1240389",
+     "t": "A Thermal Camera That Uses WebUSB",
+     "u": "https://hackaday.com/2026/10/15/a-thermal-camera-that-uses-webusb/",
+     "d": "2026-10-15",
+     "s": "When creating a peripheral for a mobile phone, an obvious path is to create a companion app with which to talk to it. But as we all know…"
     },
     {
-     "k": "https://hackaday.com/?p=1240363",
-     "t": "Testing Oneself for AI Slop",
-     "u": "https://hackaday.com/2026/10/14/testing-oneself-for-ai-slop/",
-     "d": "2026-10-14",
-     "s": "The feed of a Hackaday writer brings many surprises, some rubbish, and the occasional diamond which of course we bring to you. Sometimes a…"
+     "k": "https://hackaday.com/?p=1240485",
+     "t": "Building An M7 Pan Tilt Head Controller",
+     "u": "https://hackaday.com/2026/10/15/building-an-m7-pan-tilt-head-controller/",
+     "d": "2026-10-15",
+     "s": "The Soonpho M7 Pan Tilt Head is a useful photography tool for remotely aiming a decently-sized camera. Only, [Kyle Housley] wanted a little…"
     }
    ],
-   "checkedAt": "2026-10-15"
+   "checkedAt": "2026-10-16"
   },
   "chargerlab_web": {
    "items": [
+    {
+     "k": "https://www.chargerlab.com/teardown-of-the-100w-dual-usb-c-gan-charger-p-tr-37b-j-2c100-eu/",
+     "t": "Teardown of the 100W Dual USB-C GaN Charger (P-TR-37B-J-2C100-EU)",
+     "u": "https://www.chargerlab.com/teardown-of-the-100w-dual-usb-c-gan-charger-p-tr-37b-j-2c100-eu/",
+     "d": "2026-10-15",
+     "s": "Engineered for ultra-compact portability, this 100W dual USB-C travel charger equips both ports with full 100W single-port fast-charging…"
+    },
+    {
+     "k": "https://www.chargerlab.com/teardown-of-the-xtar-aa-15v-lr-2000mah-usb-c-lithium-battery/",
+     "t": "Teardown of the XTAR AA 1.5V LR 2000mAh USB-C Lithium Battery",
+     "u": "https://www.chargerlab.com/teardown-of-the-xtar-aa-15v-lr-2000mah-usb-c-lithium-battery/",
+     "d": "2026-10-15",
+     "s": "The teardown reveals that the XTAR AA 1.5V LR 2000mAh USB-C Lithium Battery pairs a custom-sized cylindrical cell with a top-mounted…"
+    },
     {
      "k": "https://www.chargerlab.com/iphone-18-pro-max-avs-compatibility-test-google-pixel-flex-dual-port-67w-usb-c-fast-charger/",
      "t": "iPhone 18 Pro Max AVS Compatibility Test: Google Pixel Flex Dual Port 67W USB-C Fast Charger",
@@ -1330,23 +1344,9 @@
      "u": "https://www.chargerlab.com/talix-zeta-240w-power-bank-debuts-with-pd32-avs-support/",
      "d": "2026-10-10",
      "s": "The TALIX Zeta PD3.2 240W power bank packs a massive 23,450mAh capacity, dual USB-C 240W bidirectional fast charging, PD3.2 AVS protocol…"
-    },
-    {
-     "k": "https://www.chargerlab.com/teardown-of-the-baseus-picogo-pro-45w-gan-charger/",
-     "t": "Teardown of the Baseus PicoGo Pro 45W GaN Charger",
-     "u": "https://www.chargerlab.com/teardown-of-the-baseus-picogo-pro-45w-gan-charger/",
-     "d": "2026-10-09",
-     "s": "The Baseus PicoGo Pro 45W GaN Charger sports a classic dual-tone black-and-white aesthetic, tipping the scales at around 69.2g."
-    },
-    {
-     "k": "https://www.chargerlab.com/iphone-18-pro-max-avs-compatibility-test-ugreen-nexode-pro-160w-5-port-usb-c-charger/",
-     "t": "iPhone 18 Pro Max AVS Compatibility Test: UGREEN Nexode Pro 160W 5-Port USB-C Charger",
-     "u": "https://www.chargerlab.com/iphone-18-pro-max-avs-compatibility-test-ugreen-nexode-pro-160w-5-port-usb-c-charger/",
-     "d": "2026-10-09",
-     "s": "We put it to the test, and it successfully negotiated the 18V/3A AVS profile, delivering nearly 52W of charging power."
     }
    ],
-   "checkedAt": "2026-10-15"
+   "checkedAt": "2026-10-16"
   },
   "shirriff": {
    "items": [
@@ -1428,16 +1428,65 @@
      "s": ""
     }
    ],
-   "checkedAt": "2026-10-15"
+   "checkedAt": "2026-10-16"
   },
   "semieng": {
    "items": [
     {
-     "k": "https://semiengineering.com/?p=24282776",
-     "t": "Simulations Pinpoint Leakage Pathway In GAAFETs (Sandia, Luxembourg)",
-     "u": "https://semiengineering.com/simulations-pinpoint-leakage-pathway-in-gaafets-sandia-luxembourg/",
-     "d": "2026-10-14",
-     "s": "Researchers at Sandia National Laboratories and Luxembourg Institute of Science and Technology published a technical paper titled…"
+     "k": "https://semiengineering.com/?p=24282817",
+     "t": "Beyond The Specification: What Really Determines PCIe Retimer Reach?",
+     "u": "https://semiengineering.com/beyond-the-specification-what-really-determines-pcie-retimer-reach/",
+     "d": "2026-10-15",
+     "s": "Multiple interacting factors span silicon design, controller intelligence, channel quality, and the transmission medium itself. The post…"
+    },
+    {
+     "k": "https://semiengineering.com/?p=24282820",
+     "t": "Strengthening Advanced-Node Interconnects Through Automated Via Insertion",
+     "u": "https://semiengineering.com/strengthening-advanced-node-interconnects-through-automated-via-insertion/",
+     "d": "2026-10-15",
+     "s": "Short-resilient via insertion improves reliability and performance. The post Strengthening Advanced-Node Interconnects Through Automated…"
+    },
+    {
+     "k": "https://semiengineering.com/?p=24282812",
+     "t": "Building AI Infrastructure For Greater Choice And Flexibility",
+     "u": "https://semiengineering.com/building-ai-infrastructure-for-greater-choice-and-flexibility/",
+     "d": "2026-10-15",
+     "s": "Open interfaces and interoperability allow designers to choose technologies based on the needs of the system. The post Building AI…"
+    },
+    {
+     "k": "https://semiengineering.com/?p=24282807",
+     "t": "AMBA C2C: Moving Forward With A Converged AMBA Foundation For C2C Connectivity",
+     "u": "https://semiengineering.com/amba-c2c-moving-forward-with-a-converged-amba-foundation-for-c2c-connectivity/",
+     "d": "2026-10-15",
+     "s": "Extending chiplet connectivity across AXI and CHI with scalable protocol subsets, interoperability, and flexible transport support. The…"
+    },
+    {
+     "k": "https://semiengineering.com/?p=24282836",
+     "t": "Why Open-Weight AI Matters",
+     "u": "https://semiengineering.com/why-open-weight-ai-matters/",
+     "d": "2026-10-15",
+     "s": "Proprietary models still hold the edge, but open-weight models add more flexibility for deploying AI. The post Why Open-Weight AI Matters…"
+    },
+    {
+     "k": "https://semiengineering.com/?p=24282667",
+     "t": "Agentic AI Alters The CPU-GPU Balance",
+     "u": "https://semiengineering.com/agentic-ai-alters-the-cpu-gpu-balance/",
+     "d": "2026-10-15",
+     "s": "Agentic workloads increase CPU demand, while reasoning models, MoE architectures, and reservoir computing fuel AI acceleration. The post…"
+    },
+    {
+     "k": "https://semiengineering.com/?p=24282785",
+     "t": "How Close Are We To Fully Autonomous Chip Design?",
+     "u": "https://semiengineering.com/how-close-are-we-to-fully-autonomous-chip-design/",
+     "d": "2026-10-15",
+     "s": "Synopsys CEO Sassine Ghazi talks about AI agents, the limits of autonomous engineering, digital twins, and the challenges facing 3D-ICs.…"
+    },
+    {
+     "k": "https://semiengineering.com/?p=24282800",
+     "t": "Thermal Co-Simulation Testing Of Co-Packaged Optics",
+     "u": "https://semiengineering.com/thermal-co-simulation-testing-of-co-packaged-optics/",
+     "d": "2026-10-15",
+     "s": "Ensuring optical engines can operate reliably alongside high-power AI processors in multi-chip packages. The post Thermal Co-Simulation…"
     },
     {
      "k": "https://semiengineering.com/?p=24282770",
@@ -1447,66 +1496,24 @@
      "s": "Researchers at ETH Zürich and New York University published a technical paper titled “Understanding the Power Consumption of Modern High…"
     },
     {
-     "k": "https://semiengineering.com/?p=24282721",
-     "t": "How To Define CPU And Software Stack Performance For Agentic AI",
-     "u": "https://semiengineering.com/how-to-define-cpu-and-software-stack-performance-for-agentic-ai/",
+     "k": "https://semiengineering.com/?p=24282776",
+     "t": "Simulations Pinpoint Leakage Pathway In GAAFETs (Sandia, Luxembourg)",
+     "u": "https://semiengineering.com/simulations-pinpoint-leakage-pathway-in-gaafets-sandia-luxembourg/",
      "d": "2026-10-14",
-     "s": "Measuring the performance demands of agentic AI; assessing CPU bottlenecks, SW stack efficiency, and system-level tradeoffs. The post How…"
-    },
-    {
-     "k": "https://semiengineering.com/?p=24282736",
-     "t": "Generative AI On A General-Purpose Neural Processor (GPNPU)",
-     "u": "https://semiengineering.com/generative-ai-on-a-general-purpose-neural-processor-gpnpu/",
-     "d": "2026-10-14",
-     "s": "A single processor architecture that unifies scalar, vector, and matrix execution in one ISA and one C++ programming model. The post…"
-    },
-    {
-     "k": "https://semiengineering.com/?p=24282716",
-     "t": "Simplify Electronic-Photonic Design Workflows: eBook",
-     "u": "https://semiengineering.com/simplify-electronic-photonic-design-workflows/",
-     "d": "2026-10-14",
-     "s": "The natural evolution of EDA, extending proven design methodologies to include photonic devices, circuits, and systems. The post Simplify…"
-    },
-    {
-     "k": "https://semiengineering.com/?p=24282727",
-     "t": "Accelerating Advanced IC Package Design: A Methodology for Early and Iterative Optimization of Chiplet Integra",
-     "u": "https://semiengineering.com/accelerating-advanced-ic-package-design-a-methodology-for-early-and-iterative-optimization-of-chiplet-integration/",
-     "d": "2026-10-14",
-     "s": "Optimizing chiplet integration, power integrity, and performance through early-stage IC package design and analysis. The post Accelerating…"
-    },
-    {
-     "k": "https://semiengineering.com/?p=24282706",
-     "t": "Why Heat Is Becoming A Bigger Chip Design Issue",
-     "u": "https://semiengineering.com/why-heat-is-becoming-a-bigger-chip-design-issue/",
-     "d": "2026-10-14",
-     "s": "Increasing complexity requires thermal, electrical, and mechanical effects to be analyzed together. The post Why Heat Is Becoming A Bigger…"
-    },
-    {
-     "k": "https://semiengineering.com/?p=24282761",
-     "t": "Blog Review: Oct. 14",
-     "u": "https://semiengineering.com/blog-review-oct-14-3/",
-     "d": "2026-10-14",
-     "s": "Engineers' role in autonomous workflows; UALink over UCIe; GDDR7; on-device speech filtering. The post Blog Review: Oct. 14 appeared first…"
-    },
-    {
-     "k": "https://semiengineering.com/?p=24282754",
-     "t": "Agentic AI Automates RTL Waveform Analysis And Debugging (Columbia, Google)",
-     "u": "https://semiengineering.com/agentic-ai-automates-rtl-waveform-analysis-and-debugging-columbia-google/",
-     "d": "2026-10-13",
-     "s": "Researchers at Columbia University, Google DeepMind, and Google published a technical paper titled “Back to the Future: Rethinking EDA…"
-    },
-    {
-     "k": "https://semiengineering.com/?p=24282697",
-     "t": "Chip Industry Technical Paper Roundup: Oct. 13",
-     "u": "https://semiengineering.com/chip-industry-technical-paper-roundup-oct-13-2/",
-     "d": "2026-10-13",
-     "s": "M3D mem-TFT neuromorphic computing; 2D semiconductor nucleation; ultrathin high-κ dielectrics; hyper-NA EUV litho; bit-flip attack…"
+     "s": "Researchers at Sandia National Laboratories and Luxembourg Institute of Science and Technology published a technical paper titled…"
     }
    ],
-   "checkedAt": "2026-10-15"
+   "checkedAt": "2026-10-16"
   },
   "eevblog": {
    "items": [
+    {
+     "k": "8JnHdr30v4g",
+     "t": "EEVblog 1780 - Ledger Hardware Supply Chain Attack Examined",
+     "u": "https://www.youtube.com/watch?v=8JnHdr30v4g",
+     "d": "2026-10-13",
+     "s": "Looking at the Ledger Nano X hardware supply chain attack Part 2: 00:00 - Ledger Nano X hardware wallet supply chain attack 06:16 - This is…"
+    },
     {
      "k": "So718dYV6Ys",
      "t": "EEVblog 1779 - Amazing LCD Physics! (µTimer Part 4)",
@@ -1604,16 +1611,9 @@
      "u": "https://www.youtube.com/watch?v=lcsXd_0qCuo",
      "d": "2026-09-02",
      "s": "Can you repair a PSU by REMOVING a component? Well, in this case, yeah, kinda. Not recommended for new designs, but it works (for now)…"
-    },
-    {
-     "k": "2-wgZjUjqUw",
-     "t": "The CORRECT Way to Compare Battery Bank Capacity",
-     "u": "https://www.youtube.com/shorts/2-wgZjUjqUw",
-     "d": "2026-09-01",
-     "s": "The CORRECT Way to Compare Battery Bank Capacity. Input referred vs output referred battery capacity explained. And Watt Hours vs Milliamp…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "mikes": {
    "items": [
@@ -1646,7 +1646,7 @@
      "s": "Telonic instruments ( UK) : Product page : User manual :"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "dgw": {
    "items": [
@@ -1756,7 +1756,7 @@
      "s": "An old sewing machine from the 1970-1980's. Quite a mechanical contraption!"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "engguy": {
    "items": [
@@ -1775,7 +1775,7 @@
      "s": "Bill explains how copper — the backbone of our electrical infrastructure — is extracted from ore containing as little as half a percent…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "strange": {
    "items": [
@@ -1841,16 +1841,9 @@
      "u": "https://www.youtube.com/shorts/pfjE1DgcOH4",
      "d": "2026-07-10",
      "s": ""
-    },
-    {
-     "k": "s0pCIdxGDEM",
-     "t": "I upgraded the batteries in the Samsung Tri-Fold by 71%!",
-     "u": "https://www.youtube.com/shorts/s0pCIdxGDEM",
-     "d": "2026-04-14",
-     "s": ""
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "greatscott": {
    "items": [
@@ -1960,7 +1953,7 @@
      "s": "UGREEN NAS Collection (official site): UGREEN NAS DXP4800 GT (official site): UGREEN NAS Collection (Amazon): UGREEN NAS DXP4800 GT…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "julian": {
    "items": [
@@ -2000,7 +1993,7 @@
      "s": "Dc to DC converter PCBs that are buck/boost and bi-directional with an XT30 or XT60 at one end and USB Type C at the other. They use the…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "kasyan": {
    "items": [
@@ -2089,7 +2082,7 @@
      "s": "Original Achieve Power Supply Converter Charging Module Instagram TikTok Facebook Multimeters Laboratory power supplies Soldering iron…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "voltlog": {
    "items": [
@@ -2136,7 +2129,7 @@
      "s": "Can a €140 thermal camera actually be useful? Today we’re testing the Thermal Master P1. In this video, I’m taking a look at the Thermal…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "spiess": {
    "items": [
@@ -2148,7 +2141,7 @@
      "s": "Too often, AI coding is still open-loop: prompt, code, hope. You do the flashing, find the bugs, and explain what went wrong. Again and…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "benheck": {
    "items": [
@@ -2258,7 +2251,7 @@
      "s": "ROMS!"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "techmoan": {
    "items": [
@@ -2368,10 +2361,17 @@
      "s": "Why (oh why) did I get this particular Amplifier and Speakers? MERCHANDISE Techmoan Merchandise is available from SUBSCRIBE COMMENTS…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "jre": {
    "items": [
+    {
+     "k": "Qh8zJ128Qj0",
+     "t": "The Secret to Ground Mounted Solar",
+     "u": "https://www.youtube.com/shorts/Qh8zJ128Qj0",
+     "d": "2026-10-14",
+     "s": "Every project needs a strong foundation. @Carhartt just dropped their all new Steel Gear clothing line- engineered for durability they have…"
+    },
     {
      "k": "J3mYd7si0iI",
      "t": "MY NAME IS NOT JERRY",
@@ -2469,19 +2469,19 @@
      "u": "https://www.youtube.com/watch?v=EnWmuc-J8i8",
      "d": "2026-09-12",
      "s": "The Honor Robot Phone is SUPER Crazy - Stock up with JerryCan Water HERE: (FREE SHIPPING) Or get your JerryCan's on Amazon HERE: The Honor…"
-    },
-    {
-     "k": "GXkwWjAzQYI",
-     "t": "HER DREAM CAME TRUE",
-     "u": "https://www.youtube.com/watch?v=GXkwWjAzQYI",
-     "d": "2026-09-09",
-     "s": "Today Cambry gets to drive her very own Lucid Gravity for the FIRST TIME out on the Salt Flats of UTAH. The Bonneville Salt Flats is an…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "pbk": {
    "items": [
+    {
+     "k": "oZ1XoVy6tpY",
+     "t": "KTC H25T7-A 24.5\" 240Hz Gaming Monitor Unboxing & Review",
+     "u": "https://www.youtube.com/watch?v=oZ1XoVy6tpY",
+     "d": "2026-10-15",
+     "s": "KTC H25T7-A 24.5\" 240Hz Gaming Monitor Unboxing & Review. #ktc #ktcmonitor #ktch25t7a #H25T7A Purchase Links: (Use Code: H25PBK for 25% off…"
+    },
     {
      "k": "7TSWGkfUr6M",
      "t": "Samsung Galaxy A07 Teardown Disassembly Phone Repair #shorts #teardown #technology #smartphone #diy",
@@ -2579,19 +2579,19 @@
      "u": "https://www.youtube.com/shorts/kRnlgbRUXYY",
      "d": "2026-08-20",
      "s": "#shorts Botslab W101 Dual Window Security Camera Review. #Botslab #Botslabwindowcamera #BotslabW101 #windowcamera @botslab750 Amazon:…"
-    },
-    {
-     "k": "mNt0aknKu3o",
-     "t": "ULTIMEA BS-3 3-Way Bookshelf Speakers Unboxing & Review",
-     "u": "https://www.youtube.com/watch?v=mNt0aknKu3o",
-     "d": "2026-08-19",
-     "s": "ULTIMEA BS-3 3-Way Bookshelf Speakers Unboxing & Review. ULTIMEA BS-3 Purchase Link: Twitter / X: Instagram: Patreon: TikTok: Smartphone…"
     }
    ],
-   "checkedAt": "2026-10-12"
+   "checkedAt": "2026-10-16"
   },
   "prg": {
    "items": [
+    {
+     "k": "QUTnibY739Y",
+     "t": "This Was Only A Dollar... #Shorts",
+     "u": "https://www.youtube.com/shorts/QUTnibY739Y",
+     "d": "2026-10-15",
+     "s": "Repair Tools & Camera Gear: Tech News & Articles: Mail-In Repair Requests — Canada & US: Contact: Business & Sponsorships: Dubbing: We use…"
+    },
     {
      "k": "8frWC8GZCTE",
      "t": "The FIRST Ever Transparent Magic Mouse... #Shorts",
@@ -2689,16 +2689,9 @@
      "u": "https://www.youtube.com/shorts/K88PZz2nx50",
      "d": "2026-09-18",
      "s": "🛠 Repair Tools I Use (Updated Regularly – Includes Soldering Gear): 💬 Ask a Question / Join the Community: Reddit: 🎥 Join the Channel for…"
-    },
-    {
-     "k": "slzp0IeWgTI",
-     "t": "Keep It Away From Magnets | iPhone 18 Pro Teardown",
-     "u": "https://www.youtube.com/watch?v=slzp0IeWgTI",
-     "d": "2026-09-18",
-     "s": "Use Code SUPGURU09 to purchase the UB Grip Case at 10% off for a limited time: @SUPCASEofficial The iPhone 18 Pro/Pro Max looks almost the…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "hugh": {
    "items": [
@@ -2794,10 +2787,31 @@
      "s": "You won't see this at the genius bar. ----------------------------------------iTest--------------------------------------- Easily test…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "rewa": {
    "items": [
+    {
+     "k": "c6KIpwq5bFE",
+     "t": "📱 iPhone 18 Pro Screen Refurbishment: Harder Than the 17 Pro? 🤔🔧",
+     "u": "https://www.youtube.com/shorts/c6KIpwq5bFE",
+     "d": "2026-10-15",
+     "s": "For more discounts, you can contact our wholesale team: Feel free to contact us regarding of wholesale businees and product marketing…"
+    },
+    {
+     "k": "eb0F6nOX0y0",
+     "t": "We Refurbish iPhone 18 Pro Screen: Harder than iPhone 17 Pro ?",
+     "u": "https://www.youtube.com/watch?v=eb0F6nOX0y0",
+     "d": "2026-10-15",
+     "s": "In this video, we take on the iPhone 18 Pro front glass replacement and walk through the screen refurbishment process, from glass…"
+    },
+    {
+     "k": "EdjPytiaPv8",
+     "t": "How to Clean iPhone CPU Pads | Step-by-Step Guide 🔬",
+     "u": "https://www.youtube.com/shorts/EdjPytiaPv8",
+     "d": "2026-10-13",
+     "s": "For more discounts, you can contact our wholesale team: Feel free to contact us regarding of wholesale businees and product marketing…"
+    },
     {
      "k": "cDMOgdZEMoA",
      "t": "How to quickly fix broken flex cable?  This repair may help you save more money😯",
@@ -2881,33 +2895,33 @@
      "u": "https://www.youtube.com/shorts/dCVbTYTt2jw",
      "d": "2026-09-22",
      "s": "For more discounts, you can contact our wholesale team: Feel free to contact us regarding of wholesale businees and product marketing…"
-    },
-    {
-     "k": "YeWZmOelgnQ",
-     "t": "🔌 iPhone 17 can charge, but won’t transfer data? 🤔What’s causing the issue?🔧📱",
-     "u": "https://www.youtube.com/shorts/YeWZmOelgnQ",
-     "d": "2026-09-21",
-     "s": "For more discounts, you can contact our wholesale team: Feel free to contact us regarding of wholesale businees and product marketing…"
-    },
-    {
-     "k": "x-VVdzM1hI8",
-     "t": "🔧 What happens when you swap iPhone 18 Pro parts? 👀📱What changed? 🔍 Stay tuned!",
-     "u": "https://www.youtube.com/shorts/x-VVdzM1hI8",
-     "d": "2026-09-19",
-     "s": "For more discounts, you can contact our wholesale team: Feel free to contact us regarding of wholesale businees and product marketing…"
-    },
-    {
-     "k": "6IltlDdaXA0",
-     "t": "iPhone 18 Pro Parts Swap: Friendly for 3rd-Party Repair?",
-     "u": "https://www.youtube.com/watch?v=6IltlDdaXA0",
-     "d": "2026-09-19",
-     "s": "In this video, we walk you through the complete process of replacing major assemblies of the iPhone 18 Pro, including the screen, battery,…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "rossmann": {
    "items": [
+    {
+     "k": "W1yo7_-bI-o",
+     "t": "Mamdani keeps winning, click to cancel in effect. I'm tired of winning Mr. Mamdani, MAKE IT STOP!",
+     "u": "https://www.youtube.com/watch?v=W1yo7_-bI-o",
+     "d": "2026-10-15",
+     "s": "NYC click-to-cancel announcement FTC hearing transcript, $100,000,000 cost mentioned ESA \"loss of life\" Osborn's click-to-cancel platform…"
+    },
+    {
+     "k": "U6VLML3r4T4",
+     "t": "This Senate candidate wants to kill click-to-cancel scams, non-competes & repair     monopolies",
+     "u": "https://www.youtube.com/watch?v=U6VLML3r4T4",
+     "d": "2026-10-14",
+     "s": ""
+    },
+    {
+     "k": "nsxvS1n-uXY",
+     "t": "Adobe gets destroyed by open source clone: here's the legal trouble I predict into the future",
+     "u": "https://www.youtube.com/watch?v=nsxvS1n-uXY",
+     "d": "2026-10-13",
+     "s": ""
+    },
     {
      "k": "o35g60FkygI",
      "t": "Audioholics sued for asking people their thoughts on a picture by copyright troll Morgan Howarth",
@@ -2991,30 +3005,9 @@
      "u": "https://www.youtube.com/watch?v=UqDNjs7cB2c",
      "d": "2026-09-28",
      "s": ""
-    },
-    {
-     "k": "jctBYDoUHTE",
-     "t": "the value of happiness",
-     "u": "https://www.youtube.com/watch?v=jctBYDoUHTE",
-     "d": "2026-09-28",
-     "s": ""
-    },
-    {
-     "k": "0z6Waqvp93M",
-     "t": "Flock camera installer calls 911 on investigatetv reporter, expecting privacy in public 🤣",
-     "u": "https://www.youtube.com/watch?v=0z6Waqvp93M",
-     "d": "2026-09-27",
-     "s": ""
-    },
-    {
-     "k": "AUbpYkLl8Bs",
-     "t": "after 14 years, I'm finally legit",
-     "u": "https://www.youtube.com/watch?v=AUbpYkLl8Bs",
-     "d": "2026-09-25",
-     "s": ""
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "ipadrehab": {
    "items": [
@@ -3026,7 +3019,7 @@
      "s": "We have seen many iPhone 16 pro max that have motherboard damage to the display circuit. This case has some twists and turns and is really…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "tronicsfix": {
    "items": [
@@ -3136,7 +3129,7 @@
      "s": "In 2021 I bought this Framework laptop. Framework is great because they make it easy to upgrade your computer - and that's what I'm doing.…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "gn": {
    "items": [
@@ -3246,10 +3239,17 @@
      "s": "SUPPORT THE DATA DRAGNET SERIES: This long-form series of special reports, investigations, and shorter format feature updates goes deep…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "der8auer": {
    "items": [
+    {
+     "k": "eF6bMSjPepM",
+     "t": "How Liquid Metal Really Reacts! Analysis & a 2-Year Test",
+     "u": "https://www.youtube.com/watch?v=eF6bMSjPepM",
+     "d": "2026-10-15",
+     "s": "Check out the Seasonic PX 2200 PSU: --------------------------------------------------------- Music / Credits: Outro: 1998 Beats - Strange…"
+    },
     {
      "k": "2rcVz9cqf5U",
      "t": "The Craziest AIO I’ve Ever Seen - CoolIT Eliminator",
@@ -3347,16 +3347,9 @@
      "u": "https://www.youtube.com/watch?v=27l8MqNvBRQ",
      "d": "2026-06-18",
      "s": "Check out the Seasonic PX 2200 PSU: --------------------------------------------------------- Music / Credits: Outro: 1998 Beats - Strange…"
-    },
-    {
-     "k": "ifi923lEMp0",
-     "t": "Phanteks’ Approach to Kill the Fish Tank Case",
-     "u": "https://www.youtube.com/watch?v=ifi923lEMp0",
-     "d": "2026-06-10",
-     "s": "Check out the Seasonic PX 2200 PSU: --------------------------------------------------------- Music / Credits: Outro: 1998 Beats - Strange…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "buildzoid": {
    "items": [
@@ -3364,13 +3357,6 @@
      "k": "z19w4LpfLjA",
      "t": "Ryzen 9 9950X overclocking on a -20C Chiller.",
      "u": "https://www.youtube.com/watch?v=z19w4LpfLjA",
-     "d": "2026-10-09",
-     "s": "Patreon: My game: Twitch: Music: #AMD #Ryzen #ASUS #overclocking #9900X"
-    },
-    {
-     "k": "CGZb7RlR0Nk",
-     "t": "Ryzen 9 9950X overclocking on a -20C Chiller.",
-     "u": "https://www.youtube.com/watch?v=CGZb7RlR0Nk",
      "d": "2026-10-09",
      "s": "Patreon: My game: Twitch: Music: #AMD #Ryzen #ASUS #overclocking #9900X"
     },
@@ -3464,12 +3450,26 @@
      "u": "https://www.youtube.com/watch?v=0gHiw0CsjAY",
      "d": "2026-05-19",
      "s": "TL;DW: the 8600G is very very RAM bottlenecked and also very bad. Patreon: Twitch(mainly gaming streams): Bandcamp: My FPS game: Bluesky:…"
+    },
+    {
+     "k": "fqtysbmD50Y",
+     "t": "[FILLER] Rambling about in-cable capacitors on ATX PSUs.",
+     "u": "https://www.youtube.com/watch?v=fqtysbmD50Y",
+     "d": "2026-05-16",
+     "s": "Patreon: Twitch(mainly gaming streams): Bandcamp: My FPS game: Bluesky: Facebook:"
     }
    ],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-16"
   },
   "sth": {
    "items": [
+    {
+     "k": "yFSDB1BatrQ",
+     "t": "Exclusive INSIDE the Secretive AWS Networking Lab",
+     "u": "https://www.youtube.com/watch?v=yFSDB1BatrQ",
+     "d": "2026-10-14",
+     "s": "AWS invited us to tour the networking lab where it develops its own switches, timing appliances, optical modules, and fiber connectors. We…"
+    },
     {
      "k": "-nZiqOh-vEw",
      "t": "A Value 128GB Local AI Node? The GMKtec EVO-X3",
@@ -3479,7 +3479,7 @@
     },
     {
      "k": "AyzRKsNcBrY",
-     "t": "OVER 2B Tokens Per Day MASSIVE NVIDIA DGX Station from Gigabyte",
+     "t": "BIG Local AI with a MASSIVE NVIDIA DGX Station from Gigabyte",
      "u": "https://www.youtube.com/watch?v=AyzRKsNcBrY",
      "d": "2026-10-06",
      "s": "We test the GIGABYTE W775-V10-L01 and see just how fast this NVIDIA DGX Station-based AI system runs. We get big numbers on the Blackwell…"
@@ -3567,19 +3567,19 @@
      "u": "https://www.youtube.com/watch?v=J4dXpAuyZ9A",
      "d": "2026-06-11",
      "s": "The ASRock Industrial NUC BOX-358H brings with it Intel's latest-generation Intel Panther Lake platform, marking a big change for the mini…"
-    },
-    {
-     "k": "77lK-5D6Xd8",
-     "t": "This NEW NAS Cooks with Everything",
-     "u": "https://www.youtube.com/watch?v=77lK-5D6Xd8",
-     "d": "2026-05-26",
-     "s": "We take a look at the ZimaCube 2 Pro NAS, which features a 10-core processor, 10GbE, 10x data drives, Thunderbolt, and even PCIe card slots…"
     }
    ],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-16"
   },
   "geerling": {
    "items": [
+    {
+     "k": "4l9xU3_36Xs",
+     "t": "Formlabs finally made a cheaper printer",
+     "u": "https://www.youtube.com/watch?v=4l9xU3_36Xs",
+     "d": "2026-10-14",
+     "s": "Thanks to Formlabs for providing the Form Studio 1 for this project. More info: (Note: The above link is a campaign tracking link, NOT an…"
+    },
     {
      "k": "KUUuxkICOLw",
      "t": "Qualcomm made a Pi 5 killer. Good luck getting one.",
@@ -3677,20 +3677,13 @@
      "u": "https://www.youtube.com/watch?v=DJ6dWOVZh2k",
      "d": "2026-07-17",
      "s": "Makera thinks their new desktop CNC is able to be useful for noobs like me. Is it? And can I fix my Apple Xserve mounting issue by the end…"
-    },
-    {
-     "k": "o4Lcg3YBYzg",
-     "t": "The Raspberry Pi I wasn't supposed to buy",
-     "u": "https://www.youtube.com/watch?v=o4Lcg3YBYzg",
-     "d": "2026-07-08",
-     "s": "The Special Value Pi 4 was only for sale for a week. Right after I bought one, it was gone! What made it a 'special value', anyway? Here's…"
     }
    ],
-   "checkedAt": "2026-10-12"
+   "checkedAt": "2026-10-16"
   },
   "techinsights": {
    "items": [],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "geekerwan": {
    "items": [
@@ -3800,15 +3793,15 @@
      "s": "M5 Pro和M5 Max的完整评测终于来啦！作为苹果使用Chiplet结构下的第一代笔记本SoC，M5 Pro用上了和M5 Max完全相同的CPU…"
     }
    ],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-16"
   },
   "electronupdate": {
    "items": [],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "zeloof": {
    "items": [],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "limiting": {
    "items": [
@@ -3904,7 +3897,7 @@
      "s": "Elon Musk has consistently promoted solar as the best power source for civilization. If that’s the case, why has he primarily chosen gas…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "prowse": {
    "items": [
@@ -3920,7 +3913,7 @@
      "t": "Solid State Marine Batteries: False Advertising?! Fire Risk?",
      "u": "https://www.youtube.com/watch?v=yuMf4e4BIxs",
      "d": "2026-08-31",
-     "s": "Don't want to burn down your house? Need equipment you can actually depend on? Check out my latest \"Will Prowse Approved\" solar product…"
+     "s": "*Don't want to burn down your house? Need equipment you can actually depend on? Check out my latest \"Will Prowse Approved\" solar product…"
     },
     {
      "k": "Y7hqPAV0U_8",
@@ -3941,21 +3934,21 @@
      "t": "Reviewing My Model X After 100K Miles! (Not a Tesla Fan Boy)",
      "u": "https://www.youtube.com/watch?v=G1S62F-88R8",
      "d": "2026-08-11",
-     "s": "Don't want to burn down your house? Need equipment you can actually depend on? Check out my latest \"Will Prowse Approved\" solar product…"
+     "s": "*Don't want to burn down your house? Need equipment you can actually depend on? Check out my latest \"Will Prowse Approved\" solar product…"
     },
     {
      "k": "MJ_-UjYNDmE",
      "t": "UL Certification for Dummies! Crash Course for Beginners",
      "u": "https://www.youtube.com/watch?v=MJ_-UjYNDmE",
      "d": "2026-08-11",
-     "s": "Don't want to burn down your house? Need equipment you can actually depend on? Check out my latest \"Will Prowse Approved\" solar product…"
+     "s": "*Don't want to burn down your house? Need equipment you can actually depend on? Check out my latest \"Will Prowse Approved\" solar product…"
     },
     {
      "k": "DCGhw6x1Osg",
      "t": "EG4 Power Pro VS Ruixu Lithi VS Yixiang Budget Battery! Best Selling Battery Showdown!",
      "u": "https://www.youtube.com/watch?v=DCGhw6x1Osg",
      "d": "2026-08-08",
-     "s": "*If you like this testing, please use the affiliate links below:* Yixiang Batteries: EG4: Ruixu: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Don't want to…"
+     "s": "*If you like this testing, please use the affiliate links below:* Yixiang Batteries: EG4: Ruixu: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ *Don't want…"
     },
     {
      "k": "EwBNDURRNXg",
@@ -3976,7 +3969,7 @@
      "t": "The Real Reason Your LiFePO4 Battery Comes From China",
      "u": "https://www.youtube.com/watch?v=f3QE8Kyc3Is",
      "d": "2026-07-28",
-     "s": "Don't want to burn down your house? Need equipment you can actually depend on? Check out my latest \"Will Prowse Approved\" solar product…"
+     "s": "*Don't want to burn down your house? Need equipment you can actually depend on? Check out my latest \"Will Prowse Approved\" solar product…"
     },
     {
      "k": "qZZPt6N1bCM",
@@ -3997,14 +3990,14 @@
      "t": "Battleborn Batteries: Overheating Cells from Dragonfly Energy?",
      "u": "https://www.youtube.com/watch?v=wL1HEVfdNQU",
      "d": "2026-07-13",
-     "s": "Don't want to burn down your house? Need equipment you can actually depend on? Check out my latest \"Will Prowse Approved\" solar product…"
+     "s": "*Don't want to burn down your house? Need equipment you can actually depend on? Check out my latest \"Will Prowse Approved\" solar product…"
     },
     {
      "k": "5KCkl01uN5Q",
      "t": "Battleborn Batteries 9 Year Test: You Won't Believe This..",
      "u": "https://www.youtube.com/watch?v=5KCkl01uN5Q",
      "d": "2026-07-09",
-     "s": "Don't want to burn down your house? Need equipment you can actually depend on? Check out my latest \"Will Prowse Approved\" solar product…"
+     "s": "*Don't want to burn down your house? Need equipment you can actually depend on? Check out my latest \"Will Prowse Approved\" solar product…"
     },
     {
      "k": "Lu3CkPPbfNo",
@@ -4014,10 +4007,17 @@
      "s": "*Do you like tutorials like this? Use the affiliate links below!* Budget but Reliable Volt Meter: Internal Resistance Meter with cables…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "offgrid": {
    "items": [
+    {
+     "k": "h7qpx-m5Fb8",
+     "t": "100Ah Battery in parallel with 530Ah battery through Bulk, Absorption and Float. Should you?",
+     "u": "https://www.youtube.com/watch?v=h7qpx-m5Fb8",
+     "d": "2026-10-14",
+     "s": "OK, my friends, I show you again how batteries with different capacities work in parallel. We connect a small 100Ah battery to the CATL…"
+    },
     {
      "k": "id69ftYOKbk",
      "t": "Battery Shelf and PowerWall in Action. Different Capacities and Cable Lengths. Will that even work?",
@@ -4115,19 +4115,19 @@
      "u": "https://www.youtube.com/watch?v=wF-lXi9s8Uo",
      "d": "2026-07-21",
      "s": "Battery No2 has shut down again this morning and I do some investigation what was going on. I found two cells with very low voltage, so I…"
-    },
-    {
-     "k": "2WPzLgXCogI",
-     "t": "Connecting the Smart Shunt to a 1000A Busbar!",
-     "u": "https://www.youtube.com/watch?v=2WPzLgXCogI",
-     "d": "2026-07-16",
-     "s": "The installation in the new battery room continues and we connect the smart shunt in its final location. The wiring with 95mm² cable is not…"
     }
    ],
-   "checkedAt": "2026-10-14"
+   "checkedAt": "2026-10-16"
   },
   "rosie": {
    "items": [
+    {
+     "k": "ZhnBlf9UsNo",
+     "t": "Do Carbon Offsets Actually Work?",
+     "u": "https://www.youtube.com/shorts/ZhnBlf9UsNo",
+     "d": "2026-10-14",
+     "s": "Do carbon offsets actually make a difference? ______________________________________________________________________ 🌱 Join the Engineering…"
+    },
     {
      "k": "nBQU-O9wQWQ",
      "t": "Air vs Batteries - Which is Better?",
@@ -4225,16 +4225,9 @@
      "u": "https://www.youtube.com/shorts/3O64CUctVng",
      "d": "2026-09-03",
      "s": "Synchronous condensers have helped keep electricity grids stable for decades. But as we build a grid with more wind and solar, are they…"
-    },
-    {
-     "k": "Nzj_iOPSHX4",
-     "t": "Fixing Wind Energy's Biggest Problem",
-     "u": "https://www.youtube.com/watch?v=Nzj_iOPSHX4",
-     "d": "2026-09-01",
-     "s": "Check out Bedford Reinforced Plastics at What if I told you wind turbine blades are designed to be repaired? I'll show you how in this…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "jehu": {
    "items": [
@@ -4260,11 +4253,11 @@
      "s": ""
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "knurl": {
    "items": [],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "mjlorton": {
    "items": [
@@ -4276,10 +4269,17 @@
      "s": "Hello my YT Friends.. I'm back with a rather sad update on my Brother. However I AM back, and that means.. Going forward I'm hoping to get…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "idocars": {
    "items": [
+    {
+     "k": "3TGYgxOw3rQ",
+     "t": "Tearing down the 3rd FAILED Toyota Tundra V35A Engine. Will this give us the answers we need?",
+     "u": "https://www.youtube.com/watch?v=3TGYgxOw3rQ",
+     "d": "2026-10-11",
+     "s": "WELCOME TO THE TOYOTA V35A SAGA. I'm your host Eric and THIS, is the third V35A I've now torn down. The V35A is the 3.4L Twin Turbo V6 in…"
+    },
     {
      "k": "AUGvkBWv9o0",
      "t": "This is the WILDEST Car I'll EVER buy from a tow lot. How does it get so bad?",
@@ -4377,16 +4377,9 @@
      "u": "https://www.youtube.com/shorts/PHKkyAJd8uU",
      "d": "2026-08-14",
      "s": "I’m Eric and I own and run Importapart, a REAL auto salvage business in the Saint Louis area. In the nether regions of this industry lies a…"
-    },
-    {
-     "k": "SWwZQcyXc4Q",
-     "t": "This Hemi Engine FAILED TWICE! Mopar Reman DEAD! 2015+ Ram 2500/3500 6.4L V8 Engine Teardown",
-     "u": "https://www.youtube.com/watch?v=SWwZQcyXc4Q",
-     "d": "2026-08-09",
-     "s": "For parts go to or email us at Importapartsales@gmail.com. You can also visit our sister site Today we have the biggest of Chrysler Hemi…"
     }
    ],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-16"
   },
   "damien": {
    "items": [
@@ -4496,7 +4489,7 @@
      "s": "In this episode I introduce the pump of DOOOOMMMM!! Hacking Thread on the OpenInverter Forum : Don't forget to subscribe and leave a like…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "engexp": {
    "items": [
@@ -4606,7 +4599,7 @@
      "s": "One of the most technically advanced four-cylinder engines ever just launched. A small, two-liter inline-four is cranking out 324…"
     }
    ],
-   "checkedAt": "2026-10-12"
+   "checkedAt": "2026-10-16"
   },
   "rich": {
    "items": [
@@ -4716,22 +4709,29 @@
      "s": "Enter CCAN Action Fund’s EV raffle fundraiser for your chance to win a brand new electric vehicle! One ticket – THREE chances to win. First…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "egarage": {
    "items": [],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "dala": {
    "items": [],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "ingineerix": {
    "items": [],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "carcarenut": {
    "items": [
+    {
+     "k": "hiDLbEn07Cw",
+     "t": "2 Things You Should Know About Your Modern Toyota Automatic Transmissions",
+     "u": "https://www.youtube.com/watch?v=hiDLbEn07Cw",
+     "d": "2026-10-14",
+     "s": "A Toyota specialist shares 2 important things every Toyota and Lexus owner should know about their modern automatic transmission. TCCN…"
+    },
     {
      "k": "EqjJwqnL6uw",
      "t": "Should You Buy a 2026 Lexus ES?",
@@ -4829,16 +4829,9 @@
      "u": "https://www.youtube.com/watch?v=zSsA7eaL5Bo",
      "d": "2026-08-26",
      "s": "The 2027 Toyota Highlander is delayed and I hope it is for a good reason. The Toyota Highlander is one of the oldest names in the Toyota…"
-    },
-    {
-     "k": "q2G-mGL05fA",
-     "t": "How To Make Your Toyota Hybrid Last Over 300,000 Miles",
-     "u": "https://www.youtube.com/watch?v=q2G-mGL05fA",
-     "d": "2026-08-22",
-     "s": "In today's video I share with you how to make your Toyota hybrid last over 300,000 miles without any major issues. We discuss some of the…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "d4a": {
    "items": [
@@ -4920,10 +4913,17 @@
      "s": "Support the channel by shopping through this link: Become a member: Patreon: When combustion occurs inside an engine, it pushes the piston…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "utg": {
    "items": [
+    {
+     "k": "xr5IotlD5JI",
+     "t": "Beater-Nomics! What Did It Cost To Drive This Marketplace Missile For One Year",
+     "u": "https://www.youtube.com/watch?v=xr5IotlD5JI",
+     "d": "2026-10-13",
+     "s": "Last year we hit Facebook marketplace in search of a cheap Mopar Minivan with Stow And Go seating to haul our pack of dogs to classes and…"
+    },
     {
      "k": "rFjgGJtjWTs",
      "t": "The Great Hydraulic Roller Lifter Failure Video - One Problem Many Causes",
@@ -5021,43 +5021,43 @@
      "u": "https://www.youtube.com/watch?v=aPZvaJRM3rw",
      "d": "2026-09-02",
      "s": "Like thousands of other people, we've been watching as the guys from Engine Power have been slowly and meticulously disassembling the 318…"
-    },
-    {
-     "k": "-8wYJ6Olv5A",
-     "t": "Factory Freak Stuff You Need To Know BEFORE You Dig Into That Engine Build",
-     "u": "https://www.youtube.com/watch?v=-8wYJ6Olv5A",
-     "d": "2026-09-01",
-     "s": "It would be normal to assume when working with a completely factory stock engine that all of the parts inside are going to be the standard…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "southmain": {
    "items": [
     {
+     "k": "weNzsXSJdzk",
+     "t": "This Toyota Tundra Has a Noise That Only Shows Up When It's HOT!",
+     "u": "https://www.youtube.com/watch?v=weNzsXSJdzk",
+     "d": "2026-10-15",
+     "s": "In this video I'm working on a customer's 2015 Toyota Tundra that has an awful noise coming from the driveshaft center support bearing. The…"
+    },
+    {
      "k": "Y7otpck9dmY",
-     "t": "Toyota Matrix Smells Like Gas... Wonder Why!?",
+     "t": "Customer States: “It Smells Like Gas” | 2011 Toyota Matrix",
      "u": "https://www.youtube.com/watch?v=Y7otpck9dmY",
      "d": "2026-10-11",
      "s": "In this video, I’m working on a customer’s 2011 Toyota Matrix that was brought in because it smells like gas. Seems straightforward…"
     },
     {
      "k": "GqlKWI0AQfQ",
-     "t": "Subaru Forester Front Brakes - Quick & Easy Pads and Rotors",
+     "t": "2019 Subaru Forester Front Brake Job - Pads & Rotors",
      "u": "https://www.youtube.com/watch?v=GqlKWI0AQfQ",
      "d": "2026-10-09",
      "s": "This is an easy one, folks, and one of the most common day-to-day jobs in the shop next to the classic oil change. In this video, I’m…"
     },
     {
      "k": "J-n41xEp_Ws",
-     "t": "2011 Ford F-150 Rear U-Joint Replacement | The Cutting Torch Method",
+     "t": "Replacing A Rusted F-150 U-Joint With A Cutting Torch",
      "u": "https://www.youtube.com/watch?v=J-n41xEp_Ws",
      "d": "2026-10-07",
      "s": "In this video, I’m replacing the rear U-joint on a 2011 Ford F-150 using what I’ll call the “cutting torch method.” Is it the right way?…"
     },
     {
      "k": "L7qN4mSkJGQ",
-     "t": "Dodge Avenger Lower Ball Joint Replacement - No Ball Joint Press!",
+     "t": "Dodge Avenger Ball Joint Replacement - My Method",
      "u": "https://www.youtube.com/watch?v=L7qN4mSkJGQ",
      "d": "2026-10-05",
      "s": "In this video, I’m replacing the front lower ball joint on a Dodge Avenger. There are plenty of ways to get one of these ball joints out…"
@@ -5131,19 +5131,26 @@
      "u": "https://www.youtube.com/watch?v=YUvqTriCM6g",
      "d": "2026-08-25",
      "s": "In this video I have a look at a 2014 Subaru Outback that supposedly just had a wheel alignment done. Well... the evidence says otherwise.…"
-    },
-    {
-     "k": "NKRrDBgkws0",
-     "t": "Jeep Renegade Won’t Crank… Sometimes! Let’s Prove What’s Wrong",
-     "u": "https://www.youtube.com/watch?v=NKRrDBgkws0",
-     "d": "2026-08-19",
-     "s": "In this video I have a look at a customer’s 2020 Jeep Renegade that has developed an intermittent no-crank condition. The problem has been…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "pinehollow": {
    "items": [
+    {
+     "k": "MuPU5vT0Hok",
+     "t": "Shop GAVE UP on this Subaru?? ('06 Outback: NO Headlights)",
+     "u": "https://www.youtube.com/watch?v=MuPU5vT0Hok",
+     "d": "2026-10-15",
+     "s": "My old neighbor dropped off his 2006 Subaru \"Farm Beater\" Outback at PHAD because it has NO HEADLIGHTS! His \"regular shop\" had it for 1…"
+    },
+    {
+     "k": "IDsbnPcBrx0",
+     "t": "Customer Says: \"IT'S BROKEN!\"...But IS IT? ('07 Chevy Equinox: Transmission LIMP Mode P2534)",
+     "u": "https://www.youtube.com/watch?v=IDsbnPcBrx0",
+     "d": "2026-10-13",
+     "s": "Customer towed in his 2007 Chevy Equinox V6 that is apparently stuck in Transmission LIMP MODE after a recent head gasket job. The car has…"
+    },
     {
      "k": "cp7rTMoXLmA",
      "t": "(Pt2) Crazy Honda STUMPS Dealer...Runs RICH Once a MONTH?? ('17 Accord V6: P0175-P0297-P0299)",
@@ -5234,23 +5241,9 @@
      "u": "https://www.youtube.com/watch?v=FsgPucO8jrQ",
      "d": "2026-09-16",
      "s": "My friend was driving his 2016 BMW 535xi from PA to Ohio when suddenly it started OVERHEATING!! Luckily he was only 15 minutes from my…"
-    },
-    {
-     "k": "cu8Xobr3psY",
-     "t": "(Pt 2) Ford Crazy RATTLE...4x4 MALFUNCTION: Solved! ('18 F150 EcoBoost)",
-     "u": "https://www.youtube.com/watch?v=cu8Xobr3psY",
-     "d": "2026-09-13",
-     "s": "Next Day after diagnosing and repairing the Brake Pad Rattle, the BIG Rattle FINALLY shows up! Seems to happen at light Turbo Boost below…"
-    },
-    {
-     "k": "e4o8cEUb1rU",
-     "t": "(Pt 1) Ford Crazy RATTLE...4x4 MALFUNCTION? ('18 F150 EcoBoost)",
-     "u": "https://www.youtube.com/watch?v=e4o8cEUb1rU",
-     "d": "2026-09-12",
-     "s": "Owner of this 2018 Ford F150 EcoBoost has been dealing with an Intermittent ANNOYING loud RATTLE/GRINDING noise coming from the front axle…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "vgg": {
    "items": [
@@ -5360,16 +5353,44 @@
      "s": "we're back at the Iola car show in Iola, Wi for the 4th year! This time my friend Andy and I are taking on this 1964 Foed Galaxy thats been…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "motline": {
    "items": [
     {
+     "k": "5NbDpj7uLCY",
+     "t": "달리다가 폭삭 주저앉은 차.. 결국 팔았습니다....",
+     "u": "https://www.youtube.com/watch?v=5NbDpj7uLCY",
+     "d": "2026-10-14",
+     "s": "🚗 장기렌트 최저가, 여기서 확인하세요! 모트라인×차즘 쇼룸 바로가기👇"
+    },
+    {
+     "k": "8CDPCSnn95c",
+     "t": "2천만원~1억원 전기차, 그냥 이거 사시면 됩니다^^",
+     "u": "https://www.youtube.com/watch?v=8CDPCSnn95c",
+     "d": "2026-10-13",
+     "s": "🚗 장기렌트 최저가, 여기서 확인하세요! 모트라인×차즘 쇼룸 바로가기👇 00:00 금액대별 전기차 추천, 오늘의 선정 기준 02:03 2천만원대 전기차 추천 05:34 3천만원대 전기차 추천 08:48 4천만원대 전기차 추천 13:25 5천만원대…"
+    },
+    {
+     "k": "mC3TbtOyyqc",
+     "t": "1천만원짜리 국산차는 절대 실망시키지 않지… (인생 바뀜)",
+     "u": "https://www.youtube.com/watch?v=mC3TbtOyyqc",
+     "d": "2026-10-12",
+     "s": "#제네시스쿠페 #제네시스 #토요타86 #gr86 #실비아 #드리프트 #드리프트카 #벨로스터n #토요타 📌모두의리뷰 참여신청 및 광고문의 메일 mot.review@gmail.com 카카오톡…"
+    },
+    {
+     "k": "ajOsw_sxzLg",
+     "t": "테슬라 코리아가 FSD 승인 신청하지 않는 진짜 이유... 이거 모르고 국토부 욕하면 바보 된다.",
+     "u": "https://www.youtube.com/watch?v=ajOsw_sxzLg",
+     "d": "2026-10-10",
+     "s": "🚗 장기렌트 최저가, 여기서 확인하세요! 모트라인×차즘 쇼룸 바로가기👇 00:00 국토부가 FSD를 막고 있다? 02:49 테슬라가 실제로 요청한 내용 06:46 국내에서도 신기술을 허용하는 방법 09:45 테슬라는 왜 특례 신청을 안 할까?…"
+    },
+    {
      "k": "IDRV5U-jbZM",
-     "t": "전기차 부품값의 충격적인 현실 (중국차가 문제가 아니다)",
+     "t": "전기차 부품값.. 좀 충격적입니다 (중국차가 문제가 아니었다)",
      "u": "https://www.youtube.com/watch?v=IDRV5U-jbZM",
      "d": "2026-10-09",
-     "s": "📌모두의리뷰 참여신청 및 광고문의 메일 mot.review@gmail.com 카카오톡"
+     "s": "#테슬라 #테슬라부품값 #byd #전기차부품값 #중국전기차 #중국차부품값 #520i #모델3 #모델Y 📌모두의리뷰 참여신청 및 광고문의 메일 mot.review@gmail.com 카카오톡"
     },
     {
      "k": "ktvC6t9H0i0",
@@ -5440,40 +5461,61 @@
      "u": "https://www.youtube.com/watch?v=i_3lJPa_m0k",
      "d": "2026-09-30",
      "s": "G90 블랙, 물론 아쉬운 부분도 있습니다만.. 가격까지 생각하면 정말 훌륭한 가성비의 차량입니다."
-    },
-    {
-     "k": "T_hCt-7BhIg",
-     "t": "예산 4천만원, 전기차 살 바엔 진짜 이 차 삽니다.",
-     "u": "https://www.youtube.com/watch?v=T_hCt-7BhIg",
-     "d": "2026-09-29",
-     "s": "#혼다어코드 #신형그랜저 #그랜저하이브리드 #소나타 #소나타하이브리드 #토요타캠리 #혼다철수 #토요타크라운 #신형라브4 📌모두의리뷰 참여신청 및 광고문의 메일 mot.review@gmail.com 카카오톡…"
-    },
-    {
-     "k": "RgpammOd0YI",
-     "t": "이걸 아직도 모르는 분들이 계시던데;;;",
-     "u": "https://www.youtube.com/watch?v=RgpammOd0YI",
-     "d": "2026-09-29",
-     "s": "타이어 관리만 해도!! 내 차가 훨씬 깨끗해 보입니다!!"
-    },
-    {
-     "k": "MrpDVbKl4dg",
-     "t": "그랜저 살 돈으로, 1600만원 할인받고 벤츠 E클래스 샀습니다.",
-     "u": "https://www.youtube.com/watch?v=MrpDVbKl4dg",
-     "d": "2026-09-26",
-     "s": "#벤츠e200 #e200아방가르드 #e200익스클루시브 #벤츠e200할인 #e클래스 #신현그랜저 #그랜저하이브리드 #현대그랜저 #그랜저중고 📌모두의리뷰 참여신청 및 광고문의 메일 mot.review@gmail.com 카카오톡…"
-    },
-    {
-     "k": "tlOriuzWRX4",
-     "t": "뭐라고?? 3억으로 911을 산다고???",
-     "u": "https://www.youtube.com/watch?v=tlOriuzWRX4",
-     "d": "2026-09-25",
-     "s": ""
     }
    ],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-16"
   },
   "wooppa": {
    "items": [
+    {
+     "k": "ukjvIVilwyA",
+     "t": "신형 렉서스 ES 최초 비교! “풀옵 vs 깡통” 860만원 차이, 그만한 가치 있을까?",
+     "u": "https://www.youtube.com/watch?v=ukjvIVilwyA",
+     "d": "2026-10-15",
+     "s": "렉서스 ES, 기본 모델의 실속 vs 풀옵션의 만족! 여러분의 선택은? 🚗 우파가 직접 운영하는 차맵에서 상담받아 보세요 신차 출고 원스톱 플랫폼 차맵 : 안녕하세요 자동차 유튜버 우파TV입니다. 오늘 준비한 영상은 렉서스 신형 ES 기본 모델과…"
+    },
+    {
+     "k": "CY-Yg420B0g",
+     "t": "\"국토부에 보냈는데..\" 테슬라코리아 대표의 충격 발언, 중국산 FSD 활성화가 안되는 이유",
+     "u": "https://www.youtube.com/watch?v=CY-Yg420B0g",
+     "d": "2026-10-14",
+     "s": "10월 할인좋은 국산차 & 수입차 문의주세요! 🚗 우파가 직접 운영하는 가장 합리적인 차 출고 원스톱 플랫폼 차맵 : 안녕하세요 자동차 유튜버 우파TV입니다. 오늘 준비한 영상은 테슬라 FSD 관련 내용입니다. 자세한 내용은 영상을 통해…"
+    },
+    {
+     "k": "khT6p7oLAmc",
+     "t": "2,398만원 신형 아반떼 깡통! 계기판까지 빠졌다고? 실물최초공개!!",
+     "u": "https://www.youtube.com/watch?v=khT6p7oLAmc",
+     "d": "2026-10-13",
+     "s": "아반떼, 기본 트림이면 충분할까? 내게 필요한 옵션만 골라 사고 싶다면? 🚗 우파가 직접 운영하는 차맵에서 상담받아 보세요 신차 출고 원스톱 플랫폼 차맵 : 안녕하세요 자동차 유튜버 우파TV입니다. 오늘 준비한 영상은 아반떼 기본 모델 소개입니다!…"
+    },
+    {
+     "k": "QK45lMlkj10",
+     "t": "\"제네시스보다 싸다!\" 신형 렉서스 ES350h 실물 공개! 국내 출시하자마자 사전계약 초대박 ㄷㄷ",
+     "u": "https://www.youtube.com/watch?v=QK45lMlkj10",
+     "d": "2026-10-13",
+     "s": "풀체인지 렉서스 ES, 실물 보니 끌리시나요? 구매가 고민된다면? 🚗 우파가 직접 운영하는 차맵에서 상담받아 보세요 신차 출고 원스톱 플랫폼 차맵 : 안녕하세요 자동차 유튜버 우파TV입니다. 오늘 준비한 영상은 렉서스 풀체인지 ES…"
+    },
+    {
+     "k": "Ffg7vfMLZF4",
+     "t": "🚨신형투싼 가격 유출🚨 풀옵 616만원 인상! 시작 가격 3,500만원대.?!!",
+     "u": "https://www.youtube.com/watch?v=Ffg7vfMLZF4",
+     "d": "2026-10-12",
+     "s": "10월 할인 훌륭합니다! 가성비 좋은 신차 문의주세요! 🚗 우파가 직접 운영하는 가장 합리적인 차 출고 원스톱 플랫폼 차맵 : 안녕하세요 자동차 유튜버 우파TV입니다. 오늘 준비한 영상은 신형 투싼 가격 유출입니다. 자세한 내용은 영상을 통해…"
+    },
+    {
+     "k": "KjjXkB6eHXU",
+     "t": "\"자동주차 끝판왕은 누구?\" 테슬라 현대 지커 벤츠 BMW까지 실전 대결! 결국 돌발상황까지...",
+     "u": "https://www.youtube.com/watch?v=KjjXkB6eHXU",
+     "d": "2026-10-11",
+     "s": "주차까지 알아서 해주는 차, 내 예산으로도 가능할까? 🚗 우파가 직접 운영하는 차맵에서 상담받아 보세요 신차 출고 원스톱 플랫폼 차맵 : 안녕하세요 자동차 유튜버 우파TV입니다. 오늘 준비한 영상은 5개 차량 자동주차 실험입니다! 자세한 내용은…"
+    },
+    {
+     "k": "bCbXgz3RF40",
+     "t": "\"진짜 정 떨어지네요\" 이제 비싼 차 사줄 이유가 없습니다",
+     "u": "https://www.youtube.com/watch?v=bCbXgz3RF40",
+     "d": "2026-10-10",
+     "s": "🙋우파TV 구독자만을 위한 타운카 15,000원 쿠폰: (링크불가시 타운카 앱 ➡ MY메뉴 ➡ 쿠폰함에 쿠폰번호: WPTV2610입력) 안녕하세요 자동차 유튜버 우파TV입니다. 오늘 준비한 영상은 타운카로 체험 가능한 FSD LITE 입니다. 자세한…"
+    },
     {
      "k": "u_9BnU6Ukg0",
      "t": "테슬라가 얼마나 팔렸길래… 1,000대 주차된 부자 아파트가 이렇게 달라졌습니다",
@@ -5529,58 +5571,9 @@
      "u": "https://www.youtube.com/shorts/izb63NPbER4",
      "d": "2026-10-06",
      "s": "🚗 우파가 직접 운영하는 가장 합리적인 차 출고 원스톱 플랫폼 차맵 : 안녕하세요 자동차 유튜버 우파TV입니다. 오늘 준비한 영상은 자세한 내용은 영상을 통해 확인해주세요~ 좋아요,구독,알림설정은 콘텐츠 제작에 큰 힘이 됩니다😀 🙋차량협찬 및…"
-    },
-    {
-     "k": "G2hLaRuysfs",
-     "t": "늦게 받길 잘했다! 2027년형 테슬라, 이 정도로 달라질 줄은 몰랐습니다",
-     "u": "https://www.youtube.com/watch?v=G2hLaRuysfs",
-     "d": "2026-10-05",
-     "s": "달라진 테슬라, 내 예산에 맞는 모델과 구매 조건이 궁금하다면? 🚗 우파가 직접 운영하는 차맵에서 상담받아 보세요 신차 출고 원스톱 플랫폼 차맵 : 안녕하세요 자동차 유튜버 우파TV입니다. 오늘 준비한 영상은 27년식 테슬라 정리입니다! 자세한…"
-    },
-    {
-     "k": "za_eYDPsU7Q",
-     "t": "신차를 주문했는데 사고차가 왔습니다… 이걸 고쳐서 타라네요",
-     "u": "https://www.youtube.com/watch?v=za_eYDPsU7Q",
-     "d": "2026-10-04",
-     "s": "10월 국산차 & 수입차 특가 물량 입고완료! 🚗 우파가 직접 운영하는 가장 합리적인 차 출고 원스톱 플랫폼 차맵 : 안녕하세요 자동차 유튜버 우파TV입니다. 오늘 준비한 영상은 테슬라 탁송사고 이슈입니다. 자세한 내용은 영상을 통해 확인해주세요~…"
-    },
-    {
-     "k": "RAxZrhVAhBw",
-     "t": "가격 비싸서 안 팔린다고...?! 충격적인 9월 아반떼 판매량 공개됐습니다",
-     "u": "https://www.youtube.com/watch?v=RAxZrhVAhBw",
-     "d": "2026-10-03",
-     "s": "아반떼부터 그랜저까지, 내 예산에 맞는 신차가 고민이라면? 🚗 우파가 직접 운영하는 가장 합리적인 차 출고 원스톱 플랫폼 차맵 : 안녕하세요 자동차 유튜버 우파TV입니다. 오늘 준비한 영상은 9월 국산차 판매량입니다. 자세한 내용은 영상을 통해…"
-    },
-    {
-     "k": "24_Tu6Dqf14",
-     "t": "\"이 가격대 적수가 없다!\" 뷰익 E7 엘렉트라 풀옵션 타봤습니다 5300만원 끝판왕!",
-     "u": "https://www.youtube.com/watch?v=24_Tu6Dqf14",
-     "d": "2026-10-02",
-     "s": "뷰익 E7 엘렉트라 어떤가요? 가성비 좋은 신차 문의주세요! 🚗 우파가 직접 운영하는 차맵에서 상담받아 보세요 신차 출고 원스톱 플랫폼 차맵 : 안녕하세요 자동차 유튜버 우파TV입니다. 오늘 준비한 영상은 뷰익 E7 엘렉트라 리뷰입니다. 자세한…"
-    },
-    {
-     "k": "Rd5NYLqiyVM",
-     "t": "\"2027년 전기차 보조금 싹 다 바뀝니다\" 올해는 참고 내년에 사야한다고?!",
-     "u": "https://www.youtube.com/watch?v=Rd5NYLqiyVM",
-     "d": "2026-10-01",
-     "s": "10월 전기차 보조금 최대로 받고 출고하세요! 🚗 우파가 직접 운영하는 가장 합리적인 차 출고 원스톱 플랫폼 차맵 : 안녕하세요 자동차 유튜버 우파TV입니다. 오늘 준비한 영상은 전기차 보조금 내용입니다. 자세한 내용은 영상을 통해 확인해주세요~…"
-    },
-    {
-     "k": "f5fxuh3WlYU",
-     "t": "\"222대 한정 퍼스트에디션\" GV90 계약완료! 2억 네오룬 드디어 출시했습니다!",
-     "u": "https://www.youtube.com/watch?v=f5fxuh3WlYU",
-     "d": "2026-10-01",
-     "s": "안녕하세요 자동차 유튜버 우파TV입니다. 오늘 준비한 영상은 GV90 모델별 비교입니다! 자세한 내용은 영상을 통해 확인해주세요~ 좋아요,구독,알림설정은 콘텐츠 제작에 큰 힘이 됩니다😀 · 제네시스 현대카드 : 국내전용/국내외겸용(Visa…"
-    },
-    {
-     "k": "-0K16OGB0_s",
-     "t": "벤츠 E200 이제 그랜저보다 싸다 ㄷㄷ",
-     "u": "https://www.youtube.com/shorts/-0K16OGB0_s",
-     "d": "2026-10-01",
-     "s": ""
     }
    ],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-16"
   },
   "skyentific": {
    "items": [
@@ -5627,7 +5620,7 @@
      "s": "- start building autonomous robots, digital twins, and AI-powered systems with free, self-paced courses from NVIDIA In this video I share…"
     }
    ],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-16"
   },
   "bruton": {
    "items": [
@@ -5681,7 +5674,7 @@
      "s": "Ad: check out to submit an idea for me to build! This is the second in a series of designs that you can build. All of my projects are open…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "csi": {
    "items": [
@@ -5719,23 +5712,9 @@
      "u": "https://www.youtube.com/watch?v=pbEjbQaN008",
      "d": "2026-05-21",
      "s": "Episode Summary: Part 3 of this CSI Starbase Ultra Deep Dive Investigation examines THE MOST insane method of powering a water deluge…"
-    },
-    {
-     "k": "3IhrZ4K3Gc4",
-     "t": "Starship Flame Deflector Design #starship #spacex #nasa #artemis",
-     "u": "https://www.youtube.com/shorts/3IhrZ4K3Gc4",
-     "d": "2026-04-14",
-     "s": "Join this channel to get access to exclusive perks: _________ Please consider supporting CSI Starbase on: Patreon: PayPal: Twitter: CSI…"
-    },
-    {
-     "k": "O7i3S2Sjg9s",
-     "t": "SLS Flame Deflector Design #NASA #spacex #artemis",
-     "u": "https://www.youtube.com/shorts/O7i3S2Sjg9s",
-     "d": "2026-04-14",
-     "s": "Join this channel to get access to exclusive perks: _________ Please consider supporting CSI Starbase on: Patreon: PayPal: Twitter: CSI…"
     }
    ],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-16"
   },
   "everyday": {
    "items": [
@@ -5845,10 +5824,31 @@
      "s": "IIs Starship HLS really is a viable option for NASA and SpaceX to get humans back onto the surface of the moon for the Artemis Program?…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "manley": {
    "items": [
+    {
+     "k": "KNho5TsC9r0",
+     "t": "What Is NASA Doing With Its Old Blackbird?",
+     "u": "https://www.youtube.com/watch?v=KNho5TsC9r0",
+     "d": "2026-10-13",
+     "s": "Check out The Book and use code SCOTTMANLEY10 for 10% off. #thebook #hungrymindsbooks #howtorebuildcivilization #hungryminds…"
+    },
+    {
+     "k": "oLPFxgCnziQ",
+     "t": "How To Start A Nuclear Chain Reaction",
+     "u": "https://www.youtube.com/watch?v=oLPFxgCnziQ",
+     "d": "2026-10-10",
+     "s": "The Neutron was discovered in the 1930's when scientists found unknown radiation being emitted by a Polonium 210 reacting with Berylium.…"
+    },
+    {
+     "k": "LEdpHsjSbxo",
+     "t": "The Long Term Effects Of The Cheylabinsk Bolide",
+     "u": "https://www.youtube.com/shorts/LEdpHsjSbxo",
+     "d": "2026-10-10",
+     "s": "A scientist moved to the US to do research for NASA, then he found the biggest story happening in his home town. Sponsored by SSAI Follow…"
+    },
     {
      "k": "TrQRYYd2NEU",
      "t": "Could Ancient Rivers Have Flowed on The Moon?",
@@ -5932,33 +5932,47 @@
      "u": "https://www.youtube.com/watch?v=BznLzTXhNaI",
      "d": "2026-09-29",
      "s": "Get 5TB of cloud storage with Internxt: Starship flight 14 finally made it to orbit, even after we were told that they weren't going to go.…"
-    },
-    {
-     "k": "ZmPZzLtMJKs",
-     "t": "Starship Seen From Starlink - In Color For First Time!",
-     "u": "https://www.youtube.com/shorts/ZmPZzLtMJKs",
-     "d": "2026-09-28",
-     "s": "Follow me on Twitter for more updates: I have a discord server where I regularly turn up: If you really like what I do you can support me…"
-    },
-    {
-     "k": "0dC2PeLdQ3A",
-     "t": "Starship's 14th Flight - Orbiting Safely?",
-     "u": "https://www.youtube.com/shorts/0dC2PeLdQ3A",
-     "d": "2026-09-27",
-     "s": "Follow me on Twitter for more updates: I have a discord server where I regularly turn up: If you really like what I do you can support me…"
-    },
-    {
-     "k": "HlsyZAWnOu8",
-     "t": "What Do They Run on America's Fastest SuperComputer?",
-     "u": "https://www.youtube.com/watch?v=HlsyZAWnOu8",
-     "d": "2026-09-25",
-     "s": "In July I paid a visit to Lawrence Livermore National Labs which hosts the fastest supercomputer in the US, a couple of months earlier it…"
     }
    ],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-16"
   },
   "nsf": {
    "items": [
+    {
+     "k": "76MROJzIisg",
+     "t": "Ship 40 stands up (one last time?) - Starbase Summary",
+     "u": "https://www.youtube.com/watch?v=76MROJzIisg",
+     "d": "2026-10-15",
+     "s": "Ship completed its return journey by joining three future flight vehicles inside Mega Bay 2. Meanwhile, a pack of Coyotes took too much…"
+    },
+    {
+     "k": "1m4boZ_V3t4",
+     "t": "Aliens? Nope. SpaceX and Physics! #spacex #jellyfish #launch #alien",
+     "u": "https://www.youtube.com/shorts/1m4boZ_V3t4",
+     "d": "2026-10-15",
+     "s": "⚡ Become a member of NSF's channel for exclusive discord access, fast turnaround clips, and other exclusive benefits. Your support helps us…"
+    },
+    {
+     "k": "t9iGVxSx0aw",
+     "t": "Starship Flight 15 Date In Sight - With Catches Planned | Starship Update",
+     "u": "https://www.youtube.com/watch?v=t9iGVxSx0aw",
+     "d": "2026-10-14",
+     "s": "SpaceX is proposing up to 456 Starship launches a year from Starbase, while Flight 15 is targeting no earlier than November 8 with plans to…"
+    },
+    {
+     "k": "n3fTTOumqis",
+     "t": "Rising from the ashes...to vertical - The Flame Trench",
+     "u": "https://www.youtube.com/watch?v=n3fTTOumqis",
+     "d": "2026-10-13",
+     "s": "Join us for episode 115 of \"The Flame Trench\". 🔗 NSF Store: ⚡ Become a member of NSF's channel for exclusive discord access, fast…"
+    },
+    {
+     "k": "_gdbS1AAkq0",
+     "t": "SpaceX Launches CRS-35 Dragon to the International Space Station",
+     "u": "https://www.youtube.com/watch?v=_gdbS1AAkq0",
+     "d": "2026-10-13",
+     "s": "Instantaneous launch window: October 13th at 06:33:44 EDT (10:33:44 UTC). Mission: Falcon 9 launch of CRS-35 to the International Space…"
+    },
     {
      "k": "KwOyWO98vGI",
      "t": "SpaceX Launches Falcon 9 with Starlink 15-25",
@@ -5979,13 +5993,6 @@
      "u": "https://www.youtube.com/watch?v=FyzUCghvy0g",
      "d": "2026-10-11",
      "s": "After floating in the Indian Ocean and sailing halfway around the world, Ship 40 has finally made it back home to Starbase. An overnight…"
-    },
-    {
-     "k": "_gdbS1AAkq0",
-     "t": "SpaceX Launches CRS-35 Dragon to the International Space Station",
-     "u": "https://www.youtube.com/watch?v=_gdbS1AAkq0",
-     "d": "2026-10-11",
-     "s": "Instantaneous launch window: October 13th at 06:33:44 EDT (10:33:44 UTC). Mission: Falcon 9 launch of CRS-35 to the International Space…"
     },
     {
      "k": "Faph82jLG3Y",
@@ -6035,37 +6042,9 @@
      "u": "https://www.youtube.com/watch?v=qsIOuKeT8P0",
      "d": "2026-10-07",
      "s": "Ship 40, which did not explode, returns to Starbase 🔗 NSF Store: ⚡ Become a member of NSF's channel for exclusive discord access, fast…"
-    },
-    {
-     "k": "dzXZ7d86UJs",
-     "t": "Why NASA Is Giving Starliner Another Chance | This Week in Spaceflight",
-     "u": "https://www.youtube.com/watch?v=dzXZ7d86UJs",
-     "d": "2026-10-06",
-     "s": "NASA is giving Boeing’s Starliner another chance—and planning a path beyond Atlas V. With SpaceX looking toward the eventual retirement of…"
-    },
-    {
-     "k": "S6SYMFd1aDM",
-     "t": "Possible Florida Starship? - Starbase Summary",
-     "u": "https://www.youtube.com/watch?v=S6SYMFd1aDM",
-     "d": "2026-10-05",
-     "s": "Ship 43 (Flight 16) continues preparations inside Starbase’s Mega Bay 2 ahead of a potential trip to Florida. Plans are subject to change:…"
-    },
-    {
-     "k": "4Gis2QU65z0",
-     "t": "One Star is not like the other - The Flame Trench",
-     "u": "https://www.youtube.com/watch?v=4Gis2QU65z0",
-     "d": "2026-10-03",
-     "s": "Join us for episode 113 of \"The Flame Trench\". 🔗 NSF Store: ⚡ Become a member of NSF's channel for exclusive discord access, fast…"
-    },
-    {
-     "k": "Fc5vBZQkANg",
-     "t": "Starship Flight 14 Unreleased Footage - Starbase Summary",
-     "u": "https://www.youtube.com/watch?v=Fc5vBZQkANg",
-     "d": "2026-10-02",
-     "s": "Epic camera views and super sound of the world's most powerful rocket making its first orbital mission during Flight 14. ⚡ Become a member…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "curiousdroid": {
    "items": [
@@ -6119,7 +6098,7 @@
      "s": "Listen to my Electronic music for free at Anti-gravity is one of those controversial subjects that some say is more in the realm of science…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "cee": {
    "items": [
@@ -6229,7 +6208,7 @@
      "s": "Part 2 of this heavy duty parts washer build continues, with more fabrication as the internal structure and overall layout start coming…"
     }
    ],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-16"
   },
   "torque": {
    "items": [
@@ -6339,7 +6318,7 @@
      "s": "Eight Tool: Tekton: GripEdge: Icon: Our Rankings now include hex keys!: Who makes the best performing Hex L keys in the world? Is it IKEA?…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "engmind": {
    "items": [
@@ -6400,7 +6379,7 @@
      "s": ""
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "makoi": {
    "items": [
@@ -6419,7 +6398,7 @@
      "s": ""
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "abom": {
    "items": [
@@ -6529,7 +6508,7 @@
      "s": "IMTS 2026 is fast approaching and we have 3 meet & greets planned for the Event! Below is the dates and times for each meet-up. Tuesday…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "tony": {
    "items": [
@@ -6548,7 +6527,7 @@
      "s": "Hello! Its been a minute, huh? Hope you're all doing ... okay-ish! custom magnetic transfer blocks are something I've always wanted to…"
     }
    ],
-   "checkedAt": "2026-10-14"
+   "checkedAt": "2026-10-16"
   },
   "fenner": {
    "items": [
@@ -6658,10 +6637,17 @@
      "s": "Nonagon Part one is the roughing out the inner taper cupped bore of the two blank hubs we are going to use to make our equal nine-sided hub…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "fielding": {
    "items": [
+    {
+     "k": "Md_WfyQC6Ys",
+     "t": "Professional Design Tips for Young Engineers",
+     "u": "https://www.youtube.com/shorts/Md_WfyQC6Ys",
+     "d": "2026-10-13",
+     "s": "If you want to join my community of makers and Tinkers consider getting a YouTube membership 👉 If you want to chip in a few bucks to…"
+    },
     {
      "k": "6hvszNCxsn0",
      "t": "Mecanum Wheels Are So Weird They Are Genius",
@@ -6726,7 +6712,7 @@
      "s": "If you want to join my community of makers and Tinkers consider getting a YouTube membership 👉 If you want to chip in a few bucks to…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "jayfix": {
    "items": [
@@ -6836,7 +6822,7 @@
      "s": "In this episode of Jay Fixes Stuff we pick up a free generator at the curb that won't start. Is this thing trash or treasure? Join me and…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "ave": {
    "items": [
@@ -6946,7 +6932,7 @@
      "s": "Japan is cool."
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "htr": {
    "items": [
@@ -6972,7 +6958,7 @@
      "s": ""
     }
    ],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-16"
   },
   "mymech": {
    "items": [
@@ -6984,7 +6970,7 @@
      "s": "In this video, I'm completely disassembling the engine from the Datsun 240Z. The engine revealed quite a lot of secrets. A lot of hidden…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "signalpath": {
    "items": [
@@ -7087,11 +7073,11 @@
      "s": "In this episodes Shahriar repairs a Keithley 2500 Dual Photodiode Meter which does not power up. Teardown of the unit reveals two…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "carlson": {
    "items": [],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "marcoreps": {
    "items": [
@@ -7103,10 +7089,17 @@
      "s": "Get high quality PCBs or fast prototypes from 10$ Coupon Code: PCBWay-MarcoReps10 Antihydrogen cameras Moar from me Visualizations made…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "defpom": {
    "items": [
+    {
+     "k": "waIqgve5wSQ",
+     "t": "🔴 Keithley 2001 DMM Repair - Part 1 - Can I Fix The Self Test Failures ? - No.1534",
+     "u": "https://www.youtube.com/watch?v=waIqgve5wSQ",
+     "d": "2026-10-15",
+     "s": "I start the repair of a Keithley 2001, which has several self test failures, specifically 309.1, 309.2, 309.5, 309.6, 310.1, 412.1 0:00 -…"
+    },
     {
      "k": "Fu8lvv0d_Dc",
      "t": "🔴 Mailbag Monday 12th October 2026 - No.1533",
@@ -7204,20 +7197,13 @@
      "u": "https://www.youtube.com/watch?v=mimVBgg8_Mo",
      "d": "2026-09-01",
      "s": "I do a thorough review of the FR17B Multimeter, which was sent to be me for free for review by Banggood. FUZRR FR15B+ FR17B+ True RMS…"
-    },
-    {
-     "k": "lA9lfdCqCgk",
-     "t": "🔴 HP 3458A 8.5 Digit Multimeter Refurbishment and Fault Testing Part 3 - No.1519",
-     "u": "https://www.youtube.com/watch?v=lA9lfdCqCgk",
-     "d": "2026-08-27",
-     "s": "I install the NU180 onto my 3458A ADC board, the A3 assembly, but it does not go to plan... I then do some circuit analysis and signal…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "baruch": {
    "items": [],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "usagi": {
    "items": [
@@ -7327,7 +7313,7 @@
      "s": "The Bendix G-15 is a vacuum tube computer from 1956, but despite being 70 years old, it uses seemingly modern photodiodes in the paper tape…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "tangents": {
    "items": [
@@ -7395,10 +7381,17 @@
      "s": "I need this IBM PS/2 to work for a future video. But I've been ignoring it for years because it is a pain in the neck to work on. If you…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "clickspring": {
    "items": [
+    {
+     "k": "-Xchbq3PGZc",
+     "t": "A Wedge-Style Hand Vise - Part 4 (Making the Vise Jaws)",
+     "u": "https://www.youtube.com/watch?v=-Xchbq3PGZc",
+     "d": "2026-10-14",
+     "s": "Hey folks! A blast from the past for you, back from the early days of the channel - do please enjoy :) Chees, Chris. Join YouTube Channel…"
+    },
     {
      "k": "ZJHWZqEYkM0",
      "t": "A Wedge-Style Hand Vise - Part 3 (Making the Springs & Fasteners)",
@@ -7428,10 +7421,24 @@
      "s": "Hey Folks! Some Straight-Line Engine guilloche fun, share this one with someone you think might enjoy it and do please enjoy! Cheers,…"
     }
    ],
-   "checkedAt": "2026-10-14"
+   "checkedAt": "2026-10-16"
   },
   "wristwatch": {
    "items": [
+    {
+     "k": "vwHBLn5PK5k",
+     "t": "Quality Off The Shelf Movement",
+     "u": "https://www.youtube.com/shorts/vwHBLn5PK5k",
+     "d": "2026-10-15",
+     "s": "An upgraded engine in this radioactive Gloucester. #watches #watchmaking #watchrepair"
+    },
+    {
+     "k": "obhE_wiAOFc",
+     "t": "\"MADE IN USSR\"",
+     "u": "https://www.youtube.com/shorts/obhE_wiAOFc",
+     "d": "2026-10-14",
+     "s": "Uncasing a ubiquitous Soviet era Zarja found on eBay for $28. #watches #watchmaking #watchrepair"
+    },
     {
      "k": "tFYDgrV1df0",
      "t": "Personally? I Don't Date",
@@ -7522,27 +7529,13 @@
      "u": "https://www.youtube.com/shorts/jcCwTyrQBz0",
      "d": "2026-09-23",
      "s": "Getting back to my roots repairing a $28 eBay Zarja with the Wirstwatch Revival complete kit. #watches #watchmaking #watchrepair"
-    },
-    {
-     "k": "v2jsci7G3S4",
-     "t": "Codename Caliber 69 in Universal Genève",
-     "u": "https://www.youtube.com/shorts/v2jsci7G3S4",
-     "d": "2026-09-18",
-     "s": "One of my favorite vintage movements, a Caliber 69 in this Universal Genève. #watches #watchmaking #watchrepair"
-    },
-    {
-     "k": "oiuXid4biRw",
-     "t": "Cleaning A Gloucester From A Father's Collection",
-     "u": "https://www.youtube.com/shorts/oiuXid4biRw",
-     "d": "2026-09-17",
-     "s": "How I build up my stock of crystals. #watches #watchmaking #watchrepair"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "rgme": {
    "items": [],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "crd": {
    "items": [
@@ -7561,7 +7554,7 @@
      "s": "Support me on Patreon: Tip me: COMSEC lectures: Chapters: 0:00:00 Preamble 0:06:55 Introducing the IBM EMR-AT 0:09:09 The IBM AT 0:14:34…"
     }
    ],
-   "checkedAt": "2026-10-12"
+   "checkedAt": "2026-10-16"
   },
   "lgr": {
    "items": [
@@ -7657,7 +7650,7 @@
      "s": "Retrospective on the Digisette Duo MP3 from the year 2000! A standalone MP3 player built into a compact cassette shell letting you play…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "8bitguy": {
    "items": [
@@ -7690,7 +7683,7 @@
      "s": "If you'd like to print these mounts yourself, you can find them here: Support The 8-Bit Guy on Patreon: Visit my website:"
     }
    ],
-   "checkedAt": "2026-10-12"
+   "checkedAt": "2026-10-16"
   },
   "adrian": {
    "items": [
@@ -7800,7 +7793,7 @@
      "s": "I'm still on the Apple II train after fixing that Apple IIgs. This time we have an Apple II+ clone from Brazil. I love clones and this one…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "mvg": {
    "items": [
@@ -7910,15 +7903,15 @@
      "s": "AI, Layoffs, RAM Shortages, Studio Closures, Price Increases, Rising subscription costs, $80 Dollar Games and now - The Death of Physical…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "noel": {
    "items": [],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "madlemon": {
    "items": [],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "xraytonyb": {
    "items": [
@@ -8028,7 +8021,7 @@
      "s": ""
     }
    ],
-   "checkedAt": "2026-10-14"
+   "checkedAt": "2026-10-16"
   },
   "gadgetuk": {
    "items": [
@@ -8138,10 +8131,31 @@
      "s": "This time I get to spend ages trying to fix my Dreamcast PSU and work out if that's what is affecting my GD-ROM drive... Please check out…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "fran": {
    "items": [
+    {
+     "k": "u6xdHypSIl0",
+     "t": "Fun And Games",
+     "u": "https://www.youtube.com/watch?v=u6xdHypSIl0",
+     "d": "2026-10-15",
+     "s": "Games without frontiers. Join Team FranLab!!!! Become a patron and help support my YouTube Channel on Patreon! Pro Tip: Always use a web…"
+    },
+    {
+     "k": "g87mwb54KTU",
+     "t": "Inside Formula For FranLab Content",
+     "u": "https://www.youtube.com/watch?v=g87mwb54KTU",
+     "d": "2026-10-14",
+     "s": "If it ain't broke, don't fix it. Join Team FranLab!!!! Become a patron and help support my YouTube Channel on Patreon! Pro Tip: Always use…"
+    },
+    {
+     "k": "Msp8_4HyZJo",
+     "t": "Enduring These Times",
+     "u": "https://www.youtube.com/watch?v=Msp8_4HyZJo",
+     "d": "2026-10-13",
+     "s": "'Cmon people now, hey everybody get together, gotta love one another right now. Or not, hey - isn't constant unending warfare just a lot…"
+    },
     {
      "k": "p_4Xu3_ur-0",
      "t": "Space Stuff, Rogue Turtles, Hot Amoebas (And Even Hotter Uniforms) And More!",
@@ -8225,30 +8239,9 @@
      "u": "https://www.youtube.com/watch?v=Ss4uSPvVfW4",
      "d": "2026-09-19",
      "s": "I'm back to the bench with a video that is 6 years overdue, where I show off and ultimately repair my Panasonic RC-6900 Time Announcing…"
-    },
-    {
-     "k": "xP4YiraAWZw",
-     "t": "Enjoy Your Media While You Can",
-     "u": "https://www.youtube.com/watch?v=xP4YiraAWZw",
-     "d": "2026-09-18",
-     "s": "It's all gonna go. Play 'em if you got 'em! The Day You Lost Your Music Legacy - Join Team FranLab!!!! Become a patron and help support my…"
-    },
-    {
-     "k": "Wz5902vWIwM",
-     "t": "Is It Over For Optimism?",
-     "u": "https://www.youtube.com/watch?v=Wz5902vWIwM",
-     "d": "2026-09-17",
-     "s": "Smithsonian 50 Years of Television Exhibit, 1989 - Join Team FranLab!!!! Become a patron and help support my YouTube Channel on Patreon!…"
-    },
-    {
-     "k": "7x8JclR6q9M",
-     "t": "Mine Is Just One Story",
-     "u": "https://www.youtube.com/watch?v=7x8JclR6q9M",
-     "d": "2026-09-16",
-     "s": "Apocalypse On A Tuesday - Join Team FranLab!!!! Become a patron and help support my YouTube Channel on Patreon! Pro Tip: Always use a web…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "mattbrown": {
    "items": [
@@ -8328,27 +8321,27 @@
      "u": "https://www.youtube.com/watch?v=u-WBZNipqL8",
      "d": "2026-04-17",
      "s": "How to test LTE devices without the FCC kicking in your door! srsRAN: 4g-lte-tutorial: Intro to Wireshark for IoT Pentesters: USE COUPON…"
-    },
-    {
-     "k": "Ga6WvkDrJy8",
-     "t": "Open-Source AI Assisted Firmware Analysis - WAIRZ",
-     "u": "https://www.youtube.com/watch?v=Ga6WvkDrJy8",
-     "d": "2026-04-15",
-     "s": "Come join us on Discord for some device hacking! Sub to @D1gitalAndrew today!!! Wairz Website: Wairz Github Repo: Intro to Wireshark for…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "stacksmashing": {
    "items": [],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "joegrand": {
    "items": [],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "liveoverflow": {
    "items": [
+    {
+     "k": "OpftGw5vVms",
+     "t": "Team Introduction Videos for the European Cyber Security Challenge",
+     "u": "https://www.youtube.com/watch?v=OpftGw5vVms",
+     "d": "2026-10-13",
+     "s": "At the European Cyber Security Challenge, each team recorded an introduction video. And the videos were so much fun, I wanted to share…"
+    },
     {
      "k": "F199_KrTF_4",
      "t": "Security Through Complexity #shorts",
@@ -8446,16 +8439,9 @@
      "u": "https://www.youtube.com/shorts/_8gzJ-gLTmI",
      "d": "2026-09-14",
      "s": "We're at DEF CON in the Embedded Systems Village. Come visit us and learn more about fault injection! #DEFCON"
-    },
-    {
-     "k": "eFyXqYYWBxc",
-     "t": "Met Cosmodium Cybersecurity at DEF CON! #shorts",
-     "u": "https://www.youtube.com/shorts/eFyXqYYWBxc",
-     "d": "2026-09-13",
-     "s": "Met Cosmo from Cosmo Cybersecurity at our booth! Definitely check him out. #Cybersecurity #DEFCON #CosmoCybersecurity"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "oflynn": {
    "items": [
@@ -8467,7 +8453,7 @@
      "s": "July 19th - Waterbombers on Mooseland Fire. NOTE: Squelch is ON, so no audio will come through unless a signal is received (no 'radio…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "flashback": {
    "items": [
@@ -8479,10 +8465,17 @@
      "s": "We have been quiet, but we have not forgotten you. We're back, and with us we bring our flagship Hunting Zero-Days in Embedded Devices…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "lowlevel": {
    "items": [
+    {
+     "k": "W5DT8jpcBCk",
+     "t": "Did AI Really Reverse Engineer Every Adobe App?",
+     "u": "https://www.youtube.com/watch?v=W5DT8jpcBCk",
+     "d": "2026-10-14",
+     "s": "Stay ahead of the curve! Attend Zero Trust World ( and get $200 off with my code ZTWLOWLEVEL27 🏫 MY COURSES Sign-up for my FREE 3-Day C…"
+    },
     {
      "k": "wIe3eDfGKUo",
      "t": "Has AI Solved Reverse Engineering?",
@@ -8580,20 +8573,13 @@
      "u": "https://www.youtube.com/shorts/icdpBuM08oc",
      "d": "2026-08-26",
      "s": "🏫 MY COURSES Sign-up for my FREE 3-Day C Course: 🎙️PODCAST Get in depth breakdowns of latest cyber news: 🧙‍♂️ HACK YOUR CAREER Wanna learn…"
-    },
-    {
-     "k": "ySQQ5IKTO1c",
-     "t": "Who Allowed This?",
-     "u": "https://www.youtube.com/watch?v=ySQQ5IKTO1c",
-     "d": "2026-08-26",
-     "s": "Validate and remediate bugs with XBOW 🏫 MY COURSES Sign-up for my FREE 3-Day C Course: 🎙️PODCAST Get in depth breakdowns of latest cyber…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "scanlime": {
    "items": [],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "kamkar": {
    "items": [
@@ -8612,10 +8598,17 @@
      "s": "#lasers #glass #gradient #notEL #sharks"
     }
    ],
-   "checkedAt": "2026-10-14"
+   "checkedAt": "2026-10-16"
   },
   "hackaday_yt": {
    "items": [
+    {
+     "k": "lCpx0hGkbnA",
+     "t": "The FPGA Chronicles: Probing Inside the FPGA with GOWIN Analyzer Oscilloscope",
+     "u": "https://www.youtube.com/watch?v=lCpx0hGkbnA",
+     "d": "2026-10-13",
+     "s": "A brief overview of a simple Verilog design and how to probe it with GAO the GOWIN built-in logic analyzer/oscilloscope. Read more: 0:00…"
+    },
     {
      "k": "plXwp5byuyk",
      "t": "Ep 390: DOOM, Cranium Stuff, and Odd OpenSCAD Opportunities",
@@ -8713,16 +8706,9 @@
      "u": "https://www.youtube.com/watch?v=3ddUPh43FFY",
      "d": "2026-09-03",
      "s": "A 20-minute tour of the fluid kernel architecture, the Miosix RTOS as a practical implementation, and 18 years of hard-won tips for writing…"
-    },
-    {
-     "k": "bv_rziFseok",
-     "t": "Hackaday Europe 2026:  Edwin Hwu - PlayStation 4 to Psychometer",
-     "u": "https://www.youtube.com/watch?v=bv_rziFseok",
-     "d": "2026-09-01",
-     "s": "Turn a PlayStation 4 optical pickup into a high-speed dermal atomic force microscope. Edwin shows how hardware hacking and deep learning…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "defcon": {
    "items": [
@@ -8832,7 +8818,7 @@
      "s": "RFID has revolutionized physical access controls for buildings, but in recent years its also made its way into the automotive industry.…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "appliedsci": {
    "items": [
@@ -8865,7 +8851,7 @@
      "s": "Telonic instruments ( UK) : Product page : User manual :"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "breakingtaps": {
    "items": [
@@ -8877,7 +8863,7 @@
      "s": "I made my own microprocessor, and want to tell you all about it. Want a BTTAPs chip for yourself? 🥰 CONSIDER SUBSCRIBING 🥰 🔬Patreon if…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "mentour": {
    "items": [
@@ -8987,10 +8973,17 @@
      "s": "----------------------------------------------------- If you want to support the work I do on the channel, join my Patreon crew and get…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "blancolirio": {
    "items": [
+    {
+     "k": "oC7N_lP3-s8",
+     "t": "N931TT Fatal Icing Encounter 13 Oct 2026",
+     "u": "https://www.youtube.com/watch?v=oC7N_lP3-s8",
+     "d": "2026-10-15",
+     "s": "LINKS: ASN: ADSB Exchange: DLX Overview: PA46vs Jetprop: Flying Eyes 10% OFF: Code BLANCOLIRIO MERCH: PATREON: GEFA Aviation Scholarship:…"
+    },
     {
      "k": "0BsiViV_aVE",
      "t": "N425DG RV-7A Petaluma CA 7 Oct 2026",
@@ -9088,16 +9081,9 @@
      "u": "https://www.youtube.com/watch?v=P3db7uV2h6c",
      "d": "2026-09-14",
      "s": "LINKS: Amazon Statement: Flying Eyes 10% OFF: Code BLANCOLIRIO MERCH: PATREON: GEFA Aviation Scholarship: GROUND SCHOOL: Learn The Finer…"
-    },
-    {
-     "k": "cK0k7UfXMGs",
-     "t": "Pitts Model 12 Stall Spin-Pilot Survives 6 Sept 2026",
-     "u": "https://www.youtube.com/watch?v=cK0k7UfXMGs",
-     "d": "2026-09-11",
-     "s": "LINKS: PhotogSteve: ASN: Flying Eyes 10% OFF: Code BLANCOLIRIO MERCH: PATREON: GEFA Aviation Scholarship: GROUND SCHOOL: Learn The Finer…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "animagraffs": {
    "items": [
@@ -9116,7 +9102,7 @@
      "s": "A detailed breakdown of Nuclear Power, using the AP1000 plant design as our subject model. CREDITS Jacob O'Neal - Research, script,…"
     }
    ],
-   "checkedAt": "2026-10-11"
+   "checkedAt": "2026-10-16"
   },
   "jaredowen": {
    "items": [
@@ -9142,7 +9128,7 @@
      "s": "Have you seen a Spiral Escalator? Come see how they work! Try Brilliant's tutor for free and save 20% off an annual subscription: Watch…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "lesics": {
    "items": [
@@ -9203,11 +9189,11 @@
      "s": "If you’re ever injured in an accident, see if you have a case with Morgan & Morgan. You can start your claim in just a click without having…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "learneng": {
    "items": [],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "realeng": {
    "items": [
@@ -9303,7 +9289,7 @@
      "s": "Get Nebula for 50% off with my link: Watch the Anatomy of the IPod: Watch this video ad free on Nebula: Links to everything I do: Get your…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "mould": {
    "items": [
@@ -9413,7 +9399,7 @@
      "s": "Sandstone is made of sand grains, so how does it flex?"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "efficient": {
    "items": [
@@ -9446,7 +9432,7 @@
      "s": "Check out to get custom parts delivered in just a few days. ---- In this video we explore the science behind welding, the hidden flaws that…"
     }
    ],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-16"
   },
   "primal": {
    "items": [
@@ -9556,7 +9542,7 @@
      "s": "In 1973, the Concorde did something no passenger jet had ever attempted - it chased the Moon’s shadow across the Sahara Desert during a…"
     }
    ],
-   "checkedAt": "2026-10-12"
+   "checkedAt": "2026-10-16"
   },
   "beneater": {
    "items": [
@@ -9589,10 +9575,17 @@
      "s": "Kits and more: Support these videos on Patreon: or for other ways to support. ------------------ Social media: Website: Twitter: Patreon:…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "andoel": {
    "items": [
+    {
+     "k": "WzERNoqwZBk",
+     "t": "￼CXMT 현 상황 완벽 정리. 삼성은 이미 17년 전 만들었다는... 4F², CXMT 진짜 양산 가능한가 | 2년 앞서 양산하는 4F² D램, 속사정",
+     "u": "https://www.youtube.com/watch?v=WzERNoqwZBk",
+     "d": "2026-10-15",
+     "s": "중국 CXMT가 삼성보다 2년 먼저 4F² D램을 내놓겠다는 소식이 전해졌습니다. 그런데 삼성은 이미 2009년에 수직 트랜지스터를 적용한 4F² D램 테스트 칩을 구현했습니다. 오래전에 작동까지 확인한 기술이 지금도 차세대 기술로 불리는 이유는…"
+    },
     {
      "k": "LM9NDhnEKkQ",
      "t": "AI 메모리 쇼티지는 끝일까...? 중국 CXMT D램기술 4F², 삼성보다 2년 먼저 적용 | 작은 셀이 만드는 큰 차이",
@@ -9690,19 +9683,19 @@
      "u": "https://www.youtube.com/shorts/AWFlIcnGKYk",
      "d": "2026-09-29",
      "s": ""
-    },
-    {
-     "k": "vS9yhPNOENw",
-     "t": "샘 올트먼과 머스크의 미친 랩핑",
-     "u": "https://www.youtube.com/shorts/vS9yhPNOENw",
-     "d": "2026-09-29",
-     "s": ""
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "potato": {
    "items": [
+    {
+     "k": "Y7VigDmUds8",
+     "t": "A New GPU, From Facebook ?!",
+     "u": "https://www.youtube.com/watch?v=Y7VigDmUds8",
+     "d": "2026-10-13",
+     "s": "Meta builds its own AI accelerators, and at Hot Chips 2026 it presents the next two: the MTIA 300 for training and the MTIA 400 for…"
+    },
     {
      "k": "Q_QVlJkyaWc",
      "t": "Agentic AI and Why Everyone Wants CPUs Again",
@@ -9800,19 +9793,19 @@
      "u": "https://www.youtube.com/watch?v=TiRxcPQNcBA",
      "d": "2026-09-12",
      "s": "An in-depth conversation with David Bennett of ai& (aiaind), a Japan-based sovereign AI infrastructure company running a heterogeneous…"
-    },
-    {
-     "k": "AVAhcR_3jTg",
-     "t": "SO MUCH CHIP NEWS OMG // The Tech Poutine 3rd September 2026",
-     "u": "https://www.youtube.com/watch?v=AVAhcR_3jTg",
-     "d": "2026-09-03",
-     "s": "What is there to say, except we love chips. There's been a lot of chip news, not just from Hot Chips, and we want to dive into some of it.…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "anastasi": {
    "items": [
+    {
+     "k": "kWY3xuZnBEk",
+     "t": "China Just Built What NVIDIA Feared Most. I Saw It",
+     "u": "https://www.youtube.com/watch?v=kWY3xuZnBEk",
+     "d": "2026-10-14",
+     "s": "Mammouth AI gives you access to the best AI models (Claude, GPT, Gemini, Mistral, Grok and more) in a single interface, from €10/month 👉…"
+    },
     {
      "k": "rELx3ktdcx4",
      "t": "The New Photonic “Transistors” Are Here",
@@ -9825,11 +9818,11 @@
      "t": "China’s AI Chip Progress Is Insane",
      "u": "https://www.youtube.com/shorts/srB7YAMkETY",
      "d": "2026-09-28",
-     "s": "This spring, Huawei introduced its Tau scaling law. At Huawei Connect, which I attended last week, the focus shifted to interconnect…"
+     "s": "The Chinese AI Infrastructure Boom is insane. I saw it at Huawei Interconnect 2026. #technology #AI #huawei"
     },
     {
      "k": "feWb9vUUlKU",
-     "t": "I Went Inside the Lab to See The Quantum Chip Breakthrough",
+     "t": "Exclusive Look At The Quantum Chip Breakthrough",
      "u": "https://www.youtube.com/watch?v=feWb9vUUlKU",
      "d": "2026-09-18",
      "s": "Thanks to Wispr Flow for sponsoring this video! Check them out at: and use code INTECH for a free month of Wispr Flow Pro! Timestamps:…"
@@ -9910,19 +9903,89 @@
      "u": "https://www.youtube.com/watch?v=LmgzT141qDw",
      "d": "2026-05-29",
      "s": "Try @GensparkProduct right now: Genspark is an All-in-one AI Workspace that reached $250M ARR in just 12 months. New users can try Genspark…"
-    },
-    {
-     "k": "3osln9Q-o6Q",
-     "t": "The Terrifying Truth About TSMC's New Chips",
-     "u": "https://www.youtube.com/watch?v=3osln9Q-o6Q",
-     "d": "2026-05-11",
-     "s": "👉 Grab your free seat to the 2-Day AI Mastermind: - 100% Discount for the first 1000 people - Dive deep into AI and Learn Automations,…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "insiderbiz": {
    "items": [
+    {
+     "k": "VX-gJUvaEAU",
+     "t": "Could #Starbucks and #Chipotle end up under the same corporate roof? #business #stocks #firsttrade",
+     "u": "https://www.youtube.com/shorts/VX-gJUvaEAU",
+     "d": "2026-10-15",
+     "s": "------------------------------------------------------ Business Insider is a global newsroom covering business, technology, innovation, and…"
+    },
+    {
+     "k": "RjlmncmhCWs",
+     "t": "The intense first hours for candidates at the US Merchant #Marine Academy. #DayZero #bootcamp",
+     "u": "https://www.youtube.com/shorts/RjlmncmhCWs",
+     "d": "2026-10-15",
+     "s": "------------------------------------------------------ Business Insider is a global newsroom covering business, technology, innovation, and…"
+    },
+    {
+     "k": "0DlNvn3sGpQ",
+     "t": "From one #CEO to another: Why it's important to speak up, even if you are wrong. #Uber #GoDaddy",
+     "u": "https://www.youtube.com/shorts/0DlNvn3sGpQ",
+     "d": "2026-10-15",
+     "s": "------------------------------------------------------ Business Insider is a global newsroom covering business, technology, innovation, and…"
+    },
+    {
+     "k": "g5uwHjAjFBc",
+     "t": "What does it mean to be workplace-ready in the age of #AI? #GenZ #workforce #futureofwork",
+     "u": "https://www.youtube.com/shorts/g5uwHjAjFBc",
+     "d": "2026-10-15",
+     "s": "------------------------------------------------------ Business Insider is a global newsroom covering business, technology, innovation, and…"
+    },
+    {
+     "k": "7Km3Ckm4NG4",
+     "t": "How did a migrating bird inspire this #electricplane? #travel #aviation #pushinglimits",
+     "u": "https://www.youtube.com/shorts/7Km3Ckm4NG4",
+     "d": "2026-10-14",
+     "s": "------------------------------------------------------ Business Insider is a global newsroom covering business, technology, innovation, and…"
+    },
+    {
+     "k": "KvSMhA_1f4w",
+     "t": "The \"women-first\" #dating app #Bumble is going private — with two new male #CEOs. #datingapps",
+     "u": "https://www.youtube.com/shorts/KvSMhA_1f4w",
+     "d": "2026-10-14",
+     "s": "------------------------------------------------------ Business Insider is a global newsroom covering business, technology, innovation, and…"
+    },
+    {
+     "k": "OTTG9rgl_Cc",
+     "t": "It's Day Zero for these plebe candidates at the US Merchant #Marine Academy. #military #bootcamp",
+     "u": "https://www.youtube.com/shorts/OTTG9rgl_Cc",
+     "d": "2026-10-14",
+     "s": "------------------------------------------------------ Business Insider is a global newsroom covering business, technology, innovation, and…"
+    },
+    {
+     "k": "gVWGcVt6Oyc",
+     "t": "Amazon's #AI tool guessed WHAT about its customers? #AItools #aboutyou #aiinsider",
+     "u": "https://www.youtube.com/shorts/gVWGcVt6Oyc",
+     "d": "2026-10-14",
+     "s": "------------------------------------------------------ Business Insider is a global newsroom covering business, technology, innovation, and…"
+    },
+    {
+     "k": "LM9xRAHLTh0",
+     "t": "Want to get promoted faster? Walmart's CPO has two tips. #careeradvice #leadership #work",
+     "u": "https://www.youtube.com/shorts/LM9xRAHLTh0",
+     "d": "2026-10-13",
+     "s": "------------------------------------------------------ Business Insider is a global newsroom covering business, technology, innovation, and…"
+    },
+    {
+     "k": "hNTX1jsLaSg",
+     "t": "How soon will we be flying in electric #planes? #travel #aviation #pushinglimits",
+     "u": "https://www.youtube.com/shorts/hNTX1jsLaSg",
+     "d": "2026-10-13",
+     "s": "------------------------------------------------------ Business Insider is a global newsroom covering business, technology, innovation, and…"
+    },
+    {
+     "k": "4YEtVqOlDOc",
+     "t": "What sparked Kelly Clarkson's viral feud? #smallbusiness #Brooklyn #retail",
+     "u": "https://www.youtube.com/shorts/4YEtVqOlDOc",
+     "d": "2026-10-13",
+     "s": "------------------------------------------------------ Business Insider is a global newsroom covering business, technology, innovation, and…"
+    },
     {
      "k": "F917-UKNC_U",
      "t": "Nestle's CEO gives advice on building teams that can take on any crisis. #teambuilding #leadership",
@@ -9950,86 +10013,9 @@
      "u": "https://www.youtube.com/shorts/opZ0y0aUJcE",
      "d": "2026-10-10",
      "s": "------------------------------------------------------ Business Insider is a global newsroom covering business, technology, innovation, and…"
-    },
-    {
-     "k": "62VYumto5Jc",
-     "t": "How Amazon Drove Prices Up At Other Stores",
-     "u": "https://www.youtube.com/watch?v=62VYumto5Jc",
-     "d": "2026-10-10",
-     "s": "The state of California is accusing Amazon of a price-fixing scheme that pushes wholesale vendors to raise prices at competing stores like…"
-    },
-    {
-     "k": "uc87MOd7-bI",
-     "t": "#Influencer #marketing is evolving. These are the three hottest trends in the industry right now.",
-     "u": "https://www.youtube.com/shorts/uc87MOd7-bI",
-     "d": "2026-10-09",
-     "s": "------------------------------------------------------ Business Insider is a global newsroom covering business, technology, innovation, and…"
-    },
-    {
-     "k": "UA3EvhuuKZI",
-     "t": "Breaking Down My $150,000 Salary As A Street Performer In Times Square, New York | The Pay Check",
-     "u": "https://www.youtube.com/watch?v=UA3EvhuuKZI",
-     "d": "2026-10-09",
-     "s": "Robert Burck, better known as the Naked Cowboy, is 55 years old and lives in Queens, New York. He earns an average of $150,000 a year…"
-    },
-    {
-     "k": "KGEgDpONTOs",
-     "t": "Nestle's CEO shares two lessons for leaders on how to give #feedback. #leadership #careeradvice",
-     "u": "https://www.youtube.com/shorts/KGEgDpONTOs",
-     "d": "2026-10-09",
-     "s": "------------------------------------------------------ Business Insider is a global newsroom covering business, technology, innovation, and…"
-    },
-    {
-     "k": "tJWLTuKg1iM",
-     "t": "Shoppers love #Costco. So why is the popular #wholesaler's stock slipping? #stockmarket #firsttrade",
-     "u": "https://www.youtube.com/shorts/tJWLTuKg1iM",
-     "d": "2026-10-08",
-     "s": "------------------------------------------------------ Business Insider is a global newsroom covering business, technology, innovation, and…"
-    },
-    {
-     "k": "6vc8Iln5wNI",
-     "t": "Is the #tech #job apocalypse actually happening? #AI #careers #AIInsider",
-     "u": "https://www.youtube.com/shorts/6vc8Iln5wNI",
-     "d": "2026-10-08",
-     "s": "------------------------------------------------------ Business Insider is a global newsroom covering business, technology, innovation, and…"
-    },
-    {
-     "k": "kHztB9-HT38",
-     "t": "Inside Turkey's 130-meter-deep #marble #quarry. #mining #bigbusiness",
-     "u": "https://www.youtube.com/shorts/kHztB9-HT38",
-     "d": "2026-10-07",
-     "s": "------------------------------------------------------ Business Insider is a global newsroom covering business, technology, innovation, and…"
-    },
-    {
-     "k": "NGv93aqwhzc",
-     "t": "This is the skill #workers need to succeed in the #AI era, according to Nestle's CEO. #careers #work",
-     "u": "https://www.youtube.com/shorts/NGv93aqwhzc",
-     "d": "2026-10-06",
-     "s": "------------------------------------------------------ Business Insider is a global newsroom covering business, technology, innovation, and…"
-    },
-    {
-     "k": "-L39NZWmdoc",
-     "t": "The secret to this ravioli company's success? A 100-year-old #pasta machine. #smallbusiness",
-     "u": "https://www.youtube.com/shorts/-L39NZWmdoc",
-     "d": "2026-10-06",
-     "s": "------------------------------------------------------ Business Insider is a global newsroom covering business, technology, innovation, and…"
-    },
-    {
-     "k": "2jgiltUXBM0",
-     "t": "How to spot your biggest blind spot at #work. #careers #communication #getbetteratwork",
-     "u": "https://www.youtube.com/shorts/2jgiltUXBM0",
-     "d": "2026-10-06",
-     "s": "------------------------------------------------------ Business Insider is a global newsroom covering business, technology, innovation, and…"
-    },
-    {
-     "k": "BbhybCpts-4",
-     "t": "How #Meta's cuddly new AI #mascot could be a smart #marketing move, per experts. #muse #CMOInsider",
-     "u": "https://www.youtube.com/shorts/BbhybCpts-4",
-     "d": "2026-10-05",
-     "s": "------------------------------------------------------ Business Insider is a global newsroom covering business, technology, innovation, and…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "thoughtemporium": {
    "items": [
@@ -10049,7 +10035,7 @@
     },
     {
      "k": "tBol8lPCUOM",
-     "t": "We Could Just Feed Everyone [We Can Have Nice Things, Actually: Episode 1]",
+     "t": "We Could Just Feed Everyone | We Can Have Nice Things, Actually: #1",
      "u": "https://www.youtube.com/watch?v=tBol8lPCUOM",
      "d": "2026-09-24",
      "s": "Welcome to the first episode of our new podcast series \"We CAN have nice things, actually\" where we discuss solutions to the many problems…"
@@ -10139,7 +10125,7 @@
      "s": "Head to PCBWay to start making stuff today! And use coupon code PCBWay-ThoughtEmporium10 for $10 off your order!…"
     }
    ],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-16"
   },
   "asml": {
    "items": [
@@ -10207,7 +10193,7 @@
      "s": "Developing a chip from design to mass production is one of the most complex challenges in semiconductor manufacturing. Holistic lithography…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "dieselcreek": {
    "items": [
@@ -10317,7 +10303,7 @@
      "s": "Check Out the Merch Store! Follow me on Instagram & Facebook @dieselcreek #dieselcreek Need a big parts washer for your shop? Check out…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "pytel": {
    "items": [
@@ -10336,10 +10322,17 @@
      "s": "In this lesson we'll take a look at hydraulic pitch systems found on some modern industrial wind turbines. We’ll identify the purpose,…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "mustie1": {
    "items": [
+    {
+     "k": "r-fWConcI-Q",
+     "t": "Tractor Mods on This Vintage Kubota.  Welding it up!",
+     "u": "https://www.youtube.com/watch?v=r-fWConcI-Q",
+     "d": "2026-10-11",
+     "s": "the previous owner had this 2000 kubota b2710 tractor set up for cleaning out horse stalls, well I have no horses but lots of trees and…"
+    },
     {
      "k": "Jo-3t957xyk",
      "t": "Learn What to Look For. When Repairing Power equipment.",
@@ -10437,23 +10430,23 @@
      "u": "https://www.youtube.com/watch?v=Ie1z4DqPAc8",
      "d": "2026-07-19",
      "s": "a friend contacted me about this 1977 kelmark gt factory kit car that has an odd transmission setup, then said it does not run, so let's…"
-    },
-    {
-     "k": "-euY-R2bYbQ",
-     "t": "RARE, John DeLorean built a high-speed go-kart Rescue",
-     "u": "https://www.youtube.com/watch?v=-euY-R2bYbQ",
-     "d": "2026-07-12",
-     "s": "Hi Guys, here is the back story on this go kart, Before designing his iconic gull-wing sports car, automotive legend John DeLorean and his…"
     }
    ],
-   "checkedAt": "2026-10-11"
+   "checkedAt": "2026-10-16"
   },
   "toolteardown": {
    "items": [],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "b1m": {
    "items": [
+    {
+     "k": "h8wpG_A3_6g",
+     "t": "The Skyscraper That's Dividing Europe",
+     "u": "https://www.youtube.com/watch?v=h8wpG_A3_6g",
+     "d": "2026-10-14",
+     "s": "Is this luxury redevelopment what Greece needs? Rayon is the all-in-one, effortless CAD tool for going from concept to completion. Try it…"
+    },
     {
      "k": "M_hr2SbTx2c",
      "t": "What is a GROUNDscraper?",
@@ -10551,19 +10544,26 @@
      "u": "https://www.youtube.com/shorts/_YQsGzw8u0E",
      "d": "2026-09-21",
      "s": ""
-    },
-    {
-     "k": "zdgkD19Q0nM",
-     "t": "London's TOUGHEST Demolition Job",
-     "u": "https://www.youtube.com/shorts/zdgkD19Q0nM",
-     "d": "2026-09-19",
-     "s": "Before the UK's tallest new skyscraper can rise, teams first have to navigate London's toughest deconstruction job. Absolutely loved…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "buildshow": {
    "items": [
+    {
+     "k": "RYHaSSlu_yo",
+     "t": "The RING Mobile Security Tower - Full Review",
+     "u": "https://www.youtube.com/shorts/RYHaSSlu_yo",
+     "d": "2026-10-15",
+     "s": "Full Video Out Now! The new Ring Security System for jobsites is much better than I expected."
+    },
+    {
+     "k": "ZPsj9csr4lY",
+     "t": "Carpentry, Granite, and Elevator Prep | Altitude Adjustment - Episode 15",
+     "u": "https://www.youtube.com/watch?v=ZPsj9csr4lY",
+     "d": "2026-10-15",
+     "s": "Watch as Stephanie Dailey provides a status update on various projects within this luxury mountain home. The job site is packed with…"
+    },
     {
      "k": "eynLDbv-uaU",
      "t": "My 16 MUST-HAVES for PRO Level Camping",
@@ -10654,26 +10654,26 @@
      "u": "https://www.youtube.com/shorts/3vA6M-WZ7t0",
      "d": "2026-10-01",
      "s": "Should you tape over nail heads on ZIP System® sheathing? Matt Risinger breaks down what the manufacturer requires, why proper fastener…"
-    },
-    {
-     "k": "8Id5Gnb6Viw",
-     "t": "A Better Water Softener? No Salt, No Slimy Feeling & Less Hard Water Buildup",
-     "u": "https://www.youtube.com/watch?v=8Id5Gnb6Viw",
-     "d": "2026-09-29",
-     "s": "The host of The Build Show, Matt Risinger, reviews the salt-free water conditioning system he installed in his Austin, Texas home to deal…"
-    },
-    {
-     "k": "Y8rLd-nt3y8",
-     "t": "The Final Walkthrough | Colorado Rehab - Episode 9",
-     "u": "https://www.youtube.com/watch?v=Y8rLd-nt3y8",
-     "d": "2026-09-27",
-     "s": "Mere months ago, this house seemed unsalvageable, but with Jarod Coffman's perseverance, it's now a renewed home ready for his family to…"
     }
    ],
-   "checkedAt": "2026-10-14"
+   "checkedAt": "2026-10-16"
   },
   "essentialcraftsman": {
    "items": [
+    {
+     "k": "GQacMnXaTGU",
+     "t": "Low Work Ethic? I'll Tell you in 15 Minutes How to Get it",
+     "u": "https://www.youtube.com/watch?v=GQacMnXaTGU",
+     "d": "2026-10-14",
+     "s": "Sometimes we have to ask ourselves some hard questions! This is one of those! In case you need suspenders: Music in this video: Pacific…"
+    },
+    {
+     "k": "DlcnBaIFLXI",
+     "t": "40 Yr Contractor Learns Traditional Korean House Build",
+     "u": "https://www.youtube.com/watch?v=DlcnBaIFLXI",
+     "d": "2026-10-10",
+     "s": "Not all cultures build structures the same way. I love learning new and different methods! Exposed aggregate concrete: Music in this video:…"
+    },
     {
      "k": "zF8b0HS6OpU",
      "t": "Do Hard Things",
@@ -10764,23 +10764,9 @@
      "u": "https://www.youtube.com/shorts/5fx37-S9_yQ",
      "d": "2026-09-07",
      "s": "Enjoy EC? Hang out w/ Scott 2x month in Zoom calls, get our best trainings, real community, & more perks by joining the Essential Craftsman…"
-    },
-    {
-     "k": "-Qeqa_-GDzY",
-     "t": "Everything You Need to Know about Air Tools",
-     "u": "https://www.youtube.com/watch?v=-Qeqa_-GDzY",
-     "d": "2026-09-05",
-     "s": "I know it's true for carpenters, and I think it's true for mechanics....the right air tools will boost productivity, like almost nothing…"
-    },
-    {
-     "k": "UN2HRo3WLjg",
-     "t": "Thinning a Massive Tree Without Big Equipment",
-     "u": "https://www.youtube.com/watch?v=UN2HRo3WLjg",
-     "d": "2026-09-02",
-     "s": "There were two choices... take this tree completely out, or thin it and reduce the wind load so it doesn't fall on our house. I'm so glad…"
     }
    ],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-16"
   },
   "ksn_yt": {
    "items": [
@@ -10853,16 +10839,9 @@
      "u": "https://www.youtube.com/shorts/TZbngBCVYoo",
      "d": "2026-04-24",
      "s": "Coming May 1st, 2026 MagnaMax steel. Change everything about yourself and hop on the Magna train where we will be reaching Max speed! Music…"
-    },
-    {
-     "k": "3_JZNspF9l0",
-     "t": "Learn from Bad Design of Bark River Knives",
-     "u": "https://www.youtube.com/watch?v=3_JZNspF9l0",
-     "d": "2026-04-14",
-     "s": "Bark River Knives has gone under, but there is still a lot to learn from their demise, including design and engineering mistakes. Written…"
     }
    ],
-   "checkedAt": "2026-10-11"
+   "checkedAt": "2026-10-16"
   },
   "alecsteele": {
    "items": [
@@ -10972,7 +10951,7 @@
      "s": "Go to for a free sample pack with any purchase! T-shirts: Special thank you to Norm at Vintage Iron UK. Norm’s video of saving this hammer:…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "myfordboy": {
    "items": [
@@ -11082,14 +11061,21 @@
      "s": "The model pump is finished and works well with my replica marklin steam engine. Playlist building the Marklin engine:"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "minja": {
    "items": [],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "weissman": {
    "items": [
+    {
+     "k": "kBw5gyJtELg",
+     "t": "My baby tries exotic fruit",
+     "u": "https://www.youtube.com/shorts/kBw5gyJtELg",
+     "d": "2026-10-15",
+     "s": ""
+    },
     {
      "k": "QDleZC5l_rk",
      "t": "I Asked Famous Youtubers To Cook in Their Homes",
@@ -11187,16 +11173,9 @@
      "u": "https://www.youtube.com/watch?v=RffdDZjReSc",
      "d": "2026-07-12",
      "s": "Do these places really deserve their 1 star? FOLLOW ME: Instagram: Tik Tok: Twitter: Facebook:"
-    },
-    {
-     "k": "lYhtV4zNyUg",
-     "t": "Testing Food Hacks",
-     "u": "https://www.youtube.com/shorts/lYhtV4zNyUg",
-     "d": "2026-07-08",
-     "s": ""
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "chlebowski": {
    "items": [
@@ -11306,10 +11285,17 @@
      "s": "Philly cheesesteak shops use ribeye. Home cooks should probably use prime chuck roast. Ribeye makes a fantastic cheesesteak if you can…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "ragusea": {
    "items": [
+    {
+     "k": "XpkfHAaxNJc",
+     "t": "Caramelized vegetable lentil stew (for a rainy day)",
+     "u": "https://www.youtube.com/watch?v=XpkfHAaxNJc",
+     "d": "2026-10-15",
+     "s": "Thanks to ExpressVPN for sponsoring! Go to to save up to 80% + you get an EXTRA 20% OFF on top."
+    },
     {
      "k": "uq6bZBnP8nQ",
      "t": "Why beef is staying expensive (and maybe that's good?)",
@@ -11407,19 +11393,19 @@
      "u": "https://www.youtube.com/watch?v=gEHrvVrD3FY",
      "d": "2026-07-23",
      "s": "Thanks to Helix Sleep for sponsoring! Visit to take advantage of their Fourth of July Sale Exclusive Partner Offer and get 27% off…"
-    },
-    {
-     "k": "cX1Cb0LDF1I",
-     "t": "Steak & ale pie w/ tallow crust",
-     "u": "https://www.youtube.com/watch?v=cX1Cb0LDF1I",
-     "d": "2026-07-16",
-     "s": "Thanks to Kettle & Fire for sponsoring! Use my code ADAM20 for 20% off:"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "atk": {
    "items": [
+    {
+     "k": "ZVTvc_8HSmI",
+     "t": "How to Make Authentic Mexican Conchas (Pan Dulce) | America's Test Kitchen",
+     "u": "https://www.youtube.com/watch?v=ZVTvc_8HSmI",
+     "d": "2026-10-14",
+     "s": "Conchas are sugary buns that are the beloved staple of Mexican bakeries. Light, buttery, and topped with a signature shell-patterned sugar…"
+    },
     {
      "k": "opxTubPTgWs",
      "t": "How to Make a Perfect Bowl of White Rice Without a Recipe",
@@ -11517,19 +11503,19 @@
      "u": "https://www.youtube.com/watch?v=hJ0cAV-sXyw",
      "d": "2026-10-05",
      "s": "Stop ruining your leftovers in the microwave. Jack breaks down the two core strategies for mastering leftover meals: repurposing and proper…"
-    },
-    {
-     "k": "BCcdFxvABZg",
-     "t": "Want a Good Blender but Can't Afford a Vitamix? Try This One",
-     "u": "https://www.youtube.com/shorts/BCcdFxvABZg",
-     "d": "2026-10-04",
-     "s": "Lisa McManus and Hannah Crowley share their best buy blender, the Ninja Professional Plus Blender with Auto-iQ. Subscribe to America's Test…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "hoffmann": {
    "items": [
+    {
+     "k": "R9XFoX_1n5A",
+     "t": "A Delightfully Nerdy Coffee Fermentation Q&A",
+     "u": "https://www.youtube.com/watch?v=R9XFoX_1n5A",
+     "d": "2026-10-14",
+     "s": "There were so many good questions asked during our recent Fermentation Project livestream! We wanted to film our responses to the questions…"
+    },
     {
      "k": "_WTtnmkpA0I",
      "t": "LIVE! The Fermentation Project Global Tasting",
@@ -11608,13 +11594,13 @@
      "s": "Thank you to Bombas for sponsoring this video! Head to and use code JAMESHOFFMANN at checkout for 20% off your first purchase. Our…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "insiderfood": {
    "items": [
     {
      "k": "J-lEHpqcOO8",
-     "t": "Inside America’s New #1 Restaurant | Full Service",
+     "t": "Inside America's New #1 Restaurant | Full Service",
      "u": "https://www.youtube.com/watch?v=J-lEHpqcOO8",
      "d": "2026-09-20",
      "s": "Kabawa was just named the best restaurant in America by Food & Wine, and the best in New York City by The New York Times. So, what does it…"
@@ -11718,10 +11704,24 @@
      "s": "------------------------------------------------------ Insider Food is brought to you by Business Insider, a global newsroom covering…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "chemconf": {
    "items": [
+    {
+     "k": "H7rq-xB9lhE",
+     "t": "Why Are Biocellulose Masks So Expensive?",
+     "u": "https://www.youtube.com/shorts/H7rq-xB9lhE",
+     "d": "2026-10-14",
+     "s": "Why are biocellulose masks so expensive? 🧪 You're paying for the ultra-fine, bacteria-woven material that hugs your skin like a second…"
+    },
+    {
+     "k": "vrsJzPX-YOM",
+     "t": "Wrapping Masks for dry skin: Are they worth it?",
+     "u": "https://www.youtube.com/shorts/vrsJzPX-YOM",
+     "d": "2026-10-13",
+     "s": "The science behind PVA wrapping masks! 🧪 They form a film over your skin, but the thin application and peeling experience come with…"
+    },
     {
      "k": "ZLy4KDa9bX4",
      "t": "The Science Behind Algin Masks | Mediheal Modeling Mask Demo",
@@ -11812,23 +11812,9 @@
      "u": "https://www.youtube.com/shorts/emFZepmMRRc",
      "d": "2026-09-16",
      "s": "A new study analyzed 41 vitamin C products containing different forms of vitamin C, including ascorbic acid and several vitamin C…"
-    },
-    {
-     "k": "CQ9zMBmcUwY",
-     "t": "The NEW SkinCeuticals C E Ferulic: Is it Worth $185?",
-     "u": "https://www.youtube.com/shorts/CQ9zMBmcUwY",
-     "d": "2026-09-14",
-     "s": "🧪SkinCeuticals C E Ferulic Just Got Updated! 🗒️ Adding two new members: 0.3% carnosine + 1% dandelion endophytol. The good news is that…"
-    },
-    {
-     "k": "bNRGf_QRzTI",
-     "t": "Aquafix 2.0: What’s New in the Soothing Hydrating Water Gel?",
-     "u": "https://www.youtube.com/shorts/bNRGf_QRzTI",
-     "d": "2026-09-13",
-     "s": "Aquafix 2.0 keeps the same weightless, refreshing gel texture—but the hydration has been turned way up. In this video, we break down the…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "directorpi": {
    "items": [
@@ -11938,10 +11924,17 @@
      "s": "안녕하세요, 디렉터파이입니다. 사전에 유료 광고로 제작되지 않았으나 영상 업로드 이후, 일부 브랜드사에서 사용 계약 요청이 올 경우 일정 기간 ‘엠블럼 라이선스’를 사용할 수 있으며 해당 내용이 추가됩니다. *엠블럼 사용 기간이 끝나면, 해당 내용은…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "tanner": {
    "items": [
+    {
+     "k": "VymsOe4qa_o",
+     "t": "Is SONGMONT Worth $600? I Bought It Anonymously...",
+     "u": "https://www.youtube.com/shorts/VymsOe4qa_o",
+     "d": "2026-10-13",
+     "s": "I bought a $600 Songmont bag anonymously. Is it really worth it? 👀 Paid partnership with Songmont. Purchased anonymously as a regular…"
+    },
     {
      "k": "OUfoPYpj_kw",
      "t": "No Answers Ep. 2 - Hypocrisy of Luxury Fashion",
@@ -11958,7 +11951,7 @@
     },
     {
      "k": "MfDmkRd9jB0",
-     "t": "I Found Italy’s Most Underrated Brand: Il Bisonte",
+     "t": "I Dissected Italy’s Most Undervalued Brand: Il Bisonte",
      "u": "https://www.youtube.com/watch?v=MfDmkRd9jB0",
      "d": "2026-09-30",
      "s": "If you want to buy real Italian leather, the hardest place in the world to do it might be Italy. Last year, I spent a week in Florence…"
@@ -12039,19 +12032,19 @@
      "u": "https://www.youtube.com/watch?v=bxJ2wgOcwMM",
      "d": "2026-08-28",
      "s": "Every stall in Florence's leather market says the same two words: Italian leather. I grew up in a family tannery in Turkey and spent thirty…"
-    },
-    {
-     "k": "WK0jOMD9GyI",
-     "t": "Chanel Destroyed Thousands of Bags, Ralph Lauren's New Line, the Jelly Birkin | The Leather Report",
-     "u": "https://www.youtube.com/shorts/WK0jOMD9GyI",
-     "d": "2026-08-26",
-     "s": "This week: why Chanel destroyed 10,000–20,000 bags every six months in 2016, Ralph Lauren's new \"Polo Blaze\" bag line from Paris Fashion…"
     }
    ],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-16"
   },
   "leconte": {
    "items": [
+    {
+     "k": "Q4u101iYpNg",
+     "t": "What I skip when shopping vintage fashion!",
+     "u": "https://www.youtube.com/shorts/Q4u101iYpNg",
+     "d": "2026-10-13",
+     "s": "How I thrift vintage clothes as a fashion designer 👉 WHAT I AM WEARING: Jewelry: ✅ Get my free mini-course on timeless style in 7 steps: 👜…"
+    },
     {
      "k": "f9YHSzjCP84",
      "t": "THE jeans that flatter every single body type",
@@ -12149,16 +12142,9 @@
      "u": "https://www.youtube.com/shorts/G7j9vwlcHPo",
      "d": "2026-08-01",
      "s": "👉 WHAT I AM WEARING: Jewelry: 👀 SEEN OR MENTIONED IN THIS VIDEO: - Things I don't buy, as a fashion designer: - New to the channel? Start…"
-    },
-    {
-     "k": "4wG_7rQCep4",
-     "t": "Broad shoulders? THESE jeans might be your perfect match.",
-     "u": "https://www.youtube.com/shorts/4wG_7rQCep4",
-     "d": "2026-07-25",
-     "s": "👉 WHAT I AM WEARING: Jewelry: 👀 SEEN OR MENTIONED IN THIS VIDEO: - My video on jeans for each body type: - New to the channel? Start with…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "banner": {
    "items": [
@@ -12254,10 +12240,17 @@
      "s": "⤠ HOW TO SUPPORT ⤟ ♥️ PATREON for exclusive behind-the-scenes content! ⚝ NEBULA to see these videos ad- and sponsorship-free, + Original…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "weartesters": {
    "items": [
+    {
+     "k": "ZYhN2ZdVCjA",
+     "t": "Air Jordan 11 Protro? | Jordan DMSN 95",
+     "u": "https://www.youtube.com/watch?v=ZYhN2ZdVCjA",
+     "d": "2026-10-14",
+     "s": "Hey Guys! Today we take a detailed look and review at the Jordan DMSN 95 sneaker. Since Apparel: Buy at Nike: Release Date: August 30, 2026…"
+    },
     {
      "k": "aODplHkfd_8",
      "t": "Wade Shadow 8 Performance Review",
@@ -12355,25 +12348,32 @@
      "u": "https://www.youtube.com/watch?v=BJioCrnBwYw",
      "d": "2026-09-18",
      "s": "Hey Guys! Here is our detailed Nike Ja Twelve Time Performance Review. Since Apparel: Buy at Nike: Release Date: September 4, 2026 Retail…"
-    },
-    {
-     "k": "9hv6W2Q9QWo",
-     "t": "Wade 808 V5 Ultra VS Wade 808 V6 #sneakers #weartesters",
-     "u": "https://www.youtube.com/shorts/9hv6W2Q9QWo",
-     "d": "2026-09-17",
-     "s": "Hey Guys! Here is the Wade 808 V5 Ultra VS Wade 808 V6. Since Apparel: Buy at: Promo Code: WEARTESTERSWOW Release Date: Retail Price: $159…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "boraclaire": {
    "items": [
+    {
+     "k": "qZbdvr980Ts",
+     "t": "❄️올겨울에 유행할 갓성비 코트 추천⭐️ [보라끌레르X튜드먼트]♥️",
+     "u": "https://www.youtube.com/shorts/qZbdvr980Ts",
+     "d": "2026-10-15",
+     "s": "✨[튜드먼트X보라끌레르]✨ 📅기획전 기간 :10/12(월) 10:00 ~10/18(일) 23:59 ♥️많은 분들의 사랑에 힘입어 [29% 쿠폰] 기간 3일 추가 연장♥️ 🔗 🧥[착장정보] 🖤ITEM_1 ✔[튜드먼트X보라끌레르]- HIGH-NECK…"
+    },
+    {
+     "k": "qIb9dJ3QyHs",
+     "t": "✅요즘, 꽉 잡고 있는 운동화는❓대신 디깅해드림🩵",
+     "u": "https://www.youtube.com/watch?v=qIb9dJ3QyHs",
+     "d": "2026-10-14",
+     "s": "반가워요 여러분!!🤗 가을 기념 보끌이 직접! 오프라인 운동화 시장조사 나섰답니다💗 요즘 운동화 경향과 흐름 함께 살펴볼까요~? 그럼 오늘도 채널~고정🫶 🛒[제품정보] 💙컬러스니커즈 ✔[아디다스] SL 72 PT 버건디 (품절) ✔[베자]…"
+    },
     {
      "k": "DgQzMeP1o_U",
      "t": "✅올겨울, 유행할 코트는❓갓성비로 딱 3가지만 추천⭐️ 코트맛집 보라끌레르 & 튜드먼트",
      "u": "https://www.youtube.com/watch?v=DgQzMeP1o_U",
      "d": "2026-10-12",
-     "s": "반가워요 여러분!!🤗 튜드먼트와 보끌이 함께 만든 겨울 코트부터 튜드먼트의 겨울 아이템으로 코디 보여드릴게요! 그럼 오늘도 채널~고정💘 ✨[튜드먼트X보라끌레르]✨ 📅기획전 기간 :10/12(월) 10:00 ~10/15(목) 23:59 ♥️단 4일간…"
+     "s": "반가워요 여러분!!🤗 튜드먼트와 보끌이 함께 만든 겨울 코트부터 튜드먼트의 겨울 아이템으로 코디 보여드릴게요! 그럼 오늘도 채널~고정💘 ✨[튜드먼트X보라끌레르]✨ 📅기획전 기간 :10/12(월) 10:00 ~10/18(일) 23:59 ♥️많은 분들의…"
     },
     {
      "k": "LblnqROqFLU",
@@ -12458,26 +12458,19 @@
      "u": "https://www.youtube.com/shorts/SX5TeL5gvSY",
      "d": "2026-09-27",
      "s": "✨29CM 스페셜오더 보라끌레르X노이어포우먼✨ 📌기획전: -기간: 09/21(월) ~10.05(월) 📌[노이어 포 우먼 X 에리얼카럽 가죽자켓 정보] ✅ITEM 1 하이넥 레더 오버핏 블루종 (블랙) ✅ITEM 2 하이넥 레더 오버핏 블루종 (초코…"
-    },
-    {
-     "k": "ZLTx_W4x-P4",
-     "t": "✅넷플에서 이거 5개 다 본 사람, 아직 못 봄😎한국드라마 추천작‼️⭐️추석특집⭐️",
-     "u": "https://www.youtube.com/watch?v=ZLTx_W4x-P4",
-     "d": "2026-09-24",
-     "s": "반가워요 여러분!🤗 추석 연휴 동안 정주행할 보끌의 넷플 PICK 도착했습니다🎁 몰입도, 완성도, 연기, 비주얼 다 되는 한국 드라마 명작 딱 5편 추천해드릴게요💞 그럼 오늘도 채널~고정💘 ✧･ﾟ *✧･ﾟ *✧:*✧*:✧*ﾟ･✧*ﾟ･✧ 👕[착장정보]…"
-    },
-    {
-     "k": "Ujn1oBkkqls",
-     "t": "✅올가을 이너템은 이 2가지면 됩니다‼️[에리얼카럽x수아레]의 갓성비 야심작👯‍♂️",
-     "u": "https://www.youtube.com/watch?v=Ujn1oBkkqls",
-     "d": "2026-09-21",
-     "s": "반가워요 여러분!!🤗 요즘 같은 날씨엔 레이어링이 필수죠~ 에리얼카럽과 수아레가 함께 돌려 입기 좋은 니트 2가지 만들었어요💖 그럼 오늘도 채널~고정💘 ✅[에리얼카럽X수아레]-실키 울 블렌드 니트 단품 판매가 61,000원 → 최종 할인가…"
     }
    ],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "soshin": {
    "items": [
+    {
+     "k": "SyAgNs2f7b4",
+     "t": "찐부자룩? 압현 단골의 현백코어룩 BEST 3🤍 #겨울코디 #현백코어 #데일리룩 #쇼츠 #룩북",
+     "u": "https://www.youtube.com/shorts/SyAgNs2f7b4",
+     "d": "2026-10-14",
+     "s": "#현백코어 #가을코디 #겨울코디 #문가영 #겨울옷 #데일리룩 #룩북"
+    },
     {
      "k": "ovI_fd08hZo",
      "t": "10월에 사도 이건 겨울까지 입어요🍁돈 안 아까운 가을옷 3가지✔️  #가을코디 #데일리룩 #쇼츠 #가을옷 #룩북",
@@ -12575,23 +12568,37 @@
      "u": "https://www.youtube.com/shorts/dh47FiLUVRw",
      "d": "2026-09-17",
      "s": "#가을코디 #롱스커트 #추구미 #어른여자 #가을치마 #가을롱스커트 #미디스커트 #컬러코디 #가을코디"
-    },
-    {
-     "k": "66EHGT_jcY0",
-     "t": "고급진 가을추구미💇‍♀️어른여자 코디법 5가지🍁하객룩,출근룩도 가능! #가을코디 #패션 #쇼츠 #출근룩",
-     "u": "https://www.youtube.com/shorts/66EHGT_jcY0",
-     "d": "2026-09-15",
-     "s": "#어른여자 #출근룩 #가을코디 #추구미 #귀티 #가을옷 #스타일링 #하객룩 #패션"
     }
    ],
-   "checkedAt": "2026-10-12"
+   "checkedAt": "2026-10-16"
   },
   "opexity": {
    "items": [],
-   "checkedAt": "2026-10-13"
+   "checkedAt": "2026-10-16"
   },
   "bardwell": {
    "items": [
+    {
+     "k": "Mo15TyjLqgs",
+     "t": "This \"durable\" drone is awful // AXISFLYING BANDO 5",
+     "u": "https://www.youtube.com/watch?v=Mo15TyjLqgs",
+     "d": "2026-10-14",
+     "s": "Uncertain about what to buy? Check out THE ULTIMATE FPV SHOPPING LIST: SUPPORT ME ON PATREON at: THIS IS MY FULL TIME JOB. Here are other…"
+    },
+    {
+     "k": "f41v9sC4D-A",
+     "t": "Speechless at how good it flies // AXISFLYING VERTEX 5",
+     "u": "https://www.youtube.com/watch?v=f41v9sC4D-A",
+     "d": "2026-10-13",
+     "s": "Uncertain about what to buy? Check out THE ULTIMATE FPV SHOPPING LIST: SUPPORT ME ON PATREON at: THIS IS MY FULL TIME JOB. Here are other…"
+    },
+    {
+     "k": "kbmmcxwe4xI",
+     "t": "Q&A Livestream - October 12, 2026",
+     "u": "https://www.youtube.com/watch?v=kbmmcxwe4xI",
+     "d": "2026-10-13",
+     "s": "Uncertain about what to buy? Check out THE ULTIMATE FPV SHOPPING LIST: SUPPORT ME ON PATREON at: THIS IS MY FULL TIME JOB. Here are other…"
+    },
     {
      "k": "jPXecdg2hcA",
      "t": "No compromises. My DREAM portable soldering iron is ... ALIENTEK T90B",
@@ -12675,33 +12682,19 @@
      "u": "https://www.youtube.com/watch?v=LY-viahji9c",
      "d": "2026-09-20",
      "s": "Uncertain about what to buy? Check out THE ULTIMATE FPV SHOPPING LIST: SUPPORT ME ON PATREON at: THIS IS MY FULL TIME JOB. Here are other…"
-    },
-    {
-     "k": "NBPujHbWonU",
-     "t": "Q&A Livestream - October 26, 2026",
-     "u": "https://www.youtube.com/watch?v=NBPujHbWonU",
-     "d": "2026-09-20",
-     "s": "Uncertain about what to buy? Check out THE ULTIMATE FPV SHOPPING LIST: SUPPORT ME ON PATREON at: THIS IS MY FULL TIME JOB. Here are other…"
-    },
-    {
-     "k": "Na312kYJTFI",
-     "t": "Q&A Livestream - October 25, 2026",
-     "u": "https://www.youtube.com/watch?v=Na312kYJTFI",
-     "d": "2026-09-20",
-     "s": "Uncertain about what to buy? Check out THE ULTIMATE FPV SHOPPING LIST: SUPPORT ME ON PATREON at: THIS IS MY FULL TIME JOB. Here are other…"
-    },
-    {
-     "k": "ETv7Kfa9zbs",
-     "t": "Q&A Livestream - October 19, 2026",
-     "u": "https://www.youtube.com/watch?v=ETv7Kfa9zbs",
-     "d": "2026-09-20",
-     "s": "Uncertain about what to buy? Check out THE ULTIMATE FPV SHOPPING LIST: SUPPORT ME ON PATREON at: THIS IS MY FULL TIME JOB. Here are other…"
     }
    ],
-   "checkedAt": "2026-10-12"
+   "checkedAt": "2026-10-16"
   },
   "nikkei_yt": {
    "items": [
+    {
+     "k": "M5TvwaJLCSw",
+     "t": "【日揮HDの新事業 バイオものづくり】「CO2×微生物」でプラスチック生産｜石油依存リスクを分散へ｜最先端研究所で進む培養プロセスのスケールアップ",
+     "u": "https://www.youtube.com/watch?v=M5TvwaJLCSw",
+     "d": "2026-10-15",
+     "s": "▽日揮HDのCTO「制約なき原料を有価物に」、バイオものづくり商業化へ布石…"
+    },
     {
      "k": "_J7MOlniNHM",
      "t": "【アクセンチュア】AIが迫るパワポコンサルの終焉｜「コンサル不要論」への対抗戦略｜切り札は新人材「RDE」 育成現場に潜入",
@@ -12799,42 +12792,28 @@
      "u": "https://www.youtube.com/shorts/EC5jWRwqDUs",
      "d": "2026-07-17",
      "s": ""
-    },
-    {
-     "k": "_eHTnJaf9i0",
-     "t": "【国際卓越研究大学】東北大学発スタートアップ 強さの秘密｜ディープテックの社会実装へ｜日本の大学を取り巻く負のループ",
-     "u": "https://www.youtube.com/watch?v=_eHTnJaf9i0",
-     "d": "2026-07-16",
-     "s": "▽国際卓越研究大は新たなチャネル 世界の知を結集、産学共創を加速…"
     }
    ],
-   "checkedAt": "2026-10-10"
+   "checkedAt": "2026-10-16"
   },
   "ifixit_web": {
    "items": [
     {
-     "k": "tag:www.ifixit.com,2026:guide/228181",
+     "k": "tag:zh.ifixit.com,2026:guide/228181",
      "t": "Why is it so complex and why do you damage it when disassembling? Disassembling a Philips remote control.",
-     "u": "https://www.ifixit.com/Teardown/Why+is+it+so+complex+and+why+do+you+damage+it+when+disassembling-+Disassembling+a+Philips+remote+control./228181",
+     "u": "https://zh.ifixit.com/Teardown/Why+is+it+so+complex+and+why+do+you+damage+it+when+disassembling-+Disassembling+a+Philips+remote+control./228181",
      "d": "2026-08-15",
      "s": ""
     },
     {
-     "k": "tag:www.ifixit.com,2026:guide/228174",
+     "k": "tag:zh.ifixit.com,2026:guide/228174",
      "t": "MANTRA NISEKO cooling fan, cooling fan motor not working, driver failure.",
-     "u": "https://www.ifixit.com/Teardown/MANTRA+NISEKO+cooling+fan+cooling+fan+motor+not+working+driver+failure./228174",
+     "u": "https://zh.ifixit.com/Teardown/MANTRA+NISEKO+cooling+fan+cooling+fan+motor+not+working+driver+failure./228174",
      "d": "2026-08-13",
      "s": ""
-    },
-    {
-     "k": "tag:www.ifixit.com,2026:guide/213457",
-     "t": "MacBook Neo Chip ID",
-     "u": "https://www.ifixit.com/Teardown/MacBook+Neo+Chip+ID/213457",
-     "d": "2026-04-15",
-     "s": "This guide details chip ID information for..."
     }
    ],
-   "checkedAt": "2026-10-15"
+   "checkedAt": "2026-10-16"
   },
   "lensrentals": {
    "items": [
@@ -12881,7 +12860,7 @@
      "s": "Let me be upfront about something: bringing a large-format camera to a MotoGP weekend is, on paper, a fool’s errand. The GFX system was…"
     }
    ],
-   "checkedAt": "2026-10-15"
+   "checkedAt": "2026-10-16"
   },
   "zeptobars": {
    "items": [
@@ -12914,117 +12893,117 @@
      "s": "Die size 1493x1493 µm."
     }
    ],
-   "checkedAt": "2026-10-15"
+   "checkedAt": "2026-10-16"
   },
   "fritz": {
    "items": [
     {
-     "k": "tag:flickr.com,2005:/photo/55589097207",
+     "k": "tag:flickr.com,2005:/photo/55591093787",
      "t": "",
-     "u": "https://live.staticflickr.com/65535/55589097207_2bfa0665e9_b.jpg",
-     "d": "2026-10-14",
+     "u": "https://live.staticflickr.com/65535/55591093787_7510443e74_b.jpg",
+     "d": "2026-10-15",
      "s": ""
     },
     {
-     "k": "tag:flickr.com,2005:/photo/55589097462",
-     "t": "Last night crescent with my hand phone",
-     "u": "https://live.staticflickr.com/65535/55589097462_4cf00e590b_b.jpg",
-     "d": "2026-10-14",
-     "s": ""
-    },
-    {
-     "k": "tag:flickr.com,2005:/photo/55589098317",
-     "t": "fSmKg2bdNZ",
-     "u": "https://live.staticflickr.com/video/55589098317/1aaa123fc3/360p.mp4?s=eyJpIjo1NTU4OTA5ODMxNywiZSI6MTc5MjAyMzI3NywicyI6ImFhZWJlNTk0NDhmZGU4ODhmOTcxYTk5MjY3NjMyNzM1YzY3N2NmZmIiLCJ2IjoxfQ",
-     "d": "2026-10-14",
-     "s": ""
-    },
-    {
-     "k": "tag:flickr.com,2005:/photo/55589098977",
-     "t": "FiveM_b3258_GTAProcess_EeFzKoealu",
-     "u": "https://live.staticflickr.com/65535/55589098977_19359e3901_z.jpg",
-     "d": "2026-10-14",
-     "s": ""
-    },
-    {
-     "k": "tag:flickr.com,2005:/photo/55589099237",
-     "t": "✨️",
-     "u": "https://live.staticflickr.com/65535/55589099237_ab87079f67_b.jpg",
-     "d": "2026-10-14",
-     "s": ""
-    },
-    {
-     "k": "tag:flickr.com,2005:/photo/55590141601",
-     "t": "Wow_SRZqAx4bzz",
-     "u": "https://live.staticflickr.com/video/55590141601/44339d07d1/360p.mp4?s=eyJpIjo1NTU5MDE0MTYwMSwiZSI6MTc5MjAyMzI3NywicyI6IjA5ODNjMmI3MjBiZDVjMzNhYjYyYzgwZjFjNTRiNGJiZmJjODI1YjUiLCJ2IjoxfQ",
-     "d": "2026-10-14",
-     "s": ""
-    },
-    {
-     "k": "tag:flickr.com,2005:/photo/55590143246",
-     "t": "2026-10-14_08-43-41",
-     "u": "https://live.staticflickr.com/65535/55590143246_811f789160_b.jpg",
-     "d": "2026-10-14",
-     "s": ""
-    },
-    {
-     "k": "tag:flickr.com,2005:/photo/55590144311",
+     "k": "tag:flickr.com,2005:/photo/55591094337",
      "t": "",
-     "u": "https://live.staticflickr.com/65535/55590144311_946122acbf_z.jpg",
-     "d": "2026-10-14",
+     "u": "https://live.staticflickr.com/65535/55591094337_98266363b2_b.jpg",
+     "d": "2026-10-15",
      "s": ""
     },
     {
-     "k": "tag:flickr.com,2005:/photo/55590144356",
-     "t": "Foto: Gustavo Martins/ Cruzeiro",
-     "u": "https://live.staticflickr.com/65535/55590144356_629ca1746a_b.jpg",
-     "d": "2026-10-14",
+     "k": "tag:flickr.com,2005:/photo/55591095427",
+     "t": "My latest drawing of my friends 10 week old German Wirehaired Pointer, Sylvia. I used polychromo coloured penc",
+     "u": "https://live.staticflickr.com/65535/55591095427_7d91a558ec_b.jpg",
+     "d": "2026-10-15",
      "s": ""
     },
     {
-     "k": "tag:flickr.com,2005:/photo/55590250138",
+     "k": "tag:flickr.com,2005:/photo/55592128381",
+     "t": "Exposición correcta",
+     "u": "https://live.staticflickr.com/65535/55592128381_c76f5f48a9_b.jpg",
+     "d": "2026-10-15",
+     "s": ""
+    },
+    {
+     "k": "tag:flickr.com,2005:/photo/55592238748",
+     "t": "IMG_2938-Edit-2.jpg",
+     "u": "https://live.staticflickr.com/65535/55592238748_7ae1581c0f_b.jpg",
+     "d": "2026-10-15",
+     "s": ""
+    },
+    {
+     "k": "tag:flickr.com,2005:/photo/55592239063",
+     "t": "Project 6GR-Ten-Forged-GT350- brushed aluminum",
+     "u": "https://live.staticflickr.com/65535/55592239063_59ca65818e_b.jpg",
+     "d": "2026-10-15",
+     "s": ""
+    },
+    {
+     "k": "tag:flickr.com,2005:/photo/55592239398",
      "t": "",
-     "u": "https://live.staticflickr.com/65535/55590250138_e5101ea9c7_b.jpg",
-     "d": "2026-10-14",
+     "u": "https://live.staticflickr.com/65535/55592239398_665d8c4687_b.jpg",
+     "d": "2026-10-15",
      "s": ""
     },
     {
-     "k": "tag:flickr.com,2005:/photo/55590250578",
-     "t": "20261007_163832~2",
-     "u": "https://live.staticflickr.com/65535/55590250578_b82860857c_b.jpg",
-     "d": "2026-10-14",
+     "k": "tag:flickr.com,2005:/photo/55592239513",
+     "t": "CB18163",
+     "u": "https://live.staticflickr.com/65535/55592239513_67c46e8fd7_b.jpg",
+     "d": "2026-10-15",
      "s": ""
     },
     {
-     "k": "tag:flickr.com,2005:/photo/55590251518",
-     "t": "Chuva alaga túnel do Anhangabaú e deixa carros submersos em São Paulo",
-     "u": "https://live.staticflickr.com/65535/55590251518_27d8379e54_b.jpg",
-     "d": "2026-10-14",
+     "k": "tag:flickr.com,2005:/photo/55592239923",
+     "t": "Cornering constraints",
+     "u": "https://live.staticflickr.com/65535/55592239923_389cb4a91b_b.jpg",
+     "d": "2026-10-15",
      "s": ""
     },
     {
-     "k": "tag:flickr.com,2005:/photo/55590325669",
-     "t": "",
-     "u": "https://live.staticflickr.com/video/55590325669/1402cef9b6/360p.mp4?s=eyJpIjo1NTU5MDMyNTY2OSwiZSI6MTc5MjAyMzI3NywicyI6ImEzYmYxZWYyZTQwZWZjYjMxMWI0NDkwNTY3MzJlOWNhMTZmMWExZmQiLCJ2IjoxfQ",
-     "d": "2026-10-14",
+     "k": "tag:flickr.com,2005:/photo/55592240938",
+     "t": "steamwebhelper_vO2n65WLdi",
+     "u": "https://live.staticflickr.com/65535/55592240938_937853f005_z.jpg",
+     "d": "2026-10-15",
      "s": ""
     },
     {
-     "k": "tag:flickr.com,2005:/photo/55590326324",
-     "t": "Flash painting",
-     "u": "https://live.staticflickr.com/65535/55590326324_5568798a9a_b.jpg",
-     "d": "2026-10-14",
+     "k": "tag:flickr.com,2005:/photo/55592241828",
+     "t": "IMG_8685",
+     "u": "https://live.staticflickr.com/65535/55592241828_6a23662836_b.jpg",
+     "d": "2026-10-15",
      "s": ""
     },
     {
-     "k": "tag:flickr.com,2005:/photo/55590327249",
-     "t": "",
-     "u": "https://live.staticflickr.com/65535/55590327249_c836dc79b5_b.jpg",
-     "d": "2026-10-14",
+     "k": "tag:flickr.com,2005:/photo/55592241978",
+     "t": "17916485498074_edit_1036979633933068 (1) (1) (1) (1) (1)",
+     "u": "https://live.staticflickr.com/65535/55592241978_16915a4848_b.jpg",
+     "d": "2026-10-15",
+     "s": ""
+    },
+    {
+     "k": "tag:flickr.com,2005:/photo/55592241998",
+     "t": "Art Gallery of New South Wales in Sydney, Australia",
+     "u": "https://live.staticflickr.com/65535/55592241998_c908f526b6_b.jpg",
+     "d": "2026-10-15",
+     "s": ""
+    },
+    {
+     "k": "tag:flickr.com,2005:/photo/55592319559",
+     "t": "2026-10-15_03-39-13",
+     "u": "https://live.staticflickr.com/65535/55592319559_4c9cb71946_b.jpg",
+     "d": "2026-10-15",
+     "s": ""
+    },
+    {
+     "k": "tag:flickr.com,2005:/photo/55592319684",
+     "t": "負載平衡是什麼？網站如何把流量分配到多台伺服器？",
+     "u": "https://live.staticflickr.com/65535/55592319684_664e46b860_b.jpg",
+     "d": "2026-10-15",
      "s": ""
     }
    ],
-   "checkedAt": "2026-10-15"
+   "checkedAt": "2026-10-16"
   },
   "chipscheese": {
    "items": [
@@ -13134,7 +13113,7 @@
      "s": "Machine learning workloads have an insatiable appetite for DRAM capacity. Flash memory is cheaper per gigabyte of capacity than DRAM. Could…"
     }
    ],
-   "checkedAt": "2026-10-15"
+   "checkedAt": "2026-10-16"
   },
   "techinsights_web": {
    "items": [
@@ -13181,7 +13160,7 @@
      "s": "Apple iPhone 18 Pro Max Teardown: A20 Pro, X80 and Apple N1 JWinters Fri, 09/18/2026 - 15:58"
     }
    ],
-   "checkedAt": "2026-10-15"
+   "checkedAt": "2026-10-16"
   },
   "caresoft": {
    "items": [
@@ -13218,7 +13197,7 @@
   },
   "carnewschina": {
    "items": [],
-   "checkedAt": "2026-10-15"
+   "checkedAt": "2026-10-16"
   },
   "simplexity": {
    "items": [
@@ -13265,18 +13244,25 @@
      "s": "Pulse Width Modulation (PWM) sits at the heart of many motor control implementations, from simple DC speed control to the precise step…"
     }
    ],
-   "checkedAt": "2026-10-15"
+   "checkedAt": "2026-10-16"
   },
   "ccc": {
    "items": [],
-   "checkedAt": "2026-10-15"
+   "checkedAt": "2026-10-16"
   },
   "ifixit_med": {
    "items": [],
-   "checkedAt": "2026-10-15"
+   "checkedAt": "2026-10-16"
   },
   "nomagicpill": {
    "items": [
+    {
+     "k": "https://nomagicpill.site/knowledge/transistors.html",
+     "t": "Transistors",
+     "u": "https://nomagicpill.site/knowledge/transistors.html",
+     "d": "2026-10-15",
+     "s": "An interactive model of how a MOSFET is made, how it works, how it is tested, and how it shrank"
+    },
     {
      "k": "https://nomagicpill.site/thoughts/linksbad.html",
      "t": "Links Posts Were a Waste of Time and Made Me Dumber",
@@ -13374,19 +13360,33 @@
      "u": "https://nomagicpill.github.io/thoughts/sentences.html",
      "d": "2026-04-24",
      "s": "The right words at the right time can make all the difference, for better or worse"
-    },
-    {
-     "k": "https://nomagicpill.github.io/experiences/nyc4.html",
-     "t": "New York City IV",
-     "u": "https://nomagicpill.github.io/experiences/nyc4.html",
-     "d": "2026-04-19",
-     "s": "Walking egregious amounts just to watch people"
     }
    ],
-   "checkedAt": "2026-10-15"
+   "checkedAt": "2026-10-16"
   },
   "semiwiki": {
    "items": [
+    {
+     "k": "https://semiwiki.com/?p=374637",
+     "t": "Design the Right Chip: Why Prototyping Has to Be Easy",
+     "u": "https://semiwiki.com/prototyping/s2c-eda/374637-design-the-right-chip-why-prototyping-has-to-be-easy/",
+     "d": "2026-10-15",
+     "s": "Design the right chip. Design the chip right. Every verification methodology in mainstream use answers the second half of that sentence and…"
+    },
+    {
+     "k": "https://semiwiki.com/?p=374900",
+     "t": "Why Semiconductor AI Starts with Data, Not Algorithms",
+     "u": "https://semiwiki.com/semiconductor-manufacturers/374900-why-semiconductor-ai-starts-with-data-not-algorithms/",
+     "d": "2026-10-15",
+     "s": "The next gains from AI in semiconductors will come less from models and more from making fab and test data reliable, connected and tied to…"
+    },
+    {
+     "k": "https://semiwiki.com/?p=374743",
+     "t": "Why AI Security Starts at the Chip Level",
+     "u": "https://semiwiki.com/eda/synopsys/374743-why-ai-security-starts-at-the-chip-level/",
+     "d": "2026-10-15",
+     "s": "Artificial intelligence is becoming part of the infrastructure that powers healthcare, transportation, finance, manufacturing, and everyday…"
+    },
     {
      "k": "https://semiwiki.com/?p=374851",
      "t": "CTO Interview with Sirish Munipalli of Moores Lab AI",
@@ -13400,30 +13400,9 @@
      "u": "https://semiwiki.com/eda/374529-what-darpa-taught-me-about-building-trust-into-silicon/",
      "d": "2026-10-14",
      "s": "By Sajeed Mohammad The most memorable slide I ever saw in a chip design review didn’t show a floorplan. It showed a target. The Defense…"
-    },
-    {
-     "k": "https://semiwiki.com/?p=374405",
-     "t": "Delivering Silicon Systems Through AI Disruption, Part 1: Writing the Score",
-     "u": "https://semiwiki.com/semiconductor-services/flow-accel/374405-delivering-silicon-systems-through-ai-disruption-part-1-writing-the-score/",
-     "d": "2026-10-14",
-     "s": "Score: the written music for an orchestra, with every section’s part laid out on the same page so they play together. In this article, it’s…"
-    },
-    {
-     "k": "https://semiwiki.com/?p=374736",
-     "t": "A Migration Feasibility Study Can Turn an Uncertain Re-Design into a Measurable Engineering Project",
-     "u": "https://semiwiki.com/semiconductor-services/in2fab/374736-migration-feasibility-study/",
-     "d": "2026-10-14",
-     "s": "Moving semiconductor IP to a new process technology is often treated as a redesign problem. For analog and mixed-signal designs, however,…"
-    },
-    {
-     "k": "https://semiwiki.com/?p=374784",
-     "t": "Interview with Eric Hong, VP of Engineering at Mixel, a Silvaco Company",
-     "u": "https://semiwiki.com/ip/mixel/374784-interview-with-erich-hong-vp-of-engineering-at-mixel-a-silvaco-company/",
-     "d": "2026-10-13",
-     "s": "Eric Hong is Vice President of Engineering at Mixel, a Silvaco company, where he leads the development of analog and mixed-signal IP,…"
     }
    ],
-   "checkedAt": "2026-10-15"
+   "checkedAt": "2026-10-16"
   },
   "ksn_web": {
    "items": [
@@ -13470,10 +13449,24 @@
      "s": "Wide Release Date for MagnaMax for Small Knifemakers MagnaMax will be on sale May 1st, 2026 at 9am on Niagara Specialty Metals’ online…"
     }
    ],
-   "checkedAt": "2026-10-15"
+   "checkedAt": "2026-10-16"
   },
   "heddels": {
    "items": [
+    {
+     "k": "https://www.heddels.com/?p=249984",
+     "t": "American Trench Natural Indigo Dyed Low-Gauge Knits",
+     "u": "https://www.heddels.com/2026/10/american-trench-natural-indigo-dyed-low-gauge-knits/",
+     "d": "2026-10-15",
+     "s": "Let’s be honest: most of us would rather throw on a comfy, broken-in tee every day of the week. However,... The post American Trench…"
+    },
+    {
+     "k": "https://www.heddels.com/?p=249988",
+     "t": "Burgus Plus Goes All In on Natural Indigo with its 928-XX Cinch Back Model",
+     "u": "https://www.heddels.com/2026/10/burgus-plus-goes-all-in-on-natural-indigo-with-its-928-xx-cinch-back-model/",
+     "d": "2026-10-15",
+     "s": "Is there such a thing as going too far to make a great pair of jeans? Burgus Plus doesn’t think... The post Burgus Plus Goes All In on…"
+    },
     {
      "k": "https://www.heddels.com/?p=249849",
      "t": "Strike a Cord in Engineered Garment’s Corduroy A-1",
@@ -13486,7 +13479,7 @@
      "t": "Iron & Resin Enduro Denim – Dyneema Durability in a Five Pocket Package",
      "u": "https://www.heddels.com/2026/10/iron-resin-enduro-denim-dyneema-durability-in-a-five-pocket-package/",
      "d": "2026-10-12",
-     "s": "Together with Like this? Read these:The History of the BandanaThe Men With Blue Jeans – Navy SEALs in Vietnam Wore... The post Iron & Resin…"
+     "s": "Together with Like this? Read these:All About Boro – The Story of Japanese PatchworkThe 13 Selvedge Denim Mills to Know... The post Iron &…"
     },
     {
      "k": "https://www.heddels.com/?p=249845",
@@ -13529,23 +13522,9 @@
      "u": "https://www.heddels.com/2026/10/all-about-the-ishikawadai-spinning-machine/",
      "d": "2026-10-07",
      "s": "How our clothes are made, and what of, is something we should all consider whilst we shop, but sometimes words... The post All About the…"
-    },
-    {
-     "k": "https://www.heddels.com/?p=210828",
-     "t": "12 Bag Types to Know – From Book Bags to Backpacks & Beyond",
-     "u": "https://www.heddels.com/2026/10/12-bag-types-to-know-from-book-bags-to-backpacks/",
-     "d": "2026-10-06",
-     "s": "Bags: soft, flexible containers used to store and carry items, which literally predate recorded history. They’ve been around as long... The…"
-    },
-    {
-     "k": "https://www.heddels.com/?p=249501",
-     "t": "Introducing Hidden Forts: A World of Its Own",
-     "u": "https://www.heddels.com/2026/10/introducing-hidden-forts-a-world-of-its-own/",
-     "d": "2026-10-02",
-     "s": "Gordon Heffner knows a lot about denim. He has spent years in the industry as the co-founder of the Soho... The post Introducing Hidden…"
     }
    ],
-   "checkedAt": "2026-10-15"
+   "checkedAt": "2026-10-16"
   },
   "fashionrev": {
    "items": [
@@ -13557,7 +13536,7 @@
      "s": "In Conversation with: Dr. Julia English. Beyond functionality: How repair forces us to slow down and cherish our clothing. By: Fashion…"
     }
    ],
-   "checkedAt": "2026-10-15"
+   "checkedAt": "2026-10-16"
   },
   "apriori": {
    "items": [
@@ -13679,7 +13658,7 @@
      "s": "Most cost engineers are not failing at their job. They are failing to keep up with the volume of requests it generates."
     }
    ],
-   "checkedAt": "2026-10-15"
+   "checkedAt": "2026-10-16"
   },
   "galorath": {
    "items": [
@@ -13733,7 +13712,7 @@
      "s": "41% of healthcare C-suite leaders expect capital investment reductions over the next two years. Simultaneously, 57% rank AI-based clinical…"
     }
    ],
-   "checkedAt": "2026-10-15"
+   "checkedAt": "2026-10-16"
   },
   "icknowledge": {
    "items": [
@@ -13780,11 +13759,11 @@
      "s": "Apple iPhone 18 Pro Max Teardown: A20 Pro, X80 and Apple N1 JWinters Fri, 09/18/2026 - 15:58"
     }
    ],
-   "checkedAt": "2026-10-15"
+   "checkedAt": "2026-10-16"
   },
   "semianalysis": {
    "items": [],
-   "checkedAt": "2026-10-15"
+   "checkedAt": "2026-10-16"
   },
   "bnef": {
    "items": [
@@ -13859,7 +13838,7 @@
      "s": "How could the energy transition reshape corporate cashflows? Explore where shifting demand and carbon costs could create risks and revenue…"
     }
    ],
-   "checkedAt": "2026-10-15"
+   "checkedAt": "2026-10-16"
   },
   "iceaa": {
    "items": [
@@ -13934,10 +13913,31 @@
      "s": "Cost Estimating NewsBrief: August 7, 2026 AFRL, Texas Space Commission Ink Deal to Fast-Track Commercial Space Tech for"
     }
    ],
-   "checkedAt": "2026-10-15"
+   "checkedAt": "2026-10-16"
   },
   "humanoidguide": {
    "items": [
+    {
+     "k": "https://humanoid.guide/pndbotics-adam-humanoid-climbs-1-meter-box-post-claims/",
+     "t": "PNDbotics Adam humanoid climbs 1 meter box, post claims",
+     "u": "https://humanoid.guide/pndbotics-adam-humanoid-climbs-1-meter-box-post-claims/",
+     "d": "2026-10-15",
+     "s": "Space and Technology says PNDbotics’ full size Adam humanoid can climb onto a 1 meter box by placing one foot, shifting its weight and…"
+    },
+    {
+     "k": "https://humanoid.guide/nature-will-unveils-natura-1-robot-model-for-dexterous-hands/",
+     "t": "Nature Will unveils Natura-1 robot model for dexterous hands",
+     "u": "https://humanoid.guide/nature-will-unveils-natura-1-robot-model-for-dexterous-hands/",
+     "d": "2026-10-15",
+     "s": "Nature Will says its 50 billion parameter Natura-1 model uses human video pretraining and limited robot data to control hands with 20…"
+    },
+    {
+     "k": "https://humanoid.guide/wisconsin-humanoid-robotics-targets-first-steps-by-may-2027/",
+     "t": "Wisconsin Humanoid Robotics targets first steps by May 2027",
+     "u": "https://humanoid.guide/wisconsin-humanoid-robotics-targets-first-steps-by-may-2027/",
+     "d": "2026-10-15",
+     "s": "A UW-Madison student team is beginning fabrication of Sconnie, an aluminum humanoid designed to stand 4 feet tall, with walking targeted…"
+    },
     {
      "k": "https://humanoid.guide/google-demonstrates-gemini-4-argon-robotics-on-apollo-humanoid/",
      "t": "Google demonstrates Gemini 4 Argon robotics on Apollo humanoid",
@@ -13986,33 +13986,33 @@
      "u": "https://humanoid.guide/xpeng-plans-iron-humanoid-sales-for-second-half-of-2027/",
      "d": "2026-10-12",
      "s": "Xpeng plans to test Iron in its own stores and offices before selling the humanoid in the second half of 2027, with early roles focused on…"
-    },
-    {
-     "k": "https://humanoid.guide/humanoid-robot-rental-prices-fall-as-chinese-supply-grows/",
-     "t": "Humanoid robot rental prices fall as Chinese supply grows",
-     "u": "https://humanoid.guide/humanoid-robot-rental-prices-fall-as-chinese-supply-grows/",
-     "d": "2026-10-12",
-     "s": "Unitree humanoids are listed for as little as 289 yuan per day in China, while a dedicated rental platform reports growing orders and…"
-    },
-    {
-     "k": "https://humanoid.guide/byd-unveils-humanoid-robot-design-through-patent-publication/",
-     "t": "BYD unveils humanoid robot design through patent publication",
-     "u": "https://humanoid.guide/byd-unveils-humanoid-robot-design-through-patent-publication/",
-     "d": "2026-10-11",
-     "s": "BYD’s published humanoid patent resembles its previously teased Xiao Di robot, but the company has not confirmed whether it represents the…"
-    },
-    {
-     "k": "https://humanoid.guide/phonebot-humanoid-robot-uses-old-android-phones-for-control/",
-     "t": "PhoneBot humanoid robot uses old Android phones for control",
-     "u": "https://humanoid.guide/phonebot-humanoid-robot-uses-old-android-phones-for-control/",
-     "d": "2026-10-11",
-     "s": "UCLA's PhoneBot uses an Android smartphone for computing and sensing, with a reported $400 build cost and a walking controller trained in…"
     }
    ],
-   "checkedAt": "2026-10-15"
+   "checkedAt": "2026-10-16"
   },
   "therobotreport": {
    "items": [
+    {
+     "k": "https://www.therobotreport.com/?p=589924",
+     "t": "Stryker invests $400M into CMR Surgical",
+     "u": "https://www.therobotreport.com/stryker-invests-400m-into-cmr-surgical/",
+     "d": "2026-10-15",
+     "s": "Stryker plans to serve as the exclusive sales agent in the U.S. for the Versius robotics portfolio from CMR Surgical. The post Stryker…"
+    },
+    {
+     "k": "https://www.therobotreport.com/?p=589926",
+     "t": "How ADI is helping robotics startups scale",
+     "u": "https://www.therobotreport.com/how-adi-is-helping-robotics-startups-scale-2/",
+     "d": "2026-10-15",
+     "s": "Robotics businesses need help keeping up with innovations as they scale. Analog Devices Inc. or ADI is offering its Emerging Tech Hub. The…"
+    },
+    {
+     "k": "https://www.therobotreport.com/?p=589918",
+     "t": "Agility chooses Nyobolt for ultra-fast charging for Digit 5 humanoid",
+     "u": "https://www.therobotreport.com/agility-robotics-chooses-nyobolt-ultra-fast-charging-digit-5-humanoid/",
+     "d": "2026-10-15",
+     "s": "Nyobolt is providing power technology for Digit 5 that enables Agility's humanoid to work up to 20 hours a day. The post Agility chooses…"
+    },
     {
      "k": "https://www.therobotreport.com/?p=589899",
      "t": "RoboBusiness 2026 panel to discuss reshoring with robots",
@@ -14096,33 +14096,33 @@
      "u": "https://www.therobotreport.com/safeworld-emerges-stealth-build-deploy-robot-safety-simulation-technologies/",
      "d": "2026-10-08",
      "s": "SafeWorld’s platform provides testing and simulation software to help enterprises evaluate and deploy robots safely and responsibly. The…"
-    },
-    {
-     "k": "https://www.therobotreport.com/?p=589827",
-     "t": "Jabil discusses the pace of humanoid robot development and production",
-     "u": "https://www.therobotreport.com/jabil-discusses-pace-humanoid-robot-development-production/",
-     "d": "2026-10-08",
-     "s": "Jabil, which is working with robot developers such as Apptronik, provides a design perspective on humanoid progress. The post Jabil…"
-    },
-    {
-     "k": "https://www.therobotreport.com/?p=589820",
-     "t": "Helm.ai reaches $70M in signed commercial contracts for its foundation models",
-     "u": "https://www.therobotreport.com/helm-ai-reaches-70m-signed-commercial-contracts-foundation-models/",
-     "d": "2026-10-08",
-     "s": "Helm.ai trained its foundation models using its unsupervised 'deep teaching' methodology to master the structure of the physical world…"
-    },
-    {
-     "k": "https://www.therobotreport.com/?p=589823",
-     "t": "AWS launches open-source Physical AI Toolchain for robotics",
-     "u": "https://www.therobotreport.com/aws-launches-open-source-physical-ai-toolchain-for-robotics/",
-     "d": "2026-10-08",
-     "s": "The toolchain combines AWS and NVIDIA tools for synthetic data generation, model training, simulation and validation, edge deployment, and…"
     }
    ],
-   "checkedAt": "2026-10-15"
+   "checkedAt": "2026-10-16"
   },
   "ieeespectrum": {
    "items": [
+    {
+     "k": "https://spectrum.ieee.org/china-rare-earth-minerals",
+     "t": "Chasing China’s Monazite Monopoly",
+     "u": "https://spectrum.ieee.org/china-rare-earth-minerals",
+     "d": "2026-10-15",
+     "s": "One of the singular features of Baotou, an industrial city of 2 million people in Inner Mongolia, is a 10-square-kilometer (4-square-mile)…"
+    },
+    {
+     "k": "https://spectrum.ieee.org/monazite-rare-earth",
+     "t": "Can a Radioactive Ore Break China’s Grip on Rare Earths?",
+     "u": "https://spectrum.ieee.org/monazite-rare-earth",
+     "d": "2026-10-15",
+     "s": "The global campaigns to break China’s dominance of vital rare-earth markets are shaping up into one of the signature geostrategic struggles…"
+    },
+    {
+     "k": "https://content.knowledgehub.wiley.com/fast-rf-device-testing-with-analog-sources-a-practical-guide-to-amplifier-and-receiver-characterization/",
+     "t": "Compact Analog Signal Generators for Fast RF Testing",
+     "u": "https://content.knowledgehub.wiley.com/fast-rf-device-testing-with-analog-sources-a-practical-guide-to-amplifier-and-receiver-characterization/",
+     "d": "2026-10-15",
+     "s": "This White Paper shows RF and microwave engineers and technicians how compact analog signal generators support core amplifier and receiver…"
+    },
     {
      "k": "https://spectrum.ieee.org/realignment-ieee-regions",
      "t": "IEEE Continues Preparations for the Realignment of Its Regions",
@@ -14206,144 +14206,123 @@
      "u": "https://spectrum.ieee.org/smart-car-researcher-eliminate-stoplights",
      "d": "2026-10-02",
      "s": "Christos Cassandras has spent more than 40 years studying how computers and machines make decisions. Lately, his work has focused on a…"
-    },
-    {
-     "k": "https://event.on24.com/wcc/r/5510255/64A1C3695631E727E756BFCA0490437A?utm_source=IEEE",
-     "t": "Engineering Multipole Resonances in Dielectric Metasurfaces for Transmission, Reflection, and Absorption Contr",
-     "u": "https://event.on24.com/wcc/r/5510255/64A1C3695631E727E756BFCA0490437A?utm_source=IEEE",
-     "d": "2026-10-02",
-     "s": "Dielectric metasurfaces have moved to the forefront of nanophotonics, offering flat, low-loss alternatives to conventional bulk optical…"
-    },
-    {
-     "k": "https://spectrum.ieee.org/electricity-theft",
-     "t": "Electricity Theft Is Rampant, but Delhi Found a Fix",
-     "u": "https://spectrum.ieee.org/electricity-theft",
-     "d": "2026-10-01",
-     "s": "It’s disheartening how much power gets generated and then promptly lost as it travels through grid networks. Th is leaking of electricity…"
-    },
-    {
-     "k": "https://spectrum.ieee.org/ieee-technical-field-awards-2027",
-     "t": "IEEE Celebrates Innovators Shaping the Future",
-     "u": "https://spectrum.ieee.org/ieee-technical-field-awards-2027",
-     "d": "2026-09-30",
-     "s": "Every year, IEEE recognizes individual researchers, innovators, and collaborative teams whose technical achievements and leadership have…"
     }
    ],
-   "checkedAt": "2026-10-15"
+   "checkedAt": "2026-10-16"
   },
   "hellot": {
    "items": [
     {
-     "k": "https://www.hellot.net/news/article.html?no=115481",
-     "t": "[포토뉴스] 회의실이 된 전시장...발길 닿는 곳마다 시작된 이야기",
-     "u": "https://www.hellot.net/news/article.html?no=115481",
-     "d": "2026-10-14",
-     "s": "인공지능(AI)과 피지컬 AI(Physical AI)를 국내 제조 혁신 해답으로 내건 ‘제2회 더 넥스트 AI - 피지컬 AI amp; 스마트 팩토리 산업전(2026 THE NEXT AI - Physical AI amp; Smart Factory…"
+     "k": "https://www.hellot.net/news/article.html?no=115500",
+     "t": "[헬로즈업] 공정제어의 '원격 I/O', 배선 대안 넘어 설비 현대화 전략으로",
+     "u": "https://www.hellot.net/news/article.html?no=115500",
+     "d": "2026-10-15",
+     "s": "신호를 현장에서 디지털화…유지보수 단순화·확장성·측정 신뢰성 개선 계측 신호를 공정 현장이나 그 인근에서 디지털화해 하나의 통신 링크로 여러 측정값을 전송하는 '원격 I/O(Remote I/O)'가 산업용 제어 시스템의 확장·현대화·유지보수를 위한…"
     },
     {
-     "k": "https://www.hellot.net/news/article.html?no=115479",
-     "t": "[포토뉴스] 단상 내려온 내빈들 “이제 부스로 갑시다”",
-     "u": "https://www.hellot.net/news/article.html?no=115479",
-     "d": "2026-10-14",
-     "s": "인공지능(AI)과 피지컬 AI(Physical AI)를 국내 제조 혁신 해답으로 내건 ‘제2회 더 넥스트 AI - 피지컬 AI amp; 스마트 팩토리 산업전(2026 THE NEXT AI - Physical AI amp; Smart Factory…"
+     "k": "https://www.hellot.net/news/article.html?no=115519",
+     "t": "무협, 튀르키예서 K-할랄 상품전 개최···유럽·MENA 시장 공략",
+     "u": "https://www.hellot.net/news/article.html?no=115519",
+     "d": "2026-10-15",
+     "s": "한국무역협회, 이스탄불서 ‘K-할랄 상품전’ 개최…뷰티·식품·생활용품 기업 36개사 참가 한국무역협회가 튀르키예 이스탄불에서 K-할랄 상품전을 열고 유럽과 중동·북아프리카(MENA) 할랄 소비재 시장 공략에 나섰다. 한국무역협회(KITA, 회장…"
     },
     {
-     "k": "https://www.hellot.net/news/article.html?no=115478",
-     "t": "[포토뉴스] “걷기만 할 줄 알았지?” 개막식 분위기 누가 살렸나 했더니...‘무대 체질’ 휴머노이드",
-     "u": "https://www.hellot.net/news/article.html?no=115478",
-     "d": "2026-10-14",
-     "s": "인공지능(AI)과 피지컬 AI(Physical AI)를 국내 제조 혁신 해답으로 내건 ‘제2회 더 넥스트 AI - 피지컬 AI amp; 스마트 팩토리 산업전(2026 THE NEXT AI - Physical AI amp; Smart Factory…"
+     "k": "https://www.hellot.net/news/article.html?no=115518",
+     "t": "건물 외벽따라 자유롭게 변신… KIST, 형태 바꾸는 3차원 태양광 시스템 개발",
+     "u": "https://www.hellot.net/news/article.html?no=115518",
+     "d": "2026-10-15",
+     "s": "종이접기 원리로 태양전지의 움직임과 형태 설계…500% 변형에도 발전 성능 유지 자유롭게 형태를 바꾸면서도 안정적으로 전기를 생산하는 3차원 태양광 메타구조체가 개발됐다. 건물의 곡면 외벽이나 돌출부, 움직이는 이동체처럼 태양전지를 설치하기 어려운…"
     },
     {
-     "k": "https://www.hellot.net/news/article.html?no=115477",
-     "t": "[포토뉴스] 50년 제조 도시 '창원', “다음 50년은 ‘피지컬 AI’다”",
-     "u": "https://www.hellot.net/news/article.html?no=115477",
-     "d": "2026-10-14",
-     "s": "인공지능(AI)과 피지컬 AI(Physical AI)를 국내 제조 혁신 해답으로 내건 ‘제2회 더 넥스트 AI - 피지컬 AI amp; 스마트 팩토리 산업전(2026 THE NEXT AI - Physical AI amp; Smart Factory…"
+     "k": "https://www.hellot.net/news/article.html?no=115517",
+     "t": "화면 속 그 자리에서 소리가 난다… 소리의 위치까지 표현하는 디스플레이 개발",
+     "u": "https://www.hellot.net/news/article.html?no=115517",
+     "d": "2026-10-15",
+     "s": "한국기계연구원, 별도 스피커 없이 패널 진동만으로 소리 재생…목표 구역 선택 정확도 99.9% 달성 화면 속 인물이나 사물이 있는 바로 그 위치에서 소리가 들리는 시·청각 융합 디스플레이 핵심기술이 개발됐다. 한국기계연구원(원장 류석현, 이하…"
     },
     {
-     "k": "https://www.hellot.net/news/article.html?no=115476",
-     "t": "[포토뉴스] “대기업만 쓰면 무슨 소용...피지컬 AI, 공장 골목까지 가야”",
-     "u": "https://www.hellot.net/news/article.html?no=115476",
-     "d": "2026-10-14",
-     "s": "인공지능(AI)과 피지컬 AI(Physical AI)를 국내 제조 혁신 해답으로 내건 ‘제2회 더 넥스트 AI - 피지컬 AI amp; 스마트 팩토리 산업전(2026 THE NEXT AI - Physical AI amp; Smart Factory…"
+     "k": "https://www.hellot.net/news/article.html?no=115516",
+     "t": "성균관대, 세계 최고 석학들과 미래 첨단기술 공동연구 본격 착수",
+     "u": "https://www.hellot.net/news/article.html?no=115516",
+     "d": "2026-10-15",
+     "s": "하버드·UC버클리 석학 및 노벨물리학상 수상자 석좌교수 임용…바이오·배터리·반도체·신소재 공동연구 성균관대학교가 의학·바이오, 에너지, 반도체 등 미래 산업 핵심 분야를 이끄는 세계 최정상급 석학들을 석좌교수로 영입하고 주요 연구진과 본격적인 국제…"
     },
     {
-     "k": "https://www.hellot.net/news/article.html?no=115474",
-     "t": "[포토뉴스] 로봇 '손끝'에 시선 고정...경남 제조 리더가 확인한 ‘차세대 공장'은?",
-     "u": "https://www.hellot.net/news/article.html?no=115474",
-     "d": "2026-10-14",
-     "s": "인공지능(AI)과 피지컬 AI(Physical AI)를 국내 제조 혁신 해답으로 내건 ‘제2회 더 넥스트 AI - 피지컬 AI amp; 스마트 팩토리 산업전(2026 THE NEXT AI - Physical AI amp; Smart Factory…"
+     "k": "https://www.hellot.net/news/article.html?no=115515",
+     "t": "스마트폰 채팅·검색·결제 습관에서 ‘스트레스’ 읽는다",
+     "u": "https://www.hellot.net/news/article.html?no=115515",
+     "d": "2026-10-15",
+     "s": "KAIST, 앱 이름 아닌 ‘반복 행동’ 분석…개인 맞춤형 AI로 하루 스트레스 상태 판별 카이스트(KAIST) 연구진이 스마트폰에서 반복되는 일상 행동을 분석해 하루의 스트레스 상태를 파악하는 기술을 개발했다. 카이스트 이한수 박사가 제1저자로,…"
     },
     {
-     "k": "https://www.hellot.net/news/article.html?no=115475",
-     "t": "엘앤에프 자회사 JHC, 폐배터리 전처리·리튬 회수로 자원순환 확대",
-     "u": "https://www.hellot.net/news/article.html?no=115475",
-     "d": "2026-10-14",
-     "s": "엘앤에프의 자회사인 이차전지 소재·리사이클링 전문기업 제이에이치화학공업(JHC)이 폐배터리 전처리와 리튬 회수를 중심으로 자원순환 사업을 본격 확대하고 있다고 14일 밝혔다. JHC는 현재 연간 1만 5천 톤 규모의 폐배터리 전처리 능력을 확보하고…"
+     "k": "https://www.hellot.net/news/article.html?no=115523",
+     "t": "다락, 롯데글로벌로지스와 손잡고 집 앞 짐 수거 보관 서비스 시작",
+     "u": "https://www.hellot.net/news/article.html?no=115523",
+     "d": "2026-10-15",
+     "s": "셀프스토리지 플랫폼 '미니창고 다락'을 운영하는 세컨신드롬(대표 홍우태)이 롯데글로벌로지스와 협업해 '소형 박스 전용 방문 픽업 서비스'를 출시했다. 다락 앱에서 신청하면 롯데글로벌로지스가 집 앞까지 방문해 짐을 수거하고 다락 지점에 입고·보관해주는…"
     },
     {
-     "k": "https://www.hellot.net/news/article.html?no=115472",
-     "t": "[포토뉴스] 내빈 앞장선 휴머노이드…‘우치봇’이 연 제조 AI 무대",
-     "u": "https://www.hellot.net/news/article.html?no=115472",
-     "d": "2026-10-14",
-     "s": "인공지능(AI)과 피지컬 AI(Physical AI)를 국내 제조 혁신 해답으로 내건 ‘제2회 더 넥스트 AI - 피지컬 AI amp; 스마트 팩토리 산업전(2026 THE NEXT AI - Physical AI amp; Smart Factory…"
+     "k": "https://www.hellot.net/news/article.html?no=115522",
+     "t": "우체국물류지원단-전북우정청, 중소기업 해외판로 확대 협약 체결",
+     "u": "https://www.hellot.net/news/article.html?no=115522",
+     "d": "2026-10-15",
+     "s": "우체국물류지원단(이사장 오기호)이 전북지방우정청(청장 구본준)과 손잡고 전북지역 중소기업의 해외 판로 확대에 나선다. 양 기관은 지난 10월 13일 업무협약을 체결하고 지역 중소기업의 수출 물류비 부담을 낮추는 동시에 해외시장 진출을 지원하는…"
     },
     {
-     "k": "https://www.hellot.net/news/article.html?no=115473",
-     "t": "인피닉, AI 영상 관제 솔루션 통해 건설안전·공공·치안 시장 공략 나서",
-     "u": "https://www.hellot.net/news/article.html?no=115473",
-     "d": "2026-10-14",
-     "s": "인공지능 플랫폼 전문 기업 인피닉(각자대표 박준형·최철규)이 AI 영상 분석 및 관제 솔루션의 적용 영역을 건설안전·공공·치안 시장으로 확대한다고 14일 밝혔다. 인피닉은 산업 현장과 공공 분야에서 CCTV 기반 지능형 안전·보안 관리 수요가…"
+     "k": "https://www.hellot.net/news/article.html?no=115521",
+     "t": "온세미, 선그로우 파워타이탄 3.0에 엘리트SiC 하이브리드 모듈 공급",
+     "u": "https://www.hellot.net/news/article.html?no=115521",
+     "d": "2026-10-15",
+     "s": "지능형 전력 및 센싱 기술 선도 기업 온세미(onsemi, 나스닥: ON)가 글로벌 재생에너지 기업 선그로우(Sungrow)에 최신 엘리트 SiC(실리콘 카바이드) 하이브리드 전력 모듈 기술을 공급했다고 발표했다. 선그로우는 이 기술을 자사의 차세대…"
     },
     {
-     "k": "https://www.hellot.net/news/article.html?no=115469",
-     "t": "[The Next AI] ‘21조’ 경남 신기술 도입 전략이 생산 라인으로...피지컬 AI 전환 ‘신호탄’",
-     "u": "https://www.hellot.net/news/article.html?no=115469",
-     "d": "2026-10-14",
-     "s": "25.3㎢. 창원국가산업단지가 차지한 면적이다. 해당 산단의 출범 50주년을 맞은 지난 2024년 기준, 이곳에는 2965개 업체와 11만8000여 명의 종사자가 모여 있었다. 연간 생산액은 60조 원. 기계·전기전자·운송장비 등을 중심으로 가동하는…"
+     "k": "https://www.hellot.net/news/article.html?no=115520",
+     "t": "ADI·모엣 헤네시·UC 데이비스, 손잡고 AI 통해 와인 품질 리스크 사전 예측한다",
+     "u": "https://www.hellot.net/news/article.html?no=115520",
+     "d": "2026-10-15",
+     "s": "글로벌 반도체 기업 아나로그디바이스(Analog Devices, Inc., 이하 ADI)가 LVMH의 와인·주류 사업부인 모엣 헤네시(Moët Hennessy), 캘리포니아 대학교 데이비스 캠퍼스(UC Davis)와 손잡고 AI 기반 화학 특성 감지…"
     },
     {
-     "k": "https://www.hellot.net/news/article.html?no=115468",
-     "t": "[헬로스톡] 10월 14일 주목할 종목 : 삼성화재·현대백화점·현대위아·SK네트웍스",
-     "u": "https://www.hellot.net/news/article.html?no=115468",
-     "d": "2026-10-14",
-     "s": "10월 14일 국내 증시는 KOSPI가 6,008.81포인트(▼26.54p, -0.44%), KOSDAQ이 823.88포인트(▼13.15p, -1.57%)로 각각 6일, 5일 연속 하락 마감했다. 메모리 반도체 경쟁 우려 축소 및 금리 안정화 기대감…"
+     "k": "https://www.hellot.net/news/article.html?no=115501",
+     "t": "우주항공청, 우주보험제도 개선으로 민간주도 우주경제시대 지원",
+     "u": "https://www.hellot.net/news/article.html?no=115501",
+     "d": "2026-10-15",
+     "s": "우주항공청, 우주항공기업 대상 '우주보험 정책설명회' 개최… 방위산업발전법 개정으로 방산공제조합 가입·보증·공제 확대, 중소기업 부담 완화 기대 우주항공청(청장 오태석)은 10월 15일(목) 서울 센트로폴리스에서 우주항공기업을 대상으로 '우주보험…"
     },
     {
-     "k": "https://www.hellot.net/news/article.html?no=115467",
-     "t": "지방소멸대응협회-큐브더모먼트, 지역 안전 분야 일자리 창출 업무협약",
-     "u": "https://www.hellot.net/news/article.html?no=115467",
-     "d": "2026-10-14",
-     "s": "광주서 협약 체결…안전교육·컨설팅 인력 양성 추진 지역 안전·재난관리 체계 구축도 협력 분야에 포함 (사)지방소멸대응협회와 큐브더모먼트가 지역소멸 위기에 대응하고 안전 분야 고용을 확대하기 위한 협력에 나섰다. 두 기관은 지난 13일 광주광역시에서…"
+     "k": "https://www.hellot.net/news/article.html?no=115514",
+     "t": "ST마이크로, 고도·수심 겸용 MEMS 센서 LPS27DEWO 출시",
+     "u": "https://www.hellot.net/news/article.html?no=115514",
+     "d": "2026-10-15",
+     "s": "세계적인 반도체 기업 ST마이크로일렉트로닉스(STMicroelectronics, 이하 ST)가 고도 측정과 50m 이상의 수심 모니터링 기능을 단일 MEMS 센서에 통합한 신제품 'LPS27DEWO'를 출시했다. 웨어러블 기기와 아웃도어 장비에서…"
     },
     {
-     "k": "https://www.hellot.net/news/article.html?no=115457",
-     "t": "이소영 장관, 스마트제조혁신 현장방문 “AI 대전환 시대, 중소기업이 당당한 주역돼야”",
-     "u": "https://www.hellot.net/news/article.html?no=115457",
-     "d": "2026-10-14",
-     "s": "'2026 스마트비즈엑스포' 참석 후 AI 활용 스마트공장 현장까지 연이은 행보 중소벤처기업부 이소영 장관은 10월 13일(화) 서울 코엑스에서 열린 ‘2026 스마트비즈엑스포(Smart Biz Expo)’ 개막식에 참석해 상생형 스마트공장의 성과를…"
+     "k": "https://www.hellot.net/news/article.html?no=115511",
+     "t": "루카스메타, 자율 보안 에이전트 출시...금융·공공 시장 공략",
+     "u": "https://www.hellot.net/news/article.html?no=115511",
+     "d": "2026-10-15",
+     "s": "국내 딥테크 기업 루카스메타가 구글 본사와 협력해 사이버 공격을 감지한 뒤 0.08초 만에 공격자의 네트워크 연결을 차단하는 자율 보안 에이전트를 출시하고 금융·공공 시장 공략에 나선다. 구글 클라우드 공식 테크놀로지 파트너인 루카스메타는 미국…"
     },
     {
-     "k": "https://www.hellot.net/news/article.html?no=115456",
-     "t": "[알쓸정책] '코리아 그랜드 페스티벌' 연계 ‘상생소비복권’ 이벤트 개최",
-     "u": "https://www.hellot.net/news/article.html?no=115456",
-     "d": "2026-10-14",
-     "s": "10월 15일~11월 15일 디지털온누리 결제 시 최대 30장 응모… 총 5,600명에 17억원 지급 중소벤처기업부는 10월 29일부터 개최되는 범부처 국가 단위 할인 행사인 '코리아 그랜드 페스티벌'의 소비 참여를 확대하기 위해 10월 15일부터…"
+     "k": "https://www.hellot.net/news/article.html?no=115513",
+     "t": "윌로그, 서울시 공식 기업 인증 하이서울기업에 최종 선정 '쾌거'",
+     "u": "https://www.hellot.net/news/article.html?no=115513",
+     "d": "2026-10-15",
+     "s": "AIoT 기반 공급망 인텔리전스 솔루션 기업 윌로그(각자대표 배성훈·윤지현)가 서울경제진흥원(SBA)이 주관하는 '2026 하이서울기업'에 최종 선정됐다. 하이서울기업은 서울 소재 중소기업을 대상으로 경영안정성·성장성·글로벌 역량·전문성을…"
     },
     {
-     "k": "https://www.hellot.net/news/article.html?no=115455",
-     "t": "ICT 수출 사상 첫 700억 달러 돌파… 무역수지도 500억 달러대 첫 진입",
-     "u": "https://www.hellot.net/news/article.html?no=115455",
-     "d": "2026-10-14",
-     "s": "2026년 9월 정보통신산업(ICT) 수출입 동향 발표 산업통상부와 과학기술정보통신부는 10월 14일 9월 한 달간의 정보통신산업(ICT) 수출입 동향을 발표했다. 수출은 751.5억 달러로 전년 동월(254.0억 달러) 대비 195.8%…"
+     "k": "https://www.hellot.net/news/article.html?no=115512",
+     "t": "3W 초저전력으로 영상·언어 AI 구현…딥엑스 NPU 글로벌 주목",
+     "u": "https://www.hellot.net/news/article.html?no=115512",
+     "d": "2026-10-15",
+     "s": "초저전력 AI 반도체 기업 딥엑스(DEEPX)의 NPU(신경망처리장치) 기술이 글로벌 소형 컴퓨팅 플랫폼 라즈베리 파이(Raspberry Pi)의 공식 뉴스룸에 소개됐다. 라즈베리 파이가 딥엑스 NPU의 기술력과 활용 사례를 직접 조명하면서,…"
     }
    ],
-   "checkedAt": "2026-10-15"
+   "checkedAt": "2026-10-16"
   },
   "hackteria": {
    "items": [],
-   "checkedAt": "2026-10-15"
+   "checkedAt": "2026-10-16"
   }
  }
 }
