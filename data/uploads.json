@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-29",
+ "updatedAt": "2026-10-30",
  "note": "요약은 각 채널·사이트가 쓴 설명 앞부분이라 원문 언어 그대로 나옵니다.",
  "channels": {
   "agentjayz": {
@@ -1335,56 +1335,56 @@
   "hackaday_web": {
    "items": [
     {
-     "k": "https://hackaday.com/?p=1396582",
-     "t": "Hacking the Modern Tamagotchi With UART",
-     "u": "https://hackaday.com/2026/10/28/hacking-the-modern-tamagotchi-with-uart/",
-     "d": "2026-10-28",
-     "s": "Although not technically the first virtual pet, the Tamagotchi handhelds certainly popularized the idea and made it a worldwide phenomenon.…"
+     "k": "https://hackaday.com/?p=1396601",
+     "t": "Replicating the Color-Changing Effect of the Lycurgus Cup",
+     "u": "https://hackaday.com/2026/10/29/replicating-the-color-changing-effect-of-the-lycurgus-cup/",
+     "d": "2026-10-29",
+     "s": "Although most archaeological finds from ancient civilizations aren’t quite as exciting as what you might expect from the movies,…"
     },
     {
-     "k": "https://hackaday.com/?p=1396541",
-     "t": "Does Running an E-Paper Display at 30 FPS Destroy It?",
-     "u": "https://hackaday.com/2026/10/28/does-running-an-e-paper-display-at-30-fps-destroy-it/",
-     "d": "2026-10-28",
-     "s": "Although e-paper displays are famous for being low-power and lasting essentially forever if not damaged physically, the recent push to…"
+     "k": "https://hackaday.com/?p=1396824",
+     "t": "An Attempt at a Useful Desktop OS For Microcontrollers",
+     "u": "https://hackaday.com/2026/10/29/an-attempt-at-a-useful-desktop-os-for-microcontrollers/",
+     "d": "2026-10-29",
+     "s": "We’re living at an interesting time here in 2026, when microcontrollers are becoming powerful enough to surpass the capabilities of “real”…"
     },
     {
-     "k": "https://hackaday.com/?p=1396475",
-     "t": "C64 Keycaps For Everybody",
-     "u": "https://hackaday.com/2026/10/28/c64-keycaps-for-everybody/",
-     "d": "2026-10-28",
-     "s": "If you’ve got an MX-style keyboard and want some retro charm, you might like a recent project from [Levente Szabadkai]. It’s a set of…"
+     "k": "https://hackaday.com/?p=1396772",
+     "t": "2026 Hackaday Supercon: All the Speakers!",
+     "u": "https://hackaday.com/2026/10/29/2026-hackaday-supercon-all-the-speakers/",
+     "d": "2026-10-29",
+     "s": "We announced our first round of speakers, and then the workshops, and we were going to dribble out updates on the rest of the speakers as…"
     },
     {
-     "k": "https://hackaday.com/?p=1394030",
-     "t": "Turning an Old Phone’s Motherboard into an RC Plane Controller",
-     "u": "https://hackaday.com/2026/10/28/turning-an-old-phones-motherboard-into-an-rc-plane-controller/",
-     "d": "2026-10-28",
-     "s": "Upcycling smartphones makes a lot of sense, especially since they contain so many components that remain useful long after their…"
+     "k": "https://hackaday.com/?p=1396676",
+     "t": "Robot Picks up Othello",
+     "u": "https://hackaday.com/2026/10/29/robot-picks-up-othello/",
+     "d": "2026-10-29",
+     "s": "Experience is a great teacher. Ask [Jeneus], who, in high school, tried to make a program that played Othello. It didn’t go well. But years…"
     },
     {
-     "k": "https://hackaday.com/?p=1396498",
-     "t": "JPEG-XL Is Back On The Menu",
-     "u": "https://hackaday.com/2026/10/28/jpeg-xl-is-back-on-the-menu/",
-     "d": "2026-10-28",
-     "s": "Many of the image formats we’re familiar with have been around for decades. We all know JPEG and PNG like the back of our hands, and GIF…"
+     "k": "https://hackaday.com/?p=1396612",
+     "t": "Exploring What’s Left of Google’s VR Dreams",
+     "u": "https://hackaday.com/2026/10/29/exploring-whats-left-of-googles-vr-dreams/",
+     "d": "2026-10-29",
+     "s": "You’re likely familiar with Google’s Cardboard, and the legions of cheap virtual reality headsets it spawned. By sticking a smartphone to…"
     },
     {
-     "k": "https://hackaday.com/?p=1396474",
-     "t": "Emulate the 486 in Your Browser",
-     "u": "https://hackaday.com/2026/10/28/emulate-the-486-in-your-browser/",
-     "d": "2026-10-28",
-     "s": "You might fondly remember the days of the Intel 486, but you probably don’t have one on your desk anymore. If you’d like to emulate that…"
+     "k": "https://hackaday.com/?p=1396670",
+     "t": "An AI Chatbot for the Apocalypse",
+     "u": "https://hackaday.com/2026/10/29/an-ai-chatbot-for-the-apocalypse/",
+     "d": "2026-10-29",
+     "s": "You don’t have to be a full-on “prepper” to at least occasionally wonder what would happen if civilization collapsed. One thing you…"
     },
     {
-     "k": "https://hackaday.com/?p=1396477",
-     "t": "SLAM Navigation For an Arduino Powered Car",
-     "u": "https://hackaday.com/2026/10/28/slam-navigation-for-an-arduino-powered-car/",
-     "d": "2026-10-28",
-     "s": "There are plenty of “robot” projects out there that are really just a small remote control platform of some sort. We often like to think of…"
+     "k": "https://hackaday.com/?p=1396625",
+     "t": "Magnetic Lock Opens By Magic",
+     "u": "https://hackaday.com/2026/10/29/magnetic-lock-opens-by-magic/",
+     "d": "2026-10-29",
+     "s": "Over on IEEE Spectrum, [Stephen Cass] has a project that would probably have seemed like a magic a few centuries ago. Imagine a box that…"
     }
    ],
-   "checkedAt": "2026-10-29"
+   "checkedAt": "2026-10-30"
   },
   "chargerlab_web": {
    "items": [
@@ -1541,82 +1541,82 @@
      "s": ""
     }
    ],
-   "checkedAt": "2026-10-29"
+   "checkedAt": "2026-10-30"
   },
   "semieng": {
    "items": [
     {
-     "k": "https://semiengineering.com/?p=24283351",
-     "t": "Introducing Build-A-Chip-Bench: From Workload Specification to GDS",
-     "u": "https://semiengineering.com/introducing-build-a-chip-bench-from-workload-specification-to-gds/",
-     "d": "2026-10-28",
-     "s": "Evaluate AI agents from workload specification through GDS layout, using open-source tools and an open-source PDK to assess their ability…"
+     "k": "https://semiengineering.com/?p=24283346",
+     "t": "Auto-Generation Of Properties: Methodology Insertion",
+     "u": "https://semiengineering.com/auto-generation-of-properties-methodology-insertion/",
+     "d": "2026-10-29",
+     "s": "Technology is only useful if it improves an existing methodology. Property generation is still refining that goal, but in the long term it…"
     },
     {
-     "k": "https://semiengineering.com/?p=24282710",
-     "t": "Foundations of Power Management in the Age of AI",
-     "u": "https://semiengineering.com/foundations-of-power-management-in-the-age-of-ai/",
-     "d": "2026-10-28",
-     "s": "Make every layer of your hardware PDN-aware and reach your maximum compute density. The post Foundations of Power Management in the Age of…"
+     "k": "https://semiengineering.com/?p=24283437",
+     "t": "Rethinking Shift Left In Chip Design",
+     "u": "https://semiengineering.com/rethinking-shift-left-in-chip-design/",
+     "d": "2026-10-29",
+     "s": "Is it better to do everything earlier in the flow, or should design be more flexible and iterative? The post Rethinking Shift Left In Chip…"
     },
     {
-     "k": "https://semiengineering.com/?p=24283354",
-     "t": "Using AI for Analog Design",
-     "u": "https://semiengineering.com/using-ai-for-analog-design/",
-     "d": "2026-10-28",
-     "s": "The growing role of AI in analog and mixed-signal design, where complexity is rising, schedules are tightening, and the cost of mistakes is…"
+     "k": "https://semiengineering.com/?p=24282661",
+     "t": "AI Raises The Bar For Tomorrow’s Engineers",
+     "u": "https://semiengineering.com/ai-raises-the-bar-for-tomorrows-engineers/",
+     "d": "2026-10-29",
+     "s": "Universities are redesigning curricula and assessments around judgment, validation, and technical depth. The post AI Raises The Bar For…"
     },
     {
-     "k": "https://semiengineering.com/?p=24283348",
-     "t": "Foundation IP For The AI Era: Why Execution Saves You Millions On HPC And Edge AI SoCs",
-     "u": "https://semiengineering.com/foundation-ip-for-the-ai-era-why-execution-saves-you-millions-on-hpc-and-edge-ai-socs/",
-     "d": "2026-10-28",
-     "s": "How a single, integrated Foundation IP platform reduces re-spin risk and integration delays and helps lower TCO. The post Foundation IP For…"
+     "k": "https://semiengineering.com/?p=24283420",
+     "t": "The Complexity Between The Bits",
+     "u": "https://semiengineering.com/the-complexity-between-the-bits/",
+     "d": "2026-10-29",
+     "s": "What biological reasoning can teach us about verifying silicon systems. The post The Complexity Between The Bits appeared first on…"
     },
     {
-     "k": "https://semiengineering.com/?p=24283358",
-     "t": "Planning Your AI Design Journey In RF EDA",
-     "u": "https://semiengineering.com/planning-your-ai-design-journey-in-rf-eda/",
-     "d": "2026-10-28",
-     "s": "Agentic solutions for RF design. The post Planning Your AI Design Journey In RF EDA appeared first on Semiconductor Engineering ."
+     "k": "https://semiengineering.com/?p=24283449",
+     "t": "Is It Getting Hot In Here? Why Thermal Is No Longer A Signoff Problem",
+     "u": "https://semiengineering.com/is-it-getting-hot-in-here-why-thermal-is-no-longer-a-signoff-problem/",
+     "d": "2026-10-29",
+     "s": "Applying the appropriate level of simulation and abstraction at each stage of the design process is key to effective thermal analysis. The…"
     },
     {
-     "k": "https://semiengineering.com/?p=24283339",
-     "t": "How Much Can Semiconductor Models Hide?",
-     "u": "https://semiengineering.com/how-much-can-semiconductor-models-hide/",
-     "d": "2026-10-28",
-     "s": "Advanced packaging requires models to cross company boundaries without exposing proprietary processes, but hiding too much can make the…"
+     "k": "https://semiengineering.com/?p=24283431",
+     "t": "Physics-Based Validation: The Foundation Of Trustworthy Agentic EDA",
+     "u": "https://semiengineering.com/physics-based-validation-the-foundation-of-trustworthy-agentic-eda/",
+     "d": "2026-10-29",
+     "s": "What self-verifying agents validate their decisions against and why physics-based engines are the authority on correctness. The post…"
     },
     {
-     "k": "https://semiengineering.com/?p=24283365",
-     "t": "Blog Review: Oct. 28",
-     "u": "https://semiengineering.com/blog-review-oct-28-3/",
-     "d": "2026-10-28",
-     "s": "Large-format/curvilinear masks; STCO for heterogeneous design; physical AI interactions; signing off AI-generated designs; workload profile…"
+     "k": "https://semiengineering.com/?p=24283424",
+     "t": "The EU Cyber Resilience Act Reaches Chip And IP Suppliers",
+     "u": "https://semiengineering.com/the-eu-cyber-resilience-act-reaches-chip-and-ip-suppliers/",
+     "d": "2026-10-29",
+     "s": "Determining which products may fall within the CRA's scope and what information may need to be provided to customers. The post The EU Cyber…"
     },
     {
-     "k": "https://semiengineering.com/?p=24283362",
-     "t": "Analog Superposition Increases Effective PCM Storage Density (IBM Research Europe)",
-     "u": "https://semiengineering.com/analog-superposition-increases-effective-pcm-storage-density-ibm-research-europe/",
-     "d": "2026-10-27",
-     "s": "Researchers at IBM Research Europe published “Superposed analog memory for vector storage in neural networks.” Summary: Researchers…"
+     "k": "https://semiengineering.com/?p=24283015",
+     "t": "From Functional Monitoring To In-System Test: Extending Voltage-Aware Observability",
+     "u": "https://semiengineering.com/from-functional-monitoring-to-in-system-test-extending-voltage-aware-observability/",
+     "d": "2026-10-29",
+     "s": "Separate false failures caused by voltage droop from real structural defects. The post From Functional Monitoring To In-System Test:…"
     },
     {
-     "k": "https://semiengineering.com/?p=24283327",
-     "t": "The imec Report: Scaling Optical Interconnects For The AI Era",
-     "u": "https://semiengineering.com/the-imec-report-scaling-optical-interconnects-for-the-ai-era/",
-     "d": "2026-10-27",
-     "s": "Unprecedented demand for bandwidth calls for bringing optics closer to silicon through a fundamental rethinking of the optical interconnect…"
+     "k": "https://semiengineering.com/?p=24283409",
+     "t": "Scaling Autonomous Root Cause Analysis For Regression Triage",
+     "u": "https://semiengineering.com/scaling-autonomous-root-cause-analysis-for-regression-triage/",
+     "d": "2026-10-29",
+     "s": "Solving difficult bugs while intelligently deciding what to investigate, what to rerun, and where to spend compute. The post Scaling…"
     },
     {
-     "k": "https://semiengineering.com/?p=24283323",
-     "t": "Chip Industry Technical Paper Roundup: Oct. 27",
-     "u": "https://semiengineering.com/chip-industry-technical-paper-roundup-oct-27/",
-     "d": "2026-10-27",
-     "s": "3D DRAM-on-GPU thermal design; multi-tier CFET self-heating and parasitics; 200G/λ silicon photonics; dry-deposited EUV and e-beam resists;…"
+     "k": "https://semiengineering.com/?p=24283405",
+     "t": "Why Physics Needs To Move At The Pace Of Design",
+     "u": "https://semiengineering.com/why-physics-needs-to-move-at-the-pace-of-design/",
+     "d": "2026-10-29",
+     "s": "Physics-based analysis becomes more consequential as chips, packages, boards, and systems are designed together. The post Why Physics Needs…"
     }
    ],
-   "checkedAt": "2026-10-29"
+   "checkedAt": "2026-10-30"
   },
   "eevblog": {
    "items": [
@@ -3233,6 +3233,13 @@
   "gn": {
    "items": [
     {
+     "k": "OgHTveiHy4Y",
+     "t": "Fixing the Vertical GPU Problem | HAVN HS 360 Case Review, Thermals, & Benchmarks",
+     "u": "https://www.youtube.com/watch?v=OgHTveiHy4Y",
+     "d": "2026-10-29",
+     "s": "Sponsor: ID-Cooling Frozn A620 SLK on Amazon This review of the HAVN HS 360 case analyzes thermal performance, acoustics, and build…"
+    },
+    {
      "k": "sJidlu3pPb4",
      "t": "Own Everything & Be Happy, Ep. 1 | DIY Router Guide",
      "u": "https://www.youtube.com/watch?v=sJidlu3pPb4",
@@ -3329,16 +3336,9 @@
      "u": "https://www.youtube.com/watch?v=vV4fow4JUMk",
      "d": "2026-09-19",
      "s": "Sponsor: Thermal Grizzly Duronaut on Amazon - GPU prices have become a meme, with NVIDIA leading the pack at (on average) 70% over listed…"
-    },
-    {
-     "k": "NX45ctOJnpg",
-     "t": "Microsoft Doesn't Care About Xbox",
-     "u": "https://www.youtube.com/watch?v=NX45ctOJnpg",
-     "d": "2026-09-17",
-     "s": "Sponsor: Thermaltake TR200 WS mATX Case on Amazon Microsoft has repeated boneheaded decisions that have damaged its Xbox brand. Xbox is…"
     }
    ],
-   "checkedAt": "2026-10-28"
+   "checkedAt": "2026-10-30"
   },
   "der8auer": {
    "items": [
@@ -5719,7 +5719,7 @@
      "s": "EtherCAT is better than CAN-bus for robotics. In this video I have tested the EtherCAT, to understand how to use it and to compare it with…"
     }
    ],
-   "checkedAt": "2026-10-27"
+   "checkedAt": "2026-10-30"
   },
   "bruton": {
    "items": [
@@ -8936,7 +8936,7 @@
      "s": "Telonic instruments ( UK) : Product page : User manual :"
     }
    ],
-   "checkedAt": "2026-10-27"
+   "checkedAt": "2026-10-30"
   },
   "breakingtaps": {
    "items": [
@@ -12926,6 +12926,20 @@
   "ifixit_web": {
    "items": [
     {
+     "k": "tag:ko.ifixit.com,2026:guide/245251",
+     "t": "iPhone Duo Chip ID",
+     "u": "https://ko.ifixit.com/Teardown/iPhone+Duo+Chip+ID/245251",
+     "d": "2026-10-29",
+     "s": "This is a chip ID for the Apple iPhone Duo...."
+    },
+    {
+     "k": "tag:ko.ifixit.com,2026:guide/213456",
+     "t": "AirPods Max 2 Chip ID",
+     "u": "https://ko.ifixit.com/Teardown/AirPods+Max+2+Chip+ID/213456",
+     "d": "2026-10-29",
+     "s": "This guide details chip ID information for..."
+    },
+    {
      "k": "tag:ko.ifixit.com,2026:guide/228181",
      "t": "Why is it so complex and why do you damage it when disassembling? Disassembling a Philips remote control.",
      "u": "https://ko.ifixit.com/Teardown/Why+is+it+so+complex+and+why+do+you+damage+it+when+disassembling-+Disassembling+a+Philips+remote+control./228181",
@@ -12940,7 +12954,7 @@
      "s": ""
     }
    ],
-   "checkedAt": "2026-10-29"
+   "checkedAt": "2026-10-30"
   },
   "lensrentals": {
    "items": [
@@ -12973,7 +12987,7 @@
      "s": "Wildlife photography is an incredibly enjoyable and addicting artform. It can be immensely rewarding when planning, effort, skill,…"
     }
    ],
-   "checkedAt": "2026-10-29"
+   "checkedAt": "2026-10-30"
   },
   "zeptobars": {
    "items": [
@@ -13006,117 +13020,117 @@
      "s": "Die size 1493x1493 µm."
     }
    ],
-   "checkedAt": "2026-10-29"
+   "checkedAt": "2026-10-30"
   },
   "fritz": {
    "items": [
     {
-     "k": "tag:flickr.com,2005:/photo/55617437972",
-     "t": "The Brown Derby",
-     "u": "https://live.staticflickr.com/65535/55617437972_09a8bfd94a_b.jpg",
-     "d": "2026-10-29",
+     "k": "tag:flickr.com,2005:/photo/55619446187",
+     "t": "",
+     "u": "https://live.staticflickr.com/65535/55619446187_8548f9f792_b.jpg",
+     "d": "2026-10-30",
      "s": ""
     },
     {
-     "k": "tag:flickr.com,2005:/photo/55617438007",
-     "t": "FiveM_b3751_GTAProcess_OaUO8C0lMK",
-     "u": "https://live.staticflickr.com/65535/55617438007_1159c343b2_b.jpg",
-     "d": "2026-10-29",
+     "k": "tag:flickr.com,2005:/photo/55619446712",
+     "t": "r1K4n6KbJc",
+     "u": "https://live.staticflickr.com/65535/55619446712_46df3d09b0_z.jpg",
+     "d": "2026-10-30",
      "s": ""
     },
     {
-     "k": "tag:flickr.com,2005:/photo/55617438237",
-     "t": "Bahia x São Paulo (28/10/2026) 33ª rodada do Campeonato Brasileiro",
-     "u": "https://live.staticflickr.com/65535/55617438237_83c011de99_b.jpg",
-     "d": "2026-10-29",
+     "k": "tag:flickr.com,2005:/photo/55619446777",
+     "t": "",
+     "u": "https://live.staticflickr.com/65535/55619446777_24c9969e83_b.jpg",
+     "d": "2026-10-30",
      "s": ""
     },
     {
-     "k": "tag:flickr.com,2005:/photo/55618444056",
-     "t": "FiveM_b3751_GTAProcess_KaRKxCsRBr",
-     "u": "https://live.staticflickr.com/65535/55618444056_9bd744ae31_b.jpg",
-     "d": "2026-10-29",
+     "k": "tag:flickr.com,2005:/photo/55620446241",
+     "t": "Medal_uvTm8vyZ5v",
+     "u": "https://live.staticflickr.com/video/55620446241/f7b27ff036/360p.mp4?s=eyJpIjo1NTYyMDQ0NjI0MSwiZSI6MTc5MzMyMjU2NCwicyI6ImFlZWY5NzRiMjM4YTYzZTZkZWUwMjkyOWJlN2E2N2M4MDVjN2NhYTAiLCJ2IjoxfQ",
+     "d": "2026-10-30",
      "s": ""
     },
     {
-     "k": "tag:flickr.com,2005:/photo/55618446471",
-     "t": "24 Octubre 2026. 4to Encuentro Universitario de las Artes Zapopan 2026.",
-     "u": "https://live.staticflickr.com/65535/55618446471_a2ac648fb1_b.jpg",
-     "d": "2026-10-29",
+     "k": "tag:flickr.com,2005:/photo/55620446571",
+     "t": "",
+     "u": "https://live.staticflickr.com/65535/55620446571_c1c2057a93_b.jpg",
+     "d": "2026-10-30",
      "s": ""
     },
     {
-     "k": "tag:flickr.com,2005:/photo/55618586923",
+     "k": "tag:flickr.com,2005:/photo/55620446666",
+     "t": "",
+     "u": "https://live.staticflickr.com/65535/55620446666_4daa4c502d_b.jpg",
+     "d": "2026-10-30",
+     "s": ""
+    },
+    {
+     "k": "tag:flickr.com,2005:/photo/55620446991",
+     "t": "L’Enfant Plaza",
+     "u": "https://live.staticflickr.com/65535/55620446991_92474fee1e_b.jpg",
+     "d": "2026-10-30",
+     "s": ""
+    },
+    {
+     "k": "tag:flickr.com,2005:/photo/55620447701",
      "t": "همسریابی موقت دائم خانمهای پاکدامن ایتا واتساپ تلگرام پیام بگذارید حاج اقارحمانی09905743033",
-     "u": "https://live.staticflickr.com/65535/55618586923_4eaa81fa8b_b.jpg",
-     "d": "2026-10-29",
+     "u": "https://live.staticflickr.com/65535/55620447701_7a33a7c61e_b.jpg",
+     "d": "2026-10-30",
      "s": ""
     },
     {
-     "k": "tag:flickr.com,2005:/photo/55618588203",
-     "t": "Just Trying To Get Along ✌️",
-     "u": "https://live.staticflickr.com/65535/55618588203_e40b69ef67_b.jpg",
-     "d": "2026-10-29",
+     "k": "tag:flickr.com,2005:/photo/55620447886",
+     "t": "Goth",
+     "u": "https://live.staticflickr.com/65535/55620447886_2e2ec7026a_b.jpg",
+     "d": "2026-10-30",
      "s": ""
     },
     {
-     "k": "tag:flickr.com,2005:/photo/55618588728",
+     "k": "tag:flickr.com,2005:/photo/55620594863",
+     "t": "snapshot",
+     "u": "https://live.staticflickr.com/65535/55620594863_eff48b85c0_b.jpg",
+     "d": "2026-10-30",
+     "s": ""
+    },
+    {
+     "k": "tag:flickr.com,2005:/photo/55620595073",
+     "t": "Medal_o5WxOfI1C9",
+     "u": "https://live.staticflickr.com/video/55620595073/56249b4f2e/360p.mp4?s=eyJpIjo1NTYyMDU5NTA3MywiZSI6MTc5MzMyMjU2NCwicyI6ImIxMTYwMzFhZWU0OWNlNjZlMjBiNTg2ZTAxMmI4NGQxZWNiOTdmMWYiLCJ2IjoxfQ",
+     "d": "2026-10-30",
+     "s": ""
+    },
+    {
+     "k": "tag:flickr.com,2005:/photo/55620595208",
+     "t": "7L8A4101.jpg",
+     "u": "https://live.staticflickr.com/65535/55620595208_0466644613_b.jpg",
+     "d": "2026-10-30",
+     "s": ""
+    },
+    {
+     "k": "tag:flickr.com,2005:/photo/55620595613",
+     "t": "Discord_sOQ9kpUlIf",
+     "u": "https://live.staticflickr.com/65535/55620595613_158eafaef8_b.jpg",
+     "d": "2026-10-30",
+     "s": ""
+    },
+    {
+     "k": "tag:flickr.com,2005:/photo/55620658314",
      "t": "",
-     "u": "https://live.staticflickr.com/video/55618588728/33a0762685/360p.mp4?s=eyJpIjo1NTYxODU4ODcyOCwiZSI6MTc5MzIzNjEyNywicyI6IjkyNGFlZWNiZmU0M2JiMjBmOGYyNmJkZmIzNGI3N2YzNGZiNTI5ZjQiLCJ2IjoxfQ",
-     "d": "2026-10-29",
+     "u": "https://live.staticflickr.com/65535/55620658314_68b42fc06b_b.jpg",
+     "d": "2026-10-30",
      "s": ""
     },
     {
-     "k": "tag:flickr.com,2005:/photo/55618589108",
-     "t": "Hailey in charge",
-     "u": "https://live.staticflickr.com/65535/55618589108_7fee8c1167_b.jpg",
-     "d": "2026-10-29",
-     "s": ""
-    },
-    {
-     "k": "tag:flickr.com,2005:/photo/55618589738",
+     "k": "tag:flickr.com,2005:/photo/55620658699",
      "t": "",
-     "u": "https://live.staticflickr.com/65535/55618589738_b51fb5d87a_b.jpg",
-     "d": "2026-10-29",
-     "s": ""
-    },
-    {
-     "k": "tag:flickr.com,2005:/photo/55618656949",
-     "t": "Guadalajara marcha 2 Agua o Muerte",
-     "u": "https://live.staticflickr.com/65535/55618656949_8d600ee123_b.jpg",
-     "d": "2026-10-29",
-     "s": ""
-    },
-    {
-     "k": "tag:flickr.com,2005:/photo/55618657659",
-     "t": "28/10 20H",
-     "u": "https://live.staticflickr.com/65535/55618657659_1c2938bb78_b.jpg",
-     "d": "2026-10-29",
-     "s": ""
-    },
-    {
-     "k": "tag:flickr.com,2005:/photo/55618657814",
-     "t": "@ The Citadelle of Québec, QC, Canada",
-     "u": "https://live.staticflickr.com/65535/55618657814_e07c8e62a4_b.jpg",
-     "d": "2026-10-29",
-     "s": ""
-    },
-    {
-     "k": "tag:flickr.com,2005:/photo/55618861655",
-     "t": "page-",
-     "u": "https://live.staticflickr.com/65535/55618861655_3e3ef483cb_b.jpg",
-     "d": "2026-10-29",
-     "s": ""
-    },
-    {
-     "k": "tag:flickr.com,2005:/photo/55618861925",
-     "t": "FiveM_b3258_GTAProcess_D9DTiBB9Zy",
-     "u": "https://live.staticflickr.com/65535/55618861925_2cce64f4f8_b.jpg",
-     "d": "2026-10-29",
+     "u": "https://live.staticflickr.com/65535/55620658699_8be5fbf7fd_b.jpg",
+     "d": "2026-10-30",
      "s": ""
     }
    ],
-   "checkedAt": "2026-10-29"
+   "checkedAt": "2026-10-30"
   },
   "chipscheese": {
    "items": [
@@ -13226,7 +13240,7 @@
      "s": "All about making things affordable"
     }
    ],
-   "checkedAt": "2026-10-29"
+   "checkedAt": "2026-10-30"
   },
   "techinsights_web": {
    "items": [
@@ -13252,6 +13266,13 @@
      "s": "AI Infrastructure: Outlook for 2027 | TechInsights Webinar JWinters Wed, 11/18/2026 - 11:00"
     },
     {
+     "k": "61957 at https://www.techinsights.com",
+     "t": "CXL Memory Pooling: Why Samsung & SK hynix Are Racing",
+     "u": "https://www.techinsights.com/behind-the-headlines/cxl-memory-pooling-samsung-sk-hynix",
+     "d": "2026-10-28",
+     "s": "CXL Memory Pooling: Why Samsung & SK hynix Are Racing JWinters Wed, 10/28/2026 - 17:49"
+    },
+    {
      "k": "61954 at https://www.techinsights.com",
      "t": "Chip Observer | Semiconductor Industry Briefing — October 2026",
      "u": "https://www.techinsights.com/chip-observer/october-2026",
@@ -13264,16 +13285,9 @@
      "u": "https://www.techinsights.com/webinar-series/2027-outlook",
      "d": "2026-10-21",
      "s": "2027 Outlook Webinar Series: AI, Packaging, Manufacturing & Sustainability JWinters Wed, 10/21/2026 - 19:51"
-    },
-    {
-     "k": "61945 at https://www.techinsights.com",
-     "t": "Hassan Ali Bosan",
-     "u": "https://www.techinsights.com/blog/hassan-ali-bosan",
-     "d": "2026-10-16",
-     "s": "Hassan Ali Bosan RPore Fri, 10/16/2026 - 19:40"
     }
    ],
-   "checkedAt": "2026-10-29"
+   "checkedAt": "2026-10-30"
   },
   "caresoft": {
    "items": [
@@ -13310,7 +13324,7 @@
   },
   "carnewschina": {
    "items": [],
-   "checkedAt": "2026-10-29"
+   "checkedAt": "2026-10-30"
   },
   "simplexity": {
    "items": [
@@ -13357,18 +13371,25 @@
      "s": "One of the most exciting parts of Hardware FYI’s Kinetic conference was the set of presentations from companies building AI tools for…"
     }
    ],
-   "checkedAt": "2026-10-29"
+   "checkedAt": "2026-10-30"
   },
   "ccc": {
    "items": [],
-   "checkedAt": "2026-10-29"
+   "checkedAt": "2026-10-30"
   },
   "ifixit_med": {
    "items": [],
-   "checkedAt": "2026-10-29"
+   "checkedAt": "2026-10-30"
   },
   "nomagicpill": {
    "items": [
+    {
+     "k": "https://nomagicpill.site/thoughts/iamrobot.html",
+     "t": "My Job Turned Me Into an Inflexible Robot",
+     "u": "https://nomagicpill.site/thoughts/iamrobot.html",
+     "d": "2026-10-28",
+     "s": "Must. Be. Efficient. Beep. Boop."
+    },
     {
      "k": "https://nomagicpill.site/thoughts/internetvideos.html",
      "t": "Quit Internet Videos Before AI Perfects Them",
@@ -13466,19 +13487,33 @@
      "u": "https://nomagicpill.github.io/knowledge/vibes.html",
      "d": "2026-06-17",
      "s": "vibes"
-    },
-    {
-     "k": "https://nomagicpill.github.io/experiences/lessonline2026.html",
-     "t": "LessOnline 2026",
-     "u": "https://nomagicpill.github.io/experiences/lessonline2026.html",
-     "d": "2026-06-09",
-     "s": "Getting AGI-, community-, and priority-pilled in the Bay"
     }
    ],
-   "checkedAt": "2026-10-29"
+   "checkedAt": "2026-10-30"
   },
   "semiwiki": {
    "items": [
+    {
+     "k": "https://semiwiki.com/?p=375312",
+     "t": "SEMICON West 2026: AI Made the Steps Faster. The Time Between Them Is Next.",
+     "u": "https://semiwiki.com/events/375312-semicon-west-2026-ai-made-the-steps-faster-the-time-between-them-is-next/",
+     "d": "2026-10-29",
+     "s": "The semiconductor industry crossed $1 trillion in annual revenue this year, almost four years ahead of earlier projections. SEMI President…"
+    },
+    {
+     "k": "https://semiwiki.com/?p=375398",
+     "t": "PDF Solutions CONNECT 2026 Trip Report",
+     "u": "https://semiwiki.com/eda/pdf-solutions/375398-pdf-solutions-connect-2026-trip-report/",
+     "d": "2026-10-29",
+     "s": "On October 15–16, at the tail end of SEMICON West 2026, PDF Solutions held its 2026 CONNECT Conference at the Westin St. Francis in San…"
+    },
+    {
+     "k": "https://semiwiki.com/?p=375466",
+     "t": "ML-Based Power Models for CPUs. Innovation in Verification",
+     "u": "https://semiwiki.com/artificial-intelligence/375466-ml-based-power-models-for-cpus-innovation-in-verification/",
+     "d": "2026-10-29",
+     "s": "An effective learned power model for a CPU could be a significant advantage in early estimation of power performance against realistic…"
+    },
     {
      "k": "https://semiwiki.com/?p=375218",
      "t": "From Metrology to Autonomy: Why Intel Foundry’s Manufacturing Roadmap Matters",
@@ -13492,30 +13527,9 @@
      "u": "https://semiwiki.com/semiconductor-manufacturers/soitec/375182-the-wafer-is-the-new-battleground-soitec-cpo-rene-jonker-on-building-ai-from-the-substrate-up/",
      "d": "2026-10-28",
      "s": "Most of the AI conversation stops at the chip. At SEMICON West 2026 I sat down with René Jonker, Chief Product Officer of Soitec, to talk…"
-    },
-    {
-     "k": "https://semiwiki.com/?p=373421",
-     "t": "When Nanomagnets Do the Math: France’s New Machine for Impossible Choices",
-     "u": "https://semiwiki.com/semiconductor-manufacturers/373421-when-nanomagnets-do-the-math-frances-new-machine-for-impossible-choices/",
-     "d": "2026-10-28",
-     "s": "French researchers have demonstrated a hybrid nanoelectronic “Ising machine” designed to solve difficult combinatorial optimization…"
-    },
-    {
-     "k": "https://semiwiki.com/?p=375410",
-     "t": "Ceva’s Next-Generation NeuPro Brings a Unified AI Platform from Sensors to Infrastructure",
-     "u": "https://semiwiki.com/ip/375410-cevas-next-generation-neupro-brings-a-unified-ai-platform-from-sensors-to-infrastructure/",
-     "d": "2026-10-28",
-     "s": "Ceva is expanding the reach of its neural processing technology with a next-generation NeuPro portfolio designed to serve everything from…"
-    },
-    {
-     "k": "https://semiwiki.com/?p=375026",
-     "t": "ChipAgents Expands AI Across Chip Design. The Test Is Faster, Verified Results",
-     "u": "https://semiwiki.com/eda/chipagents-ai/375026-chipagents-expands-ai-across-chip-design-the-test-is-faster-verified-results/",
-     "d": "2026-10-27",
-     "s": "ChipAgents is expanding its agentic AI platform across digital and analog semiconductor engineering, aiming to connect fragmented design…"
     }
    ],
-   "checkedAt": "2026-10-29"
+   "checkedAt": "2026-10-30"
   },
   "ksn_web": {
    "items": [
@@ -13569,7 +13583,7 @@
      "s": "Wide Release Date for MagnaMax for Small Knifemakers MagnaMax will be on sale May 1st, 2026 at 9am on Niagara Specialty Metals’ online…"
     }
    ],
-   "checkedAt": "2026-10-29"
+   "checkedAt": "2026-10-30"
   },
   "heddels": {
    "items": [
@@ -13644,7 +13658,7 @@
      "s": "They say all good things come to an end, but here at Heddels, we like to think that end comes... The post NAQP Bows Out with Final Run of…"
     }
    ],
-   "checkedAt": "2026-10-29"
+   "checkedAt": "2026-10-30"
   },
   "fashionrev": {
    "items": [
@@ -13656,7 +13670,7 @@
      "s": "In Conversation with: Dr. Julia English. Beyond functionality: How repair forces us to slow down and cherish our clothing. By: Fashion…"
     }
    ],
-   "checkedAt": "2026-10-29"
+   "checkedAt": "2026-10-30"
   },
   "apriori": {
    "items": [
@@ -13771,7 +13785,7 @@
      "s": "Ask two analysts to calculate the carbon footprint of the same steel coil. Despite the same product, same ISO 14067 norm , same auditor…"
     }
    ],
-   "checkedAt": "2026-10-29"
+   "checkedAt": "2026-10-30"
   },
   "galorath": {
    "items": [
@@ -13818,7 +13832,7 @@
      "s": "Financial institutions are pouring money into AI compliance. 89% identify as innovators or fast followers. Budgets are climbing. Headcount…"
     }
    ],
-   "checkedAt": "2026-10-29"
+   "checkedAt": "2026-10-30"
   },
   "icknowledge": {
    "items": [
@@ -13844,6 +13858,13 @@
      "s": "AI Infrastructure: Outlook for 2027 | TechInsights Webinar JWinters Wed, 11/18/2026 - 11:00"
     },
     {
+     "k": "61957 at https://techinsights.com",
+     "t": "CXL Memory Pooling: Why Samsung & SK hynix Are Racing",
+     "u": "https://techinsights.com/behind-the-headlines/cxl-memory-pooling-samsung-sk-hynix",
+     "d": "2026-10-28",
+     "s": "CXL Memory Pooling: Why Samsung & SK hynix Are Racing JWinters Wed, 10/28/2026 - 17:49"
+    },
+    {
      "k": "61954 at https://techinsights.com",
      "t": "Chip Observer | Semiconductor Industry Briefing — October 2026",
      "u": "https://techinsights.com/chip-observer/october-2026",
@@ -13856,20 +13877,13 @@
      "u": "https://techinsights.com/webinar-series/2027-outlook",
      "d": "2026-10-21",
      "s": "2027 Outlook Webinar Series: AI, Packaging, Manufacturing & Sustainability JWinters Wed, 10/21/2026 - 19:51"
-    },
-    {
-     "k": "61945 at https://techinsights.com",
-     "t": "Hassan Ali Bosan",
-     "u": "https://techinsights.com/blog/hassan-ali-bosan",
-     "d": "2026-10-16",
-     "s": "Hassan Ali Bosan RPore Fri, 10/16/2026 - 19:40"
     }
    ],
-   "checkedAt": "2026-10-29"
+   "checkedAt": "2026-10-30"
   },
   "semianalysis": {
    "items": [],
-   "checkedAt": "2026-10-29"
+   "checkedAt": "2026-10-30"
   },
   "bnef": {
    "items": [
@@ -13944,10 +13958,17 @@
      "s": "BloombergNEF published its latest US data center capacity forecast, packed with insights about developers, timelines, regional market…"
     }
    ],
-   "checkedAt": "2026-10-29"
+   "checkedAt": "2026-10-30"
   },
   "iceaa": {
    "items": [
+    {
+     "k": "https://www.iceaaonline.com/?p=23400",
+     "t": "NewsBrief: October 30, 2026",
+     "u": "https://www.iceaaonline.com/newsbrief-october-30-2026/?utm_source=rss&utm_medium=rss&utm_campaign=newsbrief-october-30-2026",
+     "d": "2026-10-29",
+     "s": "Cost Estimating NewsBrief: October 30, 2026 Industry, legal experts urge FAR Council to set standards for AI in"
+    },
     {
      "k": "https://www.iceaaonline.com/?p=23374",
      "t": "NewsBrief: October 23, 2026",
@@ -14010,19 +14031,61 @@
      "u": "https://www.iceaaonline.com/newsbrief-august-21-2026/?utm_source=rss&utm_medium=rss&utm_campaign=newsbrief-august-21-2026",
      "d": "2026-08-20",
      "s": "Cost Estimating NewsBrief: August 21, 2026 Agencies Rethink AI Acquisition Strategies as Tech Outpaces Traditional Contracting Timelines…"
-    },
-    {
-     "k": "https://iceaaonline.wpenginepowered.com/?p=23146",
-     "t": "NewsBrief: August 14, 2026",
-     "u": "https://www.iceaaonline.com/newsbrief-august-14-2026/?utm_source=rss&utm_medium=rss&utm_campaign=newsbrief-august-14-2026",
-     "d": "2026-08-13",
-     "s": "Cost Estimating NewsBrief: August 7, 2026 DoD eyes accounting reforms to lower barriers for commercial firms (Federal News"
     }
    ],
-   "checkedAt": "2026-10-29"
+   "checkedAt": "2026-10-30"
   },
   "humanoidguide": {
    "items": [
+    {
+     "k": "https://humanoid.guide/welcome-bumi/",
+     "t": "Welcome, Bumi!",
+     "u": "https://humanoid.guide/welcome-bumi/",
+     "d": "2026-10-29",
+     "s": "Bumi is a compact consumer humanoid from Noetix Robotics, designed for home companionship, education, and experimentation. Priced at…"
+    },
+    {
+     "k": "https://humanoid.guide/welcome-x-bot/",
+     "t": "Welcome, X-Bot!",
+     "u": "https://humanoid.guide/welcome-x-bot/",
+     "d": "2026-10-29",
+     "s": "X Bot, also known as Boxing, is a full size bipedal humanoid developed by Yue Quan Bionics in Beijing, China. It stands 167 cm tall, weighs…"
+    },
+    {
+     "k": "https://humanoid.guide/welcome-gaia-hand-20/",
+     "t": "Welcome, Gaia Hand 20!",
+     "u": "https://humanoid.guide/welcome-gaia-hand-20/",
+     "d": "2026-10-29",
+     "s": "Gaia Hand 20 is a robotic hand from Stella Robot, a Chinese robotics company based in Shenzhen. It occupies the capable category with an…"
+    },
+    {
+     "k": "https://humanoid.guide/agility-robotics-expands-pittsburgh-hub-for-digit-deployments/",
+     "t": "Agility Robotics expands Pittsburgh hub for Digit deployments",
+     "u": "https://humanoid.guide/agility-robotics-expands-pittsburgh-hub-for-digit-deployments/",
+     "d": "2026-10-29",
+     "s": "Agility plans a 50,000 square foot Pittsburgh facility for Digit support, alongside four new customers and more than $300 million in…"
+    },
+    {
+     "k": "https://humanoid.guide/audi-tests-wheeled-humanoids-for-sequencing-at-ingolstadt/",
+     "t": "Audi tests wheeled humanoids for sequencing at Ingolstadt",
+     "u": "https://humanoid.guide/audi-tests-wheeled-humanoids-for-sequencing-at-ingolstadt/",
+     "d": "2026-10-29",
+     "s": "Audi is testing Agile Robots humanoids in an Ingolstadt production lab, using two arms and a wheeled base to pick and sequence parts for…"
+    },
+    {
+     "k": "https://humanoid.guide/welcome-w-bot/",
+     "t": "Welcome, W-Bot!",
+     "u": "https://humanoid.guide/welcome-w-bot/",
+     "d": "2026-10-29",
+     "s": "Yue Quan Bionics’ wheeled humanoid combines a compact mobile base with an articulated upper body designed for manipulation in tight spaces.…"
+    },
+    {
+     "k": "https://humanoid.guide/welcome-cyborg-h02/",
+     "t": "Welcome, CYBORG H02!",
+     "u": "https://humanoid.guide/welcome-cyborg-h02/",
+     "d": "2026-10-29",
+     "s": "CYBORG H02 is a dexterous robotic hand from Cyborg Robotics, a manufacturer based in Guangdong, China. Its design centers on five fingers…"
+    },
     {
      "k": "https://humanoid.guide/welcome-mornine/",
      "t": "Welcome, Mornine!",
@@ -14043,61 +14106,33 @@
      "u": "https://humanoid.guide/welcome-ne01/",
      "d": "2026-10-28",
      "s": "NE01 is a humanoid robot developed by GENISOM AI, a robotics company based in Suzhou, China. Designed for research, commercial…"
-    },
-    {
-     "k": "https://humanoid.guide/xpeng-iron-batteries-enter-small-batch-output-ahead-of-robot/",
-     "t": "Xpeng Iron batteries enter small batch output ahead of robot",
-     "u": "https://humanoid.guide/xpeng-iron-batteries-enter-small-batch-output-ahead-of-robot/",
-     "d": "2026-10-28",
-     "s": "Batteries for Xpeng’s Iron humanoid have entered small batch production, while the robot remains ahead of its planned manufacturing start…"
-    },
-    {
-     "k": "https://humanoid.guide/welcome-bolt/",
-     "t": "Welcome, Bolt!",
-     "u": "https://humanoid.guide/welcome-bolt/",
-     "d": "2026-10-28",
-     "s": "Bolt is a full size humanoid robot developed by MirrorMe Technology, a robotics company based in Beijing, China. Unveiled in February 2026…"
-    },
-    {
-     "k": "https://humanoid.guide/welcome-zwhand-b06/",
-     "t": "Welcome, ZWHAND B06!",
-     "u": "https://humanoid.guide/welcome-zwhand-b06/",
-     "d": "2026-10-28",
-     "s": "The ZWHAND B06 is a robotic hand from Shenzhen ZWHAND Technology Co., Ltd., a Chinese manufacturer offering several hand models for…"
-    },
-    {
-     "k": "https://humanoid.guide/welcome-tiangong-ultra/",
-     "t": "Welcome, TianGong Ultra!",
-     "u": "https://humanoid.guide/welcome-tiangong-ultra/",
-     "d": "2026-10-28",
-     "s": "TianGong Ultra is a full size humanoid robot developed by the Beijing Humanoid Robot Innovation Center, also known as X Humanoid. Standing…"
-    },
-    {
-     "k": "https://humanoid.guide/xiaomi-robotic-hand-packs-26-motors-for-factory-handling/",
-     "t": "Xiaomi robotic hand packs 26 motors for factory handling",
-     "u": "https://humanoid.guide/xiaomi-robotic-hand-packs-26-motors-for-factory-handling/",
-     "d": "2026-10-27",
-     "s": "Xiaomi's industrial robotic hand combines 21 degrees of freedom with 1,500 tactile sensors, drawing on task data collected at its…"
-    },
-    {
-     "k": "https://humanoid.guide/welcome-jingchu/",
-     "t": "Welcome, JingChu!",
-     "u": "https://humanoid.guide/welcome-jingchu/",
-     "d": "2026-10-27",
-     "s": "JingChu is a full size humanoid robot developed by Hubei Jingchu Humanoid Robot Co., Ltd., which operates under the JCBOT brand in Wuhan,…"
-    },
-    {
-     "k": "https://humanoid.guide/welcome-torch-hand-1/",
-     "t": "Welcome, TORCH HAND 1!",
-     "u": "https://humanoid.guide/welcome-torch-hand-1/",
-     "d": "2026-10-27",
-     "s": "TORCH HAND 1 is a robotic hand from TorchKernel Robotics, a Chinese manufacturer also known as 炬坤机器人. It earns an overall Humanoid.Guide…"
     }
    ],
-   "checkedAt": "2026-10-29"
+   "checkedAt": "2026-10-30"
   },
   "therobotreport": {
    "items": [
+    {
+     "k": "https://www.therobotreport.com/?p=590070",
+     "t": "White House makes Section 232 determination regarding foreign-made robots",
+     "u": "https://www.therobotreport.com/white-house-makes-section-232-determination-regarding-foreign-made-robots/",
+     "d": "2026-10-29",
+     "s": "The U.S. secretary of commerce's Section 232 investigation concluded that dependence on robotics imports poses a national security risk.…"
+    },
+    {
+     "k": "https://www.therobotreport.com/?p=590069",
+     "t": "2026 Robotics Handbook looks at humanoids, AI, and design choices",
+     "u": "https://www.therobotreport.com/2026-robotics-handbook-looks-at-humanoids/",
+     "d": "2026-10-29",
+     "s": "The 2026 Robotics Handbook examines design choices behind dexterous manipulation, humanoid robots, and construction automation. The post…"
+    },
+    {
+     "k": "https://www.therobotreport.com/?p=590051",
+     "t": "AGIBOT introduces Worken to measure robot productivity at AGIBOT Innovation Day 2026",
+     "u": "https://www.therobotreport.com/agibot-introduces-worken-measure-robot-productivity-innovation-day-2026/",
+     "d": "2026-10-29",
+     "s": "AGIBOT unveiled its AHA3 integrated platform, GO-3 Preview, and WITA-Omni 1.0 model, as well as the G2 Max robot and Link-U OS 1.0…"
+    },
     {
      "k": "https://www.therobotreport.com/?p=590047",
      "t": "North American robot orders climb 24.8% in Q3 of 2026, says A3",
@@ -14181,33 +14216,19 @@
      "u": "https://www.therobotreport.com/eka-robotics-raises-150m-scale-vision-force-action-model-robots/",
      "d": "2026-10-24",
      "s": "Eka Robotics is building a vision-force-action, or VFA, model to develop an intuition of physics through reinforcement learning at scale.…"
-    },
-    {
-     "k": "https://www.therobotreport.com/?p=589990",
-     "t": "Webinar to discuss how the FCC robotics ruling affects automation buyers",
-     "u": "https://www.therobotreport.com/webinar-discuss-how-fcc-robotics-ruling-affects-automation-buyers/",
-     "d": "2026-10-23",
-     "s": "Industry leaders will discuss what robotics buyers should know about the recent FCC restriction on certain connected systems. The post…"
-    },
-    {
-     "k": "https://www.therobotreport.com/?p=589987",
-     "t": "Generative Bionics to launch Physical AI Data Factory in Italy",
-     "u": "https://www.therobotreport.com/generative-bionics-to-launch-physical-ai-data-factory-in-italy/",
-     "d": "2026-10-23",
-     "s": "Generative Bionics says it hopes to advance European robotics sovereignty by ensuring that humanoid data is are generated on the continent.…"
-    },
-    {
-     "k": "https://www.therobotreport.com/?p=589983",
-     "t": "Dream Labs raises $90M and launches Dream API",
-     "u": "https://www.therobotreport.com/dream-labs-raises-90m-and-launches-dream-api/",
-     "d": "2026-10-22",
-     "s": "Dream Labs says its Dream-1 AI model works across robots from different manufacturers and will allow robots to transfer their learning. The…"
     }
    ],
-   "checkedAt": "2026-10-29"
+   "checkedAt": "2026-10-30"
   },
   "ieeespectrum": {
    "items": [
+    {
+     "k": "https://spectrum.ieee.org/ai-personal-assistant-intelligent-wearables",
+     "t": "Consumer Appetite for Personal AI Goes Mainstream",
+     "u": "https://spectrum.ieee.org/ai-personal-assistant-intelligent-wearables",
+     "d": "2026-10-29",
+     "s": "This article is brought to you by Qualcomm Technologies . For many consumers, much of the promise and appeal of AI is personal. Consumers…"
+    },
     {
      "k": "https://spectrum.ieee.org/systems-thinking-vital-in-ai",
      "t": "Systems Thinking Is Vital in the Age of AI",
@@ -14305,126 +14326,119 @@
      "u": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
      "d": "2026-10-19",
      "s": "Agility Robotics , the company I cofounded out of my robotics lab at Oregon State University in 2015, has just launched Digit 5 . It’s…"
-    },
-    {
-     "k": "https://content.knowledgehub.wiley.com/edge-ai-for-smart-cities-from-real-time-insights-to-cognitive-urban-systems/?utm_source=IEEE",
-     "t": "Edge AI for Smart Cities: From Insight to Cognitive Action",
-     "u": "https://content.knowledgehub.wiley.com/edge-ai-for-smart-cities-from-real-time-insights-to-cognitive-urban-systems/?utm_source=IEEE",
-     "d": "2026-10-19",
-     "s": "This white paper explains how edge AI and physical AI help cities move beyond passive monitoring. It shows how urban infrastructure can…"
     }
    ],
-   "checkedAt": "2026-10-29"
+   "checkedAt": "2026-10-30"
   },
   "hellot": {
    "items": [
     {
-     "k": "https://www.hellot.net/news/article.html?no=115874",
-     "t": "심플랫폼, 우수 전문연구사업자 지정...제조업 AI 전환 시장 공략",
-     "u": "https://www.hellot.net/news/article.html?no=115874",
+     "k": "https://www.hellot.net/news/article.html?no=115892",
+     "t": "공학계 리더 초청 간담회, AI 시대 도약 위한 지혜 모아",
+     "u": "https://www.hellot.net/news/article.html?no=115892",
+     "d": "2026-10-30",
+     "s": "제1회 공학인의 날 앞두고 원로 공학인 초청…진대제·박성욱·권오경 등 참석 산업통상부가 10월 29일 한국프레스센터에서 대한민국 산업발전을 이끈 원로 공학인들을 초청해 간담회를 개최했다. 이번 간담회는 제1회 공학인의 날(10월 30일)을 맞아…"
+    },
+    {
+     "k": "https://www.hellot.net/news/article.html?no=115900",
+     "t": "중기부·복지부, 글로벌 제약바이오 시장 선도할 'K-제약바이오 프론티어기업' 200개 육성",
+     "u": "https://www.hellot.net/news/article.html?no=115900",
+     "d": "2026-10-30",
+     "s": "매년 50개사씩 2030년까지…성장디렉터 1대1 연계, 600억 투자·900억 보증 중소벤처기업부와 보건복지부가 글로벌 제약바이오 시장을 선도할 'K-제약바이오 프론티어기업' 200개사를 육성하는 대책을 발표했다. AI 신약개발, 유전자 가위,…"
+    },
+    {
+     "k": "https://www.hellot.net/news/article.html?no=115899",
+     "t": "중소 제조현장을 피지컬 AI 혁신의 무대로, '중소제조 피지컬 AI 확산 전략' 발표",
+     "u": "https://www.hellot.net/news/article.html?no=115899",
+     "d": "2026-10-30",
+     "s": "2030년까지 스마트제조혁신에 5조원 이상…DX·AX·RX 연계 ‘3X 전략’ 중소벤처기업부가 10월 29일 충남 천안 종근당에서 개최된 국무총리 주재 제16회 국가정책조정회의에서 '중소제조 피지컬 AI 확산 전략'을 발표했다. 이번 전략은…"
+    },
+    {
+     "k": "https://www.hellot.net/news/article.html?no=115895",
+     "t": "국내 수급에 차질 없는 범위 내에서 경유 수출제한 조건부 완화 시행",
+     "u": "https://www.hellot.net/news/article.html?no=115895",
+     "d": "2026-10-30",
+     "s": "전년 동월 대비 110% 내 추가 수출 허용…11월 수출 물량부터 적용 산업통상부가 국내 수급에 차질이 없는 범위 내에서 경유에 대한 수출제한을 조건부로 완화한다고 밝혔다. 산업통상부는 석유 최고가격제를 시행한 3월 13일부터 내수 공급을 안정적으로…"
+    },
+    {
+     "k": "https://www.hellot.net/news/article.html?no=115894",
+     "t": "과기정통부와 한국전자통신연구원, 세계 자율주행 레벨 국제표준 개정 주도",
+     "u": "https://www.hellot.net/news/article.html?no=115894",
+     "d": "2026-10-30",
+     "s": "SAE J3016 개정…ETRI 차홍기 실장 3년 6개월간 총괄, 운전자 역할 중심 재정의 과학기술정보통신부와 한국전자통신연구원(ETRI)이 자율주행 레벨 국제표준 ‘SAE J3016’ 개정을 주도했다고 밝혔다. 과기정통부와 ETRI는 정보통신 융합…"
+    },
+    {
+     "k": "https://www.hellot.net/news/article.html?no=115893",
+     "t": "과기정통부, 국내 피지컬 AI 산업 육성 가속화를 위한 전문가 소통 추진",
+     "u": "https://www.hellot.net/news/article.html?no=115893",
+     "d": "2026-10-30",
+     "s": "대한상공회의소서 정책 방향 논의…내년 피지컬 AI 트레이닝센터·실증사업 추진 과학기술정보통신부가 국내 피지컬 AI 정책 방향을 논의하고 산업 육성을 가속화하기 위한 전문가 소통을 10월 29일 대한상공회의소에서 진행했다. 과기정통부는 대한민국 대도약…"
+    },
+    {
+     "k": "https://www.hellot.net/news/article.html?no=115889",
+     "t": "제6회 배터리 산업의 날…유공자 20명 정부포상, 은탑산업훈장 성일하이텍 이강명 대표",
+     "u": "https://www.hellot.net/news/article.html?no=115889",
+     "d": "2026-10-30",
+     "s": "K-배터리, 경쟁력·자생력·협력 강화 다짐 산업통상부 이민우 실장이 10월 29일 서울 조선 팰리스 호텔에서 개최된 제6회 배터리 산업의 날 기념식에 참석했다. 배터리 산업의 한 해 성과를 확인하고 배터리 산업인 간의 화합을 도모하기 위한 이번…"
+    },
+    {
+     "k": "https://www.hellot.net/news/article.html?no=115888",
+     "t": "생산성 혁신과 지속가능경영으로 기업의 미래를 열다",
+     "u": "https://www.hellot.net/news/article.html?no=115888",
+     "d": "2026-10-30",
+     "s": "2026 대한민국 생산성·지속가능경영 혁신대상…19명 유공자·53개 기업 수훈 산업통상부가 10월 29일 KBS홀에서 수상기업 대표 및 산업계 임직원 600여 명이 참석한 가운데 '2026 대한민국 생산성·지속가능경영 혁신대상'을 개최했다. 이번…"
+    },
+    {
+     "k": "https://www.hellot.net/news/article.html?no=115897",
+     "t": "기술에서 시장까지, K-GX 선도하는 기후테크 혁신기업 본격 육성",
+     "u": "https://www.hellot.net/news/article.html?no=115897",
+     "d": "2026-10-30",
+     "s": "기후테크 혁신 연합 2차 간담회…2030년까지 혁신기업 1,000개사·예비유니콘 30개사 정부가 기후테크 혁신 연합 2차 간담회를 개최하고 ‘기후테크 혁신기업 육성방향’을 발표했다. 이번 발표는 2030년까지 기후테크 혁신기업 1,000개사와…"
+    },
+    {
+     "k": "https://www.hellot.net/news/article.html?no=115891",
+     "t": "첨단산업의 경쟁력, 국민생활의 신뢰…계량측정이 뒷받침한다",
+     "u": "https://www.hellot.net/news/article.html?no=115891",
+     "d": "2026-10-30",
+     "s": "제56회 계량측정의 날 기념식…서진인스텍 김상수 대표 동탑산업훈장 등 29점 포상 산업통상부 국가기술표준원이 10월 29일 '제56회 계량측정의 날' 기념식을 개최하고 계량측정분야 국가경쟁력 강화에 기여한 유공자와 단체를 대상으로 총 29점의 포상을…"
+    },
+    {
+     "k": "https://www.hellot.net/news/article.html?no=115898",
+     "t": "중기부, AI 스타트업의 유니콘 도약…현장 의견으로 정책 완성도 높인다",
+     "u": "https://www.hellot.net/news/article.html?no=115898",
+     "d": "2026-10-30",
+     "s": "뤼튼테크놀로지스서 간담회…‘AI 스타트업 유니콘 성장 전략’ 초안 발표 중소벤처기업부가 10월 29일 ㈜뤼튼테크놀로지스에서 AI 스타트업 대표, 국가 AI 전략위원회 위원, 전문가 등이 참석한 가운데 간담회를 개최했다. 최근 글로벌 시장에서 AI…"
+    },
+    {
+     "k": "https://www.hellot.net/news/article.html?no=115887",
+     "t": "세계가 인정한 연구 저력, 2년 연속 빛났다!",
+     "u": "https://www.hellot.net/news/article.html?no=115887",
+     "d": "2026-10-30",
+     "s": "한국재료연구원, ‘2026 세계 최상위 2% 연구자’ 8명 선정…7명은 2년 연속 한국재료연구원(KIMS) 연구자 8명이 미국 스탠퍼드대학교 존 P.A. 이오아니디스 교수팀이 글로벌 학술출판사 엘스비어와 협력해 발표한 ‘2026 세계 최상위 2%…"
+    },
+    {
+     "k": "https://www.hellot.net/news/article.html?no=115886",
+     "t": "“유전자 가위로 원하는 곳에 DNA 손상 콕”…DNA 복구 연구 툴 개발",
+     "u": "https://www.hellot.net/news/article.html?no=115886",
+     "d": "2026-10-30",
+     "s": "UNIST, CGRID 기술 개발…손상 종류·위치 조절 가능, Nucleic Acids Res. 게재 DNA의 원하는 곳에 일부러 ‘상처’를 냄으로써 복구 단백질이 이를 찾아 처리하는 과정을 살펴볼 수 있는 기술이 개발됐다. UNIST는 생명과학과…"
+    },
+    {
+     "k": "https://www.hellot.net/news/article.html?no=115807",
+     "t": "탄소배출권 발급, 어디서부터 시작해야 할까?…i-DEA, 외부사업 초급 교육 운영",
+     "u": "https://www.hellot.net/news/article.html?no=115807",
+     "d": "2026-10-30",
+     "s": "탄소배출권을 발급받기 위해서는 어떤 절차를 거쳐야 할까. 기업이 온실가스를 감축했다고 해서 해당 실적이 곧바로 거래 가능한 탄소배출권으로 인정되는 것은 아니다. 감축사업의 등록 요건을 검토하고, 적절한 방법론으로 감축량을 산정한 뒤 검증과 인증…"
+    },
+    {
+     "k": "https://www.hellot.net/news/article.html?no=115885",
+     "t": "암으로 줄어드는 식욕·근력 지킨다…몸의 소모 막는 치료제 후보 개발",
+     "u": "https://www.hellot.net/news/article.html?no=115885",
      "d": "2026-10-29",
-     "s": "피지컬 AI 전문기업 심플랫폼이 '2026년도 우수 전문연구사업자'로 지정되며 산업 AI 분야의 연구개발 역량과 기술 경쟁력을 인정받았다. 심플랫폼은 수원컨벤션센터에서 열리는 '국제 연구산업 컨벤션 2026'에서 우수 전문연구사업자로 지정된다고…"
-    },
-    {
-     "k": "https://www.hellot.net/news/article.html?no=115870",
-     "t": "UNIST, 촬영 범위 맞춰 아바타 생성하는 ‘플렉시아바타’ 개발",
-     "u": "https://www.hellot.net/news/article.html?no=115870",
-     "d": "2026-10-29",
-     "s": "영상 속 내 모습을 닮은 3차원 아바타를 만들고 춤 동작을 입히면 실제로는 춤을 못 추더라도 가상공간에서는 화려한 춤을 추게 할 수 있다. 이렇게 아바타를 영상에 찍힌 신체 범위에 맞춰 더 정교하게 만들 수 있는 인공지능(AI) 기술이 개발됐다.…"
-    },
-    {
-     "k": "https://www.hellot.net/news/article.html?no=115869",
-     "t": "차세대 메모리 소재 내 초저에너지 도메인벽 형성 원리 규명",
-     "u": "https://www.hellot.net/news/article.html?no=115869",
-     "d": "2026-10-29",
-     "s": "차세대 메모리 소재인 산화하프늄에서 도메인 경계가 쉽게 형성되는 이유가 밝혀졌다. 도메인을 더 작고 촘촘하게 나눠 더 많은 정보를 저장하는 고밀도 메모리 소재 설계에 도움이 될 것으로 기대된다. UNIST 에너지화학공학과 이준희 교수팀은…"
-    },
-    {
-     "k": "https://www.hellot.net/news/article.html?no=115868",
-     "t": "중소기업 수출 선도할 혁신제품 한자리에…‘2026 K-수출전략품목’ 출범",
-     "u": "https://www.hellot.net/news/article.html?no=115868",
-     "d": "2026-10-29",
-     "s": "중소벤처기업부가 10월 28일 서울 홍대 인근 스타트업벤처캠퍼스 서울(SVC Seoul)에서 2026년 K-수출전략품목 출범식을 개최했다. 중기부는 2024년부터 전 세계 곳곳에서 관심과 수요가 늘고 있는 뷰티, 패션, 라이프, 푸드 등 소비재…"
-    },
-    {
-     "k": "https://www.hellot.net/news/article.html?no=115867",
-     "t": "정부, 'K-팔란티어' 만든다...신안보 혁신기업 육성 본격화",
-     "u": "https://www.hellot.net/news/article.html?no=115867",
-     "d": "2026-10-29",
-     "s": "중소벤처기업부가 10월 28일 서울에서 관계부처 및 유관기관과 함께 「신안보 혁신기업 육성 실무협의체 제3차 회의」를 개최했다. 이번 회의는 신안보 분야에서 혁신적인 기술력을 보유한 기업을 체계적으로 육성하기 위한 협업 과제의 추진상황을 점검하고자…"
-    },
-    {
-     "k": "https://www.hellot.net/news/article.html?no=115872",
-     "t": "디와이덕양, 미국 조지아 신공장 첫 양산...북미 부품 공급 확대",
-     "u": "https://www.hellot.net/news/article.html?no=115872",
-     "d": "2026-10-29",
-     "s": "자동차 부품 전문기업 디와이덕양이 미국 조지아주 신공장에서 자동차 내외장 부품의 첫 양산에 돌입하며 북미 사업 확대에 나선다. 디와이덕양은 미국 조지아주 라그랑지(LaGrange)에 위치한 북미 법인 DYA(DY Deokyang America)…"
-    },
-    {
-     "k": "https://www.hellot.net/news/article.html?no=115871",
-     "t": "[봇규의 헬로BOT] 하늘에서 쏟아지는 드론 영상, 피지컬 AI 시대 지상 서버가 감당할 ‘몫’",
-     "u": "https://www.hellot.net/news/article.html?no=115871",
-     "d": "2026-10-28",
-     "s": "무인항공기(드론)가 임무를 수행하는 동안 영상은 계속 생성된다. 지상 서버는 전송되는 영상을 실시간으로 받아 저장해야 하고, 비행 과정에서 수집된 각종 데이터도 함께 관리해야 한다. 들어오는 데이터양을 통신망이나 저장 장치가 감당하지 못하면 기록이…"
-    },
-    {
-     "k": "https://www.hellot.net/news/article.html?no=115854",
-     "t": "클레로보틱스 등 머신비전 5개사 '과학기술혁신대상'서 수상 영예",
-     "u": "https://www.hellot.net/news/article.html?no=115854",
-     "d": "2026-10-28",
-     "s": "3차원 머신비전부터 인공지능(AI) 기반 외관검사, 로봇 제어 소프트웨어까지 제조 자동화 기술을 개발한 국내 기업 5개사가 과학기술혁신대상에서 수상의 영예를 안았다. 지난 27일 경기 과천시 메가존산학연센터 오디토리움에서 열린 '제20회…"
-    },
-    {
-     "k": "https://www.hellot.net/news/article.html?no=115866",
-     "t": "SAP, 테크에드 2026서 쥴 스튜디오·비즈니스 AI 플랫폼 혁신 발표",
-     "u": "https://www.hellot.net/news/article.html?no=115866",
-     "d": "2026-10-28",
-     "s": "SAP가 개발자 연례행사 SAP 테크에드(TechEd) 2026에서 쥴 스튜디오(Joule Studio), 쥴 워크(Joule Work), SAP 비즈니스 AI 플랫폼의 신규 기능을 공개하며 자율형 엔터프라이즈 전환을 위한 AI 혁신을 발표했다. 쥴…"
-    },
-    {
-     "k": "https://www.hellot.net/news/article.html?no=115864",
-     "t": "오라클-스노우플레이크, OCI 퍼스트파티 서비스 통합...기업 AI 이니셔티브 가속화",
-     "u": "https://www.hellot.net/news/article.html?no=115864",
-     "d": "2026-10-28",
-     "s": "오라클과 스노우플레이크가 스노우플레이크 AI 데이터 클라우드(Snowflake AI Data Cloud)를 오라클 클라우드 인프라스트럭처(OCI)에서 네이티브 퍼스트파티 서비스로 제공하기로 발표했다. 오라클 AI 월드 2026에서 공개된 이번 발표는…"
-    },
-    {
-     "k": "https://www.hellot.net/news/article.html?no=115865",
-     "t": "AI스페라, 인터폴 민간 협력 파트너로 합류...국제 사이버범죄 대응 역량 강화",
-     "u": "https://www.hellot.net/news/article.html?no=115865",
-     "d": "2026-10-28",
-     "s": "AI스페라가 국제형사경찰기구(인터폴)와 글로벌 사이버범죄 대응을 위한 협약을 체결하고 인터폴의 '게이트웨이(Gateway)' 이니셔티브에 참여한다. 게이트웨이 이니셔티브는 인터폴이 2019년 출범한 민간 협력체계로, 사이버보안 기업·기술 제공…"
-    },
-    {
-     "k": "https://www.hellot.net/news/article.html?no=115863",
-     "t": "원프레딕트, 하정우 AI전략위 부위원장 현장 시찰서 지역 AX 사례 소개",
-     "u": "https://www.hellot.net/news/article.html?no=115863",
-     "d": "2026-10-28",
-     "s": "제조 AI 전문기업 원프레딕트(대표 윤병동)가 대구 지역 제조기업 원화정밀에 AI 예지보전 기술을 적용하며 지역 제조업의 인공지능 전환(AX)을 본격 추진하고 있다고 28일 밝혔다. 원프레딕트는 지난 21일 대구 성서공단 공정혁신시뮬레이션센터에서…"
-    },
-    {
-     "k": "https://www.hellot.net/news/article.html?no=115862",
-     "t": "예술경영지원센터, 2026 아트코리아랩 AI-융합 페스티벌 오는 11월 개최",
-     "u": "https://www.hellot.net/news/article.html?no=115862",
-     "d": "2026-10-28",
-     "s": "문화체육관광부와 예술경영지원센터가 오는 11월 4일부터 8일까지 5일간 서울 성수동 스페이스 S-50과 종로구 아트코리아랩(광화문)에서 ‘2026 아트코리아랩 AI-융합 페스티벌〈SENSE THE M.O.M: AI 시대, 몸의 감각을 다시 묻다〉'를…"
-    },
-    {
-     "k": "https://www.hellot.net/news/article.html?no=115861",
-     "t": "UNIDO ITPO Korea, AMXPO 2026서 21개국 대표단과 108건 상담...국내 중소기업 신흥시장 연결",
-     "u": "https://www.hellot.net/news/article.html?no=115861",
-     "d": "2026-10-28",
-     "s": "유엔산업개발기구 한국투자진흥사무소(UNIDO ITPO Korea)가 지난 21일부터 23일까지 개최된 ‘2026 아시아 기계 amp; 제조 산업전(AMXPO 2026)’에 참가해 국내 기업과 개발도상국 정부·유관기관 간 비즈니스 협력 기회 발굴을…"
-    },
-    {
-     "k": "https://www.hellot.net/news/article.html?no=115860",
-     "t": "젠스파크, 국토부 스마트건설 엑스포 연계 청년 AI 경연 공식 후원 나서",
-     "u": "https://www.hellot.net/news/article.html?no=115860",
-     "d": "2026-10-28",
-     "s": "글로벌 AI 워크스페이스 기업 젠스파크(Genspark.ai)가 국토교통부 주최 '2026 스마트건설·안전·AI 엑스포'와 연계해 열리는 '2026 SCX NEXT 청년 스마트건설 AI 랩'을 후원한다고 28일 밝혔다. '청년 스마트건설 AI 랩'은…"
+     "s": "KAIST, 암 악액질 완화 항체 후보물질 ‘GB2Ab’ 개발…생쥐 실험서 효과 확인 KAIST 연구진이 식욕과 체중을 떨어뜨리고 몸의 에너지를 과도하게 소모하게 만드는 신호를 차단하는 치료제 후보를 개발했다. KAIST는 생명과학과 김호민 교수…"
     }
    ],
-   "checkedAt": "2026-10-29"
+   "checkedAt": "2026-10-30"
   },
   "hackteria": {
    "items": [],
