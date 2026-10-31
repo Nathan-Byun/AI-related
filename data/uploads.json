@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-31",
+ "updatedAt": "2026-11-01",
  "note": "요약은 각 채널·사이트가 쓴 설명 앞부분이라 원문 언어 그대로 나옵니다.",
  "channels": {
   "agentjayz": {
@@ -115,6 +115,34 @@
   "asianometry": {
    "items": [
     {
+     "k": "gADulYiRSww",
+     "t": "Silicon Valley Walks the Jagged Edge",
+     "u": "https://www.youtube.com/watch?v=gADulYiRSww",
+     "d": "2026-10-30",
+     "s": "Links: - Patreon (Support the channel directly!): - X: - Newsletter & Podcast (available through Stratechery Plus): - LinkedIn (feel free…"
+    },
+    {
+     "k": "iajgS3611BM",
+     "t": "Why Edison Lost the Battle of the Currents",
+     "u": "https://www.youtube.com/shorts/iajgS3611BM",
+     "d": "2026-10-29",
+     "s": "Links: - Patreon (Support the channel directly!): - X: - Newsletter & Podcast (available through Stratechery Plus): - LinkedIn (feel free…"
+    },
+    {
+     "k": "ub00LkAWPe4",
+     "t": "Edison’s Half Mile Problem",
+     "u": "https://www.youtube.com/shorts/ub00LkAWPe4",
+     "d": "2026-10-28",
+     "s": "Links: - Patreon (Support the channel directly!): - X: - Newsletter & Podcast (available through Stratechery Plus): - LinkedIn (feel free…"
+    },
+    {
+     "k": "-dkjlB3slSo",
+     "t": "The Million Kilometer Earthquake Detector",
+     "u": "https://www.youtube.com/shorts/-dkjlB3slSo",
+     "d": "2026-10-27",
+     "s": "Links: - Patreon (Support the channel directly!): - X: - Newsletter & Podcast (available through Stratechery Plus): - LinkedIn (feel free…"
+    },
+    {
      "k": "-lsjjOLTCSg",
      "t": "How Unimation Put Robots to Work",
      "u": "https://www.youtube.com/shorts/-lsjjOLTCSg",
@@ -123,7 +151,7 @@
     },
     {
      "k": "ksx5g5WvAIw",
-     "t": "How Linux (and Windows) Ate UNIX",
+     "t": "The Lintel Conquest of UNIX",
      "u": "https://www.youtube.com/watch?v=ksx5g5WvAIw",
      "d": "2026-10-25",
      "s": "Links: - Patreon (Support the channel directly!): - X: - Newsletter & Podcast (available through Stratechery Plus): - LinkedIn (feel free…"
@@ -190,37 +218,9 @@
      "u": "https://www.youtube.com/watch?v=-XqyBEm3oeI",
      "d": "2026-09-27",
      "s": "Links: - Patreon (Support the channel directly!): - X: - Newsletter & Podcast (available through Stratechery Plus): - LinkedIn (feel free…"
-    },
-    {
-     "k": "3nTpW52nioI",
-     "t": "High Bandwidth Flash Is Coming",
-     "u": "https://www.youtube.com/watch?v=3nTpW52nioI",
-     "d": "2026-09-24",
-     "s": "Links: - Patreon (Support the channel directly!): - X: - Newsletter & Podcast (available through Stratechery Plus): - LinkedIn (feel free…"
-    },
-    {
-     "k": "A2BsmrnegrY",
-     "t": "Intel’s Optane Memory: A Promise Unfulfilled",
-     "u": "https://www.youtube.com/watch?v=A2BsmrnegrY",
-     "d": "2026-09-20",
-     "s": "Links: - Patreon (Support the channel directly!): - X: - Newsletter & Podcast (available through Stratechery Plus): - LinkedIn (feel free…"
-    },
-    {
-     "k": "Qeunu8YkuOk",
-     "t": "Exxon’s Office Fling",
-     "u": "https://www.youtube.com/watch?v=Qeunu8YkuOk",
-     "d": "2026-09-17",
-     "s": "Links: - Patreon (Support the channel directly!): - X: - Newsletter & Podcast (available through Stratechery Plus): - LinkedIn (feel free…"
-    },
-    {
-     "k": "x8QP9oXgahA",
-     "t": "Silicon Valley’s Starving for Compute",
-     "u": "https://www.youtube.com/watch?v=x8QP9oXgahA",
-     "d": "2026-09-13",
-     "s": "Links: - Patreon (Support the channel directly!): - X: - Newsletter & Podcast (available through Stratechery Plus): - LinkedIn (feel free…"
     }
    ],
-   "checkedAt": "2026-10-27"
+   "checkedAt": "2026-11-01"
   },
   "bigclive": {
    "items": [
@@ -405,7 +405,7 @@
      "s": "To learn more about how Micron memory and storage help enable AI at every level, visit: Interested in working with Micron to make…"
     }
    ],
-   "checkedAt": "2026-10-31"
+   "checkedAt": "2026-11-01"
   },
   "chargerlab": {
    "items": [
@@ -1335,56 +1335,56 @@
   "hackaday_web": {
    "items": [
     {
-     "k": "https://hackaday.com/?p=1396981",
-     "t": "A 1982 Modem for $100",
-     "u": "https://hackaday.com/2026/10/30/a-1982-modem-for-100/",
-     "d": "2026-10-30",
-     "s": "[Dave Farquhar] takes a walk down memory lane about the Commodore 1600 VICModem, perhaps the first phone modem to sell for less than $100.…"
+     "k": "https://hackaday.com/?p=1397165",
+     "t": "Rooting an Amazon Echo Dot",
+     "u": "https://hackaday.com/2026/10/31/rooting-an-amazon-echo-dot/",
+     "d": "2026-10-31",
+     "s": "The Amazon Echo Dot is one of Amazon’s so-called ‘smart speaker’ offerings that tie into their larger Alexa-fueled ecosystem, designed to…"
     },
     {
-     "k": "https://hackaday.com/?p=1396933",
-     "t": "Making Internal Combustion Engines Better With More Valves",
-     "u": "https://hackaday.com/2026/10/30/making-internal-combustion-engines-better-with-more-valves/",
-     "d": "2026-10-30",
-     "s": "When it comes to internal combustion engines (ICEs), it’s generally accepted that each cylinder doesn’t have more valves to let in a fresh…"
+     "k": "https://hackaday.com/?p=1397035",
+     "t": "Voyager 1 Briefly Goes Silent, Scaring Everyone",
+     "u": "https://hackaday.com/2026/10/31/voyager-1-briefly-goes-silent-scaring-everyone/",
+     "d": "2026-10-31",
+     "s": "It’s no big secret at this point that we are looking at the final years of the two venerable Voyager spacecraft. With their power supplies…"
     },
     {
-     "k": "https://hackaday.com/?p=1396944",
-     "t": "A Modern Smalltalk",
-     "u": "https://hackaday.com/2026/10/30/a-modern-smalltalk/",
-     "d": "2026-10-30",
-     "s": "In the history of object-oriented (OO) computer languages, Smalltalk has a special place. It wasn’t the first OO language, and it hasn’t…"
+     "k": "https://hackaday.com/?p=1397061",
+     "t": "DIY WiFi Analyzer Sniffs Out Congestion and Coverage Issues, Suggests Fixes",
+     "u": "https://hackaday.com/2026/10/31/diy-wifi-analyzer-sniffs-out-congestion-and-coverage-issues-suggests-fixes/",
+     "d": "2026-10-31",
+     "s": "[Roni Bandini]’s JEV WiFi Analyzer is an interesting experiment that glues together a single-board Linux computer, a USB WiFi adapter, and…"
     },
     {
-     "k": "https://hackaday.com/?p=1396974&preview=true&preview_id=1396974",
-     "t": "Hackaday Podcast Episode 393: Epaper, Tamagotchi Hacks, and Supercon Talks Galore",
-     "u": "https://hackaday.com/2026/10/30/hackaday-podcast-episode-393-epaper-tamagotchi-hacks-and-supercon-talks-galore/",
-     "d": "2026-10-30",
-     "s": "This week’s podcast comes from Europe, as Elliot Williams is joined by Jenny List, who wishes to apologies for the poor sound quality from…"
+     "k": "https://hackaday.com/?p=1397025",
+     "t": "Bring On Supercon!",
+     "u": "https://hackaday.com/2026/10/31/bring-on-supercon/",
+     "d": "2026-10-31",
+     "s": "In just under a week from today, almost 700 hackers will be getting together in Pasadena, CA for three days of scheming, soldering, and…"
     },
     {
-     "k": "https://hackaday.com/?p=1396925",
-     "t": "How Britain Narrowly Escaped a Grid Blackout in June 2026",
-     "u": "https://hackaday.com/2026/10/30/how-britain-narrowly-escaped-a-grid-blackout-in-june-2026/",
-     "d": "2026-10-30",
-     "s": "Amidst one of the worst heatwaves in European history, Britain’s national grid saw itself faced with a quiet crisis this summer. On June…"
+     "k": "https://hackaday.com/?p=1397102",
+     "t": "Learn to Edit STL Files in Just a Few Minutes",
+     "u": "https://hackaday.com/2026/10/31/learn-to-edit-stl-files-in-just-a-few-minutes/",
+     "d": "2026-10-31",
+     "s": "Sometimes an STL file needs a bit of editing, but if one doesn’t already know how to use a mesh editor it’s unlikely that one has the time…"
     },
     {
-     "k": "https://hackaday.com/?p=1396762",
-     "t": "This Week in Security: Broken Embargoes, UEFI Overflow, Wormable Tailscale, Starlink Ad Snooping, and a DHS Di",
-     "u": "https://hackaday.com/2026/10/30/this-week-in-security-broken-embargoes-uefi-overflow-wormable-tailscale-starlink-ad-snooping-and-a-dhs-directory-dump/",
-     "d": "2026-10-30",
-     "s": "Last week brought us at least two broken embargoes: php2shell leaked onto Hacker News a day early, and a batch of Linux kernel bugs landed…"
+     "k": "https://hackaday.com/?p=1396956&preview=true&preview_id=1396956",
+     "t": "3D Printed Einstein-Szilard Refrigerator Cools with Fire",
+     "u": "https://hackaday.com/2026/10/31/3d-printed-einstein-szilard-refrigerator-cools-with-fire/",
+     "d": "2026-10-31",
+     "s": "They may not deliver the highest efficiency, but absorption refrigerators have earned a persistent place in camper vans and industrial…"
     },
     {
-     "k": "https://hackaday.com/?p=1396882",
-     "t": "The Sounds of the World, One Random Album at a Time",
-     "u": "https://hackaday.com/2026/10/30/the-sounds-of-the-world-one-random-album-at-a-time/",
-     "d": "2026-10-30",
-     "s": "In the streaming era it’s easy to forget that there’s still a lot of stuff being broadcast over the radio for anyone who cares enough to…"
+     "k": "https://hackaday.com/?p=1396967",
+     "t": "Novelty Camera To USB Camera",
+     "u": "https://hackaday.com/2026/10/30/novelty-camera-to-usb-camera/",
+     "d": "2026-10-31",
+     "s": "The Godox C100 is a cheap camera that’s best described as a toy, its party trick being a large clear viewfinder with a head-up-display…"
     }
    ],
-   "checkedAt": "2026-10-31"
+   "checkedAt": "2026-11-01"
   },
   "chargerlab_web": {
    "items": [
@@ -1541,7 +1541,7 @@
      "s": ""
     }
    ],
-   "checkedAt": "2026-10-31"
+   "checkedAt": "2026-11-01"
   },
   "semieng": {
    "items": [
@@ -1616,7 +1616,7 @@
      "s": "Solving difficult bugs while intelligently deciding what to investigate, what to rerun, and where to spend compute. The post Scaling…"
     }
    ],
-   "checkedAt": "2026-10-31"
+   "checkedAt": "2026-11-01"
   },
   "eevblog": {
    "items": [
@@ -2111,6 +2111,13 @@
   "kasyan": {
    "items": [
     {
+     "k": "4D_dzFi8asM",
+     "t": "Building an Expensive DIY Lithium-Ion Battery Pack!",
+     "u": "https://www.youtube.com/watch?v=4D_dzFi8asM",
+     "d": "2026-10-30",
+     "s": "Original Instagram TikTok Facebook Multimeters Laboratory power supplies Soldering iron Soldering stations Oscilloscopes Current clamp…"
+    },
+    {
      "k": "d3nyku8xKsg",
      "t": "The “Forever” Car Battery – Lithium Titanate (LTO)!",
      "u": "https://www.youtube.com/watch?v=d3nyku8xKsg",
@@ -2188,7 +2195,7 @@
      "s": "Order PCB via NextPCB: Build PCBA in days with fully automated assembly: Original Download archive Instagram TikTok Facebook Multimeters…"
     }
    ],
-   "checkedAt": "2026-10-27"
+   "checkedAt": "2026-11-01"
   },
   "voltlog": {
    "items": [
@@ -2228,7 +2235,7 @@
      "s": "I picked up a defective UniFi Video G3 Flex camera on eBay for just €17 shipped. Originally retailing around €84, this PoE mini turret…"
     }
    ],
-   "checkedAt": "2026-10-27"
+   "checkedAt": "2026-11-01"
   },
   "spiess": {
    "items": [
@@ -2355,6 +2362,13 @@
   "techmoan": {
    "items": [
     {
+     "k": "be8ML8G7oKI",
+     "t": "Rediffusion Reditune’s BGM for the 1960s...and beyond.",
+     "u": "https://www.youtube.com/watch?v=be8ML8G7oKI",
+     "d": "2026-10-31",
+     "s": "In 1964 Rediffusion released an improved version of their Reditune background music system. It had longer playing cartridges, funkier…"
+    },
+    {
      "k": "7W7iOvG1I9s",
      "t": "Adding a 'Radio' to my Japan-only stereo",
      "u": "https://www.youtube.com/watch?v=7W7iOvG1I9s",
@@ -2451,16 +2465,9 @@
      "u": "https://www.youtube.com/watch?v=YkukwhHrQLQ",
      "d": "2026-07-25",
      "s": "If you want a HiFi component Compact Disc player and an FM & DAB Radio that works with no fuss - it's all in the one box and it came out a…"
-    },
-    {
-     "k": "m4lMeU9nSco",
-     "t": "Wheel 3 - An optical upgrade?",
-     "u": "https://www.youtube.com/watch?v=m4lMeU9nSco",
-     "d": "2026-07-18",
-     "s": "The Third Wheel. A look at what makes the Miniot Wheel 3 turntable different from every other record player sold today. 00:00 Start 01:04…"
     }
    ],
-   "checkedAt": "2026-10-27"
+   "checkedAt": "2026-11-01"
   },
   "jre": {
    "items": [
@@ -3338,7 +3345,7 @@
      "s": "Sponsor: Thermal Grizzly Duronaut on Amazon - GPU prices have become a meme, with NVIDIA leading the pack at (on average) 70% over listed…"
     }
    ],
-   "checkedAt": "2026-10-31"
+   "checkedAt": "2026-11-01"
   },
   "der8auer": {
    "items": [
@@ -4342,7 +4349,7 @@
   },
   "knurl": {
    "items": [],
-   "checkedAt": "2026-10-27"
+   "checkedAt": "2026-11-01"
   },
   "mjlorton": {
    "items": [
@@ -4684,7 +4691,7 @@
      "s": "Ducati’s V4 Engine Is Unlike Anything Else - Here’s Why They Do Things Differently! Subscribe to Engineering Explained for more videos! -…"
     }
    ],
-   "checkedAt": "2026-10-27"
+   "checkedAt": "2026-11-01"
   },
   "rich": {
    "items": [
@@ -8674,6 +8681,13 @@
   "hackaday_yt": {
    "items": [
     {
+     "k": "RCSEzHfkFzQ",
+     "t": "Ep 393: Epaper, Tamagotchi Hacks, and Supercon Talks Galore",
+     "u": "https://www.youtube.com/watch?v=RCSEzHfkFzQ",
+     "d": "2026-10-30",
+     "s": "This week's podcast comes from Europe, as Elliot Williams is joined by Jenny List, who wishes to apologies for the poor sound quality from…"
+    },
+    {
      "k": "ZrPwDj72DM0",
      "t": "Ep 392: Microscopes, Drones, and Other DIY Things",
      "u": "https://www.youtube.com/watch?v=ZrPwDj72DM0",
@@ -8770,16 +8784,9 @@
      "u": "https://www.youtube.com/watch?v=q2U33vf1Qlc",
      "d": "2026-09-09",
      "s": "Part of a geothermal mapping campaign, these \"vibrotrucks\" have been running around Munich. Read all about it over on Hackaday:"
-    },
-    {
-     "k": "asifJGspwQA",
-     "t": "Hackaday Europe 2026: Erin Kennedy - Outdoors with Robots",
-     "u": "https://www.youtube.com/watch?v=asifJGspwQA",
-     "d": "2026-09-08",
-     "s": "Ten years of taking robots into the real outdoors, through sand, mud, and wildfire zones. Erin shares what happens when nature-inspired…"
     }
    ],
-   "checkedAt": "2026-10-27"
+   "checkedAt": "2026-11-01"
   },
   "defcon": {
    "items": [
@@ -9241,7 +9248,7 @@
      "s": "Have you seen a Spiral Escalator? Come see how they work! Try Brilliant's tutor for free and save 20% off an annual subscription: Watch…"
     }
    ],
-   "checkedAt": "2026-10-27"
+   "checkedAt": "2026-11-01"
   },
   "lesics": {
    "items": [
@@ -9400,6 +9407,13 @@
   "mould": {
    "items": [
     {
+     "k": "Z-2pTzSZtLU",
+     "t": "This Material Sorts Itself",
+     "u": "https://www.youtube.com/watch?v=Z-2pTzSZtLU",
+     "d": "2026-10-31",
+     "s": "Click this link: and use code STEVEMOULD to recieve 100 free blades with the purchase of your AL13 razor. Turning a drum full of grains of…"
+    },
+    {
      "k": "6gsZY_-kT3U",
      "t": "This Device Turns Anything into a Suction Cup",
      "u": "https://www.youtube.com/watch?v=6gsZY_-kT3U",
@@ -9496,16 +9510,9 @@
      "u": "https://www.youtube.com/shorts/WWPVRMQJF_k",
      "d": "2026-06-05",
      "s": "You can buy my books here: You can support me on Patreon and get access to the exclusive Discord: just like these amazing people: Glenn…"
-    },
-    {
-     "k": "XCh5XhfEg0U",
-     "t": "This Stone is Flexible?",
-     "u": "https://www.youtube.com/shorts/XCh5XhfEg0U",
-     "d": "2026-06-04",
-     "s": "Sandstone is made of sand grains, so how does it flex?"
     }
    ],
-   "checkedAt": "2026-10-31"
+   "checkedAt": "2026-11-01"
   },
   "efficient": {
    "items": [
@@ -12940,7 +12947,7 @@
      "s": ""
     }
    ],
-   "checkedAt": "2026-10-31"
+   "checkedAt": "2026-11-01"
   },
   "lensrentals": {
    "items": [
@@ -12973,7 +12980,7 @@
      "s": "Wildlife photography is an incredibly enjoyable and addicting artform. It can be immensely rewarding when planning, effort, skill,…"
     }
    ],
-   "checkedAt": "2026-10-31"
+   "checkedAt": "2026-11-01"
   },
   "zeptobars": {
    "items": [
@@ -12997,126 +13004,119 @@
      "u": "http://zeptobars.com/en/read/SEM-FEI-Versa-3D",
      "d": "2026-05-07",
      "s": "As some of you have probably already heard, some time ago I got myself a FEI Versa 3D - dual-beam Schottky field-emission SEM, with…"
-    },
-    {
-     "k": "http://zeptobars.com/en/read/Ti-54LS153-Dual-4-Line-To-1-Line-Data-Selectors-Multiplexers-TTL",
-     "t": "Ti 54LS153 - Dual 4→1 Data Selectors/Multiplexers : weekend die-shot",
-     "u": "http://zeptobars.com/en/read/Ti-54LS153-Dual-4-Line-To-1-Line-Data-Selectors-Multiplexers-TTL",
-     "d": "2026-05-01",
-     "s": "Die size 1493x1493 µm."
     }
    ],
-   "checkedAt": "2026-10-31"
+   "checkedAt": "2026-11-01"
   },
   "fritz": {
    "items": [
     {
-     "k": "tag:flickr.com,2005:/photo/55621246222",
-     "t": "Double The Thrill, Half The Price At Kinky 69!",
-     "u": "https://live.staticflickr.com/65535/55621246222_6a58127780_b.jpg",
+     "k": "tag:flickr.com,2005:/photo/55622939787",
+     "t": "Guadalajara marcha 2 Agua o Muerte",
+     "u": "https://live.staticflickr.com/65535/55622939787_170c52a077_b.jpg",
      "d": "2026-10-31",
      "s": ""
     },
     {
-     "k": "tag:flickr.com,2005:/photo/55621246417",
-     "t": "20261030192522.jpg",
-     "u": "https://live.staticflickr.com/65535/55621246417_d680d752d3_b.jpg",
-     "d": "2026-10-31",
-     "s": ""
-    },
-    {
-     "k": "tag:flickr.com,2005:/photo/55621247852",
+     "k": "tag:flickr.com,2005:/photo/55622940742",
      "t": "",
-     "u": "https://live.staticflickr.com/65535/55621247852_763522fb2e_b.jpg",
+     "u": "https://live.staticflickr.com/65535/55622940742_3f50dcecc0_b.jpg",
      "d": "2026-10-31",
      "s": ""
     },
     {
-     "k": "tag:flickr.com,2005:/photo/55622246046",
-     "t": "Mother Road Eats and Sleeps",
-     "u": "https://live.staticflickr.com/65535/55622246046_71b7a81879_b.jpg",
-     "d": "2026-10-31",
-     "s": ""
-    },
-    {
-     "k": "tag:flickr.com,2005:/photo/55622246176",
-     "t": "183A2281.jpg",
-     "u": "https://live.staticflickr.com/65535/55622246176_a203dddbe3_b.jpg",
-     "d": "2026-10-31",
-     "s": ""
-    },
-    {
-     "k": "tag:flickr.com,2005:/photo/55622246351",
-     "t": "UP 5667",
-     "u": "https://live.staticflickr.com/65535/55622246351_d9268dd2ff_b.jpg",
-     "d": "2026-10-31",
-     "s": ""
-    },
-    {
-     "k": "tag:flickr.com,2005:/photo/55622247016",
+     "k": "tag:flickr.com,2005:/photo/55622942587",
      "t": "",
-     "u": "https://live.staticflickr.com/65535/55622247016_ca14ec5c36_b.jpg",
+     "u": "https://live.staticflickr.com/65535/55622942587_6fa47a25ba_b.jpg",
      "d": "2026-10-31",
      "s": ""
     },
     {
-     "k": "tag:flickr.com,2005:/photo/55622247506",
+     "k": "tag:flickr.com,2005:/photo/55622942632",
+     "t": "تهران شماره خاله شیراز",
+     "u": "https://live.staticflickr.com/65535/55622942632_c0c031a5d5_b.jpg",
+     "d": "2026-10-31",
+     "s": ""
+    },
+    {
+     "k": "tag:flickr.com,2005:/photo/55623940826",
+     "t": "opera_ARjV5pNwen",
+     "u": "https://live.staticflickr.com/65535/55623940826_fea0b0fe16_b.jpg",
+     "d": "2026-10-31",
+     "s": ""
+    },
+    {
+     "k": "tag:flickr.com,2005:/photo/55623941951",
+     "t": "chrome_EJ5Xt5D5mZ",
+     "u": "https://live.staticflickr.com/65535/55623941951_a06291c7b6_b.jpg",
+     "d": "2026-10-31",
+     "s": ""
+    },
+    {
+     "k": "tag:flickr.com,2005:/photo/55623942681",
+     "t": "大野出場試運転らしいですがフレームアウトしましたこれは政府の陰謀😯",
+     "u": "https://live.staticflickr.com/65535/55623942681_0cabdb6f6d_b.jpg",
+     "d": "2026-10-31",
+     "s": ""
+    },
+    {
+     "k": "tag:flickr.com,2005:/photo/55624079033",
      "t": "",
-     "u": "https://live.staticflickr.com/65535/55622247506_dd047a4c18_b.jpg",
+     "u": "https://live.staticflickr.com/65535/55624079033_ac2db17cda_b.jpg",
      "d": "2026-10-31",
      "s": ""
     },
     {
-     "k": "tag:flickr.com,2005:/photo/55622247516",
-     "t": "Napa Valley 2026",
-     "u": "https://live.staticflickr.com/65535/55622247516_eb0756d928_b.jpg",
+     "k": "tag:flickr.com,2005:/photo/55624080283",
+     "t": "20261031205701.jpg",
+     "u": "https://live.staticflickr.com/65535/55624080283_8b217fbe5f_b.jpg",
      "d": "2026-10-31",
      "s": ""
     },
     {
-     "k": "tag:flickr.com,2005:/photo/55622389213",
-     "t": "56 Desoto",
-     "u": "https://live.staticflickr.com/65535/55622389213_7f67a3c090_b.jpg",
+     "k": "tag:flickr.com,2005:/photo/55624081138",
+     "t": "20260407_195139(1)",
+     "u": "https://live.staticflickr.com/65535/55624081138_34250fdf95_b.jpg",
      "d": "2026-10-31",
      "s": ""
     },
     {
-     "k": "tag:flickr.com,2005:/photo/55622391168",
-     "t": "20261029_234115-COLLAGE",
-     "u": "https://live.staticflickr.com/65535/55622391168_afe96cc8e2_b.jpg",
+     "k": "tag:flickr.com,2005:/photo/55624081143",
+     "t": "10/30/26",
+     "u": "https://live.staticflickr.com/65535/55624081143_dc78ecf404_b.jpg",
      "d": "2026-10-31",
      "s": ""
     },
     {
-     "k": "tag:flickr.com,2005:/photo/55622391198",
-     "t": "",
-     "u": "https://live.staticflickr.com/65535/55622391198_88a09efef3_z.jpg",
+     "k": "tag:flickr.com,2005:/photo/55624151029",
+     "t": "Bella...",
+     "u": "https://live.staticflickr.com/65535/55624151029_a42a6e0e4f_b.jpg",
      "d": "2026-10-31",
      "s": ""
     },
     {
-     "k": "tag:flickr.com,2005:/photo/55622391248",
-     "t": "MUJE9401 (1) (1)",
-     "u": "https://live.staticflickr.com/65535/55622391248_88e2839537_b.jpg",
+     "k": "tag:flickr.com,2005:/photo/55624151919",
+     "t": "San Francisco. Night. View",
+     "u": "https://live.staticflickr.com/65535/55624151919_0284bfcd9c_b.jpg",
      "d": "2026-10-31",
      "s": ""
     },
     {
-     "k": "tag:flickr.com,2005:/photo/55622457044",
-     "t": "",
-     "u": "https://live.staticflickr.com/65535/55622457044_19e4d1c935_b.jpg",
+     "k": "tag:flickr.com,2005:/photo/55624152279",
+     "t": "ECCA XC Relays",
+     "u": "https://live.staticflickr.com/65535/55624152279_c04e837619_b.jpg",
      "d": "2026-10-31",
      "s": ""
     },
     {
-     "k": "tag:flickr.com,2005:/photo/55622457089",
-     "t": "IMG_9157",
-     "u": "https://live.staticflickr.com/65535/55622457089_56d939e46d_b.jpg",
+     "k": "tag:flickr.com,2005:/photo/55624152364",
+     "t": "DSC_5734.jpg",
+     "u": "https://live.staticflickr.com/65535/55624152364_4b8fe5f482_b.jpg",
      "d": "2026-10-31",
      "s": ""
     }
    ],
-   "checkedAt": "2026-10-31"
+   "checkedAt": "2026-11-01"
   },
   "chipscheese": {
    "items": [
@@ -13226,7 +13226,7 @@
      "s": "All about making things affordable"
     }
    ],
-   "checkedAt": "2026-10-31"
+   "checkedAt": "2026-11-01"
   },
   "techinsights_web": {
    "items": [
@@ -13273,7 +13273,7 @@
      "s": "2027 Outlook Webinar Series: AI, Packaging, Manufacturing & Sustainability JWinters Wed, 10/21/2026 - 19:51"
     }
    ],
-   "checkedAt": "2026-10-31"
+   "checkedAt": "2026-11-01"
   },
   "caresoft": {
    "items": [
@@ -13310,7 +13310,7 @@
   },
   "carnewschina": {
    "items": [],
-   "checkedAt": "2026-10-31"
+   "checkedAt": "2026-11-01"
   },
   "simplexity": {
    "items": [
@@ -13357,15 +13357,15 @@
      "s": "One of the most exciting parts of Hardware FYI’s Kinetic conference was the set of presentations from companies building AI tools for…"
     }
    ],
-   "checkedAt": "2026-10-31"
+   "checkedAt": "2026-11-01"
   },
   "ccc": {
    "items": [],
-   "checkedAt": "2026-10-31"
+   "checkedAt": "2026-11-01"
   },
   "ifixit_med": {
    "items": [],
-   "checkedAt": "2026-10-31"
+   "checkedAt": "2026-11-01"
   },
   "nomagicpill": {
    "items": [
@@ -13475,7 +13475,7 @@
      "s": "vibes"
     }
    ],
-   "checkedAt": "2026-10-31"
+   "checkedAt": "2026-11-01"
   },
   "semiwiki": {
    "items": [
@@ -13515,7 +13515,7 @@
      "s": "On October 15–16, at the tail end of SEMICON West 2026, PDF Solutions held its 2026 CONNECT Conference at the Westin St. Francis in San…"
     }
    ],
-   "checkedAt": "2026-10-31"
+   "checkedAt": "2026-11-01"
   },
   "ksn_web": {
    "items": [
@@ -13562,7 +13562,7 @@
      "s": "Upcoming Blade Show Atlanta I will be at Blade Show in just a few days (June 5-7). I will be teaching two classes: “Factors that Affect…"
     }
    ],
-   "checkedAt": "2026-10-31"
+   "checkedAt": "2026-11-01"
   },
   "heddels": {
    "items": [
@@ -13637,7 +13637,7 @@
      "s": "Together with If you’re yet to put an iron in the fire with A New Medium, their FW26 collection is... The post Forge Your Fit with A New…"
     }
    ],
-   "checkedAt": "2026-10-31"
+   "checkedAt": "2026-11-01"
   },
   "fashionrev": {
    "items": [
@@ -13649,7 +13649,7 @@
      "s": "In Conversation with: Dr. Julia English. Beyond functionality: How repair forces us to slow down and cherish our clothing. By: Fashion…"
     }
    ],
-   "checkedAt": "2026-10-31"
+   "checkedAt": "2026-11-01"
   },
   "apriori": {
    "items": [
@@ -13764,7 +13764,7 @@
      "s": "Ask two analysts to calculate the carbon footprint of the same steel coil. Despite the same product, same ISO 14067 norm , same auditor…"
     }
    ],
-   "checkedAt": "2026-10-31"
+   "checkedAt": "2026-11-01"
   },
   "galorath": {
    "items": [
@@ -13811,7 +13811,7 @@
      "s": "Financial institutions are pouring money into AI compliance. 89% identify as innovators or fast followers. Budgets are climbing. Headcount…"
     }
    ],
-   "checkedAt": "2026-10-31"
+   "checkedAt": "2026-11-01"
   },
   "icknowledge": {
    "items": [
@@ -13858,11 +13858,11 @@
      "s": "2027 Outlook Webinar Series: AI, Packaging, Manufacturing & Sustainability JWinters Wed, 10/21/2026 - 19:51"
     }
    ],
-   "checkedAt": "2026-10-31"
+   "checkedAt": "2026-11-01"
   },
   "semianalysis": {
    "items": [],
-   "checkedAt": "2026-10-31"
+   "checkedAt": "2026-11-01"
   },
   "bnef": {
    "items": [
@@ -13937,7 +13937,7 @@
      "s": "Could a new wave of refining capacity reshape global oil markets? Explore how 4.2 million barrels per day of projected capacity growth…"
     }
    ],
-   "checkedAt": "2026-10-31"
+   "checkedAt": "2026-11-01"
   },
   "iceaa": {
    "items": [
@@ -14012,10 +14012,66 @@
      "s": "Cost Estimating NewsBrief: August 21, 2026 Agencies Rethink AI Acquisition Strategies as Tech Outpaces Traditional Contracting Timelines…"
     }
    ],
-   "checkedAt": "2026-10-31"
+   "checkedAt": "2026-11-01"
   },
   "humanoidguide": {
    "items": [
+    {
+     "k": "https://humanoid.guide/welcome-handle-l1/",
+     "t": "Welcome, Handle L1!",
+     "u": "https://humanoid.guide/welcome-handle-l1/",
+     "d": "2026-10-31",
+     "s": "CASBOT’s Handle L1 is a five finger robotic hand positioned as a lightweight, cost conscious option for humanoid robotics development. Its…"
+    },
+    {
+     "k": "https://humanoid.guide/wuji-hand-2-demonstrates-pen-spinning-under-external-disturbance/",
+     "t": "WUJI Hand 2 demonstrates pen spinning under external disturbance",
+     "u": "https://humanoid.guide/wuji-hand-2-demonstrates-pen-spinning-under-external-disturbance/",
+     "d": "2026-10-31",
+     "s": "A LinkedIn post describes WUJI Hand 2 using a policy trained in simulation to spin a pen autonomously while adjusting its movements to…"
+    },
+    {
+     "k": "https://humanoid.guide/welcome-dual-arm-lift/",
+     "t": "Welcome, Dual Arm Lift!",
+     "u": "https://humanoid.guide/welcome-dual-arm-lift/",
+     "d": "2026-10-31",
+     "s": "The RealMan Dual Arm Lift is a mobile manipulation platform that combines two coordinated robotic arms, a wheeled base, and an adjustable…"
+    },
+    {
+     "k": "https://humanoid.guide/welcome-realbot-l2/",
+     "t": "Welcome, RealBot-L2!",
+     "u": "https://humanoid.guide/welcome-realbot-l2/",
+     "d": "2026-10-31",
+     "s": "RealMan Robotics’ RealBot L2 is a full size wheeled humanoid designed for home service, retail environments, and robotics data collection.…"
+    },
+    {
+     "k": "https://humanoid.guide/welcome-pantheon-hand/",
+     "t": "Welcome, Pantheon Hand!",
+     "u": "https://humanoid.guide/welcome-pantheon-hand/",
+     "d": "2026-10-31",
+     "s": "Pantheon Hand is Stella Robot’s flagship tendon driven robotic hand, combining a lightweight hand assembly with a design that places its…"
+    },
+    {
+     "k": "https://humanoid.guide/welcome-mantis-standart/",
+     "t": "Welcome, Mantis Standart!",
+     "u": "https://humanoid.guide/welcome-mantis-standart/",
+     "d": "2026-10-31",
+     "s": "Mantis Standart, nicknamed Xiaobai, is a modular wheeled humanoid developed by Blue Worm in Xi’an, China. Designed for research, data…"
+    },
+    {
+     "k": "https://humanoid.guide/musk-disputes-report-of-december-tesla-optimus-reservations/",
+     "t": "Musk disputes report of December Tesla Optimus reservations",
+     "u": "https://humanoid.guide/musk-disputes-report-of-december-tesla-optimus-reservations/",
+     "d": "2026-10-31",
+     "s": "A robotics investor says Tesla plans Optimus reservations in early December, but Musk disputes the claim as the company targets outside…"
+    },
+    {
+     "k": "https://humanoid.guide/welcome-lumen-h1/",
+     "t": "Welcome, Lumen H1!",
+     "u": "https://humanoid.guide/welcome-lumen-h1/",
+     "d": "2026-10-31",
+     "s": "Lumen H1 is a full size humanoid robot developed by Guanggu Dongzhi, also known as HECbot, in Wuhan, China. Standing 169 cm tall and…"
+    },
     {
      "k": "https://humanoid.guide/welcome-laborer-c1/",
      "t": "Welcome, Laborer C1!",
@@ -14029,68 +14085,19 @@
      "u": "https://humanoid.guide/welcome-tiago-pro/",
      "d": "2026-10-30",
      "s": "TIAGo Pro is a humanoid mobile manipulator from PAL Robotics in Barcelona, Spain, designed for research and applications across healthcare,…"
-    },
-    {
-     "k": "https://humanoid.guide/welcome-lumen-s1/",
-     "t": "Welcome, Lumen S1!",
-     "u": "https://humanoid.guide/welcome-lumen-s1/",
-     "d": "2026-10-30",
-     "s": "Lumen S1 is a compact humanoid robot developed by Guanggu Dongzhi, also known as HECbot, in Wuhan, China. Standing 130 cm tall and weighing…"
-    },
-    {
-     "k": "https://humanoid.guide/agibot-revenue-nears-2-billion-yuan-as-humanoid-shipments-rise/",
-     "t": "AgiBot revenue nears 2 billion yuan as humanoid shipments rise",
-     "u": "https://humanoid.guide/agibot-revenue-nears-2-billion-yuan-as-humanoid-shipments-rise/",
-     "d": "2026-10-30",
-     "s": "AgiBot says first half revenue approached 2 billion yuan, with 9,700 humanoids shipped, as Chinese robot makers report larger production…"
-    },
-    {
-     "k": "https://humanoid.guide/welcome-laborer-m1/",
-     "t": "Welcome, Laborer M1!",
-     "u": "https://humanoid.guide/welcome-laborer-m1/",
-     "d": "2026-10-30",
-     "s": "Laborer M1 is a full size bipedal humanoid from Glroad, a technology company based in Wuhan, China. Standing 187 cm tall and weighing 86…"
-    },
-    {
-     "k": "https://humanoid.guide/bleu-robotics-raises-e5-million-for-humanoid-task-training/",
-     "t": "Bleu Robotics raises €5 million for humanoid task training",
-     "u": "https://humanoid.guide/bleu-robotics-raises-e5-million-for-humanoid-task-training/",
-     "d": "2026-10-30",
-     "s": "The Paris startup says its software can teach humanoids new factory tasks with ten operator demonstrations, targeting deployment in one…"
-    },
-    {
-     "k": "https://humanoid.guide/welcome-hobbs-w1/",
-     "t": "Welcome, Hobbs W1!",
-     "u": "https://humanoid.guide/welcome-hobbs-w1/",
-     "d": "2026-10-30",
-     "s": "Hobbs W1 is a wheeled humanoid from Noetix Robotics, designed for public environments where a human shaped presence accompanies basic…"
-    },
-    {
-     "k": "https://humanoid.guide/welcome-e1/",
-     "t": "Welcome, E1!",
-     "u": "https://humanoid.guide/welcome-e1/",
-     "d": "2026-10-30",
-     "s": "E1 is a compact humanoid from Noetix Robotics, designed for research, education and entertainment. Standing 136 cm tall and weighing 40 kg,…"
-    },
-    {
-     "k": "https://humanoid.guide/welcome-bumi/",
-     "t": "Welcome, Bumi!",
-     "u": "https://humanoid.guide/welcome-bumi/",
-     "d": "2026-10-29",
-     "s": "Bumi is a compact consumer humanoid from Noetix Robotics, designed for home companionship, education, and experimentation. Priced at…"
-    },
-    {
-     "k": "https://humanoid.guide/welcome-x-bot/",
-     "t": "Welcome, X-Bot!",
-     "u": "https://humanoid.guide/welcome-x-bot/",
-     "d": "2026-10-29",
-     "s": "X Bot, also known as Boxing, is a full size bipedal humanoid developed by Yue Quan Bionics in Beijing, China. It stands 167 cm tall, weighs…"
     }
    ],
-   "checkedAt": "2026-10-31"
+   "checkedAt": "2026-11-01"
   },
   "therobotreport": {
    "items": [
+    {
+     "k": "https://www.therobotreport.com/?p=590079",
+     "t": "Unusual robotic animals can prove their utility",
+     "u": "https://www.therobotreport.com/unusual-robotic-animals-can-prove-their-utility/",
+     "d": "2026-10-31",
+     "s": "Robotic animals are designed to be helpful rather than scary, showing promise in disaster recovery, utility inspection, and companionship.…"
+    },
     {
      "k": "https://www.therobotreport.com/?p=590041",
      "t": "Percepto launches Axion AI platform to unify inspection data analysis",
@@ -14188,19 +14195,19 @@
      "u": "https://www.therobotreport.com/bedrock-robotics-nears-1b-in-total-funding-as-demand-for-autonomous-heavy-equipment-surges/",
      "d": "2026-10-26",
      "s": "Bedrock Robotics has secured $600 million to scale autonomous heavy equipment and combat construction labor shortages. The post Bedrock…"
-    },
-    {
-     "k": "https://www.therobotreport.com/?p=590013",
-     "t": "OMRON to acquire OnLogic to address edge AI applications",
-     "u": "https://www.therobotreport.com/omron-acquires-onlogic-address-edge-ai-applications/",
-     "d": "2026-10-26",
-     "s": "OMRON will add industrial computing from OnLogic to its industrial automation expertise to serve data- and AI-intensive applications. The…"
     }
    ],
-   "checkedAt": "2026-10-31"
+   "checkedAt": "2026-11-01"
   },
   "ieeespectrum": {
    "items": [
+    {
+     "k": "https://spectrum.ieee.org/early-electric-vehicles",
+     "t": "When Electric Cars Were for Women",
+     "u": "https://spectrum.ieee.org/early-electric-vehicles",
+     "d": "2026-10-31",
+     "s": "At the turn of the last century, the automobile industry was still new and evolving rapidly. In 1898, there were about 50 carmakers in the…"
+    },
     {
      "k": "https://spectrum.ieee.org/ai-personal-assistant-intelligent-wearables",
      "t": "Consumer Appetite for Personal AI Goes Mainstream",
@@ -14298,19 +14305,40 @@
      "u": "https://spectrum.ieee.org/ieee-report-engineering-public-good",
      "d": "2026-10-19",
      "s": "Advancing technology for the benefit of humanity isn’t just the tagline for IEEE’s mission as a public charity. It’s something that the…"
-    },
-    {
-     "k": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
-     "t": "The Robot I Didn’t Expect to Build",
-     "u": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
-     "d": "2026-10-19",
-     "s": "Agility Robotics , the company I cofounded out of my robotics lab at Oregon State University in 2015, has just launched Digit 5 . It’s…"
     }
    ],
-   "checkedAt": "2026-10-31"
+   "checkedAt": "2026-11-01"
   },
   "hellot": {
    "items": [
+    {
+     "k": "https://www.hellot.net/news/article.html?no=115937",
+     "t": "[헬로즈업] 공장 현장이 주도한 AI 혁명, 신뢰성 90% 급증… 경영진 거버넌스는 ‘제자리걸음’",
+     "u": "https://www.hellot.net/news/article.html?no=115937",
+     "d": "2026-10-31",
+     "s": "IFS 글로벌 14개국 조사… 공정 초도품 합격률 93%·설비 가동률 90% 폭증 현장 43% 자율 에이전트 도입해 업무 시간 50% 절감… 경영진은 ‘이해력 교육(41%)’에 머물러 핵심 공정 AI 검증 비율 11%·인간 승인 의무화 4% 불과……"
+    },
+    {
+     "k": "https://www.hellot.net/news/article.html?no=115936",
+     "t": "로봇, 공장·물류·조선·건설 현장에 파고든다...2026 로보월드 개막 초읽기",
+     "u": "https://www.hellot.net/news/article.html?no=115936",
+     "d": "2026-10-31",
+     "s": "17개국 402개사 1198부스 규모, 차세대 로봇 플랫폼·부품·소프트웨어 총집결한다 해외바이어·투자기관 연계 수출·구매·투자 상담 전개 “글로벌 스케일업 지원” 제조 인공지능 전환(AX), 휴머노이드 로봇(Humanoid Robot), 모빌리티…"
+    },
+    {
+     "k": "https://www.hellot.net/news/article.html?no=115935",
+     "t": "201개사 참가, 바이어 2만6000명...올 ‘산업AI EXPO’에서의 성과는?",
+     "u": "https://www.hellot.net/news/article.html?no=115935",
+     "d": "2026-10-31",
+     "s": "“통합 비즈니스 플랫폼 연동과 수출 상담회 연계 통한 실효적 교류 확대” 내년 10월 3회차 행사 개최 확정해 한국산업지능화협회(KOIIA)가 주관한 '제3회 산업AI EXPO'가 총 201개 참가 업체, 국내외 2만6000여 명의 참관객을…"
+    },
+    {
+     "k": "https://www.hellot.net/news/article.html?no=115934",
+     "t": "[봇규가 간다] '귀여움'에도 제어 기술은 필수…넘어지면 도움 청하는 '서툰' 로봇, 이유는?",
+     "u": "https://www.hellot.net/news/article.html?no=115934",
+     "d": "2026-10-31",
+     "s": "로봇 한 대에 운영자 한 명. 현시점 캐릭터 로봇이 각종 서비스 현장에서 움직이는 방식이다. 휴머노이드 로봇(Humanoid Robot)과 같은 이족 보행 로봇은 스스로 균형을 잡는다. 하지만 어디로 이동하고 언제 말을 걸지는 사람이 정한다. 산업용…"
+    },
     {
      "k": "https://www.hellot.net/news/article.html?no=115933",
      "t": "아이벡스, 엔터프라이즈 AI부터 Physical AI까지 ‘AIVEX FRONTIER 2026’ 11월 개최",
@@ -14387,37 +14415,9 @@
      "u": "https://www.hellot.net/news/article.html?no=115922",
      "d": "2026-10-30",
      "s": "물류 자동화 현장에서 가장 많이 듣는 질문은 \"어떤 설비를 사야 하느냐\"가 아니다. \"들여놓은 설비를 어떻게 써야 하느냐\"다. 이 한 문장이 지난 29일 경기도 광주 아세테크 데모센터에서 열린 'Colosseum Vault Tech Day'의…"
-    },
-    {
-     "k": "https://www.hellot.net/news/article.html?no=115921",
-     "t": "[그녀에게 듣다] “안에서 하던 일을 밖에서 해보기로 했을 뿐이에요”",
-     "u": "https://www.hellot.net/news/article.html?no=115921",
-     "d": "2026-10-30",
-     "s": "건설 현장, 물류 창고, 개발자로 가득 찬 회의실, 아직도 많은 산업 현장에서 여성은 소수입니다. 하지만 그 안에서 묵묵히, 때로는 거침없이 자기 자리를 만들어가는 사람들이 있습니다. '그녀에게 듣다'는 남성이 다수인 업계에서 활약하고 있는 여성들을…"
-    },
-    {
-     "k": "https://www.hellot.net/news/article.html?no=115920",
-     "t": "테크타카 아르고, 네이버 N배송 통합반품·패션전문센터 운영 계약 체결",
-     "u": "https://www.hellot.net/news/article.html?no=115920",
-     "d": "2026-10-30",
-     "s": "AI 기반 글로벌 통합 물류 플랫폼 '아르고(ARGO)'를 운영하는 테크타카(대표 양수영)가 네이버와 'N배송'의 통합반품센터 및 패션전문센터 운영 계약을 체결했다고 30일 밝혔다. 아르고는 네이버 직계약 풀필먼트 서비스인 N배송…"
-    },
-    {
-     "k": "https://www.hellot.net/news/article.html?no=115919",
-     "t": "쿠팡로지스틱스서비스, 부산 남구에 AI 스마트 물류센터 구축한다",
-     "u": "https://www.hellot.net/news/article.html?no=115919",
-     "d": "2026-10-30",
-     "s": "쿠팡로지스틱스서비스(CLS)가 부산광역시에 약 420억 원을 투자해 AI 기반 스마트 물류센터를 신설한다. CLS는 29일 서울 콘래드호텔에서 열린 부산광역시 수도권 기업 투자유치 설명회에서 전재수 부산시장과 물류센터 신설을 위한 투자협약(MOU)을…"
-    },
-    {
-     "k": "https://www.hellot.net/news/article.html?no=115918",
-     "t": "로지스올, 미국 PACK EXPO 2026 참가…접이식 컨테이너·풀링 파렛트 북미 공개",
-     "u": "https://www.hellot.net/news/article.html?no=115918",
-     "d": "2026-10-30",
-     "s": "로지스올(LOGISALL)그룹이 지난 10월 18일부터 21일까지 미국 시카고에서 열린 글로벌 포장산업 전시회 'PACK EXPO 2026'에 참가해 유닛로드시스템(ULS) 기반의 물류 풀링 및 패키징 솔루션을 북미 시장에 선보였다. 로지스올이 이번…"
     }
    ],
-   "checkedAt": "2026-10-31"
+   "checkedAt": "2026-11-01"
   },
   "hackteria": {
    "items": [],
