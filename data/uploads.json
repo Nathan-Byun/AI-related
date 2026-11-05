@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-04",
+ "updatedAt": "2026-11-05",
  "note": "요약은 각 채널·사이트가 쓴 설명 앞부분이라 원문 언어 그대로 나옵니다.",
  "channels": {
   "agentjayz": {
@@ -1342,56 +1342,56 @@
   "hackaday_web": {
    "items": [
     {
-     "k": "https://hackaday.com/?p=1397654",
-     "t": "Etching Press Aims To Impress",
-     "u": "https://hackaday.com/2026/11/03/etching-press-aims-to-impress/",
+     "k": "https://hackaday.com/?p=1397874",
+     "t": "Beautiful Laser Harp Hides Some Neat Tricks",
+     "u": "https://hackaday.com/2026/11/04/beautiful-laser-harp-hides-some-neat-tricks/",
+     "d": "2026-11-05",
+     "s": "Laser harps aren’t quite a right of passage, in that not everyone builds them, but it’s likely everyone at least contemplates building one…"
+    },
+    {
+     "k": "https://hackaday.com/?p=1397662",
+     "t": "It’s DOOM, on a Toy Camera",
+     "u": "https://hackaday.com/2026/11/04/its-doom-on-a-toy-camera/",
      "d": "2026-11-04",
-     "s": "There’s an old joke about inviting a girl up to your dorm room to ‘look at your etchings’– but if you’re going to do that, you’d best have…"
+     "s": "Dirt cheap toy cameras have long been a target for the curious camera hacker, and we’ve seen plenty of lens swaps and other hardware hacks.…"
     },
     {
-     "k": "https://hackaday.com/?p=1397678",
-     "t": "Toddler Phone Calls Family and No One Else",
-     "u": "https://hackaday.com/2026/11/03/toddler-phone-calls-family-and-no-one-else/",
-     "d": "2026-11-03",
-     "s": "The great thing about the modern world is how connected we are. It’s also the worst thing about the modern world, to be honest. [Allan…"
+     "k": "https://hackaday.com/?p=1397631",
+     "t": "Making a Wax Motor for Micrometer-Level Control",
+     "u": "https://hackaday.com/2026/11/04/making-a-wax-motor-for-micrometer-level-control/",
+     "d": "2026-11-04",
+     "s": "Although not very glamorous, wax motors are a fairly common type of linear actuator. They use the thermal response of waxes and the…"
     },
     {
-     "k": "https://hackaday.com/?p=1169974",
-     "t": "Detecting an Eight Magnetic Pole State using Chiral Phonons",
-     "u": "https://hackaday.com/2026/11/03/detecting-an-eight-magnetic-pole-state-using-chiral-phonons/",
-     "d": "2026-11-03",
-     "s": "The idea that magnetism doesn’t necessarily always have a dipolar configuration is not a new one, but it’s not an easy theory to find…"
+     "k": "https://hackaday.com/?p=1081253",
+     "t": "From Germanium to Diamond: the Many Shapes of Semiconductors",
+     "u": "https://hackaday.com/2026/11/04/from-germanium-to-diamond-the-many-shapes-of-semiconductors/",
+     "d": "2026-11-04",
+     "s": "It seems fair to say that semiconductor technology has been one of the most influential inventions in human history. Practically overnight…"
     },
     {
-     "k": "https://hackaday.com/?p=1397581",
-     "t": "2026 Hackaday Supercon: Bruce Potter’s Keynote Explores the Hacker Mind",
-     "u": "https://hackaday.com/2026/11/03/2026-hackaday-supercon-bruce-potters-keynote-explores-the-hacker-mind/",
-     "d": "2026-11-03",
-     "s": "What is hacking? Many, especially in the mainstream, view it through the lens of computer security. Others consider it synonymous with…"
+     "k": "https://hackaday.com/?p=1397785",
+     "t": "Using a Cheap DC Motor to Make a Go-Kart Go",
+     "u": "https://hackaday.com/2026/11/04/using-a-cheap-dc-motor-to-make-a-go-kart-go/",
+     "d": "2026-11-04",
+     "s": "Where Archimedes said that he could move the Earth given a large enough lever and a suitable fulcrum, [Current Concept] decided that he…"
     },
     {
-     "k": "https://hackaday.com/?p=1396736",
-     "t": "ToothPaste Goes Where Your Password Manager Doesn’t",
-     "u": "https://hackaday.com/2026/11/03/toothpaste-goes-where-your-password-manager-doesnt/",
-     "d": "2026-11-03",
-     "s": "One of the easiest ways of improving security and privacy when using the Internet, and computers in general, is to use strong passwords…"
+     "k": "https://hackaday.com/?p=1397638",
+     "t": "Yesterday Has Never Looked This Good: Feast Your Eyes On The 2026 Retrocomputing Challenge Winners!",
+     "u": "https://hackaday.com/2026/11/04/yesterday-has-never-looked-this-good-feast-your-eyes-on-the-2026-retrocomputing-challenge-winners/",
+     "d": "2026-11-04",
+     "s": "If there’s one category among those we see here at Hackaday that has something for everyone, it’s retrocomputing. Spanning everything from…"
     },
     {
-     "k": "https://hackaday.com/?p=1397204",
-     "t": "The Depiction Of Amateur Radio In The Movies And TV",
-     "u": "https://hackaday.com/2026/11/03/the-depiction-of-amateur-radio-in-the-movies-and-tv/",
-     "d": "2026-11-03",
-     "s": "A constant in film and TV if you work with technology is to continually see wildly inappropriate depictions of it on screen. Whether it’s…"
-    },
-    {
-     "k": "https://hackaday.com/?p=1397344",
-     "t": "The Components for Life May Not Have Arrived By Comet",
-     "u": "https://hackaday.com/2026/11/03/the-components-for-life-may-not-have-arrived-by-comet/",
-     "d": "2026-11-03",
-     "s": "When it comes to abiogenesis, i.e. the formation of the first biological cells on Earth, there are many theories on how this got…"
+     "k": "https://hackaday.com/?p=1397771",
+     "t": "A Ridiculous Journey to Set the Clock in a 2014 Renault",
+     "u": "https://hackaday.com/2026/11/04/a-ridiculous-journey-to-set-the-clock-in-a-2014-renault/",
+     "d": "2026-11-04",
+     "s": "As difficult as it may be to believe, it’s not possible to adjust the time on a 2014 Renault Latitude’s in-dash navigation system unless…"
     }
    ],
-   "checkedAt": "2026-11-04"
+   "checkedAt": "2026-11-05"
   },
   "chargerlab_web": {
    "items": [
@@ -1548,82 +1548,82 @@
      "s": ""
     }
    ],
-   "checkedAt": "2026-11-04"
+   "checkedAt": "2026-11-05"
   },
   "semieng": {
    "items": [
+    {
+     "k": "https://semiengineering.com/?p=24283660",
+     "t": "Accelerating Plug-And-Play Prototyping In Chiplet-Based Designs",
+     "u": "https://semiengineering.com/accelerating-plug-and-play-prototyping-in-chiplet-based-designs/",
+     "d": "2026-11-04",
+     "s": "Shared resources, a mix of tools running at different speeds, and multiple dies are adding new challenges for design teams. The post…"
+    },
+    {
+     "k": "https://semiengineering.com/?p=24283628",
+     "t": "Adding Network Security to AI, HPC and Data Centers",
+     "u": "https://semiengineering.com/adding-network-security-to-ai-hpc-and-data-centers/",
+     "d": "2026-11-04",
+     "s": "How data center operators can protect critical data and communications without compromising the performance demanded by distributed AI and…"
+    },
+    {
+     "k": "https://semiengineering.com/?p=24283593",
+     "t": "Built to Last: Why Automotive-Grade PQC Can’t Wait",
+     "u": "https://semiengineering.com/built-to-last-why-automotive-grade-pqc-cant-wait/",
+     "d": "2026-11-04",
+     "s": "Why automotive-grade PQC IP matters, what sets it apart from general-purpose PQC, and what SoC design teams should look for when choosing a…"
+    },
+    {
+     "k": "https://semiengineering.com/?p=24283577",
+     "t": "Validate Sovereign AI Sites Before You Commit Capital: eBook",
+     "u": "https://semiengineering.com/validate-sovereign-ai-sites-before-you-commit-capital-ebook/",
+     "d": "2026-11-04",
+     "s": "How to validate sites before commitment, protect capacity after deployment, and plan for long-term performance. The post Validate Sovereign…"
+    },
+    {
+     "k": "https://semiengineering.com/?p=24283634",
+     "t": "3D-IC Signal Integrity: From Silicon Interposers To System Signoff",
+     "u": "https://semiengineering.com/3d-ic-signal-integrity-from-silicon-interposers-to-system-signoff/",
+     "d": "2026-11-04",
+     "s": "A unified, system-level environment that aggregates several proven technologies into a seamless workflow spanning architecture exploration,…"
+    },
+    {
+     "k": "https://semiengineering.com/?p=24283684",
+     "t": "Beyond The Chip: How AI Is Reshaping Semiconductor Design And Manufacturing",
+     "u": "https://semiengineering.com/beyond-the-chip-how-ai-is-reshaping-semiconductor-design-and-manufacturing/",
+     "d": "2026-11-04",
+     "s": "Power delivery, connectivity, advanced packaging, and supply chain resilience are emerging as the primary constraints on AI scaling. The…"
+    },
+    {
+     "k": "https://semiengineering.com/?p=24283588",
+     "t": "Choosing The Right Power Transistor: Why Application Fit Matters More Than Technology",
+     "u": "https://semiengineering.com/choosing-the-right-power-transistor-why-application-fit-matters-more-than-technology/",
+     "d": "2026-11-04",
+     "s": "Silicon MOSFETs, IGBTs, SiC MOSFETs, and GaN HEMTs each offer meaningful advantages, but those advantages do not carry the same value…"
+    },
+    {
+     "k": "https://semiengineering.com/?p=24283664",
+     "t": "Blog Review: Nov. 4",
+     "u": "https://semiengineering.com/blog-review-nov-4-3/",
+     "d": "2026-11-04",
+     "s": "Chiplets for physical AI; rack-level considerations; verification complexity; sparse matrix workloads; AI data centers. The post Blog…"
+    },
+    {
+     "k": "https://semiengineering.com/?p=24283585",
+     "t": "Neural Super Resolution",
+     "u": "https://semiengineering.com/neural-super-resolution/",
+     "d": "2026-11-04",
+     "s": "Insight into how neural graphics can improve image quality and performance while simplifying deployment on power- and bandwidth-constrained…"
+    },
     {
      "k": "https://semiengineering.com/?p=24283637",
      "t": "Randomized Caches in HW: Overheads And Limitations (RUB, Max Planck, Georgia Tech)",
      "u": "https://semiengineering.com/randomized-caches-in-hw-overheads-and-limitations-rub-max-planck-georgia-tech/",
      "d": "2026-11-03",
      "s": "Researchers at Ruhr University Bochum, the Max Planck Institute for Security and Privacy, and Georgia Tech published “Randomized Caches in…"
-    },
-    {
-     "k": "https://semiengineering.com/?p=24283621",
-     "t": "Fast, Sub-Volt HZO Ferroelectric Capacitors For DRAM-Like Memory (SNU)",
-     "u": "https://semiengineering.com/fast-sub-volt-hzo-ferroelectric-capacitors-for-dram-like-memory-snu/",
-     "d": "2026-11-03",
-     "s": "Seoul National University-led researchers published “Resolving the Kay–Dunn limit and the speed–endurance dilemma in ferroelectric…"
-    },
-    {
-     "k": "https://semiengineering.com/?p=24283573",
-     "t": "Chip Industry Technical Paper Roundup: Nov. 3",
-     "u": "https://semiengineering.com/chip-industry-technical-paper-roundup-nov-3/",
-     "d": "2026-11-03",
-     "s": "Meter-scale quantum interconnects; 2.5D/3D GPU integration and embodied emissions; secure memory-dependent prefetching; routing-aware…"
-    },
-    {
-     "k": "https://semiengineering.com/?p=24283569",
-     "t": "AI Image Enhancement Improves Detection Of Flip-Chip Interconnect Defects (MCL, PVA TePla, ASE)",
-     "u": "https://semiengineering.com/ai-image-enhancement-improves-detection-of-flip-chip-interconnect-defects-mcl-pva-tepla-ase/",
-     "d": "2026-11-02",
-     "s": "Researchers at Materials Center Leoben, PVA TePla, and Advanced Semiconductor Engineering (ASE) published “AI-Based Image Enhancement…"
-    },
-    {
-     "k": "https://semiengineering.com/?p=24283562",
-     "t": "3D Integration Reduces Embodied-Emissions Impact Of GPU Scaling (imec, VUB)",
-     "u": "https://semiengineering.com/3d-integration-reduces-embodied-emissions-impact-of-gpu-scaling-imec-vub/",
-     "d": "2026-11-02",
-     "s": "Researchers at imec and Vrije Universiteit Brussels published “Embodied Emissions of 2.5D and 3D Scaling in Chipletized GPUs for Low-Carbon…"
-    },
-    {
-     "k": "https://semiengineering.com/?p=24283558",
-     "t": "Quantum Interconnects Link Two 120-Qubit Processors (IBM Research)",
-     "u": "https://semiengineering.com/quantum-interconnects-link-two-120-qubit-processors-ibm-research/",
-     "d": "2026-11-02",
-     "s": "Researchers at IBM Research published “Meter-scale quantum interconnects between large quantum processors.” Abstract Excerpt: “Modular…"
-    },
-    {
-     "k": "https://semiengineering.com/?p=24283555",
-     "t": "Hardware Defense Blocks Memory-Dependent Prefetcher Leakage (KU Leuven)",
-     "u": "https://semiengineering.com/hardware-defense-blocks-memory-dependent-prefetcher-leakage-ku-leuven/",
-     "d": "2026-11-02",
-     "s": "Researchers at KU Leuven and EURECOM published “SecDMP: Provably Secure Data Memory-Dependent Prefetching.” Abstract Excerpt: “In this…"
-    },
-    {
-     "k": "https://semiengineering.com/?p=24283551",
-     "t": "Co-Optimizing Access Points Improves Analog Placement (UT Austin)",
-     "u": "https://semiengineering.com/co-optimizing-access-points-improves-analog-placement-ut-austin/",
-     "d": "2026-11-02",
-     "s": "Researchers at the University of Texas at Austin published “APPlace: Co-Optimizing Device Locations and Access Points for Routing-Aware…"
-    },
-    {
-     "k": "https://semiengineering.com/?p=24283537",
-     "t": "Shift Left Is Becoming A System-Level Problem",
-     "u": "https://semiengineering.com/shift-left-is-becoming-a-system-level-problem/",
-     "d": "2026-11-02",
-     "s": "Rise in complexity is pushing engineers to validate hardware, software, and physical constraints earlier in the design flow, but fragmented…"
-    },
-    {
-     "k": "https://semiengineering.com/?p=24283522",
-     "t": "Putting AI To The Test",
-     "u": "https://semiengineering.com/putting-ai-to-the-test/",
-     "d": "2026-11-02",
-     "s": "Who verifies the verifier? This is the age-old question for anyone involved in the verification of semiconductor systems. Who verifies AI?…"
     }
    ],
-   "checkedAt": "2026-11-04"
+   "checkedAt": "2026-11-05"
   },
   "eevblog": {
    "items": [
@@ -12975,7 +12975,7 @@
      "s": ""
     }
    ],
-   "checkedAt": "2026-11-04"
+   "checkedAt": "2026-11-05"
   },
   "lensrentals": {
    "items": [
@@ -13008,7 +13008,7 @@
      "s": "Wildlife photography is an incredibly enjoyable and addicting artform. It can be immensely rewarding when planning, effort, skill,…"
     }
    ],
-   "checkedAt": "2026-11-04"
+   "checkedAt": "2026-11-05"
   },
   "zeptobars": {
    "items": [
@@ -13041,117 +13041,117 @@
      "s": "As some of you have probably already heard, some time ago I got myself a FEI Versa 3D - dual-beam Schottky field-emission SEM, with…"
     }
    ],
-   "checkedAt": "2026-11-04"
+   "checkedAt": "2026-11-05"
   },
   "fritz": {
    "items": [
     {
-     "k": "tag:flickr.com,2005:/photo/55629864087",
-     "t": "HTTP://knitbackpack.tumblr.com",
-     "u": "https://live.staticflickr.com/65535/55629864087_d125fd2e67_b.jpg",
-     "d": "2026-11-04",
+     "k": "tag:flickr.com,2005:/photo/55631971757",
+     "t": "Sept 2026",
+     "u": "https://live.staticflickr.com/65535/55631971757_179be03695_b.jpg",
+     "d": "2026-11-05",
      "s": ""
     },
     {
-     "k": "tag:flickr.com,2005:/photo/55629865587",
-     "t": "Foggy Sunday morning",
-     "u": "https://live.staticflickr.com/65535/55629865587_cbd77710bc_b.jpg",
-     "d": "2026-11-04",
+     "k": "tag:flickr.com,2005:/photo/55631973197",
+     "t": "chrome_Z7OXoQcG7z",
+     "u": "https://live.staticflickr.com/65535/55631973197_7f24427837_b.jpg",
+     "d": "2026-11-05",
      "s": ""
     },
     {
-     "k": "tag:flickr.com,2005:/photo/55629867182",
-     "t": "Heatr Censo Getoe",
-     "u": "https://live.staticflickr.com/65535/55629867182_2ec5df3d8b_b.jpg",
-     "d": "2026-11-04",
+     "k": "tag:flickr.com,2005:/photo/55632966271",
+     "t": "Cyclocross Crusade 2026 Series Finale",
+     "u": "https://live.staticflickr.com/65535/55632966271_77f80cd86a_b.jpg",
+     "d": "2026-11-05",
      "s": ""
     },
     {
-     "k": "tag:flickr.com,2005:/photo/55629867497",
-     "t": "FiveM_b3751_GTAProcess_PJBi1LxAbd",
-     "u": "https://live.staticflickr.com/65535/55629867497_24e5987220_z.jpg",
-     "d": "2026-11-04",
+     "k": "tag:flickr.com,2005:/photo/55632966886",
+     "t": "BOTAFOGO X ATLÉTICO - 04.11.2026 CAMPEONATO BRASILEIRO #34-11478.jpg",
+     "u": "https://live.staticflickr.com/65535/55632966886_40a0659171_b.jpg",
+     "d": "2026-11-05",
      "s": ""
     },
     {
-     "k": "tag:flickr.com,2005:/photo/55630865136",
-     "t": "The Highstrung 1957 Chevy C/Gasser heating the tires",
-     "u": "https://live.staticflickr.com/65535/55630865136_be98dc845e_b.jpg",
-     "d": "2026-11-04",
+     "k": "tag:flickr.com,2005:/photo/55632968191",
+     "t": "a4cf714c-3dd0-4e4b-8608-9ddf155bbaec",
+     "u": "https://live.staticflickr.com/65535/55632968191_c4e9c1812c_b.jpg",
+     "d": "2026-11-05",
      "s": ""
     },
     {
-     "k": "tag:flickr.com,2005:/photo/55630865321",
-     "t": "books i saw at Barnes & Nobles",
-     "u": "https://live.staticflickr.com/65535/55630865321_684e77ebe2_b.jpg",
-     "d": "2026-11-04",
+     "k": "tag:flickr.com,2005:/photo/55633100058",
+     "t": "Le Sirene",
+     "u": "https://live.staticflickr.com/65535/55633100058_fb0b9da3d0_b.jpg",
+     "d": "2026-11-05",
      "s": ""
     },
     {
-     "k": "tag:flickr.com,2005:/photo/55630865426",
+     "k": "tag:flickr.com,2005:/photo/55633100083",
      "t": "",
-     "u": "https://live.staticflickr.com/65535/55630865426_7ca2661a7a_b.jpg",
-     "d": "2026-11-04",
+     "u": "https://live.staticflickr.com/65535/55633100083_a200297be0_b.jpg",
+     "d": "2026-11-05",
      "s": ""
     },
     {
-     "k": "tag:flickr.com,2005:/photo/55630865911",
-     "t": "CN L554 Bronte",
-     "u": "https://live.staticflickr.com/65535/55630865911_a86d65067a_b.jpg",
-     "d": "2026-11-04",
+     "k": "tag:flickr.com,2005:/photo/55633100668",
+     "t": "Quiet pleasure time",
+     "u": "https://live.staticflickr.com/65535/55633100668_340224b328_b.jpg",
+     "d": "2026-11-05",
      "s": ""
     },
     {
-     "k": "tag:flickr.com,2005:/photo/55630866421",
-     "t": "Egypt 2026, Temple of Edfu,",
-     "u": "https://live.staticflickr.com/65535/55630866421_15cb9a1243_b.jpg",
-     "d": "2026-11-04",
-     "s": ""
-    },
-    {
-     "k": "tag:flickr.com,2005:/photo/55630866881",
-     "t": "Sexy Halloween looks",
-     "u": "https://live.staticflickr.com/65535/55630866881_68d7ff93c7_b.jpg",
-     "d": "2026-11-04",
-     "s": ""
-    },
-    {
-     "k": "tag:flickr.com,2005:/photo/55630996143",
-     "t": "firefox_akug9tUhdy",
-     "u": "https://live.staticflickr.com/video/55630996143/e40a548f07/360p.mp4?s=eyJpIjo1NTYzMDk5NjE0MywiZSI6MTc5Mzc1NjEwOCwicyI6IjNjODhlYjIwYjZkZjI1Yzc5ZjU4M2VkOTc4ZmY1NDYzYjFiZDlhODUiLCJ2IjoxfQ",
-     "d": "2026-11-04",
-     "s": ""
-    },
-    {
-     "k": "tag:flickr.com,2005:/photo/55630997998",
-     "t": "mwRdvydo5y",
-     "u": "https://live.staticflickr.com/65535/55630997998_d64a2ab33d_z.jpg",
-     "d": "2026-11-04",
-     "s": ""
-    },
-    {
-     "k": "tag:flickr.com,2005:/photo/55630998608",
-     "t": "Viola farkasiana",
-     "u": "https://live.staticflickr.com/65535/55630998608_65f6ba3f35_b.jpg",
-     "d": "2026-11-04",
-     "s": ""
-    },
-    {
-     "k": "tag:flickr.com,2005:/photo/55630999163",
+     "k": "tag:flickr.com,2005:/photo/55633101273",
      "t": "",
-     "u": "https://live.staticflickr.com/65535/55630999163_b9ca340e61_b.jpg",
-     "d": "2026-11-04",
+     "u": "https://live.staticflickr.com/65535/55633101273_ec825298f4_z.jpg",
+     "d": "2026-11-05",
      "s": ""
     },
     {
-     "k": "tag:flickr.com,2005:/photo/55631066834",
-     "t": "Si Guru and si Pelajar",
-     "u": "https://live.staticflickr.com/65535/55631066834_ce3a871fbb_b.jpg",
-     "d": "2026-11-04",
+     "k": "tag:flickr.com,2005:/photo/55633102158",
+     "t": "DSC03760.jpg",
+     "u": "https://live.staticflickr.com/65535/55633102158_c70549db56_b.jpg",
+     "d": "2026-11-05",
+     "s": ""
+    },
+    {
+     "k": "tag:flickr.com,2005:/photo/55633167339",
+     "t": "Ghouls Rule Lagoona Blue",
+     "u": "https://live.staticflickr.com/65535/55633167339_f45ff252aa_b.jpg",
+     "d": "2026-11-05",
+     "s": ""
+    },
+    {
+     "k": "tag:flickr.com,2005:/photo/55633167599",
+     "t": "Billie in an interesting place",
+     "u": "https://live.staticflickr.com/65535/55633167599_9362828c55_b.jpg",
+     "d": "2026-11-05",
+     "s": ""
+    },
+    {
+     "k": "tag:flickr.com,2005:/photo/55633169134",
+     "t": "Halloween",
+     "u": "https://live.staticflickr.com/65535/55633169134_355411b620_b.jpg",
+     "d": "2026-11-05",
+     "s": ""
+    },
+    {
+     "k": "tag:flickr.com,2005:/photo/55633169379",
+     "t": "",
+     "u": "https://live.staticflickr.com/65535/55633169379_143602cd7f_b.jpg",
+     "d": "2026-11-05",
+     "s": ""
+    },
+    {
+     "k": "tag:flickr.com,2005:/photo/55633169494",
+     "t": "",
+     "u": "https://live.staticflickr.com/video/55633169494/658456765d/360p.mp4?s=eyJpIjo1NTYzMzE2OTQ5NCwiZSI6MTc5Mzg0MzQyNiwicyI6ImFjM2Q4Mzk5YTM1MGQ5YjM0ODg0NzhmOTA4YzcwYzQ4ZDk1ODVjY2IiLCJ2IjoxfQ",
+     "d": "2026-11-05",
      "s": ""
     }
    ],
-   "checkedAt": "2026-11-04"
+   "checkedAt": "2026-11-05"
   },
   "chipscheese": {
    "items": [
@@ -13261,7 +13261,7 @@
      "s": "All about making things affordable"
     }
    ],
-   "checkedAt": "2026-11-04"
+   "checkedAt": "2026-11-05"
   },
   "techinsights_web": {
    "items": [
@@ -13287,6 +13287,13 @@
      "s": "AI Infrastructure: Outlook for 2027 | TechInsights Webinar JWinters Wed, 11/18/2026 - 11:00"
     },
     {
+     "k": "61961 at https://www.techinsights.com",
+     "t": "AI Outlook 2027: Five Trends Reshaping AI Infrastructure, Compute and Memory",
+     "u": "https://www.techinsights.com/outlook-2027/ai",
+     "d": "2026-11-04",
+     "s": "AI Outlook 2027: Five Trends Reshaping AI Infrastructure, Compute and Memory JWinters Wed, 11/04/2026 - 20:29"
+    },
+    {
      "k": "61960 at https://www.techinsights.com",
      "t": "Advanced Packaging Outlook 2027: Five Trends Reshaping CoWoS, HBM and Chiplets",
      "u": "https://www.techinsights.com/outlook-2027/advanced-packaging",
@@ -13299,16 +13306,9 @@
      "u": "https://www.techinsights.com/behind-the-headlines/cxl-memory-pooling-samsung-sk-hynix",
      "d": "2026-10-28",
      "s": "CXL Memory Pooling: Why Samsung & SK hynix Are Racing JWinters Wed, 10/28/2026 - 17:49"
-    },
-    {
-     "k": "61954 at https://www.techinsights.com",
-     "t": "Chip Observer | Semiconductor Industry Briefing — October 2026",
-     "u": "https://www.techinsights.com/chip-observer/october-2026",
-     "d": "2026-10-23",
-     "s": "Chip Observer | Semiconductor Industry Briefing — October 2026 JWinters Fri, 10/23/2026 - 18:57"
     }
    ],
-   "checkedAt": "2026-11-04"
+   "checkedAt": "2026-11-05"
   },
   "caresoft": {
    "items": [
@@ -13345,7 +13345,7 @@
   },
   "carnewschina": {
    "items": [],
-   "checkedAt": "2026-11-04"
+   "checkedAt": "2026-11-05"
   },
   "simplexity": {
    "items": [
@@ -13392,15 +13392,15 @@
      "s": "One of the most exciting parts of Hardware FYI’s Kinetic conference was the set of presentations from companies building AI tools for…"
     }
    ],
-   "checkedAt": "2026-11-04"
+   "checkedAt": "2026-11-05"
   },
   "ccc": {
    "items": [],
-   "checkedAt": "2026-11-04"
+   "checkedAt": "2026-11-05"
   },
   "ifixit_med": {
    "items": [],
-   "checkedAt": "2026-11-04"
+   "checkedAt": "2026-11-05"
   },
   "nomagicpill": {
    "items": [
@@ -13510,47 +13510,47 @@
      "s": "vibes"
     }
    ],
-   "checkedAt": "2026-11-04"
+   "checkedAt": "2026-11-05"
   },
   "semiwiki": {
    "items": [
     {
-     "k": "https://semiwiki.com/?p=375737",
-     "t": "CTO Interview with Ed Plowman of Imagination Technologies",
-     "u": "https://semiwiki.com/ip/imagination-technologies/375737-cto-interview-with-ed-plowman-of-imagination-technologies/",
-     "d": "2026-11-03",
-     "s": "Ed Plowman is Chief Technology Officer at Imagination Technologies, where he leads technology strategy, advanced architecture research and…"
+     "k": "https://semiwiki.com/?p=374963",
+     "t": "CTO Interview with Taylor Barton of Certus Semiconductor",
+     "u": "https://semiwiki.com/ip/certus-semiconductor/374963-cto-interview-with-taylor-barton-of-certus-semiconductor/",
+     "d": "2026-11-04",
+     "s": "Taylor Barton is a Lead Analog/Mixed-Signal and I/O IC Design Engineer at Certus Semiconductor, where he has worked since December 2022. He…"
     },
     {
-     "k": "https://semiwiki.com/?p=375751",
-     "t": "IP update from Alphacore at DAC 2026",
-     "u": "https://semiwiki.com/ip/375751-ip-update-from-alphacore-at-dac-2026/",
-     "d": "2026-11-03",
-     "s": "Rusafa Shahreen, Director of Technical Marketing at Alphacore met with me at DAC 2026 to provide an update on what’s new in their IP for…"
+     "k": "https://semiwiki.com/?p=375844",
+     "t": "Generating Chip Subsystems Automatically: A New Answer to Manage Chip Design Complexity",
+     "u": "https://semiwiki.com/eda/defacto-technologies/375844-generating-chip-subsystems-automatically-a-new-answer-to-manage-chip-design-complexity/",
+     "d": "2026-11-04",
+     "s": "By Defacto Staff Today’s chips are no longer just processors, they are entire systems. A System-on-Chip (SoC) brings together CPU clusters,…"
     },
     {
-     "k": "https://semiwiki.com/?p=375670",
-     "t": "Ceva’s next NeuPro generation opens new possibilities across AI",
-     "u": "https://semiwiki.com/ip/ceva/375670-cevas-next-neupro-generation-opens-new-possibilities-across-ai/",
-     "d": "2026-11-03",
-     "s": "Ceva is broadening the possibilities for AI silicon with a new generation of its NeuPro neural processing unit portfolio, bringing a common…"
+     "k": "https://semiwiki.com/?p=375653",
+     "t": "Reimagining 3D IC Design: From Architecture to Signoff",
+     "u": "https://semiwiki.com/eda/siemens-eda/375653-reimagining-3d-ic-design-from-architecture-to-signoff/",
+     "d": "2026-11-04",
+     "s": "By Keith Felton, Andras Vass-Varnai and Todd Burkholder, Siemens EDA The semiconductor industry is undergoing a fundamental transformation.…"
     },
     {
-     "k": "https://semiwiki.com/?p=374503",
-     "t": "How Allegro MicroSystems Increased OEE by Several Percentage Points with yieldHUB Live",
-     "u": "https://semiwiki.com/eda/yieldhub/374503-how-allegro-microsystems-increased-oee-by-several-percentage-points-with-yieldhub-live/",
-     "d": "2026-11-03",
-     "s": "Allegro MicroSystems’ experience with yieldHUB Live shows how better use of production data can translate into measurable manufacturing…"
+     "k": "https://semiwiki.com/?p=375599",
+     "t": "GSA Honors Sanjay Mehrotra as Memory Takes Center Stage in Computing",
+     "u": "https://semiwiki.com/events/375599-gsa-honors-sanjay-mehrotra-as-memory-takes-center-stage-in-computing/",
+     "d": "2026-11-04",
+     "s": "The Global Semiconductor Alliance will present Micron Technology Chairman and CEO Sanjay Mehrotra with its 2026 Dr. Morris Chang Exemplary…"
     },
     {
-     "k": "https://semiwiki.com/?p=375709",
-     "t": "Interview with Sweta Gupta, VP of Engineering of Analog Bits",
-     "u": "https://semiwiki.com/ip/analog-bits/375709-cto-interview-with-sweta-gupta-of-analog-bits/",
-     "d": "2026-11-02",
-     "s": "Sweta Gupta is the Vice President of Engineering at Analog Bits, where she leads development and execution of mixed-signal IP’s, managing…"
+     "k": "https://semiwiki.com/?p=375585",
+     "t": "NIST Sets a Clearer Course for the Post-Quantum Security Transition",
+     "u": "https://semiwiki.com/security/pqshield/375585-nist-sets-a-clearer-course-for-the-post-quantum-security-transition/",
+     "d": "2026-11-04",
+     "s": "NIST’s report, Transition to Post-Quantum Cryptography Standards , gives government agencies and technology suppliers a clearer framework…"
     }
    ],
-   "checkedAt": "2026-11-04"
+   "checkedAt": "2026-11-05"
   },
   "ksn_web": {
    "items": [
@@ -13597,7 +13597,7 @@
      "s": "Upcoming Blade Show Atlanta I will be at Blade Show in just a few days (June 5-7). I will be teaching two classes: “Factors that Affect…"
     }
    ],
-   "checkedAt": "2026-11-04"
+   "checkedAt": "2026-11-05"
   },
   "heddels": {
    "items": [
@@ -13620,7 +13620,7 @@
      "t": "Warehouse 4601 Tees in Stock at Redcast Heritage",
      "u": "https://www.heddels.com/2026/11/warehouse-4601-tees-in-stock-at-redcast-heritage/",
      "d": "2026-11-02",
-     "s": "The Warehouse 4601 Tee has become a classic in this niche. Loopwheeled to perfection with some of the nicest texture... The post Warehouse…"
+     "s": "The Warehouse 4601 Tee has become a classic in this niche. Knitted to perfection on a machine said to be... The post Warehouse 4601 Tees in…"
     },
     {
      "k": "https://www.heddels.com/?p=250331",
@@ -13672,7 +13672,7 @@
      "s": "Together with There are a couple of different paths that a company can follow to become a respected name in... The post Palomo 1953:…"
     }
    ],
-   "checkedAt": "2026-11-04"
+   "checkedAt": "2026-11-05"
   },
   "fashionrev": {
    "items": [
@@ -13684,7 +13684,7 @@
      "s": "In Conversation with: Dr. Julia English. Beyond functionality: How repair forces us to slow down and cherish our clothing. By: Fashion…"
     }
    ],
-   "checkedAt": "2026-11-04"
+   "checkedAt": "2026-11-05"
   },
   "apriori": {
    "items": [
@@ -13778,6 +13778,13 @@
   "tset": {
    "items": [
     {
+     "k": "https://tset.com/blog/cost-intelligence-summit-2026-recap",
+     "t": "Cost Intelligence Summit 2026: AI in Cost Engineering | Tset",
+     "u": "https://tset.com/blog/cost-intelligence-summit-2026-recap",
+     "d": "2026-11-04",
+     "s": ""
+    },
+    {
      "k": "https://tset.com/blog/chinas-automotive-speed-vs-german-perfection-only-one-wins",
      "t": "China’s Automotive Speed vs. German Perfection | Beyond Cost",
      "u": "https://tset.com/blog/chinas-automotive-speed-vs-german-perfection-only-one-wins",
@@ -13799,7 +13806,7 @@
      "s": "Ask two analysts to calculate the carbon footprint of the same steel coil. Despite the same product, same ISO 14067 norm , same auditor…"
     }
    ],
-   "checkedAt": "2026-11-04"
+   "checkedAt": "2026-11-05"
   },
   "galorath": {
    "items": [
@@ -13846,7 +13853,7 @@
      "s": "Financial institutions are pouring money into AI compliance. 89% identify as innovators or fast followers. Budgets are climbing. Headcount…"
     }
    ],
-   "checkedAt": "2026-11-04"
+   "checkedAt": "2026-11-05"
   },
   "icknowledge": {
    "items": [
@@ -13872,6 +13879,13 @@
      "s": "AI Infrastructure: Outlook for 2027 | TechInsights Webinar JWinters Wed, 11/18/2026 - 11:00"
     },
     {
+     "k": "61961 at https://techinsights.com",
+     "t": "AI Outlook 2027: Five Trends Reshaping AI Infrastructure, Compute and Memory",
+     "u": "https://techinsights.com/outlook-2027/ai",
+     "d": "2026-11-04",
+     "s": "AI Outlook 2027: Five Trends Reshaping AI Infrastructure, Compute and Memory JWinters Wed, 11/04/2026 - 20:29"
+    },
+    {
      "k": "61960 at https://techinsights.com",
      "t": "Advanced Packaging Outlook 2027: Five Trends Reshaping CoWoS, HBM and Chiplets",
      "u": "https://techinsights.com/outlook-2027/advanced-packaging",
@@ -13884,20 +13898,13 @@
      "u": "https://techinsights.com/behind-the-headlines/cxl-memory-pooling-samsung-sk-hynix",
      "d": "2026-10-28",
      "s": "CXL Memory Pooling: Why Samsung & SK hynix Are Racing JWinters Wed, 10/28/2026 - 17:49"
-    },
-    {
-     "k": "61954 at https://techinsights.com",
-     "t": "Chip Observer | Semiconductor Industry Briefing — October 2026",
-     "u": "https://techinsights.com/chip-observer/october-2026",
-     "d": "2026-10-23",
-     "s": "Chip Observer | Semiconductor Industry Briefing — October 2026 JWinters Fri, 10/23/2026 - 18:57"
     }
    ],
-   "checkedAt": "2026-11-04"
+   "checkedAt": "2026-11-05"
   },
   "semianalysis": {
    "items": [],
-   "checkedAt": "2026-11-04"
+   "checkedAt": "2026-11-05"
   },
   "bnef": {
    "items": [
@@ -13972,7 +13979,7 @@
      "s": "Many consumers pay more for power today than before the Covid-19 pandemic. Explore how prices have shifted around the globe."
     }
    ],
-   "checkedAt": "2026-11-04"
+   "checkedAt": "2026-11-05"
   },
   "iceaa": {
    "items": [
@@ -14047,7 +14054,7 @@
      "s": "Cost Estimating NewsBrief: August 21, 2026 Agencies Rethink AI Acquisition Strategies as Tech Outpaces Traditional Contracting Timelines…"
     }
    ],
-   "checkedAt": "2026-11-04"
+   "checkedAt": "2026-11-05"
   },
   "humanoidguide": {
    "items": [
@@ -14126,6 +14133,27 @@
   },
   "therobotreport": {
    "items": [
+    {
+     "k": "https://www.therobotreport.com/?p=590116",
+     "t": "Robotics Startup Radar 2026",
+     "u": "https://www.therobotreport.com/robotics-startup-radar-2026/",
+     "d": "2026-11-04",
+     "s": "The 2026 Startup Radar presents innovative young companies developing hardware, software, and business models for the next generation of…"
+    },
+    {
+     "k": "https://www.therobotreport.com/?p=590112",
+     "t": "How GlobalLogic helped Haystack Robotics build a UV disinfection robot",
+     "u": "https://www.therobotreport.com/how-globallogic-helped-haystack-robotics-build-uv-disinfection-robot/",
+     "d": "2026-11-04",
+     "s": "When designing the robot, GlobalLogic said it didn't want to just quickly design a robot for one use case or environment. The post How…"
+    },
+    {
+     "k": "https://www.therobotreport.com/?p=590093",
+     "t": "LiberAI Unveils Liber-0, a World Action Model That Grounds Human Experience in Robot Action",
+     "u": "https://www.therobotreport.com/liberai-unveils-liber-0-a-world-action-model-that-grounds-human-experience-in-robot-action/",
+     "d": "2026-11-04",
+     "s": "LiberAI introduces Liber-0, a world action model pretrained on more than 2.2 million hours of human experience to support zero-shot robot…"
+    },
     {
      "k": "https://www.therobotreport.com/?p=589956",
      "t": "Ben Waters on the latest wireless charging strategies",
@@ -14209,30 +14237,9 @@
      "u": "https://www.therobotreport.com/percepto-launches-axion-ai-platform-unify-inspection-data-analysis/",
      "d": "2026-10-30",
      "s": "Percepto has launched Axion, a hardware-agnostic physical AI platform delivering visibility across mission-critical infrastructure. The…"
-    },
-    {
-     "k": "https://www.therobotreport.com/?p=590075",
-     "t": "Humanoid developer Agility now expects to raise $465M in SPAC deal",
-     "u": "https://www.therobotreport.com/humanoid-developer-agility-now-expects-raise-465m-spac-deal/",
-     "d": "2026-10-30",
-     "s": "Agility said it expects to raise $465 million in its combination with Churchill Capital Corp XI, $155 million less than it had estimated.…"
-    },
-    {
-     "k": "https://www.therobotreport.com/?p=590062",
-     "t": "RoboBusiness 2026 recap",
-     "u": "https://www.therobotreport.com/robobusiness-2026-recap/",
-     "d": "2026-10-30",
-     "s": "The Robot Report editorial team sits down for a recap of noteworthy sessions and networking around the 2026 RoboBusiness event. The post…"
-    },
-    {
-     "k": "https://www.therobotreport.com/?p=590070",
-     "t": "White House makes Section 232 determination regarding foreign-made robots",
-     "u": "https://www.therobotreport.com/white-house-makes-section-232-determination-regarding-foreign-made-robots/",
-     "d": "2026-10-29",
-     "s": "The U.S. secretary of commerce's Section 232 investigation concluded that dependence on robotics imports poses a national security risk.…"
     }
    ],
-   "checkedAt": "2026-11-04"
+   "checkedAt": "2026-11-05"
   },
   "ieeespectrum": {
    "items": [
@@ -14342,117 +14349,117 @@
      "s": "IEEE Life Fellow Manfred “Fred” J. Schindler has been elected as the 2027 IEEE president-elect . He will begin serving as president on 1…"
     }
    ],
-   "checkedAt": "2026-11-04"
+   "checkedAt": "2026-11-05"
   },
   "hellot": {
    "items": [
     {
-     "k": "https://www.hellot.net/news/article.html?no=116005",
-     "t": "[헬로스톡] 11월 3일 주목할 종목 : 뷰웍스·한섬·팬오션·포스코퓨처엠",
-     "u": "https://www.hellot.net/news/article.html?no=116005",
-     "d": "2026-11-03",
-     "s": "오늘의 시장 한눈에 11월 3일 국내 증시는 AI 투자 수익성 우려와 기술주 약세가 겹치며 급락했다. KOSPI는 전일 대비 210.29p(-3.59%) 하락한 5,648.79p로 마감했고, KOSDAQ은 29.97p(-4.08%) 급락한…"
+     "k": "https://www.hellot.net/news/article.html?no=116043",
+     "t": "모두싸인, 저스피스재단과 헤리티지 인 피스 지속…피란수도 부산 세계화 나서",
+     "u": "https://www.hellot.net/news/article.html?no=116043",
+     "d": "2026-11-05",
+     "s": "국내 1위 전자서명 기업 모두싸인(대표 이영준)이 가수 지드래곤이 설립한 저스피스재단과 함께 유네스코 세계유산기금 캠페인 '헤리티지 인 피스(Heritage In Peace)' 시즌2를 전개한다고 5일 밝혔다. 한국전쟁 당시 임시 수도였던 '피란수도…"
     },
     {
-     "k": "https://www.hellot.net/news/article.html?no=116002",
-     "t": "휴머노이드가 ‘일하는 법’ 배우는 데이터 생산기지 문 연다",
-     "u": "https://www.hellot.net/news/article.html?no=116002",
-     "d": "2026-11-03",
-     "s": "휴머노이드 로봇에게 ‘일하는 법’을 가르칠 AI 휴머노이드 데이터 팩토리가 국내에 문을 열었다. 과학기술정보통신부는 한국기계연구원(기계연), 한국전자통신연구원(ETRI)과 함께 11월 3일 기계연 본원에서 ‘AI 휴머노이드 데이터 팩토리’ 개소식을…"
+     "k": "https://www.hellot.net/news/article.html?no=116042",
+     "t": "루닛, 볼파라 인수 CB 81% 정리 완료…신규 CB로 잔여 재무 부담 해소 나서",
+     "u": "https://www.hellot.net/news/article.html?no=116042",
+     "d": "2026-11-05",
+     "s": "의료 인공지능(AI) 기업 루닛(대표 서범석)이 기존 전환사채(CB) 대환을 위해 477억 원 규모의 신규 CB 발행을 결정했다고 4일 공시했다. 기존 고금리 CB를 더 유리한 조건으로 전환해 재무 부담을 완화하고 중장기 성장 기반을 강화하려는…"
     },
     {
-     "k": "https://www.hellot.net/news/article.html?no=116001",
-     "t": "대한민국 제조업 판 바꾼다…산업부, 제조AI 4단계 확산전략 가동",
-     "u": "https://www.hellot.net/news/article.html?no=116001",
-     "d": "2026-11-03",
-     "s": "산업통상부가 11월 3일 서울 프레스센터에서 현대모비스 이규석 대표이사, HD한국조선해양 김형관 사장, LS엠트론 신재호 대표, 서울대 김영오 공대학장 등 기업인과 전문가 200여 명이 참석한 가운데 ‘AI 팩토리 전략회의’를 열고 'AI 팩토리…"
+     "k": "https://www.hellot.net/news/article.html?no=116041",
+     "t": "[헬로스톡] 11/4 주목할 종목 : LG생활건강·풍산·비에이치·한국항공우주",
+     "u": "https://www.hellot.net/news/article.html?no=116041",
+     "d": "2026-11-04",
+     "s": "오늘의 시장 한눈에 11월 4일 국내 증시는 하루 만에 반등에 성공했다. 전일 미국 기술주 강세 및 주요 기업 실적 호조로 상승 출발했으나, 장중 미 중간선거 결과에 따른 AI 투자 둔화 우려로 하락세를 보였다. 이후 제약 및 전기·전자주 중심으로…"
     },
     {
-     "k": "https://www.hellot.net/news/article.html?no=116000",
-     "t": "제조 3D CAD에서 BIM으로…계약서 작성 실무까지 한 번에 짚는다",
-     "u": "https://www.hellot.net/news/article.html?no=116000",
-     "d": "2026-11-03",
-     "s": "발주처의 BIM(건물정보모델링) 납품 요구가 EPC(설계·조달·시공) 단계를 넘어 기자재 공급사인 제조사에까지 미치는 사례가 늘고 있다. 그러나 정작 제조사 입장에서는 3D CAD로 설계한 모델을 BIM 환경에서 어떻게 활용해야 하는지, 계약 조건을…"
+     "k": "https://www.hellot.net/news/article.html?no=116037",
+     "t": "[포토뉴스] '로봇 외교' 시작됐다...국내외 주요 인사의 부스 순회 ‘온에어’",
+     "u": "https://www.hellot.net/news/article.html?no=116037",
+     "d": "2026-11-04",
+     "s": "케이팝(K-POP) 음악에 맞춰 춤을 추던 휴머노이드 로봇(Humanoid Robot)이 태권도 품새 동작으로 전환한다. 팔을 뻗고 다리를 들어 올리는 동작마다 관절의 움직임과 균형 제어가 이어진다. 이 같은 휴머노이드 공연이 '2026 로보월드'…"
     },
     {
-     "k": "https://www.hellot.net/news/article.html?no=115999",
-     "t": "제조 현장 연결성의 핵심, 차세대 HMI로 답하다…미쓰비시전기 GOT3000 웨비나 개최",
-     "u": "https://www.hellot.net/news/article.html?no=115999",
-     "d": "2026-11-03",
-     "s": "스마트팩토리 구축이 가속화되면서 작업자와 설비, 상위 IT 시스템을 얼마나 유기적으로 연결하느냐가 생산 현장의 경쟁력을 가르는 핵심 요소로 부상하고 있다. 설비 상태를 실시간으로 파악하고 필요한 정보에 빠르게 접근할 수 있는 환경 구축이 그 어느…"
+     "k": "https://www.hellot.net/news/article.html?no=116036",
+     "t": "[포토뉴스] “이 로봇은 어떻게 움직여요?” 주요 인사가 찾은 로봇의 미래는?",
+     "u": "https://www.hellot.net/news/article.html?no=116036",
+     "d": "2026-11-04",
+     "s": "케이팝(K-POP) 음악에 맞춰 춤을 추던 휴머노이드 로봇(Humanoid Robot)이 태권도 품새 동작으로 전환한다. 팔을 뻗고 다리를 들어 올리는 동작마다 관절의 움직임과 균형 제어가 이어진다. 이 같은 휴머노이드 공연이 '2026 로보월드'…"
     },
     {
-     "k": "https://www.hellot.net/news/article.html?no=115998",
-     "t": "제조 현장 AI, 도입을 넘어 '작동'으로…AW 2027 베스트솔루션 데이 6탄 개최",
-     "u": "https://www.hellot.net/news/article.html?no=115998",
-     "d": "2026-11-03",
-     "s": "제조업에 인공지능(AI)을 접목하려는 시도가 확산되는 가운데, 비전 검사나 공정 데이터 분석 등 일부 영역을 제외하면 현장 적용이 여전히 쉽지 않다는 목소리가 높다. 기술의 잠재력은 인정하면서도 실제 제조라인에서 안정적으로 작동하는 AI를 구축하는…"
+     "k": "https://www.hellot.net/news/article.html?no=116035",
+     "t": "[포토뉴스] 로봇 시대의 주인공은 누구? 객석 채운 '인간들'의 관심",
+     "u": "https://www.hellot.net/news/article.html?no=116035",
+     "d": "2026-11-04",
+     "s": "케이팝(K-POP) 음악에 맞춰 춤을 추던 휴머노이드 로봇(Humanoid Robot)이 태권도 품새 동작으로 전환한다. 팔을 뻗고 다리를 들어 올리는 동작마다 관절의 움직임과 균형 제어가 이어진다. 이 같은 휴머노이드 공연이 '2026 로보월드'…"
     },
     {
-     "k": "https://www.hellot.net/news/article.html?no=115997",
-     "t": "레드햇 “AI 시대에도 '책임 있는 취약점 공개' 원칙 지켜야”",
-     "u": "https://www.hellot.net/news/article.html?no=115997",
-     "d": "2026-11-03",
-     "s": "레드햇이 AI 기반 취약점 탐색이 급증하는 이른바 '취약점 대재앙(Vulnpocalypse)' 시대에도 책임 있는 보안 엠바고와 조율된 취약점 공개(coordinated vulnerability disclosure)가 여전히 필요하다고 강조했다.…"
+     "k": "https://www.hellot.net/news/article.html?no=116034",
+     "t": "[포토뉴스] “셋, 둘, 하나!” 한자리에 모인 로봇 산업 리더들, 개막 선언",
+     "u": "https://www.hellot.net/news/article.html?no=116034",
+     "d": "2026-11-04",
+     "s": "케이팝(K-POP) 음악에 맞춰 춤을 추던 휴머노이드 로봇(Humanoid Robot)이 태권도 품새 동작으로 전환한다. 팔을 뻗고 다리를 들어 올리는 동작마다 관절의 움직임과 균형 제어가 이어진다. 이 같은 휴머노이드 공연이 '2026 로보월드'…"
     },
     {
-     "k": "https://www.hellot.net/news/article.html?no=115996",
-     "t": "명지전문대, 지역 문제 해결 나서는 ‘AI 리빙랩’ 개최",
-     "u": "https://www.hellot.net/news/article.html?no=115996",
-     "d": "2026-11-03",
-     "s": "이달 14~15일 ‘Step AI Camp’…고교생부터 예비창업자까지 40명 모집 볼리비아·코스타리카와 동시 동시 진행…돌봄·안전·환경 분야 해법 모색 명지전문대학이 지역 주민과 중남미 학생들이 함께 AI 로봇을 제작하며 지역 현안을 해결하는 체험형…"
+     "k": "https://www.hellot.net/news/article.html?no=116033",
+     "t": "[포토뉴스] ‘로봇쇼’가 휩쓸고 간 개막식 현장...이번에는 韓 로봇 산업 미래에 '집중'",
+     "u": "https://www.hellot.net/news/article.html?no=116033",
+     "d": "2026-11-04",
+     "s": "케이팝(K-POP) 음악에 맞춰 춤을 추던 휴머노이드 로봇(Humanoid Robot)이 태권도 품새 동작으로 전환한다. 팔을 뻗고 다리를 들어 올리는 동작마다 관절의 움직임과 균형 제어가 이어진다. 이 같은 휴머노이드 공연이 '2026 로보월드'…"
     },
     {
-     "k": "https://www.hellot.net/news/article.html?no=115995",
-     "t": "일레븐랩스, 음성 에이전트용 STS 모델 '일레븐 리얼타임' 공개",
-     "u": "https://www.hellot.net/news/article.html?no=115995",
-     "d": "2026-11-03",
-     "s": "일레븐랩스(ElevenLabs)가 음성 에이전트를 위한 새로운 음성 대 음성(STS) 모델 '일레븐 리얼타임(Eleven Realtime)'을 공개했다. 빠르고 자연스러운 대화에 최적화된 '일레븐 리얼타임 v1 미니(Eleven Realtime v1…"
+     "k": "https://www.hellot.net/news/article.html?no=116032",
+     "t": "[포토뉴스] 이번에는 태권도다!...발차기에 품새까지, 로봇도 유단자 될까?",
+     "u": "https://www.hellot.net/news/article.html?no=116032",
+     "d": "2026-11-04",
+     "s": "▲ (촬영·편집 : 헬로티 최재규 기자) 케이팝(K-POP) 음악에 맞춰 춤을 추던 휴머노이드 로봇(Humanoid Robot)이 태권도 품새 동작으로 전환한다. 팔을 뻗고 다리를 들어 올리는 동작마다 관절의 움직임과 균형 제어가 이어진다. 이 같은…"
     },
     {
-     "k": "https://www.hellot.net/news/article.html?no=115994",
-     "t": "과기정통부, 예측 어려운 위기에 RD로 즉각 대응...2차 과제 연구 착수",
-     "u": "https://www.hellot.net/news/article.html?no=115994",
-     "d": "2026-11-03",
-     "s": "범부처 현장수요 신속대응 Ramp;D 2차 과제 3건 선정...불법사이트·대형화재·산불피해 복구 과학기술정보통신부가 불법사이트 대응과 대형 화재 현장지원 및 산불피해지 복구 관리 등 국가 긴급현안 해결을 위한 연구개발에 착수한다. 과기정통부는…"
+     "k": "https://www.hellot.net/news/article.html?no=116031",
+     "t": "[포토뉴스] 로봇도 케이팝에 진심? 무대 위 '로봇 아이돌' 등장",
+     "u": "https://www.hellot.net/news/article.html?no=116031",
+     "d": "2026-11-04",
+     "s": "▲ 국내 로봇 솔루션 업체 로보티즈의 휴머노이드 'AI 사피엔스(AI Sapiens)'가 특유의 가동성을 구현하는 모습. (촬영·편집 : 헬로티 최재규 기자) 케이팝(K-POP) 음악에 맞춰 춤을 추던 휴머노이드 로봇(Humanoid Robot)이…"
     },
     {
-     "k": "https://www.hellot.net/news/article.html?no=115990",
-     "t": "산업부, 해외와 다른 제품도 기술 유사하면 유턴 인정...시행령 개정",
-     "u": "https://www.hellot.net/news/article.html?no=115990",
-     "d": "2026-11-03",
-     "s": "해외진출기업복귀법 시행령 개정안 국무회의 의결…11월 23일 시행 해외에서 생산하던 제품과 국내에서 생산하는 제품이 다르더라도 기술과 기능이 비슷하면 국내복귀(유턴)로 인정받을 수 있게 된다. 이 같은 내용을 담은 '해외진출기업복귀법 시행령'…"
+     "k": "https://www.hellot.net/news/article.html?no=116030",
+     "t": "[로보월드 2026] 政부터 ‘1700대’ 바이어 자처했다 “로봇 잘 쓰는 나라에서 잘 만드는 나라로”",
+     "u": "https://www.hellot.net/news/article.html?no=116030",
+     "d": "2026-11-04",
+     "s": "1700대. 정부가 내년 공공부문에서 먼저 구매하겠다고 제시한 인공지능(AI) 기반 로봇 물량이다. 투입 예정 예산은 3400억 원. 구매한 로봇을 실제 현장에 배치해 데이터를 확보하고, 이를 다시 성능 개선에 활용하겠다는 구상이다. 문제는 순서다.…"
     },
     {
-     "k": "https://www.hellot.net/news/article.html?no=115989",
-     "t": "국표원, 석고보드·샌드위치패널 KS 3종 개정…건축 화재안전 강화",
-     "u": "https://www.hellot.net/news/article.html?no=115989",
-     "d": "2026-11-03",
-     "s": "국표원, 석고보드·샌드위치패널 KS 3종 개정...11월 4일 시행 산업통상부 국가기술표준원이 유통·사용되는 건축자재의 특성을 반영하고 화재안전을 강화하기 위해 석고보드와 샌드위치패널 관련 국가표준(KS) 3종을 11월 4일 개정했다. 개정 대상은…"
+     "k": "https://www.hellot.net/news/article.html?no=116029",
+     "t": "12V/24V 아키텍처에서 48V로 진화하는 차량용 전기 시스템 설계",
+     "u": "https://www.hellot.net/news/article.html?no=116029",
+     "d": "2026-11-04",
+     "s": "개요 자동차 산업은 현재 내연기관 차량에서 전동화, 연결성, 더욱 향상된 지능화로 전환하는 중대한 변화를 겪고 있다. 이러한 전환은 소프트웨어 중심 자동차(SDV)를 포함한 차세대 차량 설계의 개발을 촉진하고 있으며, 기존 전기/전자(E/E)…"
     },
     {
-     "k": "https://www.hellot.net/news/article.html?no=115988",
-     "t": "산업부, 수출 중추기업 육성 첫해 성과...첨단산업 분야 53% 성장",
-     "u": "https://www.hellot.net/news/article.html?no=115988",
-     "d": "2026-11-03",
-     "s": "100개사 9월까지 8.2억 달러 수출...첨단산업 53% 증가 산업통상부가 올해 처음 선보인 ‘K-수출스타' 사업의 참여기업들이 가파른 수출 증가세를 보이고 있다. 산업부는 K-수출스타 참여기업 100개사가 9월까지 총 8억 2,000만 달러를…"
+     "k": "https://www.hellot.net/news/article.html?no=116024",
+     "t": "페덱스, 반도체·AI 인프라·전자상거래 공급망 겨냥 태평양 노선 확충",
+     "u": "https://www.hellot.net/news/article.html?no=116024",
+     "d": "2026-11-04",
+     "s": "세계 최대 특송 회사 중 하나인 페덱스가 연말 성수기를 앞두고 아시아태평양 지역과 미국 간 태평양 횡단 항공 네트워크를 대폭 확대했다. 보잉 777F 화물기를 주 5회 신규 운항해 주당 56만 7,000kg(약 125만 파운드) 규모의 화물 수송력을…"
     },
     {
-     "k": "https://www.hellot.net/news/article.html?no=115987",
-     "t": "한국폴리텍 반도체융합캠퍼스, 기업과 반도체 인력양성 방안 논의",
-     "u": "https://www.hellot.net/news/article.html?no=115987",
-     "d": "2026-11-03",
-     "s": "제조·자동화 설비 운영·관리 직무 중심 교육과 취업 연계 협력 모색 재직자 대상 전공심화·직업교육과정 소개…기업 현장 수요 반영 추진 한국폴리텍대학 반도체융합캠퍼스가 반도체·제조·자동화 분야 기업들과 만나 현장 직무역량을 반영한 인력양성과 취업연계…"
+     "k": "https://www.hellot.net/news/article.html?no=116025",
+     "t": "CJ대한통운, 테일즈런너와 콜라보 아이템 5종 출시…Z세대 브랜드 접점 확대",
+     "u": "https://www.hellot.net/news/article.html?no=116025",
+     "d": "2026-11-04",
+     "s": "CJ대한통운이 인기 온라인 게임 '테일즈런너'와 통합 브랜드 '오네'를 활용한 콜라보레이션 아이템 5종을 출시했다고 4일 밝혔다. 지난 8월 게임을 접목한 이색 채용설명회에 이어 이번에는 게임 콘텐츠로 협업을 확대하며 Z세대와의 접점을 넓히는…"
     },
     {
-     "k": "https://www.hellot.net/news/article.html?no=115980",
-     "t": "나만 느끼던 가상현실 속 물체의 촉감, 상대방도 ‘눈으로’ 읽는다",
-     "u": "https://www.hellot.net/news/article.html?no=115980",
-     "d": "2026-11-03",
-     "s": "KAIST 연구진이 가상현실(VR)에서 물체의 거친 정도를 가상 손의 윤곽선 모양과 움직임으로 보여주는 기술을 개발했다. KAIST는 메타버스대학원 우운택 교수가 이끄는 유비쿼터스 가상현실 연구실(UVR Lab) 소속 연구진이 이 기술로 국제…"
+     "k": "https://www.hellot.net/news/article.html?no=116026",
+     "t": "콜로세움, K팝 IP 활용 일본·미국 해외 진출 전략 웨비나 오는 10일 개최",
+     "u": "https://www.hellot.net/news/article.html?no=116026",
+     "d": "2026-11-04",
+     "s": "글로벌 공급망 관리(SCM)·유통 기업 콜로세움코퍼레이션(대표 박진수)이 오는 11월 10일 'K-브랜드 해외 진출, K-POP IP를 활용하다' 웨비나를 온라인으로 개최한다고 4일 밝혔다. 해외 시장 진출을 검토 중인 K-브랜드를 대상으로…"
     }
    ],
-   "checkedAt": "2026-11-04"
+   "checkedAt": "2026-11-05"
   },
   "hackteria": {
    "items": [],
