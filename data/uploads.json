@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-14",
+ "updatedAt": "2026-11-15",
  "note": "요약은 각 채널·사이트가 쓴 설명 앞부분이라 원문 언어 그대로 나옵니다.",
  "channels": {
   "agentjayz": {
@@ -1356,56 +1356,56 @@
   "hackaday_web": {
    "items": [
     {
-     "k": "https://hackaday.com/?p=1425345",
-     "t": "X Window System on the ESP32",
-     "u": "https://hackaday.com/2026/11/13/x-window-system-on-the-esp32/",
+     "k": "https://hackaday.com/?p=1427931",
+     "t": "DIVINER: Occult Synth Firmware for the Cardputer",
+     "u": "https://hackaday.com/2026/11/14/diviner-occult-synth-firmware-for-the-cardputer/",
+     "d": "2026-11-15",
+     "s": "We see some strange software around these parts, but this is probably the strangest. DIVINER is a firmware for the M5 Cardputer, which is…"
+    },
+    {
+     "k": "https://hackaday.com/?p=1427895",
+     "t": "Warm Analog DSP, on the ESP",
+     "u": "https://hackaday.com/2026/11/14/warm-analog-dsp-on-the-esp/",
      "d": "2026-11-14",
-     "s": "There are a lot of things you can do with an Xserver, but run it on a microcontroller? Well, if that microcontroller is an ESP32-S3,…"
+     "s": "We love audio, and we love messing around with it. So when [mircemk] wrote in with his latest audio-mangling device, we had to give it a…"
     },
     {
-     "k": "https://hackaday.com/?p=1425268",
-     "t": "Using a Toothbrush’s NFC chip to Unlock a Computer",
-     "u": "https://hackaday.com/2026/11/13/using-a-toothbrushs-nfc-chip-to-unlock-a-computer/",
-     "d": "2026-11-13",
-     "s": "Depending on which type of electric toothbrush you are using, the replaceable brushes may contain an NFC chip that the handle and possibly…"
+     "k": "https://hackaday.com/?p=1427897",
+     "t": "A Hazeltine 1420 Lives Again",
+     "u": "https://hackaday.com/2026/11/14/a-hazeltine-1420-lives-again/",
+     "d": "2026-11-14",
+     "s": "There was a time when buying a computer also meant picking out a compatible terminal. There were many to choose from, some good and some…"
     },
     {
-     "k": "https://hackaday.com/?p=1425227",
-     "t": "Drop-in Vintage CPU Replacements with the tranZPUter Project",
-     "u": "https://hackaday.com/2026/11/13/drop-in-vintage-cpu-replacements-with-the-tranzputer-project/",
-     "d": "2026-11-13",
-     "s": "One of the struggles with vintage computer systems is that many of the ICs in them have no modern-day version that you can just purchase…"
+     "k": "https://hackaday.com/?p=1425407",
+     "t": "IRis Learning Remote Has Five Buttons, Supports Thousands of Devices",
+     "u": "https://hackaday.com/2026/11/14/iris-learning-remote-has-five-buttons-supports-thousands-of-devices/",
+     "d": "2026-11-14",
+     "s": "Universal IR remotes able to learn codes from existing devices were once popular consumer items as well as DIY projects, but they could…"
     },
     {
-     "k": "https://hackaday.com/?p=1425206&preview=true&preview_id=1425206",
-     "t": "Hackaday Podcast Episode 394: Linux in Weird Places, Yet More Hidden SDRs, and a Supercon Wrapup",
-     "u": "https://hackaday.com/2026/11/13/hackaday-podcast-episode-394-linux-in-weird-places-yet-more-hidden-sdrs-and-a-supercon-wrapup/",
-     "d": "2026-11-13",
-     "s": "Hackaday Editors Elliot Williams and Tom Nardi are back from Supercon, and they’ve got plenty of thoughts to share about it. But before…"
+     "k": "https://hackaday.com/?p=1398616",
+     "t": "Reverse Engineering Score Perfect to Rescue its Files",
+     "u": "https://hackaday.com/2026/11/14/reverse-engineering-score-perfect-to-rescue-its-files/",
+     "d": "2026-11-14",
+     "s": "There are myriad challenges associated with data preservation – bit rot, loss of metadata, and hardware failures, among others – but one of…"
     },
     {
-     "k": "https://hackaday.com/?p=1425187",
-     "t": "This Week In Security: Four-Digit Patch Tuesday, SSH Exploited, GitBook Breach, Android GhostMap",
-     "u": "https://hackaday.com/2026/11/13/this-week-in-security-four-digit-patch-tuesday-ssh-exploited-gitbook-breach-android-ghostmap/",
-     "d": "2026-11-13",
-     "s": "It’s the second Tuesday of the month, and that means another Microsoft Patch Tuesday. The new normal is that the numbers are hard to…"
+     "k": "https://hackaday.com/?p=1425388",
+     "t": "Making CO₂ Sensors Fail Visibly, Not Silently",
+     "u": "https://hackaday.com/2026/11/14/making-co%e2%82%82-sensors-fail-visibly-not-silently/",
+     "d": "2026-11-14",
+     "s": "CO₂ buildup in a living area can be a serious problem, and a sensor that fails quietly cannot be relied upon. [William Collis] addressed…"
     },
     {
-     "k": "https://hackaday.com/?p=1425240",
-     "t": "Fixing a Dead Socket LGA 1851 Mainboard with a Resistor",
-     "u": "https://hackaday.com/2026/11/13/fixing-a-dead-socket-lga-1851-mainboard-with-a-resistor/",
-     "d": "2026-11-13",
-     "s": "Doing board level diagnosis on a PCB is hardly black magic, but some PCBs are definitely more daunting than others. The Socket LGA 1851…"
-    },
-    {
-     "k": "https://hackaday.com/?p=1425214",
-     "t": "Hacked Nixie Clock Waits for the Bus",
-     "u": "https://hackaday.com/2026/11/13/hacked-nixie-clock-waits-for-the-bus/",
-     "d": "2026-11-13",
-     "s": "Nixie clocks have become popular enough that these days there’s no shortage of turn-key options that let you experience that warm glow with…"
+     "k": "https://hackaday.com/?p=1425299",
+     "t": "ESP32 Flight Tracker on Apple CRT",
+     "u": "https://hackaday.com/2026/11/13/esp32-flight-tracker-on-apple-crt/",
+     "d": "2026-11-14",
+     "s": "Sometimes we’re most taken by what’s on the screen; sometimes the screen itself is the most interesting part of the project. In this case,…"
     }
    ],
-   "checkedAt": "2026-11-14"
+   "checkedAt": "2026-11-15"
   },
   "chargerlab_web": {
    "items": [
@@ -1480,7 +1480,7 @@
      "s": "The HONOR CHOICE charger features a single USB-A port with 5V/3A output, making it suitable for the daily charging and power needs of IoT…"
     }
    ],
-   "checkedAt": "2026-11-14"
+   "checkedAt": "2026-11-15"
   },
   "shirriff": {
    "items": [
@@ -1569,7 +1569,7 @@
      "s": ""
     }
    ],
-   "checkedAt": "2026-11-14"
+   "checkedAt": "2026-11-15"
   },
   "semieng": {
    "items": [
@@ -1644,7 +1644,7 @@
      "s": "The rationale behind 8-bit floating-point data formats, their ecosystem momentum, and hardware support. The post Introduction To FP8…"
     }
    ],
-   "checkedAt": "2026-11-14"
+   "checkedAt": "2026-11-15"
   },
   "eevblog": {
    "items": [
@@ -6122,6 +6122,55 @@
   "nsf": {
    "items": [
     {
+     "k": "gTpn5Whu2ao",
+     "t": "SPACEX CAUGHT A STARSHIP! - SpaceX Starship Flight 15",
+     "u": "https://www.youtube.com/watch?v=gTpn5Whu2ao",
+     "d": "2026-11-14",
+     "s": "Ship 42 returning for its first attempt at being caught by Pad 2's chopsticks. Starship News Articles: Hardcore Starship Fans: L2 SpaceX:…"
+    },
+    {
+     "k": "vlV6347oqsQ",
+     "t": "SpaceX Just CAUGHT a STARSHIP! #spacex #starship #elonmusk #explosion",
+     "u": "https://www.youtube.com/shorts/vlV6347oqsQ",
+     "d": "2026-11-14",
+     "s": "⚡ Become a member of NSF's channel for exclusive discord access, fast turnaround clips, and other exclusive benefits. Your support helps us…"
+    },
+    {
+     "k": "vw_YzIlbwuM",
+     "t": "SpaceX Starship Flight 15 - Coast Phase Part 2 - LIVE",
+     "u": "https://www.youtube.com/watch?v=vw_YzIlbwuM",
+     "d": "2026-11-14",
+     "s": "Continued coverage of Flight 15 in the second part of Ship 42's Coast Phase. Starship News Articles: Hardcore Starship Fans: L2 SpaceX:…"
+    },
+    {
+     "k": "zWHMFJII-sA",
+     "t": "ULA launches Vulcan launches Amazon Leo (LV-01)",
+     "u": "https://www.youtube.com/watch?v=zWHMFJII-sA",
+     "d": "2026-11-14",
+     "s": "Launch Window: 12:11pm Eastern to 12:40pm Eastern. ⚡ Become a member of NASASpaceflight's channel for exclusive discord access, fast…"
+    },
+    {
+     "k": "uyFdbzAcOZw",
+     "t": "SpaceX Starship Flight 15 - Coast Phase Part 1 - LIVE",
+     "u": "https://www.youtube.com/watch?v=uyFdbzAcOZw",
+     "d": "2026-11-14",
+     "s": "NSF continued coverage of SpaceX's Starship Flight 15 from T+3 hours after launch. Starship News Articles: Hardcore Starship Fans: L2…"
+    },
+    {
+     "k": "9XM0lpVlvo0",
+     "t": "SPACEX LAUNCHES STARSHIP FLIGHT 15 - Launch & Booster Catch",
+     "u": "https://www.youtube.com/watch?v=9XM0lpVlvo0",
+     "d": "2026-11-14",
+     "s": "Launch Window: November 13th from 16:45 to 18:00 CST (22:45-00:00 UTC) Target T0: November 13th at 16:45 CST (22:45 UTC) Mission: Starship…"
+    },
+    {
+     "k": "U3FBAAMwa_E",
+     "t": "Starship Booster DIVERTS - Catch Called Off! #spacex #starship #elonmusk #explosion",
+     "u": "https://www.youtube.com/shorts/U3FBAAMwa_E",
+     "d": "2026-11-14",
+     "s": "⚡ Become a member of NSF's channel for exclusive discord access, fast turnaround clips, and other exclusive benefits. Your support helps us…"
+    },
+    {
      "k": "rXzCsW73e24",
      "t": "SpaceX Stacks Ship 42 with Booster 22 ahead of Flight 15",
      "u": "https://www.youtube.com/watch?v=rXzCsW73e24",
@@ -6150,27 +6199,6 @@
      "s": "Flight 15 as soon as November 13 🔗 NSF Store: ⚡ Become a member of NSF's channel for exclusive discord access, fast turnaround clips, and…"
     },
     {
-     "k": "gTpn5Whu2ao",
-     "t": "SPACEX ATTEMPTS TO CATCH A STARSHIP - SpaceX Starship Flight 15",
-     "u": "https://www.youtube.com/watch?v=gTpn5Whu2ao",
-     "d": "2026-11-11",
-     "s": "Ship 42 returning for its first attempt at being caught by Pad 2's chopsticks. Starship News Articles: Hardcore Starship Fans: L2 SpaceX:…"
-    },
-    {
-     "k": "vw_YzIlbwuM",
-     "t": "SpaceX Starship Flight 15 - Coast Phase Part 2 - LIVE",
-     "u": "https://www.youtube.com/watch?v=vw_YzIlbwuM",
-     "d": "2026-11-11",
-     "s": "Continued coverage of Flight 15 in the second part of Ship 42's Coast Phase. Starship News Articles: Hardcore Starship Fans: L2 SpaceX:…"
-    },
-    {
-     "k": "uyFdbzAcOZw",
-     "t": "SpaceX Starship Flight 15 - Coast Phase Part 1 - LIVE",
-     "u": "https://www.youtube.com/watch?v=uyFdbzAcOZw",
-     "d": "2026-11-11",
-     "s": "NSF continued coverage of SpaceX's Starship Flight 15 from T+3 hours after launch. Starship News Articles: Hardcore Starship Fans: L2…"
-    },
-    {
      "k": "2L5mTBR6Djs",
      "t": "SpaceX Rolls Booster 22 for Launch | Countdown To Launch",
      "u": "https://www.youtube.com/watch?v=2L5mTBR6Djs",
@@ -6185,13 +6213,6 @@
      "s": "SpaceX is preparing for Starship Flight 15 and its first attempt to catch both the booster and ship at Starbase. Meanwhile, NASA has…"
     },
     {
-     "k": "9XM0lpVlvo0",
-     "t": "SPACEX LAUNCHES STARSHIP FLIGHT 15 - Launch & Booster Catch",
-     "u": "https://www.youtube.com/watch?v=9XM0lpVlvo0",
-     "d": "2026-11-08",
-     "s": "Launch Window: November 13th from 16:45 to 18:00 CST (22:45-00:00 UTC) Target T0: November 13th at 16:45 CST (22:45 UTC) Mission: Starship…"
-    },
-    {
      "k": "7wRajzBvEPo",
      "t": "NSF at NASA's Max Power Event - Day 2",
      "u": "https://www.youtube.com/watch?v=7wRajzBvEPo",
@@ -6204,30 +6225,9 @@
      "u": "https://www.youtube.com/watch?v=Zm0tHvPrBD8",
      "d": "2026-11-08",
      "s": "Join NSF as we cover NASA's Flagship Max Power event on Day 1 at the Kennedy Space Center. There will be immersive space exhibits, NASA…"
-    },
-    {
-     "k": "gX3xmAalnPk",
-     "t": "Starbase prepares for a Flight 15 double catch  - Starbase Summary",
-     "u": "https://www.youtube.com/watch?v=gX3xmAalnPk",
-     "d": "2026-11-07",
-     "s": "SpaceX could be less than a week away from Flight 15, highly anticipated as the first attempt to catch both the Booster and the Ship.…"
-    },
-    {
-     "k": "e3oGHhO3xpw",
-     "t": "Maximum Power Incoming - The Flame Trench",
-     "u": "https://www.youtube.com/watch?v=e3oGHhO3xpw",
-     "d": "2026-11-07",
-     "s": "Join us for episode 118 of \"The Flame Trench\" live from the Kennedy Space Center ahead of NASA's \"MAX POWER\" expo and airshow. 🔗 NSF Store:…"
-    },
-    {
-     "k": "8Dsld-4HrXY",
-     "t": "The Catch That Will Unlock SpaceX's Future | Starship Update",
-     "u": "https://www.youtube.com/watch?v=8Dsld-4HrXY",
-     "d": "2026-11-05",
-     "s": "SpaceX is preparing for what could be the most important Starship flight yet! Flight 15 is approaching, and SpaceX is planning to attempt…"
     }
    ],
-   "checkedAt": "2026-11-13"
+   "checkedAt": "2026-11-15"
   },
   "curiousdroid": {
    "items": [
@@ -7358,7 +7358,7 @@
   },
   "baruch": {
    "items": [],
-   "checkedAt": "2026-11-12"
+   "checkedAt": "2026-11-15"
   },
   "usagi": {
    "items": [
@@ -9168,6 +9168,13 @@
   "blancolirio": {
    "items": [
     {
+     "k": "iXGZqaF9i68",
+     "t": "FAA Ground Stop! Friday the 13th Edition",
+     "u": "https://www.youtube.com/watch?v=iXGZqaF9i68",
+     "d": "2026-11-13",
+     "s": "LINKS: Flying Eyes 10% OFF: Code BLANCOLIRIO MERCH: PATREON: GEFA Aviation Scholarship: GROUND SCHOOL: Learn The Finer Points! THEME:…"
+    },
+    {
      "k": "mOn3BpnyBfM",
      "t": "Oroville Before the Rains 10 Nov 2026",
      "u": "https://www.youtube.com/watch?v=mOn3BpnyBfM",
@@ -9264,16 +9271,9 @@
      "u": "https://www.youtube.com/watch?v=yMTxIuM1hw0",
      "d": "2026-09-30",
      "s": "LINKS: NTSB Prelim: Flying Eyes 10% OFF: Code BLANCOLIRIO MERCH: PATREON: GEFA Aviation Scholarship: GROUND SCHOOL: Learn The Finer Points!…"
-    },
-    {
-     "k": "4tULPHU_70c",
-     "t": "Vietnam Airlines Munich Runway Overrun REPORT",
-     "u": "https://www.youtube.com/watch?v=4tULPHU_70c",
-     "d": "2026-09-28",
-     "s": "LINKS: BFU: Flying Eyes 10% OFF: Code BLANCOLIRIO MERCH: PATREON: GEFA Aviation Scholarship: GROUND SCHOOL: Learn The Finer Points! THEME:…"
     }
    ],
-   "checkedAt": "2026-11-13"
+   "checkedAt": "2026-11-15"
   },
   "animagraffs": {
    "items": [
@@ -11223,7 +11223,7 @@
      "s": "UK site : £10 discount with code Myfordboy EU site: 10 Euro off with code Myfordboy This is a great conversion kit at a very reasonable…"
     }
    ],
-   "checkedAt": "2026-11-13"
+   "checkedAt": "2026-11-15"
   },
   "minja": {
    "items": [],
@@ -12996,7 +12996,7 @@
      "s": ""
     }
    ],
-   "checkedAt": "2026-11-14"
+   "checkedAt": "2026-11-15"
   },
   "lensrentals": {
    "items": [
@@ -13022,7 +13022,7 @@
      "s": "For Denver-based commercial director Jill Coats, a great advertisement should never actually feel like one. Over the past decade, she has…"
     }
    ],
-   "checkedAt": "2026-11-14"
+   "checkedAt": "2026-11-15"
   },
   "zeptobars": {
    "items": [
@@ -13053,112 +13053,112 @@
   "fritz": {
    "items": [
     {
-     "k": "tag:flickr.com,2005:/photo/55651594901",
-     "t": "Bullen-November 09, 2012-IMG_3240.JPG",
-     "u": "https://live.staticflickr.com/65535/55651594901_a24d5784bd_b.jpg",
-     "d": "2026-11-14",
+     "k": "tag:flickr.com,2005:/photo/55652200832",
+     "t": "Close ups",
+     "u": "https://live.staticflickr.com/65535/55652200832_97cd9ae4b4_b.jpg",
+     "d": "2026-11-15",
      "s": ""
     },
     {
-     "k": "tag:flickr.com,2005:/photo/55651596481",
-     "t": "_B120456.jpg",
-     "u": "https://live.staticflickr.com/65535/55651596481_5eb76b6213_b.jpg",
-     "d": "2026-11-14",
+     "k": "tag:flickr.com,2005:/photo/55652201072",
+     "t": "Woodland light",
+     "u": "https://live.staticflickr.com/65535/55652201072_1b4da87764_b.jpg",
+     "d": "2026-11-15",
      "s": ""
     },
     {
-     "k": "tag:flickr.com,2005:/photo/55651596501",
-     "t": "",
-     "u": "https://live.staticflickr.com/65535/55651596501_fa4fba7cce_b.jpg",
-     "d": "2026-11-14",
+     "k": "tag:flickr.com,2005:/photo/55652202652",
+     "t": "Dandansoy Weny Zarah Doromal",
+     "u": "https://live.staticflickr.com/65535/55652202652_f6c2383b08_b.jpg",
+     "d": "2026-11-15",
      "s": ""
     },
     {
-     "k": "tag:flickr.com,2005:/photo/55651596596",
-     "t": "IMG_2091",
-     "u": "https://live.staticflickr.com/65535/55651596596_5a442003b1_b.jpg",
-     "d": "2026-11-14",
+     "k": "tag:flickr.com,2005:/photo/55652202657",
+     "t": "Marine collectables still-life (2026)",
+     "u": "https://live.staticflickr.com/65535/55652202657_6801aa1acf_b.jpg",
+     "d": "2026-11-15",
      "s": ""
     },
     {
-     "k": "tag:flickr.com,2005:/photo/55651726058",
-     "t": "IMG_20261114_091046",
-     "u": "https://live.staticflickr.com/65535/55651726058_103cc563a3_b.jpg",
-     "d": "2026-11-14",
+     "k": "tag:flickr.com,2005:/photo/55653190611",
+     "t": "great glaze",
+     "u": "https://live.staticflickr.com/65535/55653190611_ea26711610_b.jpg",
+     "d": "2026-11-15",
      "s": ""
     },
     {
-     "k": "tag:flickr.com,2005:/photo/55651726453",
-     "t": "Qatar Airways | A7-BAE | Boeing 777-3DZ(ER) | Melbourne International Airport (MEL/YMML)",
-     "u": "https://live.staticflickr.com/65535/55651726453_0767373ae0_b.jpg",
-     "d": "2026-11-14",
+     "k": "tag:flickr.com,2005:/photo/55653191376",
+     "t": "IMG-20261111-WA0005",
+     "u": "https://live.staticflickr.com/65535/55653191376_8e9cf597f5_b.jpg",
+     "d": "2026-11-15",
      "s": ""
     },
     {
-     "k": "tag:flickr.com,2005:/photo/55651727413",
-     "t": "Somewhere In Between | Arizona | WPK | Klifsteen Crafts Photography",
-     "u": "https://live.staticflickr.com/65535/55651727413_e93fa07b08_b.jpg",
-     "d": "2026-11-14",
+     "k": "tag:flickr.com,2005:/photo/55653191626",
+     "t": "Medal_is0P4LUgxC",
+     "u": "https://live.staticflickr.com/65535/55653191626_7b720421e3_b.jpg",
+     "d": "2026-11-15",
      "s": ""
     },
     {
-     "k": "tag:flickr.com,2005:/photo/55651727798",
-     "t": "Sept 2026",
-     "u": "https://live.staticflickr.com/65535/55651727798_432e851fa7_b.jpg",
-     "d": "2026-11-14",
+     "k": "tag:flickr.com,2005:/photo/55653193161",
+     "t": "CB18001",
+     "u": "https://live.staticflickr.com/65535/55653193161_e6c96c3a26_b.jpg",
+     "d": "2026-11-15",
      "s": ""
     },
     {
-     "k": "tag:flickr.com,2005:/photo/55651728638",
-     "t": "",
-     "u": "https://live.staticflickr.com/65535/55651728638_564b6586ae_b.jpg",
-     "d": "2026-11-14",
+     "k": "tag:flickr.com,2005:/photo/55653194126",
+     "t": "Medal_VC1cgy5kdC",
+     "u": "https://live.staticflickr.com/65535/55653194126_bca2a7d24a_z.jpg",
+     "d": "2026-11-15",
      "s": ""
     },
     {
-     "k": "tag:flickr.com,2005:/photo/55651795024",
-     "t": "",
-     "u": "https://live.staticflickr.com/65535/55651795024_7856c3e71b_b.jpg",
-     "d": "2026-11-14",
+     "k": "tag:flickr.com,2005:/photo/55653322433",
+     "t": "Not to worry",
+     "u": "https://live.staticflickr.com/65535/55653322433_03a19164d3_z.jpg",
+     "d": "2026-11-15",
      "s": ""
     },
     {
-     "k": "tag:flickr.com,2005:/photo/55651795154",
-     "t": "Misty Alaskan Morning",
-     "u": "https://live.staticflickr.com/65535/55651795154_81c4467c9e_b.jpg",
-     "d": "2026-11-14",
+     "k": "tag:flickr.com,2005:/photo/55653391819",
+     "t": "🌃",
+     "u": "https://live.staticflickr.com/65535/55653391819_360cac54bb_b.jpg",
+     "d": "2026-11-15",
      "s": ""
     },
     {
-     "k": "tag:flickr.com,2005:/photo/55651797494",
-     "t": "CN U713 flys by plug hat rd near Liverpool ON with the UP duo that was U714",
-     "u": "https://live.staticflickr.com/65535/55651797494_59cc0bcc5d_b.jpg",
-     "d": "2026-11-14",
+     "k": "tag:flickr.com,2005:/photo/55653392319",
+     "t": "_WDF8078.jpg",
+     "u": "https://live.staticflickr.com/65535/55653392319_24ecda71fc_b.jpg",
+     "d": "2026-11-15",
      "s": ""
     },
     {
-     "k": "tag:flickr.com,2005:/photo/55651797549",
-     "t": "Bloc 1 - Thème 8 - NB Contrasté",
-     "u": "https://live.staticflickr.com/65535/55651797549_7a8807a812_b.jpg",
-     "d": "2026-11-14",
+     "k": "tag:flickr.com,2005:/photo/55653392509",
+     "t": "Grampa photos fam",
+     "u": "https://live.staticflickr.com/65535/55653392509_3657a3081c_b.jpg",
+     "d": "2026-11-15",
      "s": ""
     },
     {
-     "k": "tag:flickr.com,2005:/photo/55651797649",
-     "t": "",
-     "u": "https://live.staticflickr.com/65535/55651797649_ea8c1ee96d_b.jpg",
-     "d": "2026-11-14",
+     "k": "tag:flickr.com,2005:/photo/55653392529",
+     "t": "202611141919",
+     "u": "https://live.staticflickr.com/65535/55653392529_b77c77fbec_b.jpg",
+     "d": "2026-11-15",
      "s": ""
     },
     {
-     "k": "tag:flickr.com,2005:/photo/55651797939",
-     "t": "Evangelismo Contagem Regressiva - Itu",
-     "u": "https://live.staticflickr.com/65535/55651797939_a7af4fe09e_b.jpg",
-     "d": "2026-11-14",
+     "k": "tag:flickr.com,2005:/photo/55653394094",
+     "t": "Fall Scenery in the NRV",
+     "u": "https://live.staticflickr.com/65535/55653394094_46e791f427_b.jpg",
+     "d": "2026-11-15",
      "s": ""
     }
    ],
-   "checkedAt": "2026-11-14"
+   "checkedAt": "2026-11-15"
   },
   "chipscheese": {
    "items": [
@@ -13268,7 +13268,7 @@
      "s": "Hello you fine Internet folks,"
     }
    ],
-   "checkedAt": "2026-11-14"
+   "checkedAt": "2026-11-15"
   },
   "techinsights_web": {
    "items": [
@@ -13315,7 +13315,7 @@
      "s": "HiSilicon CS5250: Huawei's First Self-Developed CMOS Image Sensor JWinters Thu, 11/05/2026 - 00:40"
     }
    ],
-   "checkedAt": "2026-11-14"
+   "checkedAt": "2026-11-15"
   },
   "caresoft": {
    "items": [
@@ -13352,7 +13352,7 @@
   },
   "carnewschina": {
    "items": [],
-   "checkedAt": "2026-11-14"
+   "checkedAt": "2026-11-15"
   },
   "simplexity": {
    "items": [
@@ -13399,15 +13399,15 @@
      "s": "One of the most exciting parts of Hardware FYI’s Kinetic conference was the set of presentations from companies building AI tools for…"
     }
    ],
-   "checkedAt": "2026-11-14"
+   "checkedAt": "2026-11-15"
   },
   "ccc": {
    "items": [],
-   "checkedAt": "2026-11-14"
+   "checkedAt": "2026-11-15"
   },
   "ifixit_med": {
    "items": [],
-   "checkedAt": "2026-11-14"
+   "checkedAt": "2026-11-15"
   },
   "nomagicpill": {
    "items": [
@@ -13517,7 +13517,7 @@
      "s": "A map of everywhere I've been"
     }
    ],
-   "checkedAt": "2026-11-14"
+   "checkedAt": "2026-11-15"
   },
   "semiwiki": {
    "items": [
@@ -13537,7 +13537,7 @@
     },
     {
      "k": "https://semiwiki.com/?p=376086",
-     "t": "CTO Interview With Juan Rey, senior VP and general manager of Calibre and CTO of Siemens EDA",
+     "t": "CTO Interview with Juan Rey, senior VP and general manager of Calibre and CTO of Siemens EDA",
      "u": "https://semiwiki.com/eda/siemens-eda/376086-cto-interview-with-uan-rey-senior-vp-and-general-manager-of-calibre-and-cto-of-siemens-eda/",
      "d": "2026-11-12",
      "s": "By Juan Rey, Chief Technology Officer, Siemens Juan Rey is Head of Technology and Innovation for Electronic Design Automation (EDA) at…"
@@ -13557,7 +13557,7 @@
      "s": "The next generation of electronic systems starts with conversations between people solving difficult design challenges. For companies…"
     }
    ],
-   "checkedAt": "2026-11-14"
+   "checkedAt": "2026-11-15"
   },
   "ksn_web": {
    "items": [
@@ -13611,7 +13611,7 @@
      "s": "Upcoming Blade Show Atlanta I will be at Blade Show in just a few days (June 5-7). I will be teaching two classes: “Factors that Affect…"
     }
    ],
-   "checkedAt": "2026-11-14"
+   "checkedAt": "2026-11-15"
   },
   "heddels": {
    "items": [
@@ -13686,7 +13686,7 @@
      "s": "A good winter stew and a good jacket have a lot in common. Both can keep you warm, both come... The post Indi + Ash Renders Barn Coat in…"
     }
    ],
-   "checkedAt": "2026-11-14"
+   "checkedAt": "2026-11-15"
   },
   "fashionrev": {
    "items": [
@@ -13705,7 +13705,7 @@
      "s": "In Conversation with: Dr. Julia English. Beyond functionality: How repair forces us to slow down and cherish our clothing. By: Fashion…"
     }
    ],
-   "checkedAt": "2026-11-14"
+   "checkedAt": "2026-11-15"
   },
   "apriori": {
    "items": [
@@ -13827,7 +13827,7 @@
      "s": "Ask two analysts to calculate the carbon footprint of the same steel coil. Despite the same product, same ISO 14067 norm , same auditor…"
     }
    ],
-   "checkedAt": "2026-11-14"
+   "checkedAt": "2026-11-15"
   },
   "galorath": {
    "items": [
@@ -13860,7 +13860,7 @@
      "s": "The global digital twin market will reach $34 billion this year. Over 70% of manufacturers in aerospace, automotive, and energy are…"
     }
    ],
-   "checkedAt": "2026-11-14"
+   "checkedAt": "2026-11-15"
   },
   "icknowledge": {
    "items": [
@@ -13907,11 +13907,11 @@
      "s": "HiSilicon CS5250: Huawei's First Self-Developed CMOS Image Sensor JWinters Thu, 11/05/2026 - 00:40"
     }
    ],
-   "checkedAt": "2026-11-14"
+   "checkedAt": "2026-11-15"
   },
   "semianalysis": {
    "items": [],
-   "checkedAt": "2026-11-14"
+   "checkedAt": "2026-11-15"
   },
   "bnef": {
    "items": [
@@ -13986,7 +13986,7 @@
      "s": "Demand for clean power is rising rapidly across the region, according to BloombergNEF’s report on Clean Power Procurement in Southeast Asia."
     }
    ],
-   "checkedAt": "2026-11-14"
+   "checkedAt": "2026-11-15"
   },
   "iceaa": {
    "items": [
@@ -14061,10 +14061,38 @@
      "s": "Cost Estimating NewsBrief: September 4, 2026 Department of War Launches OpenAI’s ChatGPT Mil on GenAI.mil (U.S. Department of"
     }
    ],
-   "checkedAt": "2026-11-14"
+   "checkedAt": "2026-11-15"
   },
   "humanoidguide": {
    "items": [
+    {
+     "k": "https://humanoid.guide/welcome-awe-3-0/",
+     "t": "Welcome, AWE 3.0!",
+     "u": "https://humanoid.guide/welcome-awe-3-0/",
+     "d": "2026-11-14",
+     "s": "AWE 3.0 is a proprietary embodied AI foundation model developed by TARS Robotics, a Shanghai manufacturer focused on robots for industrial…"
+    },
+    {
+     "k": "https://humanoid.guide/apple-halo-reaches-reported-91-success-on-unitree-g1-tests/",
+     "t": "Apple HALO reaches reported 91% success on Unitree G1 tests",
+     "u": "https://humanoid.guide/apple-halo-reaches-reported-91-success-on-unitree-g1-tests/",
+     "d": "2026-11-14",
+     "s": "Apple researchers reportedly tested HALO across six unfamiliar rooms on a Unitree G1, with success falling to 70% when the humanoid had to…"
+    },
+    {
+     "k": "https://humanoid.guide/asus-gallop-humanoid-learns-to-pack-motherboard-accessories/",
+     "t": "ASUS Gallop humanoid learns to pack motherboard accessories",
+     "u": "https://humanoid.guide/asus-gallop-humanoid-learns-to-pack-motherboard-accessories/",
+     "d": "2026-11-14",
+     "s": "ASUS is testing Gallop on 15 motherboard accessories at a factory workstation, with customer pilots planned for 2027 and commercial…"
+    },
+    {
+     "k": "https://humanoid.guide/welcome-airoa-0/",
+     "t": "Welcome, AIRoA-0!",
+     "u": "https://humanoid.guide/welcome-airoa-0/",
+     "d": "2026-11-14",
+     "s": "This robot foundation model comes from AIRoA, Japan’s AI Robot Association, a Tokyo based organization backed by the Ministry of Economy,…"
+    },
     {
      "k": "https://humanoid.guide/welcome-gr00t-2/",
      "t": "Welcome, GR00T 2!",
@@ -14106,37 +14134,9 @@
      "u": "https://humanoid.guide/welcome-pelican-unify-1-0/",
      "d": "2026-11-12",
      "s": "Pelican Unify 1.0 is an embodied AI foundation model from the Beijing Humanoid Robot Innovation Center, also known as X Humanoid. Released…"
-    },
-    {
-     "k": "https://humanoid.guide/agility-robotics-completes-merger-ahead-of-nasdaq-listing/",
-     "t": "Agility Robotics completes merger ahead of Nasdaq listing",
-     "u": "https://humanoid.guide/agility-robotics-completes-merger-ahead-of-nasdaq-listing/",
-     "d": "2026-11-12",
-     "s": "Agility Robotics has closed its Churchill XI merger, with an expected $465 million capital package to support Digit production and…"
-    },
-    {
-     "k": "https://humanoid.guide/welcome-atlas-on-wheels/",
-     "t": "Welcome, Atlas on Wheels!",
-     "u": "https://humanoid.guide/welcome-atlas-on-wheels/",
-     "d": "2026-11-11",
-     "s": "Atlas on Wheels is a wheeled humanoid research prototype from Boston Dynamics, designed to explore electric actuator performance through an…"
-    },
-    {
-     "k": "https://humanoid.guide/prism-humanoid-control-module-improves-simulated-walking/",
-     "t": "PRISM humanoid control module improves simulated walking",
-     "u": "https://humanoid.guide/prism-humanoid-control-module-improves-simulated-walking/",
-     "d": "2026-11-11",
-     "s": "University of Michigan researchers report that PRISM improved simulated humanoid walking, outperforming a conventional network with a…"
-    },
-    {
-     "k": "https://humanoid.guide/kristensen-highlights-nvidia-gr00t-2-humanoid-test-results/",
-     "t": "Kristensen highlights NVIDIA GR00T 2 humanoid test results",
-     "u": "https://humanoid.guide/kristensen-highlights-nvidia-gr00t-2-humanoid-test-results/",
-     "d": "2026-11-10",
-     "s": "Jens Peder Kristensen cites NVIDIA results for GR00T 2, including popcorn serving on a Unitree G1 and manipulation learning after five…"
     }
    ],
-   "checkedAt": "2026-11-14"
+   "checkedAt": "2026-11-15"
   },
   "therobotreport": {
    "items": [
@@ -14246,7 +14246,7 @@
      "s": "Boston Dynamics combines classical motor control with whole-body reinforcement learning to power dynamic, wheeled locomotion for Atlas. The…"
     }
    ],
-   "checkedAt": "2026-11-14"
+   "checkedAt": "2026-11-15"
   },
   "ieeespectrum": {
    "items": [
@@ -14356,10 +14356,73 @@
      "s": "This article is brought to you by Qualcomm Technologies . For many consumers, much of the promise and appeal of AI is personal. Consumers…"
     }
    ],
-   "checkedAt": "2026-11-14"
+   "checkedAt": "2026-11-15"
   },
   "hellot": {
    "items": [
+    {
+     "k": "https://www.hellot.net/news/article.html?no=116310",
+     "t": "‘EU 탄소국경세’ 韓 수출기업 숨통 트였다… 한국표준협회, ‘국내 1호’ 공인 검증기관 획득",
+     "u": "https://www.hellot.net/news/article.html?no=116310",
+     "d": "2026-11-14",
+     "s": "이탈리아 국가인정기구(Accredia)서 국내 최초 인정… 해외 기관 의존 완전 탈피 해외 심사원 체류비 등 검증 비용 대폭 절감… 핵심 공정 데이터·영업비밀 유출 차단 유럽연합(EU)의 강력한 신(新)무역장벽인 탄소국경조정제도(CBAM) 본격…"
+    },
+    {
+     "k": "https://www.hellot.net/news/article.html?no=116309",
+     "t": "[알쓸정책] 잠자는 카드포인트 2.1조 원, ‘지역화폐’로 바뀐다… 내년 5월부터 골목상권 사용 가능",
+     "u": "https://www.hellot.net/news/article.html?no=116309",
+     "d": "2026-11-14",
+     "s": "‘어카운트인포’·지역화폐 앱서 원스톱 신청… 다음 날 전통시장·소상공인 가맹점서 즉시 결제 KTX 마일리지·탄소중립포인트·항공 마일리지 등 공공·민간 포인트로 단계적 확대 추진 신용카드에 잠자고 있던 2조 1,000억 원 규모의 미사용 포인트가…"
+    },
+    {
+     "k": "https://www.hellot.net/news/article.html?no=116308",
+     "t": "폭스콘-엔비디아, ‘스스로 진화하는 AI 공장’ 가동",
+     "u": "https://www.hellot.net/news/article.html?no=116308",
+     "d": "2026-11-14",
+     "s": "자체 산업용 LLM ‘폭스브레인’ 구축… 엔비디아 DGX 슈퍼팟 기반 12일 만에 ‘1조 토큰’ 처리 SMT 표면실장 공정 결함 90% 자동 교정·사출 공정 전환 공수 50% 단축 등 실전 수치 입증 ‘옴니버스 디지털 트윈’으로 전 세계 공장 복제…"
+    },
+    {
+     "k": "https://www.hellot.net/news/article.html?no=116307",
+     "t": "자이스, 트래커·마커 없앤 초정밀 계측 로봇 ‘탈로스’ 공개… 3.3m 반경서 ‘100µm 미만’ 오차 달성",
+     "u": "https://www.hellot.net/news/article.html?no=116307",
+     "d": "2026-11-14",
+     "s": "계측용 로봇·청색광 센서·회전 테이블 일체화… 기가캐스팅·차체·항공 기체 대형 부품 정조준 2,400만 화소 듀얼 카메라·200Hz 고속 스캔… 표면 형상과 홀·에지 미세 피처 '단일 센서'로 동시 측정 ‘자이스 인스펙트’ CAD 연동 자동 경로…"
+    },
+    {
+     "k": "https://www.hellot.net/news/article.html?no=116306",
+     "t": "헥사곤, NDT 선두 ‘웨이게이트’ 인수 최종 완료… ‘겉과 속’ 다 보는 토털 검사 제국 완성",
+     "u": "https://www.hellot.net/news/article.html?no=116306",
+     "d": "2026-11-14",
+     "s": "베이커휴즈로부터 인수 클로징… 매뉴팩처링 인텔리전스(MI) 사업부로 전격 편입 3D 형상측정·CMM 강점에 산업용 CT·초음파·방사선 비파괴검사(NDT) 기술 완전 결합 파편화됐던 내·외부 품질 데이터 통합… 항공우주·EV 배터리·반도체 초정밀 품질…"
+    },
+    {
+     "k": "https://www.hellot.net/news/article.html?no=116305",
+     "t": "LMI, 獨 비트로닉 ‘용접 비드 검사(WSI)’ 사업부 전격 인수 완료… ‘턴키 3D 검사’ 영토 확장",
+     "u": "https://www.hellot.net/news/article.html?no=116305",
+     "d": "2026-11-14",
+     "s": "네덜란드 TKH 그룹 산하 LMI, 완성차·중공업 안전 핵심 공정 라인업 흡수 생산 속도로 구동되는 ‘비로(VIRO) WSI’ 및 공정 데이터 연동 SW ‘웰드루프(Weldloop)’ 확보 고카터(Gocator) 3D 센서에 엣지 AI 융합… EV…"
+    },
+    {
+     "k": "https://www.hellot.net/news/article.html?no=116304",
+     "t": "소니, ‘1mm 초소형’ 일회용 내시경 센서 ‘IMX742’ 공개… 업계 최초 5m 디지털 전송 구현",
+     "u": "https://www.hellot.net/news/article.html?no=116304",
+     "d": "2026-11-14",
+     "s": "1mm 정사각형 칩에 51만 화소·60fps 초고속 구동 집적… 기관지·요관 미세 내시경 타깃 A/D 변환기 내장형 디지털 출력 설계… 업계 최초 5m 극세 케이블 무손실 전송 달성 독자 양방향 통신으로 6핀 패키지 최소화… 재사용 세척 부담 던…"
+    },
+    {
+     "k": "https://www.hellot.net/news/article.html?no=116303",
+     "t": "[헬로즈업] “로봇 1대 멈추면 공장 전체가 슨다”… 로봇 500만 대 시대, ‘예지보전’이 생산성 가른다",
+     "u": "https://www.hellot.net/news/article.html?no=116303",
+     "d": "2026-11-14",
+     "s": "전 세계 로봇 500만 대 돌파… 단일 설비 고장이 셀·라인 마비시키는 연쇄 셧다운 위험 증대 ‘달력식 주기 점검’ 탈피… 진동·모터 전류·토크 데이터 기반 ‘상태 기반 예지 정비’ 필수 부품 사전 수급·계획 정비로 비계획 다운타임 최소화… 설비…"
+    },
+    {
+     "k": "https://www.hellot.net/news/article.html?no=116302",
+     "t": "[헬로즈업] 애지봇 휴머노이드 ‘G2’ 6대, 상하이 편의점 24시간 무인 가동… 1,730건 실전 임무 완수",
+     "u": "https://www.hellot.net/news/article.html?no=116302",
+     "d": "2026-11-14",
+     "s": "손님 응대·커피 추출·진열대 보충·테이블 청소 등 24시간 라이브 생중계 속 전격 가동 6대 중 4대 최종 평가 통과… ‘지니 마스터’ 프레임워크로 다중 로봇 실시간 협업 및 자가 학습 검증 정밀 조작·장애물 회피 등 ‘체화된 AI(Embodied…"
+    },
     {
      "k": "https://www.hellot.net/news/article.html?no=116298",
      "t": "[봇규의 헬로BOT] “로드맵 중단 없다”는 엔비디아의 확약, 젠슨 황 퇴장에 로봇 생태계 어디로?",
@@ -14401,72 +14464,9 @@
      "u": "https://www.hellot.net/news/article.html?no=116294",
      "d": "2026-11-13",
      "s": "슈나이더일렉트릭코리아의 인공지능(AI) 기반 예지보전 솔루션을 소개하는 온라인 세미나가 오는 12월 2일 열린다. 별도의 추가 센서 없이 모터 구동 드라이브의 운전 데이터를 분석해 설비 이상을 조기에 감지하고, 유지보수 시점을 예측하는 기술과 활용…"
-    },
-    {
-     "k": "https://www.hellot.net/news/article.html?no=116293",
-     "t": "서울 AI 허브·인텔코리아, AI 스타트업 육성·해외 진출 협력",
-     "u": "https://www.hellot.net/news/article.html?no=116293",
-     "d": "2026-11-13",
-     "s": "서울 AI 허브가 인텔코리아와 협력해 국내 인공지능(AI) 스타트업의 기술 경쟁력 강화와 해외 진출 지원에 나선다. 인텔의 기술 자원과 글로벌 네트워크를 활용한 스타트업 육성 프로그램을 국내에 도입하고, 기술검증과 인재양성 분야까지 협력을 확대할…"
-    },
-    {
-     "k": "https://www.hellot.net/news/article.html?no=116292",
-     "t": "한컴위드, 3분기 영업익 94억원…한컴 편입에 6배 가까이 증가",
-     "u": "https://www.hellot.net/news/article.html?no=116292",
-     "d": "2026-11-13",
-     "s": "한컴위드가 한컴을 연결 종속회사로 편입하면서 올해 3분기 영업이익이 전년 동기 대비 6배 가까이 증가했다. 한컴위드는 3분기 연결 기준 매출 1288억원, 영업이익 94억원, 영업이익률 7.3%를 기록했다고 13일 밝혔다. 영업이익은 지난해 같은…"
-    },
-    {
-     "k": "https://www.hellot.net/news/article.html?no=116291",
-     "t": "ETRI, 사람 특성까지 고려하는 로봇 AI 평가기술 '트리니티' 개발",
-     "u": "https://www.hellot.net/news/article.html?no=116291",
-     "d": "2026-11-13",
-     "s": "한국전자통신연구원(ETRI)이 로봇과 인공지능(AI) 에이전트가 주변 환경뿐 아니라 서비스를 받는 사람의 특성까지 고려해 행동하는지를 평가하는 기술을 개발했다. ETRI는 사람과 AI 에이전트, 환경을 종합적으로 고려해 로봇의 작업계획 능력을…"
-    },
-    {
-     "k": "https://www.hellot.net/news/article.html?no=116290",
-     "t": "다임 테크놀로지, 인텔과 손잡고 AI 다크팩토리 사업 확대 추진",
-     "u": "https://www.hellot.net/news/article.html?no=116290",
-     "d": "2026-11-13",
-     "s": "다임 테크놀로지(DAIM Technology)가 인텔코리아와 인공지능(AI) 기반 다크팩토리 기술 협력 및 제조 산업 적용 확대를 위한 업무협약(MOU)을 체결했다고 밝혔다. 양사는 다임 테크놀로지의 공장 자율운영 소프트웨어와 인텔의 고성능 컴퓨팅…"
-    },
-    {
-     "k": "https://www.hellot.net/news/article.html?no=116288",
-     "t": "AI로 일하는 엔지니어 한자리에…'나는 엔지니어다 2026' 19일 코엑스서 개막",
-     "u": "https://www.hellot.net/news/article.html?no=116288",
-     "d": "2026-11-13",
-     "s": "㈜첨단과 e4ds가 오는 11월 19일 서울 코엑스 E홀에서 'AI로 일하는 엔지니어'를 위한 실무형 엔지니어링 도구 페스티벌 '나는 엔지니어다 2026(IamEngineer 2026)'을 개최한다. 무료 사전 등록을 통해 누구나 참가할 수 있다.…"
-    },
-    {
-     "k": "https://www.hellot.net/news/article.html?no=116289",
-     "t": "모두솔루션, ‘SMATEC 2026’ 참가...Gstar3D 등 설계·협업 솔루션 선봬",
-     "u": "https://www.hellot.net/news/article.html?no=116289",
-     "d": "2026-11-13",
-     "s": "모두솔루션이 오는 18일부터 20일까지 수원컨벤션센터에서 열리는 '제8회 국제 스마트제조·AI 기술전(SMATEC 2026)'에 참가해 제조·설계 환경을 위한 다양한 CAD 및 협업 솔루션을 선보인다고 밝혔다. 이번 전시에서는 4개 부스를 운영하며…"
-    },
-    {
-     "k": "https://www.hellot.net/news/article.html?no=116287",
-     "t": "포티넷코리아, ‘OT 사이버보안 서밋' 성료...AI 공격·레거시 설비·규제가 3대 과제 논의",
-     "u": "https://www.hellot.net/news/article.html?no=116287",
-     "d": "2026-11-13",
-     "s": "포티넷코리아가 지난 11일 JW 메리어트 호텔 서울에서 ‘2026 OT 사이버보안 서밋(2026 OT Cybersecurity Summit)’을 열었다고 밝혔다. 이번 행사에는 제조와 에너지·발전, 화학, 반도체 등 OT 환경을 운영하는 기업의…"
-    },
-    {
-     "k": "https://www.hellot.net/news/article.html?no=116286",
-     "t": "어드밴텍, 중장비 자율주행 엣지 AI 플랫폼 ‘REX-52N’ 공개",
-     "u": "https://www.hellot.net/news/article.html?no=116286",
-     "d": "2026-11-13",
-     "s": "어드밴텍이 열악한 산업 환경에서 자율주행과 자율 운용을 지원하는 울트라 러기드 엣지 AI 컴퓨팅 플랫폼 ‘REX-52N’을 출시했다. REX-52N이 겨냥하는 것은 고성능 AI와 산업용 내구성을 동시에 갖춰야 하는 까다로운 현장이다. 광업과 건설,…"
-    },
-    {
-     "k": "https://www.hellot.net/news/article.html?no=116285",
-     "t": "어드밴텍, 로보월드 2026서 엣지 AI로 '보고 움직이는 로봇' 해법 제시",
-     "u": "https://www.hellot.net/news/article.html?no=116285",
-     "d": "2026-11-13",
-     "s": "어드밴텍이 지난 4일부터 7일까지 경기도 고양시 킨텍스에서 열린 '로보월드 2026' 참가를 성황리에 마쳤다. 어드밴텍은 파트너사 ALLAI와 공동 부스를 꾸려 ‘Robotic Perception’과 ‘Factory Robotics’를 두 축으로…"
     }
    ],
-   "checkedAt": "2026-11-14"
+   "checkedAt": "2026-11-15"
   },
   "hackteria": {
    "items": [],
